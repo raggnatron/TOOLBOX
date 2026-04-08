@@ -1,0 +1,35 @@
+name: Update News Tool Data
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '15 */4 * * *'
+
+jobs:
+  build-data:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Repository auschecken
+        uses: actions/checkout@v4
+
+      - name: Node.js einrichten
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Abhängigkeiten installieren
+        run: npm install --prefix news-tool/scripts/news-tool
+
+      - name: News-Daten bauen
+        run: node news-tool/scripts/news-tool/build-news-data.mjs
+
+      - name: Neue Daten committen
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add news-tool/data/latest.json
+          git diff --cached --quiet || git commit -m "chore: update news-tool data"
+          git push
