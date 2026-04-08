@@ -4,32 +4,37 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="theme-color" content="#0f1114" />
-  <title>Getränke News</title>
+  <title>Getränke Nachrichtenlage</title>
   <link rel="stylesheet" href="./assets/css/main.css" />
 </head>
 <body>
   <div class="shell">
     <header class="hero panel">
       <div>
-        <p class="eyebrow">Neuigkeiten im Bereich Getränke</p>
-        <h1>Getränke News</h1>
-        <p class="intro">Signal vor Rauschen. Eine ruhige Tagesansicht für Markt, Handel, Verpackung, Regulierung, alkoholfrei und Spirituosen — in einer neutralen Dark-Gray-Oberfläche mit klarer Priorität.</p>
+        <p class="eyebrow">Getränkemarkt · geordnete Informationsplattform</p>
+        <h1>Getränke Nachrichtenlage</h1>
+        <p class="intro">
+          Relevanz vor Menge. Eine ruhige Tagesansicht für Markt, Handel, Verpackung,
+          Regulierung, alkoholfrei und Spirituosen — mit klarer Informationshierarchie,
+          neutraler Sprache und belastbarerem Fokus auf DACH- und Operativsignale.
+        </p>
       </div>
       <div class="hero-meta">
-        <span class="chip" id="generatedAt">Datenstand lädt</span>
+        <span class="chip" id="generatedAt">Datenstand wird geladen</span>
         <span class="chip" id="itemCount">0 Meldungen</span>
         <span class="chip" id="sourceCount">0 Quellen</span>
+        <span class="chip" id="prioritizedChip">0 priorisiert</span>
       </div>
     </header>
 
     <section class="toolbar panel">
       <div class="toolbar-grid">
-        <input id="searchInput" type="search" placeholder="Suche nach PET, Mehrweg, Whisky, Launch, Handel ..." />
+        <input id="searchInput" type="search" placeholder="Suche nach Mehrweg, PET, Handel, Regulierung, Spirituosen ..." />
         <select id="bucketFilter">
           <option value="all">Alle Klassen</option>
-          <option value="today-important">Heute wichtig</option>
-          <option value="watch">Beobachten</option>
-          <option value="read">Lesen</option>
+          <option value="prioritized">Priorisiert</option>
+          <option value="monitor">Beobachtung</option>
+          <option value="reference">Übersicht</option>
         </select>
         <select id="topicFilter">
           <option value="all">Alle Themen</option>
@@ -41,33 +46,33 @@
       <section class="main-column">
         <section class="panel section-block">
           <div class="section-head">
-            <h2>Heute wichtig</h2>
-            <span class="muted" id="todayImportantCount">0</span>
+            <h2>Priorisiert</h2>
+            <span class="muted" id="prioritizedCount">0</span>
           </div>
-          <div id="todayImportantList" class="stack"></div>
+          <div id="prioritizedList" class="stack"></div>
         </section>
 
         <section class="panel section-block">
           <div class="section-head">
-            <h2>Beobachten</h2>
-            <span class="muted" id="watchCount">0</span>
+            <h2>Beobachtung</h2>
+            <span class="muted" id="monitorCount">0</span>
           </div>
-          <div id="watchList" class="stack compact"></div>
+          <div id="monitorList" class="stack compact"></div>
         </section>
 
         <section class="panel section-block">
           <div class="section-head">
-            <h2>Lesen</h2>
-            <span class="muted" id="readCount">0</span>
+            <h2>Übersicht</h2>
+            <span class="muted" id="referenceCount">0</span>
           </div>
-          <div id="readList" class="stack compact"></div>
+          <div id="referenceList" class="stack compact"></div>
         </section>
       </section>
 
       <aside class="side-column">
         <section class="panel section-block">
-          <div class="section-head"><h2>Radar</h2></div>
-          <div id="radarBox" class="radar"></div>
+          <div class="section-head"><h2>Marktsignale</h2></div>
+          <div id="signalBox" class="radar"></div>
         </section>
 
         <section class="panel section-block">
@@ -77,9 +82,9 @@
 
         <section class="panel section-block">
           <div class="section-head"><h2>Notizen</h2></div>
-          <textarea id="notesInput" placeholder="Kurz notieren, was du weiter prüfen willst ..."></textarea>
+          <textarea id="notesInput" placeholder="Kurz notieren, was intern weiter geprüft werden soll ..."></textarea>
           <button id="saveNotesBtn" class="button-primary">Notizen speichern</button>
-          <p class="muted small">Lokal im Browser. Später ersetzbar durch Export oder kleines Auth-Modul.</p>
+          <p class="muted small">Lokal im Browser gespeichert. Später ersetzbar durch Export oder kleines internes Login.</p>
         </section>
       </aside>
     </main>
