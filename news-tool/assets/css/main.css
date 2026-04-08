@@ -11,7 +11,6 @@
   --soft: #8f9aa8;
   --accent: #d7dde5;
   --accent-soft: rgba(215, 221, 229, 0.08);
-  --success-soft: rgba(141, 213, 173, 0.12);
   --shadow: 0 24px 60px rgba(0, 0, 0, 0.34);
   --radius: 20px;
   --radius-sm: 14px;
@@ -86,10 +85,10 @@ a {
 
 .intro {
   margin: 0;
-  max-width: 68ch;
+  max-width: 70ch;
   color: var(--muted);
   font-size: clamp(0.98rem, 1.15vw, 1.06rem);
-  line-height: 1.7;
+  line-height: 1.72;
 }
 
 .hero-meta {
@@ -254,13 +253,26 @@ button:hover {
   font-weight: 600;
 }
 
-.badge-plain {
+.badge-plain,
+.signal-pill {
   min-height: 30px;
   padding: 6px 10px;
   border-radius: 999px;
   border: 1px solid var(--line);
   color: var(--soft);
   font-size: 0.75rem;
+}
+
+.signal-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin: 0 0 12px;
+}
+
+.signal-pill {
+  background: rgba(255,255,255,0.025);
+  color: var(--muted);
 }
 
 .story-card h3 {
@@ -400,6 +412,7 @@ button:hover {
   .chip,
   .badge,
   .badge-plain,
+  .signal-pill,
   .story-link,
   button,
   input,
