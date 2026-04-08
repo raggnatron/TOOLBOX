@@ -1,0 +1,117 @@
+{
+  "hardExcludeTerms": [
+    "cannabis",
+    "marijuana",
+    "marihuana",
+    "thc",
+    "cbd",
+    "weed",
+    "dispensary"
+  ],
+  "downweightPatterns": {
+    "financeLike": [
+      "investor",
+      "analyst",
+      "shares",
+      "stock",
+      "quarterly results",
+      "earnings",
+      "guidance",
+      "dividend",
+      "ipo",
+      "market cap"
+    ],
+    "decorative": [
+      "award",
+      "awards",
+      "ranking",
+      "campaign",
+      "celebrates",
+      "festival",
+      "event"
+    ],
+    "wineNoise": [
+      "vineyard",
+      "winery",
+      "wine tourism",
+      "wine festival"
+    ]
+  },
+  "signalLexicon": {
+    "dach": [
+      "deutschland",
+      "germany",
+      "österreich",
+      "austria",
+      "schweiz",
+      "switzerland",
+      "dach",
+      "bundesrat",
+      "bundestag"
+    ],
+    "regulation": [
+      "verordnung",
+      "gesetz",
+      "novelle",
+      "pflicht",
+      "meldepflicht",
+      "kennzeichnung",
+      "mehrweg",
+      "pfand",
+      "steuer",
+      "etikettierung"
+    ],
+    "trade": [
+      "handel",
+      "retail",
+      "distribution",
+      "wholesale",
+      "listing",
+      "delisting",
+      "lieferung",
+      "warehouse",
+      "logistik",
+      "sortiment"
+    ],
+    "packaging": [
+      "verpackung",
+      "mehrweg",
+      "einweg",
+      "pet",
+      "rpet",
+      "glas",
+      "dose",
+      "aluminium",
+      "leergut",
+      "recycling"
+    ],
+    "launch": [
+      "launch",
+      "neuheit",
+      "new product",
+      "introduces",
+      "introducing",
+      "debut",
+      "range extension"
+    ]
+  },
+  "scoreWeights": {
+    "dach": [0, 4, 8, 12],
+    "regulation": [0, 6, 12, 18],
+    "operational": [0, 5, 10, 16],
+    "trade": [0, 4, 8, 12],
+    "packaging": [0, 3, 7, 11],
+    "launch": [0, 1, 2, 3],
+    "sourceQuality": [0, 4, 8, 12],
+    "originalSourceBonus": 6,
+    "crossSourceConfirmationBonus": 4,
+    "recencyMaxBonus": 4,
+    "financePenalty": 20,
+    "decorativePenalty": 10,
+    "lowValuePenalty": 12
+  },
+  "bucketThresholds": {
+    "prioritized": 62,
+    "monitor": 36
+  }
+}
