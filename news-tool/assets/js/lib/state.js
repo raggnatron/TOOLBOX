@@ -1,4 +1,4 @@
-const KEY = 'getraenke-news-tool-state';
+const KEY = 'getraenke-nachrichtenlage-state';
 
 export function loadState() {
   try {
