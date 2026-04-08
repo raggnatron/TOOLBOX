@@ -1,0 +1,25 @@
+{
+  "high": [
+    "official authority",
+    "eu regulation source",
+    "trade media",
+    "packaging specialist media",
+    "direct operational company release"
+  ],
+  "medium": [
+    "serious business media with sector relevance",
+    "regional source with direct trade impact",
+    "industry association with concrete information"
+  ],
+  "low": [
+    "generic media",
+    "search feed result",
+    "rewritten short item"
+  ],
+  "downweight": [
+    "finance portal",
+    "seo news farm",
+    "thin aggregator",
+    "promo-only portal"
+  ]
+}
