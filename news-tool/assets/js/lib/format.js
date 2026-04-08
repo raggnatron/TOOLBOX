@@ -21,3 +21,10 @@ export function truncate(text = '', max = 220) {
   const clean = String(text).replace(/\s+/g, ' ').trim();
   return clean.length > max ? `${clean.slice(0, max - 1)}…` : clean;
 }
+
+export function formatStrengthLabel(value = 0) {
+  if (value >= 3) return 'hoch';
+  if (value >= 2) return 'klar';
+  if (value >= 1) return 'leicht';
+  return 'kein Signal';
+}
