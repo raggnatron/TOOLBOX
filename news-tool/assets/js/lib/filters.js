@@ -1,19 +1,49 @@
+const BUCKET_ALIASES = {
+  'today-important': 'prioritized',
+  watch: 'monitor',
+  read: 'reference',
+  prioritized: 'prioritized',
+  monitor: 'monitor',
+  reference: 'reference'
+};
+
 export function applyFilters(items, filters) {
   return items.filter((item) => {
-    if (filters.bucket !== 'all' && item.bucket !== filters.bucket) return false;
+    const bucket = normalizeBucket(item.bucket);
+
+    if (filters.bucket !== 'all' && bucket !== filters.bucket) return false;
     if (filters.topic !== 'all' && item.topic !== filters.topic) return false;
+
     if (filters.query) {
-      const haystack = `${item.title} ${item.summary} ${item.feedName} ${item.topic}`.toLowerCase();
+      const haystack = [
+        item.title,
+        item.summary,
+        item.feedName,
+        item.topic,
+        item.topicLabel,
+        ...(item.searchTerms || []),
+        ...(item.signalTags || [])
+      ]
+        .join(' ')
+        .toLowerCase();
+
       if (!haystack.includes(filters.query)) return false;
     }
+
     return true;
   });
 }
 
 export function groupByBucket(items) {
+  const normalized = items.map((item) => ({ ...item, bucket: normalizeBucket(item.bucket) }));
+
   return {
-    todayImportant: items.filter((item) => item.bucket === 'today-important'),
-    watch: items.filter((item) => item.bucket === 'watch'),
-    read: items.filter((item) => item.bucket === 'read')
+    prioritized: normalized.filter((item) => item.bucket === 'prioritized'),
+    monitor: normalized.filter((item) => item.bucket === 'monitor'),
+    reference: normalized.filter((item) => item.bucket === 'reference')
   };
+}
+
+export function normalizeBucket(bucket) {
+  return BUCKET_ALIASES[bucket] || 'reference';
 }
