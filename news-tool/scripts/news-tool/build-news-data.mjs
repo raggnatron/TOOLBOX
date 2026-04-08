@@ -54,9 +54,9 @@ async function main() {
     items: scored.slice(0, 80)
   };
 
-  await fs.mkdir(new URL('../../news-tool/data/', import.meta.url), { recursive: true });
+  await fs.mkdir(new URL('../../data/', import.meta.url), { recursive: true });
   await fs.writeFile(
-    new URL('../../news-tool/data/latest.json', import.meta.url),
+    new URL('../../data/latest.json', import.meta.url),
     JSON.stringify(payload, null, 2),
     'utf8'
   );
