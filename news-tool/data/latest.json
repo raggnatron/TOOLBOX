@@ -1,0 +1,111 @@
+{
+  "generatedAt": "2026-04-08T18:00:00.000Z",
+  "totals": {
+    "items": 3,
+    "sources": 8,
+    "failures": 0,
+    "todayImportant": 1,
+    "watch": 1,
+    "read": 1
+  },
+  "failures": [],
+  "sections": {
+    "todayImportant": [],
+    "watch": [],
+    "read": []
+  },
+  "radar": {
+    "dominantTopic": {
+      "id": "regulation",
+      "count": 1
+    },
+    "dachSignals": 2,
+    "regulationSignals": 1,
+    "operatorSignals": 2
+  },
+  "sourceStats": [
+    {
+      "feedName": "Regulierung",
+      "count": 1,
+      "avgScore": 68
+    },
+    {
+      "feedName": "Verpackung",
+      "count": 1,
+      "avgScore": 49
+    },
+    {
+      "feedName": "Launches / Neuheiten",
+      "count": 1,
+      "avgScore": 28
+    }
+  ],
+  "items": [
+    {
+      "id": "demo001",
+      "title": "Beispiel: DACH-Pfanddiskussion erhöht operativen Druck im Handel",
+      "summary": "Demodaten für die Starterversion. Hier siehst du, wie eine regulatorisch und operativ wichtige Meldung priorisiert wird.",
+      "url": "https://example.com/regulation-story",
+      "domain": "example.com",
+      "publishedAt": "2026-04-08T10:30:00.000Z",
+      "topic": "regulation",
+      "feedId": "bev-reg",
+      "feedName": "Regulierung",
+      "feedKind": "search",
+      "basePriority": 1.2,
+      "dachSignal": true,
+      "operatorSignal": true,
+      "regulationSignal": true,
+      "launchSignal": false,
+      "financeLike": false,
+      "ageHours": 7,
+      "score": 68,
+      "bucket": "today-important",
+      "readingClass": "heute wichtig"
+    },
+    {
+      "id": "demo002",
+      "title": "Beispiel: Mehrweg- und Verpackungssignale im Getränkemarkt beobachten",
+      "summary": "Demodaten für eine beobachtenswerte Verpackungsmeldung mit DACH- und Handelsbezug.",
+      "url": "https://example.com/packaging-story",
+      "domain": "example.com",
+      "publishedAt": "2026-04-07T12:00:00.000Z",
+      "topic": "packaging",
+      "feedId": "bev-packaging",
+      "feedName": "Verpackung",
+      "feedKind": "search",
+      "basePriority": 1.1,
+      "dachSignal": true,
+      "operatorSignal": true,
+      "regulationSignal": false,
+      "launchSignal": false,
+      "financeLike": false,
+      "ageHours": 28,
+      "score": 49,
+      "bucket": "watch",
+      "readingClass": "beobachten"
+    },
+    {
+      "id": "demo003",
+      "title": "Beispiel: Neue alkoholfreie Produktlinie startet im Handel",
+      "summary": "Demodaten für eine nützliche, aber nicht prioritäre Launch-Meldung.",
+      "url": "https://example.com/launch-story",
+      "domain": "example.com",
+      "publishedAt": "2026-04-06T09:00:00.000Z",
+      "topic": "launches",
+      "feedId": "bev-launches",
+      "feedName": "Launches / Neuheiten",
+      "feedKind": "search",
+      "basePriority": 0.95,
+      "dachSignal": false,
+      "operatorSignal": true,
+      "regulationSignal": false,
+      "launchSignal": true,
+      "financeLike": false,
+      "ageHours": 55,
+      "score": 28,
+      "bucket": "read",
+      "readingClass": "lesen"
+    }
+  ]
+}

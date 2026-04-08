@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="theme-color" content="#0f1114" />
+  <title>Getränke News Tool</title>
+  <link rel="stylesheet" href="./assets/css/main.css" />
+</head>
+<body>
+  <div class="shell">
+    <header class="hero panel">
+      <div>
+        <p class="eyebrow">Getränkemarkt · ruhiges Arbeitswerkzeug</p>
+        <h1>Getränke News Tool</h1>
+        <p class="intro">Signal vor Rauschen. Eine ruhige Tagesansicht für Markt, Handel, Verpackung, Regulierung, alkoholfrei und Spirituosen — in einer neutralen Dark-Gray-Oberfläche mit klarer Priorität.</p>
+      </div>
+      <div class="hero-meta">
+        <span class="chip" id="generatedAt">Datenstand lädt</span>
+        <span class="chip" id="itemCount">0 Meldungen</span>
+        <span class="chip" id="sourceCount">0 Quellen</span>
+      </div>
+    </header>
+
+    <section class="toolbar panel">
+      <div class="toolbar-grid">
+        <input id="searchInput" type="search" placeholder="Suche nach PET, Mehrweg, Whisky, Launch, Handel ..." />
+        <select id="bucketFilter">
+          <option value="all">Alle Klassen</option>
+          <option value="today-important">Heute wichtig</option>
+          <option value="watch">Beobachten</option>
+          <option value="read">Lesen</option>
+        </select>
+        <select id="topicFilter">
+          <option value="all">Alle Themen</option>
+        </select>
+      </div>
+    </section>
+
+    <main class="layout">
+      <section class="main-column">
+        <section class="panel section-block">
+          <div class="section-head">
+            <h2>Heute wichtig</h2>
+            <span class="muted" id="todayImportantCount">0</span>
+          </div>
+          <div id="todayImportantList" class="stack"></div>
+        </section>
+
+        <section class="panel section-block">
+          <div class="section-head">
+            <h2>Beobachten</h2>
+            <span class="muted" id="watchCount">0</span>
+          </div>
+          <div id="watchList" class="stack compact"></div>
+        </section>
+
+        <section class="panel section-block">
+          <div class="section-head">
+            <h2>Lesen</h2>
+            <span class="muted" id="readCount">0</span>
+          </div>
+          <div id="readList" class="stack compact"></div>
+        </section>
+      </section>
+
+      <aside class="side-column">
+        <section class="panel section-block">
+          <div class="section-head"><h2>Radar</h2></div>
+          <div id="radarBox" class="radar"></div>
+        </section>
+
+        <section class="panel section-block">
+          <div class="section-head"><h2>Quellenlage</h2></div>
+          <div id="sourceStatsBox" class="stack compact"></div>
+        </section>
+
+        <section class="panel section-block">
+          <div class="section-head"><h2>Notizen</h2></div>
+          <textarea id="notesInput" placeholder="Kurz notieren, was du weiter prüfen willst ..."></textarea>
+          <button id="saveNotesBtn" class="button-primary">Notizen speichern</button>
+          <p class="muted small">Lokal im Browser. Später ersetzbar durch Export oder kleines Auth-Modul.</p>
+        </section>
+      </aside>
+    </main>
+  </div>
+
+  <script type="module" src="./assets/js/app.js"></script>
+</body>
+</html>
