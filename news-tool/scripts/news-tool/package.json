@@ -1,0 +1,8 @@
+{
+  "name": "toolbox-news-tool-build",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}

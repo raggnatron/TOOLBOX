@@ -1,0 +1,74 @@
+[
+  {
+    "id": "bev-general",
+    "name": "Getränkeindustrie",
+    "topic": "market",
+    "kind": "search",
+    "basePriority": 1.0,
+    "url": "https://news.google.com/rss/search?q=Getr%C3%A4nkeindustrie%20OR%20Beverage%20Industry%20when:7d&hl=de&gl=DE&ceid=DE:de",
+    "enabled": true
+  },
+  {
+    "id": "bev-nonalc",
+    "name": "Alkoholfrei / Functional",
+    "topic": "nonalcoholic",
+    "kind": "search",
+    "basePriority": 1.05,
+    "url": "https://news.google.com/rss/search?q=alkoholfreie%20Getr%C3%A4nke%20OR%20functional%20beverage%20when:7d&hl=de&gl=DE&ceid=DE:de",
+    "enabled": true
+  },
+  {
+    "id": "bev-alcohol",
+    "name": "Bier / Wein / Spirituosen",
+    "topic": "alcohol",
+    "kind": "search",
+    "basePriority": 1.0,
+    "url": "https://news.google.com/rss/search?q=Bier%20OR%20Spirituosen%20OR%20Wein%20Branche%20when:7d&hl=de&gl=DE&ceid=DE:de",
+    "enabled": true
+  },
+  {
+    "id": "bev-packaging",
+    "name": "Verpackung",
+    "topic": "packaging",
+    "kind": "search",
+    "basePriority": 1.1,
+    "url": "https://news.google.com/rss/search?q=beverage%20packaging%20OR%20Getr%C3%A4nkeverpackung%20when:7d&hl=de&gl=DE&ceid=DE:de",
+    "enabled": true
+  },
+  {
+    "id": "bev-distribution",
+    "name": "Distribution / Logistik",
+    "topic": "distribution",
+    "kind": "search",
+    "basePriority": 1.1,
+    "url": "https://news.google.com/rss/search?q=beverage%20distribution%20OR%20Getr%C3%A4nkelogistik%20when:7d&hl=de&gl=DE&ceid=DE:de",
+    "enabled": true
+  },
+  {
+    "id": "bev-reg",
+    "name": "Regulierung",
+    "topic": "regulation",
+    "kind": "search",
+    "basePriority": 1.2,
+    "url": "https://news.google.com/rss/search?q=beverage%20regulation%20OR%20Getr%C3%A4nke%20Regulierung%20when:7d&hl=de&gl=DE&ceid=DE:de",
+    "enabled": true
+  },
+  {
+    "id": "bev-sustainability",
+    "name": "Nachhaltigkeit",
+    "topic": "sustainability",
+    "kind": "search",
+    "basePriority": 1.05,
+    "url": "https://news.google.com/rss/search?q=beverage%20sustainability%20OR%20Getr%C3%A4nke%20Nachhaltigkeit%20when:7d&hl=de&gl=DE&ceid=DE:de",
+    "enabled": true
+  },
+  {
+    "id": "bev-launches",
+    "name": "Launches / Neuheiten",
+    "topic": "launches",
+    "kind": "search",
+    "basePriority": 0.95,
+    "url": "https://news.google.com/rss/search?q=new%20beverage%20launches%20OR%20Getr%C3%A4nkeneuheiten%20when:7d&hl=de&gl=DE&ceid=DE:de",
+    "enabled": true
+  }
+]

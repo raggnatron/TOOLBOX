@@ -1,0 +1,42 @@
+{
+  "market": {
+    "label": "Markt",
+    "weight": 1.0,
+    "keywords": ["markt", "handel", "retail", "vertrieb", "absatz", "gastro"]
+  },
+  "packaging": {
+    "label": "Verpackung",
+    "weight": 1.1,
+    "keywords": ["pet", "glas", "dose", "can", "mehrweg", "verpack", "etikett", "recycling"]
+  },
+  "distribution": {
+    "label": "Distribution",
+    "weight": 1.1,
+    "keywords": ["distribution", "logistik", "lieferkette", "wholesale", "handel", "gastro"]
+  },
+  "alcohol": {
+    "label": "Alkohol",
+    "weight": 1.0,
+    "keywords": ["bier", "wein", "spirituosen", "whisky", "whiskey", "gin", "rum", "vodka"]
+  },
+  "nonalcoholic": {
+    "label": "Alkoholfrei",
+    "weight": 1.05,
+    "keywords": ["alkoholfrei", "functional", "zero sugar", "low sugar", "hydration", "energy", "kombucha"]
+  },
+  "regulation": {
+    "label": "Regulierung",
+    "weight": 1.25,
+    "keywords": ["gesetz", "verordnung", "pfand", "steuer", "kennzeichnung", "compliance", "court", "lawsuit"]
+  },
+  "sustainability": {
+    "label": "Nachhaltigkeit",
+    "weight": 1.05,
+    "keywords": ["nachhaltig", "co2", "emission", "recycling", "mehrweg", "reuse", "circular"]
+  },
+  "launches": {
+    "label": "Launches",
+    "weight": 0.95,
+    "keywords": ["launch", "neuheit", "new product", "range", "produktneuheit", "debut"]
+  }
+}
