@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-04-09T14:10:09.581Z",
+  "generatedAt": "2026-04-09T17:20:41.599Z",
   "totals": {
-    "items": 37,
+    "items": 35,
     "sources": 8,
     "failures": 0,
     "todayImportant": 0,
-    "watch": 10,
-    "read": 27
+    "watch": 11,
+    "read": 24
   },
   "failures": [],
   "sections": {
@@ -29,7 +29,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 29,
+        "ageHours": 32,
         "score": 52,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -51,18 +51,18 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 30,
+        "ageHours": 33,
         "score": 52,
         "bucket": "watch",
         "readingClass": "beobachten"
       },
       {
-        "id": "d032e0ea2a87",
-        "title": "Bier-Branche stemmt sich gegen Brauereisterben + Pläne für neues Industriegebiet + Schweinepest erneut ausgebrochen - Sächsische Zeitung",
-        "summary": "Bier-Branche stemmt sich gegen Brauereisterben + Pläne für neues Industriegebiet + Schweinepest erneut ausgebrochen Sächsische Zeitung",
-        "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPT0QyLTJabzNkQ2stbWhhdFJpMVRiTFJlLUFVMWR5eDI0MXRqclBJVk5zR1ZzVFFZaFlGbHYzX05rRUo3c2dVWHBoSjBlcTZBRTZSZ01XVzdaSEhpQVF4WF9LUHBMSU1GSXhEbVp4VHFkbVZ2SEVmQ01JbUtnZzd6RlA1ZldRbTd6S1pjcGF2bjJFLTNsMi0wTW12NzFISFp5aTliWW1lUmhJTDJzZ1h0SHNxNlhrYS1remg2a3FFdVMwVWh4ZlMyVjRFYVNnNlQ0WkJYbUpZa1J3cXZZRFdoSFFWSV95UDFMQ28yM0NWaGhPUHVnM0RFeDZwOUFIQWE1aVJ4MUxBb3lZc1HSAacCQVVfeXFMUDNtcTBQQ01OY05IZFNHOWFuRzlLLTlILS1mWV9BWC0tbUVnVXhBdE5wVDNlM3h3MUFnZUdKeUtodlppQ2VPR0c5YXE5Y3JTOWZwZWktUzNoSUlFQ1EwaXBQRjlVSlVUVy1xdUVlRWl1NUlUWV9YRzRIQ2VTZnR4dUhOdWdSVE1MeHljMGFEb0tXaHdTRThZX3p3RkVicF9Dd0xxdFN0MkVlSkRZUGJPSFhGbGVDZDNSSU1ER28tVWw4UTZOMkR2dG9CLU8wVUZwTmR2X3cxcVQtbXpYLTZUYzdGV3FQNFZGRlpsWDdvQUdSWjE1U1NBQ0tpa1U0VFo2bkZkUVFPSXJOV0ZPTE5OOWlST3F6Z01jR2F1RUJCVmpxOERta29MWQ?oc=5",
+        "id": "aba4fe159532",
+        "title": "500 verschiedene Biersorten, 7.000 m² Biergarten und ein Pop-up-Restaurant mit Craft-Bier-Paarungen: Das „Bierparadies“ kehrt dieses Wochenende zurück - Barcelona Secreta",
+        "summary": "500 verschiedene Biersorten, 7.000 m² Biergarten und ein Pop-up-Restaurant mit Craft-Bier-Paarungen: Das „Bierparadies“ kehrt dieses Wochenende zurück Barcelona Secreta",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2eEVkTmVhekpBZi1McThWMDNkZkFVbkpLeWxydG1WaVFudXRKOFdfeXRLX3NoU3RpTE15Z3JFSmwtR2I5MXp6eEk2R0ZXYzUtb05mMDN0VmdUbW5XRmE3dnU2bWxRUEJjSy1ZY1RwU3RRTDFROU9DcGxNVWJZclE?oc=5",
         "domain": "news.google.com",
-        "publishedAt": "2026-04-09T04:00:01.000Z",
+        "publishedAt": "2026-04-09T10:25:53.000Z",
         "topic": "alcohol",
         "feedId": "bev-alcohol",
         "feedName": "Bier / Wein / Spirituosen",
@@ -73,7 +73,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 10,
+        "ageHours": 7,
         "score": 50,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -95,7 +95,7 @@
         "regulationSignal": true,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 65,
+        "ageHours": 68,
         "score": 50,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -117,7 +117,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 52,
+        "ageHours": 55,
         "score": 48,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -139,8 +139,30 @@
         "regulationSignal": false,
         "launchSignal": true,
         "financeLike": false,
-        "ageHours": 27,
+        "ageHours": 30,
         "score": 45,
+        "bucket": "watch",
+        "readingClass": "beobachten"
+      },
+      {
+        "id": "d032e0ea2a87",
+        "title": "Bier-Branche stemmt sich gegen Brauereisterben + Pläne für neues Industriegebiet + Schweinepest erneut ausgebrochen - Sächsische Zeitung",
+        "summary": "Bier-Branche stemmt sich gegen Brauereisterben + Pläne für neues Industriegebiet + Schweinepest erneut ausgebrochen Sächsische Zeitung",
+        "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPT0QyLTJabzNkQ2stbWhhdFJpMVRiTFJlLUFVMWR5eDI0MXRqclBJVk5zR1ZzVFFZaFlGbHYzX05rRUo3c2dVWHBoSjBlcTZBRTZSZ01XVzdaSEhpQVF4WF9LUHBMSU1GSXhEbVp4VHFkbVZ2SEVmQ01JbUtnZzd6RlA1ZldRbTd6S1pjcGF2bjJFLTNsMi0wTW12NzFISFp5aTliWW1lUmhJTDJzZ1h0SHNxNlhrYS1remg2a3FFdVMwVWh4ZlMyVjRFYVNnNlQ0WkJYbUpZa1J3cXZZRFdoSFFWSV95UDFMQ28yM0NWaGhPUHVnM0RFeDZwOUFIQWE1aVJ4MUxBb3lZc1HSAacCQVVfeXFMUDNtcTBQQ01OY05IZFNHOWFuRzlLLTlILS1mWV9BWC0tbUVnVXhBdE5wVDNlM3h3MUFnZUdKeUtodlppQ2VPR0c5YXE5Y3JTOWZwZWktUzNoSUlFQ1EwaXBQRjlVSlVUVy1xdUVlRWl1NUlUWV9YRzRIQ2VTZnR4dUhOdWdSVE1MeHljMGFEb0tXaHdTRThZX3p3RkVicF9Dd0xxdFN0MkVlSkRZUGJPSFhGbGVDZDNSSU1ER28tVWw4UTZOMkR2dG9CLU8wVUZwTmR2X3cxcVQtbXpYLTZUYzdGV3FQNFZGRlpsWDdvQUdSWjE1U1NBQ0tpa1U0VFo2bkZkUVFPSXJOV0ZPTE5OOWlST3F6Z01jR2F1RUJCVmpxOERta29MWQ?oc=5",
+        "domain": "news.google.com",
+        "publishedAt": "2026-04-09T04:00:01.000Z",
+        "topic": "alcohol",
+        "feedId": "bev-alcohol",
+        "feedName": "Bier / Wein / Spirituosen",
+        "feedKind": "search",
+        "basePriority": 1,
+        "dachSignal": false,
+        "operatorSignal": false,
+        "regulationSignal": false,
+        "launchSignal": false,
+        "financeLike": false,
+        "ageHours": 13,
+        "score": 44,
         "bucket": "watch",
         "readingClass": "beobachten"
       },
@@ -161,7 +183,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 14,
+        "ageHours": 17,
         "score": 44,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -183,7 +205,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 15,
+        "ageHours": 19,
         "score": 44,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -205,7 +227,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 16,
+        "ageHours": 20,
         "score": 44,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -227,35 +249,13 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 21,
+        "ageHours": 24,
         "score": 44,
         "bucket": "watch",
         "readingClass": "beobachten"
       }
     ],
     "read": [
-      {
-        "id": "426e3d280e3c",
-        "title": "Markt für zweiteilige Aluminiumdosen für Lebensmittel und Getränke – Globale Dynamik und Wettbewerbslandschaft - ekz-crosstour -",
-        "summary": "Markt für zweiteilige Aluminiumdosen für Lebensmittel und Getränke – Globale Dynamik und Wettbewerbslandschaft ekz-crosstour -",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNVG1LeUc4YmdOWFlHOW9wWm05Y3N4OGRfYmtHNFBBMUwtNktRMVlYd3pfZG9XVE5kOEgzRS1QdmpaT3NfZ1pJbGpIR2NsUXI5QXpfbFhPXzJZc2ZvRG5ndExqblZkZTJiNUd4Wm5rSGIzU1JlTGxETzhGc0tVVENpWTJ0Vjd1d3RSejJkX0xYWkd3anJDZm1mbWMzMnRCUlRvMnV4dE4tOE1KRFFFZnNpN1JQSlMtSmRGUWpsNmlCaHV5QjFDVWhPeV9ZZjRCN3d0cUZ3VC1DZ2pXSmplNFE?oc=5",
-        "domain": "news.google.com",
-        "publishedAt": "2026-04-08T00:37:40.000Z",
-        "topic": "market",
-        "feedId": "bev-packaging",
-        "feedName": "Verpackung",
-        "feedKind": "search",
-        "basePriority": 1.1,
-        "dachSignal": false,
-        "operatorSignal": false,
-        "regulationSignal": false,
-        "launchSignal": false,
-        "financeLike": false,
-        "ageHours": 38,
-        "score": 39,
-        "bucket": "read",
-        "readingClass": "lesen"
-      },
       {
         "id": "859c1451896d",
         "title": "Dresden: Warum alkoholfreier Wein wichtiger wird - Sachsen Fernsehen",
@@ -273,7 +273,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 27,
+        "ageHours": 31,
         "score": 38,
         "bucket": "read",
         "readingClass": "lesen"
@@ -295,7 +295,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 29,
+        "ageHours": 32,
         "score": 38,
         "bucket": "read",
         "readingClass": "lesen"
@@ -317,7 +317,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 31,
+        "ageHours": 34,
         "score": 38,
         "bucket": "read",
         "readingClass": "lesen"
@@ -339,7 +339,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 40,
+        "ageHours": 43,
         "score": 38,
         "bucket": "read",
         "readingClass": "lesen"
@@ -361,7 +361,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 52,
+        "ageHours": 56,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -383,7 +383,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 53,
+        "ageHours": 56,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -405,7 +405,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 53,
+        "ageHours": 56,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -427,7 +427,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 59,
+        "ageHours": 62,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -449,7 +449,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 62,
+        "ageHours": 65,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -471,7 +471,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 63,
+        "ageHours": 66,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -493,7 +493,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 63,
+        "ageHours": 67,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -515,7 +515,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 64,
+        "ageHours": 68,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -537,7 +537,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 64,
+        "ageHours": 68,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -559,7 +559,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 65,
+        "ageHours": 68,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -581,7 +581,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 65,
+        "ageHours": 68,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -603,7 +603,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 110,
+        "ageHours": 114,
         "score": 31,
         "bucket": "read",
         "readingClass": "lesen"
@@ -625,7 +625,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 115,
+        "ageHours": 118,
         "score": 28,
         "bucket": "read",
         "readingClass": "lesen"
@@ -647,7 +647,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 144,
+        "ageHours": 147,
         "score": 28,
         "bucket": "read",
         "readingClass": "lesen"
@@ -669,51 +669,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 113,
-        "score": 27,
-        "bucket": "read",
-        "readingClass": "lesen"
-      },
-      {
-        "id": "53450edd1a12",
-        "title": "OLG: \"Gin\", \"Rum\" & Co. für alkoholfreie Drinks tabu - LTO.de",
-        "summary": "OLG: \"Gin\", \"Rum\" & Co. für alkoholfreie Drinks tabu LTO.de",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPV1MyTnhYUHNNQnhpdnh1R2JEa0RaVmZXZ2tkOXFFaVN1XzYxaG5haFRnZTZZQklYYWpMMmFFYWpGbl9YaWdEQzN1Zm5TS1JmVDdhdzFvTjVtLVJKM0VldmxhNjRpdG1aVVhjb3JGdGNJWGhWS0NtajFzUU5GUktoMmJHZHMydl9HMGMyTHlLS1phVklLOGVoM0V0bGNIcnBmT1UzNlFVWVJ4QmJva0I5Njg4ZURvVm8?oc=5",
-        "domain": "news.google.com",
-        "publishedAt": "2026-04-02T15:53:57.000Z",
-        "topic": "alcohol",
-        "feedId": "bev-nonalc",
-        "feedName": "Alkoholfrei / Functional",
-        "feedKind": "search",
-        "basePriority": 1.05,
-        "dachSignal": false,
-        "operatorSignal": false,
-        "regulationSignal": false,
-        "launchSignal": false,
-        "financeLike": false,
-        "ageHours": 166,
-        "score": 27,
-        "bucket": "read",
-        "readingClass": "lesen"
-      },
-      {
-        "id": "7f993e02f29d",
-        "title": "Urteil gegen Start-up: Alkoholfreie Drinks dürfen nicht wie Spirituosen heißen - MSN",
-        "summary": "Urteil gegen Start-up: Alkoholfreie Drinks dürfen nicht wie Spirituosen heißen MSN",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxONVhCQzRxUXp1NHZwd3BBc0Z0aFBsQ0xjZTY0cGRfanJlOGtNbl9HTm9nN0tyQmNQWU16U3JGWVNKVm10SUM3VmFPMGtSRzI2ZjBOZkwwNU9QWVBST0NBOHY4YVdXWjkyQzlQN2FIdEdsUVBuTFlpM3htXzRrNTJxei0xVXFDTEt1d0Z6c1hUdHNnN0syczFzZzZVSkUzd1FfSUYtdzdRbXZJOWlySGlId3hTOEJtS25JdTRPS1l1eWtMUng1ZkFTWmk5Qy1EZ0U4OXdHVzh0UDdyS3d1U0VF?oc=5",
-        "domain": "news.google.com",
-        "publishedAt": "2026-04-02T14:30:59.000Z",
-        "topic": "alcohol",
-        "feedId": "bev-nonalc",
-        "feedName": "Alkoholfrei / Functional",
-        "feedKind": "search",
-        "basePriority": 1.05,
-        "dachSignal": false,
-        "operatorSignal": false,
-        "regulationSignal": false,
-        "launchSignal": false,
-        "financeLike": false,
-        "ageHours": 168,
+        "ageHours": 116,
         "score": 27,
         "bucket": "read",
         "readingClass": "lesen"
@@ -735,7 +691,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 102,
+        "ageHours": 105,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -757,7 +713,73 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 136,
+        "ageHours": 139,
+        "score": 26,
+        "bucket": "read",
+        "readingClass": "lesen"
+      },
+      {
+        "id": "497a7cf119c4",
+        "title": "Höchster Genuss - Winzer spülen viele Millionen in die Landeskasse - Kronen Zeitung",
+        "summary": "Höchster Genuss - Winzer spülen viele Millionen in die Landeskasse Kronen Zeitung",
+        "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9uVVQ0aHdRQS05VUtGMDFxbGt6aDYwOFFIM1RVUnBKTGc1ek5IQ0taeVV0WFhhSXFxNTlVMmxjdnVSZw?oc=5",
+        "domain": "news.google.com",
+        "publishedAt": "2026-04-03T14:00:00.000Z",
+        "topic": "alcohol",
+        "feedId": "bev-alcohol",
+        "feedName": "Bier / Wein / Spirituosen",
+        "feedKind": "search",
+        "basePriority": 1,
+        "dachSignal": false,
+        "operatorSignal": false,
+        "regulationSignal": false,
+        "launchSignal": false,
+        "financeLike": false,
+        "ageHours": 147,
+        "score": 26,
+        "bucket": "read",
+        "readingClass": "lesen"
+      },
+      {
+        "id": "b866238d89c9",
+        "title": "Aufbruchstimmung - meininger.de",
+        "summary": "Aufbruchstimmung meininger.de",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB4dEtrWVdhR1Zmd29tM2F5bEloYV9NLXR3d1dULXFVNERtX3ZXc0VJRkRfVGNyRVhUVjY5RlJFajFyeVNRQnlkVm1NZkUyTHdna094YnBaSVltUXNYWkM4NmFYa2dWZw?oc=5",
+        "domain": "news.google.com",
+        "publishedAt": "2026-04-03T06:26:09.000Z",
+        "topic": "alcohol",
+        "feedId": "bev-alcohol",
+        "feedName": "Bier / Wein / Spirituosen",
+        "feedKind": "search",
+        "basePriority": 1,
+        "dachSignal": false,
+        "operatorSignal": false,
+        "regulationSignal": false,
+        "launchSignal": false,
+        "financeLike": false,
+        "ageHours": 155,
+        "score": 26,
+        "bucket": "read",
+        "readingClass": "lesen"
+      },
+      {
+        "id": "32228e00f42b",
+        "title": "Brunello di Montalcino: Guglielmo Ascheri zum neuen Direktor ernannt: Führungswechsel im Konsortium - Montenapo Daily",
+        "summary": "Brunello di Montalcino: Guglielmo Ascheri zum neuen Direktor ernannt: Führungswechsel im Konsortium Montenapo Daily",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVndRS0JJd2FmV2xjbHN1RkhUNVZVTGpLRU1oajBfUGIyRlY5aHAxa2Jycks3VmxiVm85dXNDNXpGVkhVbHh1QWJCbjg1N0dqQ2VkSDdpVTI2OERhQXE5aEdOTzY5Q0tpaGl5VkJGSHNndkFOdWUwM3RUQ3dvV1hsenJRTWllRi1HZ3h2Z1Y2UXd3QXE0TklvWFc2ZDlLYWJNa1pYVGtFZ1BPRzJYRTJxVHMzQ1ZpalpaeWR4NVBYblFQMFNCZ1JWMVprQnBtT2M?oc=5",
+        "domain": "news.google.com",
+        "publishedAt": "2026-04-02T22:37:23.000Z",
+        "topic": "alcohol",
+        "feedId": "bev-alcohol",
+        "feedName": "Bier / Wein / Spirituosen",
+        "feedKind": "search",
+        "basePriority": 1,
+        "dachSignal": false,
+        "operatorSignal": false,
+        "regulationSignal": false,
+        "launchSignal": false,
+        "financeLike": false,
+        "ageHours": 163,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -767,7 +789,7 @@
   "radar": {
     "dominantTopic": {
       "id": "alcohol",
-      "count": 24
+      "count": 23
     },
     "dachSignals": 0,
     "regulationSignals": 1,
@@ -775,14 +797,14 @@
   },
   "sourceStats": [
     {
+      "feedName": "Verpackung",
+      "count": 1,
+      "avgScore": 48
+    },
+    {
       "feedName": "Launches / Neuheiten",
       "count": 1,
       "avgScore": 45
-    },
-    {
-      "feedName": "Verpackung",
-      "count": 2,
-      "avgScore": 44
     },
     {
       "feedName": "Getränkeindustrie",
@@ -791,7 +813,7 @@
     },
     {
       "feedName": "Bier / Wein / Spirituosen",
-      "count": 27,
+      "count": 28,
       "avgScore": 36
     },
     {
@@ -806,8 +828,8 @@
     },
     {
       "feedName": "Alkoholfrei / Functional",
-      "count": 3,
-      "avgScore": 27
+      "count": 1,
+      "avgScore": 28
     }
   ],
   "items": [
@@ -828,7 +850,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 29,
+      "ageHours": 32,
       "score": 52,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -850,18 +872,18 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 30,
+      "ageHours": 33,
       "score": 52,
       "bucket": "watch",
       "readingClass": "beobachten"
     },
     {
-      "id": "d032e0ea2a87",
-      "title": "Bier-Branche stemmt sich gegen Brauereisterben + Pläne für neues Industriegebiet + Schweinepest erneut ausgebrochen - Sächsische Zeitung",
-      "summary": "Bier-Branche stemmt sich gegen Brauereisterben + Pläne für neues Industriegebiet + Schweinepest erneut ausgebrochen Sächsische Zeitung",
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPT0QyLTJabzNkQ2stbWhhdFJpMVRiTFJlLUFVMWR5eDI0MXRqclBJVk5zR1ZzVFFZaFlGbHYzX05rRUo3c2dVWHBoSjBlcTZBRTZSZ01XVzdaSEhpQVF4WF9LUHBMSU1GSXhEbVp4VHFkbVZ2SEVmQ01JbUtnZzd6RlA1ZldRbTd6S1pjcGF2bjJFLTNsMi0wTW12NzFISFp5aTliWW1lUmhJTDJzZ1h0SHNxNlhrYS1remg2a3FFdVMwVWh4ZlMyVjRFYVNnNlQ0WkJYbUpZa1J3cXZZRFdoSFFWSV95UDFMQ28yM0NWaGhPUHVnM0RFeDZwOUFIQWE1aVJ4MUxBb3lZc1HSAacCQVVfeXFMUDNtcTBQQ01OY05IZFNHOWFuRzlLLTlILS1mWV9BWC0tbUVnVXhBdE5wVDNlM3h3MUFnZUdKeUtodlppQ2VPR0c5YXE5Y3JTOWZwZWktUzNoSUlFQ1EwaXBQRjlVSlVUVy1xdUVlRWl1NUlUWV9YRzRIQ2VTZnR4dUhOdWdSVE1MeHljMGFEb0tXaHdTRThZX3p3RkVicF9Dd0xxdFN0MkVlSkRZUGJPSFhGbGVDZDNSSU1ER28tVWw4UTZOMkR2dG9CLU8wVUZwTmR2X3cxcVQtbXpYLTZUYzdGV3FQNFZGRlpsWDdvQUdSWjE1U1NBQ0tpa1U0VFo2bkZkUVFPSXJOV0ZPTE5OOWlST3F6Z01jR2F1RUJCVmpxOERta29MWQ?oc=5",
+      "id": "aba4fe159532",
+      "title": "500 verschiedene Biersorten, 7.000 m² Biergarten und ein Pop-up-Restaurant mit Craft-Bier-Paarungen: Das „Bierparadies“ kehrt dieses Wochenende zurück - Barcelona Secreta",
+      "summary": "500 verschiedene Biersorten, 7.000 m² Biergarten und ein Pop-up-Restaurant mit Craft-Bier-Paarungen: Das „Bierparadies“ kehrt dieses Wochenende zurück Barcelona Secreta",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2eEVkTmVhekpBZi1McThWMDNkZkFVbkpLeWxydG1WaVFudXRKOFdfeXRLX3NoU3RpTE15Z3JFSmwtR2I5MXp6eEk2R0ZXYzUtb05mMDN0VmdUbW5XRmE3dnU2bWxRUEJjSy1ZY1RwU3RRTDFROU9DcGxNVWJZclE?oc=5",
       "domain": "news.google.com",
-      "publishedAt": "2026-04-09T04:00:01.000Z",
+      "publishedAt": "2026-04-09T10:25:53.000Z",
       "topic": "alcohol",
       "feedId": "bev-alcohol",
       "feedName": "Bier / Wein / Spirituosen",
@@ -872,7 +894,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 10,
+      "ageHours": 7,
       "score": 50,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -894,7 +916,7 @@
       "regulationSignal": true,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 65,
+      "ageHours": 68,
       "score": 50,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -916,7 +938,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 52,
+      "ageHours": 55,
       "score": 48,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -938,8 +960,30 @@
       "regulationSignal": false,
       "launchSignal": true,
       "financeLike": false,
-      "ageHours": 27,
+      "ageHours": 30,
       "score": 45,
+      "bucket": "watch",
+      "readingClass": "beobachten"
+    },
+    {
+      "id": "d032e0ea2a87",
+      "title": "Bier-Branche stemmt sich gegen Brauereisterben + Pläne für neues Industriegebiet + Schweinepest erneut ausgebrochen - Sächsische Zeitung",
+      "summary": "Bier-Branche stemmt sich gegen Brauereisterben + Pläne für neues Industriegebiet + Schweinepest erneut ausgebrochen Sächsische Zeitung",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPT0QyLTJabzNkQ2stbWhhdFJpMVRiTFJlLUFVMWR5eDI0MXRqclBJVk5zR1ZzVFFZaFlGbHYzX05rRUo3c2dVWHBoSjBlcTZBRTZSZ01XVzdaSEhpQVF4WF9LUHBMSU1GSXhEbVp4VHFkbVZ2SEVmQ01JbUtnZzd6RlA1ZldRbTd6S1pjcGF2bjJFLTNsMi0wTW12NzFISFp5aTliWW1lUmhJTDJzZ1h0SHNxNlhrYS1remg2a3FFdVMwVWh4ZlMyVjRFYVNnNlQ0WkJYbUpZa1J3cXZZRFdoSFFWSV95UDFMQ28yM0NWaGhPUHVnM0RFeDZwOUFIQWE1aVJ4MUxBb3lZc1HSAacCQVVfeXFMUDNtcTBQQ01OY05IZFNHOWFuRzlLLTlILS1mWV9BWC0tbUVnVXhBdE5wVDNlM3h3MUFnZUdKeUtodlppQ2VPR0c5YXE5Y3JTOWZwZWktUzNoSUlFQ1EwaXBQRjlVSlVUVy1xdUVlRWl1NUlUWV9YRzRIQ2VTZnR4dUhOdWdSVE1MeHljMGFEb0tXaHdTRThZX3p3RkVicF9Dd0xxdFN0MkVlSkRZUGJPSFhGbGVDZDNSSU1ER28tVWw4UTZOMkR2dG9CLU8wVUZwTmR2X3cxcVQtbXpYLTZUYzdGV3FQNFZGRlpsWDdvQUdSWjE1U1NBQ0tpa1U0VFo2bkZkUVFPSXJOV0ZPTE5OOWlST3F6Z01jR2F1RUJCVmpxOERta29MWQ?oc=5",
+      "domain": "news.google.com",
+      "publishedAt": "2026-04-09T04:00:01.000Z",
+      "topic": "alcohol",
+      "feedId": "bev-alcohol",
+      "feedName": "Bier / Wein / Spirituosen",
+      "feedKind": "search",
+      "basePriority": 1,
+      "dachSignal": false,
+      "operatorSignal": false,
+      "regulationSignal": false,
+      "launchSignal": false,
+      "financeLike": false,
+      "ageHours": 13,
+      "score": 44,
       "bucket": "watch",
       "readingClass": "beobachten"
     },
@@ -960,7 +1004,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 14,
+      "ageHours": 17,
       "score": 44,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -982,7 +1026,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 15,
+      "ageHours": 19,
       "score": 44,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -1004,7 +1048,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 16,
+      "ageHours": 20,
       "score": 44,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -1026,32 +1070,10 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 21,
+      "ageHours": 24,
       "score": 44,
       "bucket": "watch",
       "readingClass": "beobachten"
-    },
-    {
-      "id": "426e3d280e3c",
-      "title": "Markt für zweiteilige Aluminiumdosen für Lebensmittel und Getränke – Globale Dynamik und Wettbewerbslandschaft - ekz-crosstour -",
-      "summary": "Markt für zweiteilige Aluminiumdosen für Lebensmittel und Getränke – Globale Dynamik und Wettbewerbslandschaft ekz-crosstour -",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNVG1LeUc4YmdOWFlHOW9wWm05Y3N4OGRfYmtHNFBBMUwtNktRMVlYd3pfZG9XVE5kOEgzRS1QdmpaT3NfZ1pJbGpIR2NsUXI5QXpfbFhPXzJZc2ZvRG5ndExqblZkZTJiNUd4Wm5rSGIzU1JlTGxETzhGc0tVVENpWTJ0Vjd1d3RSejJkX0xYWkd3anJDZm1mbWMzMnRCUlRvMnV4dE4tOE1KRFFFZnNpN1JQSlMtSmRGUWpsNmlCaHV5QjFDVWhPeV9ZZjRCN3d0cUZ3VC1DZ2pXSmplNFE?oc=5",
-      "domain": "news.google.com",
-      "publishedAt": "2026-04-08T00:37:40.000Z",
-      "topic": "market",
-      "feedId": "bev-packaging",
-      "feedName": "Verpackung",
-      "feedKind": "search",
-      "basePriority": 1.1,
-      "dachSignal": false,
-      "operatorSignal": false,
-      "regulationSignal": false,
-      "launchSignal": false,
-      "financeLike": false,
-      "ageHours": 38,
-      "score": 39,
-      "bucket": "read",
-      "readingClass": "lesen"
     },
     {
       "id": "859c1451896d",
@@ -1070,7 +1092,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 27,
+      "ageHours": 31,
       "score": 38,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1092,7 +1114,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 29,
+      "ageHours": 32,
       "score": 38,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1114,7 +1136,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 31,
+      "ageHours": 34,
       "score": 38,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1136,7 +1158,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 40,
+      "ageHours": 43,
       "score": 38,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1158,7 +1180,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 52,
+      "ageHours": 56,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1180,7 +1202,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 53,
+      "ageHours": 56,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1202,7 +1224,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 53,
+      "ageHours": 56,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1224,7 +1246,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 59,
+      "ageHours": 62,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1246,7 +1268,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 62,
+      "ageHours": 65,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1268,7 +1290,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 63,
+      "ageHours": 66,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1290,7 +1312,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 63,
+      "ageHours": 67,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1312,7 +1334,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 64,
+      "ageHours": 68,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1334,7 +1356,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 64,
+      "ageHours": 68,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1356,7 +1378,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 65,
+      "ageHours": 68,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1378,7 +1400,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 65,
+      "ageHours": 68,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1400,7 +1422,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 110,
+      "ageHours": 114,
       "score": 31,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1422,7 +1444,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 115,
+      "ageHours": 118,
       "score": 28,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1444,7 +1466,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 144,
+      "ageHours": 147,
       "score": 28,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1466,51 +1488,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 113,
-      "score": 27,
-      "bucket": "read",
-      "readingClass": "lesen"
-    },
-    {
-      "id": "53450edd1a12",
-      "title": "OLG: \"Gin\", \"Rum\" & Co. für alkoholfreie Drinks tabu - LTO.de",
-      "summary": "OLG: \"Gin\", \"Rum\" & Co. für alkoholfreie Drinks tabu LTO.de",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPV1MyTnhYUHNNQnhpdnh1R2JEa0RaVmZXZ2tkOXFFaVN1XzYxaG5haFRnZTZZQklYYWpMMmFFYWpGbl9YaWdEQzN1Zm5TS1JmVDdhdzFvTjVtLVJKM0VldmxhNjRpdG1aVVhjb3JGdGNJWGhWS0NtajFzUU5GUktoMmJHZHMydl9HMGMyTHlLS1phVklLOGVoM0V0bGNIcnBmT1UzNlFVWVJ4QmJva0I5Njg4ZURvVm8?oc=5",
-      "domain": "news.google.com",
-      "publishedAt": "2026-04-02T15:53:57.000Z",
-      "topic": "alcohol",
-      "feedId": "bev-nonalc",
-      "feedName": "Alkoholfrei / Functional",
-      "feedKind": "search",
-      "basePriority": 1.05,
-      "dachSignal": false,
-      "operatorSignal": false,
-      "regulationSignal": false,
-      "launchSignal": false,
-      "financeLike": false,
-      "ageHours": 166,
-      "score": 27,
-      "bucket": "read",
-      "readingClass": "lesen"
-    },
-    {
-      "id": "7f993e02f29d",
-      "title": "Urteil gegen Start-up: Alkoholfreie Drinks dürfen nicht wie Spirituosen heißen - MSN",
-      "summary": "Urteil gegen Start-up: Alkoholfreie Drinks dürfen nicht wie Spirituosen heißen MSN",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxONVhCQzRxUXp1NHZwd3BBc0Z0aFBsQ0xjZTY0cGRfanJlOGtNbl9HTm9nN0tyQmNQWU16U3JGWVNKVm10SUM3VmFPMGtSRzI2ZjBOZkwwNU9QWVBST0NBOHY4YVdXWjkyQzlQN2FIdEdsUVBuTFlpM3htXzRrNTJxei0xVXFDTEt1d0Z6c1hUdHNnN0syczFzZzZVSkUzd1FfSUYtdzdRbXZJOWlySGlId3hTOEJtS25JdTRPS1l1eWtMUng1ZkFTWmk5Qy1EZ0U4OXdHVzh0UDdyS3d1U0VF?oc=5",
-      "domain": "news.google.com",
-      "publishedAt": "2026-04-02T14:30:59.000Z",
-      "topic": "alcohol",
-      "feedId": "bev-nonalc",
-      "feedName": "Alkoholfrei / Functional",
-      "feedKind": "search",
-      "basePriority": 1.05,
-      "dachSignal": false,
-      "operatorSignal": false,
-      "regulationSignal": false,
-      "launchSignal": false,
-      "financeLike": false,
-      "ageHours": 168,
+      "ageHours": 116,
       "score": 27,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1532,7 +1510,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 102,
+      "ageHours": 105,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1554,7 +1532,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 136,
+      "ageHours": 139,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1576,7 +1554,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 144,
+      "ageHours": 147,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1598,7 +1576,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 152,
+      "ageHours": 155,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1620,7 +1598,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 160,
+      "ageHours": 163,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
