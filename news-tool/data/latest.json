@@ -1,39 +1,17 @@
 {
-  "generatedAt": "2026-04-09T17:20:41.599Z",
+  "generatedAt": "2026-04-09T21:02:01.145Z",
   "totals": {
-    "items": 35,
+    "items": 34,
     "sources": 8,
     "failures": 0,
     "todayImportant": 0,
-    "watch": 11,
+    "watch": 10,
     "read": 24
   },
   "failures": [],
   "sections": {
     "todayImportant": [],
     "watch": [
-      {
-        "id": "58b7925c1ad8",
-        "title": "7. Biersommelier-Staatsmeisterschaft 2026 in Vorarlberg - GASTRO.at",
-        "summary": "7. Biersommelier-Staatsmeisterschaft 2026 in Vorarlberg GASTRO.at",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOamVOSEpmbDE0czZ4a18tQTJPNFlUaUFWa2VmVms2dFNBWXljNHRpaDlFQXgtOTd0LXJYUkhFWkRUamJSRUtSQjdJaXpwcVpGN1VqNjJIWHI4Nzd6blhLcHVBRnVpbXJvMDJCV1pTTlFCNUhadkhCRmtyTlI5RjljUE9KbVktMkR1eVp0ZzVn?oc=5",
-        "domain": "news.google.com",
-        "publishedAt": "2026-04-08T09:23:20.000Z",
-        "topic": "market",
-        "feedId": "bev-alcohol",
-        "feedName": "Bier / Wein / Spirituosen",
-        "feedKind": "search",
-        "basePriority": 1,
-        "dachSignal": false,
-        "operatorSignal": true,
-        "regulationSignal": false,
-        "launchSignal": false,
-        "financeLike": false,
-        "ageHours": 32,
-        "score": 52,
-        "bucket": "watch",
-        "readingClass": "beobachten"
-      },
       {
         "id": "6a9fe17729e5",
         "title": "Weingut Keringer wird exklusiver ÖFB Weinpartner - GASTRO.at",
@@ -51,19 +29,19 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 33,
+        "ageHours": 37,
         "score": 52,
         "bucket": "watch",
         "readingClass": "beobachten"
       },
       {
-        "id": "aba4fe159532",
-        "title": "500 verschiedene Biersorten, 7.000 m² Biergarten und ein Pop-up-Restaurant mit Craft-Bier-Paarungen: Das „Bierparadies“ kehrt dieses Wochenende zurück - Barcelona Secreta",
-        "summary": "500 verschiedene Biersorten, 7.000 m² Biergarten und ein Pop-up-Restaurant mit Craft-Bier-Paarungen: Das „Bierparadies“ kehrt dieses Wochenende zurück Barcelona Secreta",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2eEVkTmVhekpBZi1McThWMDNkZkFVbkpLeWxydG1WaVFudXRKOFdfeXRLX3NoU3RpTE15Z3JFSmwtR2I5MXp6eEk2R0ZXYzUtb05mMDN0VmdUbW5XRmE3dnU2bWxRUEJjSy1ZY1RwU3RRTDFROU9DcGxNVWJZclE?oc=5",
+        "id": "0680e7dbb62e",
+        "title": "Für eine D-Mark zum Weltmarktführer: Wie Kirow aus Leipzig zum Hidden Champion aufstieg - LVZ - Leipziger Volkszeitung",
+        "summary": "Für eine D-Mark zum Weltmarktführer: Wie Kirow aus Leipzig zum Hidden Champion aufstieg LVZ - Leipziger Volkszeitung",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNeWxmLWZNYlVmWkFLLWJiUW1kUlpyZXFQV3N4M1dKaTJJNlFMVUZzZ3NqbVFIT3FvQzY5SWEwM1hYa2FyblVOanN5VUpzTWtsRjVXN3NsMUcySURQV1pvQ3pKQUhmc2ZuQWtVQmtoMmlFWTBTSUhqWFV3RERsekxEekQ3R3ZnTm5Ub2RaZUdhVlZPRkRBMFFCSTQ5eFdRbzJ3T2FsNjZDTHl4ZGVtaGc5eG5GeVlyWGhsa3hRdEFqMW5vSXdHYlZaVjdRTFVjOVAyYzYyeERFb3JQcHB4X0JqYS1uUXFtdy1ndElSMk9RRGbSAYwCQVVfeXFMT3A0aVY1emxpZE5ucWtlaVJpbG1RQ01pQldjaTlVQjNGblZCY2ZPalkyaEtZRXhJZkx6cUF1TUNmRUoxWEg0NUlZbXRVbkVLU3VjMElHUHVBeGtCdDF4Q1l5NVlCSEVLU1JMeUZfUmFoYzRZd0c2VDBpejljRjJNN1FyUUh0SHpBTWFFSUhQbW00UTc4YWlEQVFKRTZBVHpnOGNnMjJGaTcxS1ZnRTZkb3pvaW9MaHloQjZxVlhzZ0w0MWFzNnRzdno1R0h1c2c1R2hhVDB4dGdtUmhORTVwR19BMjN2SEFjM191M21uVWVKcjFHWERnWDFaRGUzN29udFZsZlhQMjI4UWVFOQ?oc=5",
         "domain": "news.google.com",
-        "publishedAt": "2026-04-09T10:25:53.000Z",
-        "topic": "alcohol",
+        "publishedAt": "2026-04-09T14:20:13.000Z",
+        "topic": "market",
         "feedId": "bev-alcohol",
         "feedName": "Bier / Wein / Spirituosen",
         "feedKind": "search",
@@ -95,7 +73,7 @@
         "regulationSignal": true,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 68,
+        "ageHours": 72,
         "score": 50,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -117,7 +95,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 55,
+        "ageHours": 59,
         "score": 48,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -139,7 +117,7 @@
         "regulationSignal": false,
         "launchSignal": true,
         "financeLike": false,
-        "ageHours": 30,
+        "ageHours": 34,
         "score": 45,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -161,7 +139,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 13,
+        "ageHours": 17,
         "score": 44,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -183,7 +161,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 17,
+        "ageHours": 21,
         "score": 44,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -205,7 +183,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 19,
+        "ageHours": 22,
         "score": 44,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -227,11 +205,35 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 20,
+        "ageHours": 23,
         "score": 44,
         "bucket": "watch",
         "readingClass": "beobachten"
       },
+      {
+        "id": "ae62fc50f2da",
+        "title": "Italiens Gaststättengewerbe erwartet 8% Umsatzwachstum - Vinetur",
+        "summary": "Italiens Gaststättengewerbe erwartet 8% Umsatzwachstum Vinetur",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdlhHYVQ5U3BrUGQtUXp1eFJZSHlaRU8taUFKdnh6UFRMUk9lRmt1dnRDTklKSzAyTnVhOXRSU2NFMzZxbmRYYWpUVlBEMWhmc3N2VVhCYV9UM1RSaHNlM3MwUVNWR25MR2N1Z2w4Y3k4MENBUmZoLWljdnFINUVVWTh3ZVNLZXRmZWlHa1drRWhmRVVMbzY4MVlR0gGfAUFVX3lxTE9vSlhQTzhTSFRuMzRxcDdvMWhlQkdPZ09Ld2JDbE5oUFJSMHZZZmF4TWFzVFRnNDFpbHV3aXI1M3BhV1NsMk5xM3ZLRmJ5WnFiQXowbXBkbFB5azlnanZweXZYcUJTbXQyRmpwNWpHZzZEbVJYZGlxM0RHWmMxSC1xd2swRTdMWUhRdzNXelpEMjhRTnNCQlRMcndWSDFKRQ?oc=5",
+        "domain": "news.google.com",
+        "publishedAt": "2026-04-08T21:31:40.000Z",
+        "topic": "alcohol",
+        "feedId": "bev-alcohol",
+        "feedName": "Bier / Wein / Spirituosen",
+        "feedKind": "search",
+        "basePriority": 1,
+        "dachSignal": false,
+        "operatorSignal": false,
+        "regulationSignal": false,
+        "launchSignal": false,
+        "financeLike": false,
+        "ageHours": 24,
+        "score": 44,
+        "bucket": "watch",
+        "readingClass": "beobachten"
+      }
+    ],
+    "read": [
       {
         "id": "2b850a0c5673",
         "title": "Craemer develops two-piece plastic pallet for heavy loads in the beverage industry - Logistra",
@@ -249,13 +251,11 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 24,
-        "score": 44,
-        "bucket": "watch",
-        "readingClass": "beobachten"
-      }
-    ],
-    "read": [
+        "ageHours": 28,
+        "score": 38,
+        "bucket": "read",
+        "readingClass": "lesen"
+      },
       {
         "id": "859c1451896d",
         "title": "Dresden: Warum alkoholfreier Wein wichtiger wird - Sachsen Fernsehen",
@@ -273,7 +273,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 31,
+        "ageHours": 34,
         "score": 38,
         "bucket": "read",
         "readingClass": "lesen"
@@ -295,7 +295,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 32,
+        "ageHours": 36,
         "score": 38,
         "bucket": "read",
         "readingClass": "lesen"
@@ -317,7 +317,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 34,
+        "ageHours": 38,
         "score": 38,
         "bucket": "read",
         "readingClass": "lesen"
@@ -339,7 +339,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 43,
+        "ageHours": 46,
         "score": 38,
         "bucket": "read",
         "readingClass": "lesen"
@@ -361,7 +361,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 56,
+        "ageHours": 59,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -383,7 +383,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 56,
+        "ageHours": 60,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -405,7 +405,29 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 56,
+        "ageHours": 60,
+        "score": 32,
+        "bucket": "read",
+        "readingClass": "lesen"
+      },
+      {
+        "id": "70f708f2d7b3",
+        "title": "Getränkeautomaten in Japan verlieren immer mehr Marktanteile an Supermärkte und Drogerien - Sumikai",
+        "summary": "Getränkeautomaten in Japan verlieren immer mehr Marktanteile an Supermärkte und Drogerien Sumikai",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNdUphOE1vZ3VHNkIybGV3T3ExZ25WSklsMTdaZWJZWGZlcWhqQ2JMTzNhNk43YkpnbVdfcE1GUFhLc2hyN3NlbDhPVkgwajJ6aDRwTTR0MUdKM29QNFBfWk1QU2FLdVFhQS04SDd0Z0dKQ0NFQVhVVENpMzZUcldQZmZhSnNncENDUFg3d1oxbktMa200ZmFHWFRXMmpRbUtDQ1BlRWVNSFU3QWNsdEtWVFg5Q2R3QjM0WE45Wkh3SjJHUmVRRFAydHNVZVctNVFJZm1EcDk1dVhabEp3N3JJb2RVY2hqZ3M?oc=5",
+        "domain": "news.google.com",
+        "publishedAt": "2026-04-07T05:00:00.000Z",
+        "topic": "market",
+        "feedId": "bev-launches",
+        "feedName": "Launches / Neuheiten",
+        "feedKind": "search",
+        "basePriority": 0.95,
+        "dachSignal": false,
+        "operatorSignal": false,
+        "regulationSignal": false,
+        "launchSignal": false,
+        "financeLike": false,
+        "ageHours": 64,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -427,29 +449,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 62,
-        "score": 32,
-        "bucket": "read",
-        "readingClass": "lesen"
-      },
-      {
-        "id": "94ace128bd18",
-        "title": "Argentinische Weinkellereien eröffnen neue High-End-Anlagen trotz Branchenflaute - Vinetur",
-        "summary": "Argentinische Weinkellereien eröffnen neue High-End-Anlagen trotz Branchenflaute Vinetur",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNY0E3Z2Q2YmdEbXFyVGExTlAyMmFhbi1YcHgySjJIU0Y1ZGJPOFBGTG1iSjdaUFNWSzdMdl9iZlE5aFc2bUZLaWp4aHljazJhQlM1cTQ0WndzUWQxX2lsWjNqUU5Vc0RuYV93SjBuNFVsX0FVT3hxQ1NDS0hKd093bE5TOTFkT3VVZWk4X084bHpsVEVvb29QQTVoQUs3LWtSNV9Rak1EbHZaTnNueG03U0lQdzRobGxVeWpBMm930gHDAUFVX3lxTE5LQV90UktMcjlzYVBrdFEzS01NUHJkV3RYLTZzT3U0SUotRC1nRDE3RlV3ZTRKVzd2N3dlN1JNWkZrQXMtWXZsQjFWNHJBV3lyRFhNelVUSE5qMHhRLTBiTnRLZ3Y5bVowTFJvWFNicHIwb3dJc0dkcElrWDZjQWo4dE1yUkcyTVk1aGREVDRRR2laUkpqQzRZWW1wbHd4NlZwX25XV2ZoaXlNdUNtMzJIMU1RLUpkSzRnLXBmazFmNXRWUQ?oc=5",
-        "domain": "news.google.com",
-        "publishedAt": "2026-04-07T00:16:03.000Z",
-        "topic": "alcohol",
-        "feedId": "bev-alcohol",
-        "feedName": "Bier / Wein / Spirituosen",
-        "feedKind": "search",
-        "basePriority": 1,
-        "dachSignal": false,
-        "operatorSignal": false,
-        "regulationSignal": false,
-        "launchSignal": false,
-        "financeLike": false,
-        "ageHours": 65,
+        "ageHours": 66,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -471,7 +471,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 66,
+        "ageHours": 70,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -493,7 +493,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 67,
+        "ageHours": 70,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -515,7 +515,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 68,
+        "ageHours": 71,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -537,7 +537,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 68,
+        "ageHours": 71,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -559,7 +559,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 68,
+        "ageHours": 72,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -581,7 +581,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 68,
+        "ageHours": 72,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -603,7 +603,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 114,
+        "ageHours": 117,
         "score": 31,
         "bucket": "read",
         "readingClass": "lesen"
@@ -625,7 +625,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 118,
+        "ageHours": 122,
         "score": 28,
         "bucket": "read",
         "readingClass": "lesen"
@@ -647,7 +647,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 147,
+        "ageHours": 151,
         "score": 28,
         "bucket": "read",
         "readingClass": "lesen"
@@ -669,7 +669,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 116,
+        "ageHours": 120,
         "score": 27,
         "bucket": "read",
         "readingClass": "lesen"
@@ -691,7 +691,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 105,
+        "ageHours": 109,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -713,7 +713,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 139,
+        "ageHours": 142,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -735,29 +735,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 147,
-        "score": 26,
-        "bucket": "read",
-        "readingClass": "lesen"
-      },
-      {
-        "id": "b866238d89c9",
-        "title": "Aufbruchstimmung - meininger.de",
-        "summary": "Aufbruchstimmung meininger.de",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB4dEtrWVdhR1Zmd29tM2F5bEloYV9NLXR3d1dULXFVNERtX3ZXc0VJRkRfVGNyRVhUVjY5RlJFajFyeVNRQnlkVm1NZkUyTHdna094YnBaSVltUXNYWkM4NmFYa2dWZw?oc=5",
-        "domain": "news.google.com",
-        "publishedAt": "2026-04-03T06:26:09.000Z",
-        "topic": "alcohol",
-        "feedId": "bev-alcohol",
-        "feedName": "Bier / Wein / Spirituosen",
-        "feedKind": "search",
-        "basePriority": 1,
-        "dachSignal": false,
-        "operatorSignal": false,
-        "regulationSignal": false,
-        "launchSignal": false,
-        "financeLike": false,
-        "ageHours": 155,
+        "ageHours": 151,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -779,7 +757,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 163,
+        "ageHours": 166,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -789,11 +767,11 @@
   "radar": {
     "dominantTopic": {
       "id": "alcohol",
-      "count": 23
+      "count": 21
     },
     "dachSignals": 0,
     "regulationSignals": 1,
-    "operatorSignals": 3
+    "operatorSignals": 2
   },
   "sourceStats": [
     {
@@ -803,17 +781,17 @@
     },
     {
       "feedName": "Launches / Neuheiten",
-      "count": 1,
-      "avgScore": 45
+      "count": 2,
+      "avgScore": 39
     },
     {
       "feedName": "Getränkeindustrie",
       "count": 1,
-      "avgScore": 44
+      "avgScore": 38
     },
     {
       "feedName": "Bier / Wein / Spirituosen",
-      "count": 28,
+      "count": 26,
       "avgScore": 36
     },
     {
@@ -834,28 +812,6 @@
   ],
   "items": [
     {
-      "id": "58b7925c1ad8",
-      "title": "7. Biersommelier-Staatsmeisterschaft 2026 in Vorarlberg - GASTRO.at",
-      "summary": "7. Biersommelier-Staatsmeisterschaft 2026 in Vorarlberg GASTRO.at",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOamVOSEpmbDE0czZ4a18tQTJPNFlUaUFWa2VmVms2dFNBWXljNHRpaDlFQXgtOTd0LXJYUkhFWkRUamJSRUtSQjdJaXpwcVpGN1VqNjJIWHI4Nzd6blhLcHVBRnVpbXJvMDJCV1pTTlFCNUhadkhCRmtyTlI5RjljUE9KbVktMkR1eVp0ZzVn?oc=5",
-      "domain": "news.google.com",
-      "publishedAt": "2026-04-08T09:23:20.000Z",
-      "topic": "market",
-      "feedId": "bev-alcohol",
-      "feedName": "Bier / Wein / Spirituosen",
-      "feedKind": "search",
-      "basePriority": 1,
-      "dachSignal": false,
-      "operatorSignal": true,
-      "regulationSignal": false,
-      "launchSignal": false,
-      "financeLike": false,
-      "ageHours": 32,
-      "score": 52,
-      "bucket": "watch",
-      "readingClass": "beobachten"
-    },
-    {
       "id": "6a9fe17729e5",
       "title": "Weingut Keringer wird exklusiver ÖFB Weinpartner - GASTRO.at",
       "summary": "Weingut Keringer wird exklusiver ÖFB Weinpartner GASTRO.at",
@@ -872,19 +828,19 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 33,
+      "ageHours": 37,
       "score": 52,
       "bucket": "watch",
       "readingClass": "beobachten"
     },
     {
-      "id": "aba4fe159532",
-      "title": "500 verschiedene Biersorten, 7.000 m² Biergarten und ein Pop-up-Restaurant mit Craft-Bier-Paarungen: Das „Bierparadies“ kehrt dieses Wochenende zurück - Barcelona Secreta",
-      "summary": "500 verschiedene Biersorten, 7.000 m² Biergarten und ein Pop-up-Restaurant mit Craft-Bier-Paarungen: Das „Bierparadies“ kehrt dieses Wochenende zurück Barcelona Secreta",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2eEVkTmVhekpBZi1McThWMDNkZkFVbkpLeWxydG1WaVFudXRKOFdfeXRLX3NoU3RpTE15Z3JFSmwtR2I5MXp6eEk2R0ZXYzUtb05mMDN0VmdUbW5XRmE3dnU2bWxRUEJjSy1ZY1RwU3RRTDFROU9DcGxNVWJZclE?oc=5",
+      "id": "0680e7dbb62e",
+      "title": "Für eine D-Mark zum Weltmarktführer: Wie Kirow aus Leipzig zum Hidden Champion aufstieg - LVZ - Leipziger Volkszeitung",
+      "summary": "Für eine D-Mark zum Weltmarktführer: Wie Kirow aus Leipzig zum Hidden Champion aufstieg LVZ - Leipziger Volkszeitung",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNeWxmLWZNYlVmWkFLLWJiUW1kUlpyZXFQV3N4M1dKaTJJNlFMVUZzZ3NqbVFIT3FvQzY5SWEwM1hYa2FyblVOanN5VUpzTWtsRjVXN3NsMUcySURQV1pvQ3pKQUhmc2ZuQWtVQmtoMmlFWTBTSUhqWFV3RERsekxEekQ3R3ZnTm5Ub2RaZUdhVlZPRkRBMFFCSTQ5eFdRbzJ3T2FsNjZDTHl4ZGVtaGc5eG5GeVlyWGhsa3hRdEFqMW5vSXdHYlZaVjdRTFVjOVAyYzYyeERFb3JQcHB4X0JqYS1uUXFtdy1ndElSMk9RRGbSAYwCQVVfeXFMT3A0aVY1emxpZE5ucWtlaVJpbG1RQ01pQldjaTlVQjNGblZCY2ZPalkyaEtZRXhJZkx6cUF1TUNmRUoxWEg0NUlZbXRVbkVLU3VjMElHUHVBeGtCdDF4Q1l5NVlCSEVLU1JMeUZfUmFoYzRZd0c2VDBpejljRjJNN1FyUUh0SHpBTWFFSUhQbW00UTc4YWlEQVFKRTZBVHpnOGNnMjJGaTcxS1ZnRTZkb3pvaW9MaHloQjZxVlhzZ0w0MWFzNnRzdno1R0h1c2c1R2hhVDB4dGdtUmhORTVwR19BMjN2SEFjM191M21uVWVKcjFHWERnWDFaRGUzN29udFZsZlhQMjI4UWVFOQ?oc=5",
       "domain": "news.google.com",
-      "publishedAt": "2026-04-09T10:25:53.000Z",
-      "topic": "alcohol",
+      "publishedAt": "2026-04-09T14:20:13.000Z",
+      "topic": "market",
       "feedId": "bev-alcohol",
       "feedName": "Bier / Wein / Spirituosen",
       "feedKind": "search",
@@ -916,7 +872,7 @@
       "regulationSignal": true,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 68,
+      "ageHours": 72,
       "score": 50,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -938,7 +894,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 55,
+      "ageHours": 59,
       "score": 48,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -960,7 +916,7 @@
       "regulationSignal": false,
       "launchSignal": true,
       "financeLike": false,
-      "ageHours": 30,
+      "ageHours": 34,
       "score": 45,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -982,7 +938,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 13,
+      "ageHours": 17,
       "score": 44,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -1004,7 +960,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 17,
+      "ageHours": 21,
       "score": 44,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -1026,7 +982,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 19,
+      "ageHours": 22,
       "score": 44,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -1048,7 +1004,29 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 20,
+      "ageHours": 23,
+      "score": 44,
+      "bucket": "watch",
+      "readingClass": "beobachten"
+    },
+    {
+      "id": "ae62fc50f2da",
+      "title": "Italiens Gaststättengewerbe erwartet 8% Umsatzwachstum - Vinetur",
+      "summary": "Italiens Gaststättengewerbe erwartet 8% Umsatzwachstum Vinetur",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdlhHYVQ5U3BrUGQtUXp1eFJZSHlaRU8taUFKdnh6UFRMUk9lRmt1dnRDTklKSzAyTnVhOXRSU2NFMzZxbmRYYWpUVlBEMWhmc3N2VVhCYV9UM1RSaHNlM3MwUVNWR25MR2N1Z2w4Y3k4MENBUmZoLWljdnFINUVVWTh3ZVNLZXRmZWlHa1drRWhmRVVMbzY4MVlR0gGfAUFVX3lxTE9vSlhQTzhTSFRuMzRxcDdvMWhlQkdPZ09Ld2JDbE5oUFJSMHZZZmF4TWFzVFRnNDFpbHV3aXI1M3BhV1NsMk5xM3ZLRmJ5WnFiQXowbXBkbFB5azlnanZweXZYcUJTbXQyRmpwNWpHZzZEbVJYZGlxM0RHWmMxSC1xd2swRTdMWUhRdzNXelpEMjhRTnNCQlRMcndWSDFKRQ?oc=5",
+      "domain": "news.google.com",
+      "publishedAt": "2026-04-08T21:31:40.000Z",
+      "topic": "alcohol",
+      "feedId": "bev-alcohol",
+      "feedName": "Bier / Wein / Spirituosen",
+      "feedKind": "search",
+      "basePriority": 1,
+      "dachSignal": false,
+      "operatorSignal": false,
+      "regulationSignal": false,
+      "launchSignal": false,
+      "financeLike": false,
+      "ageHours": 24,
       "score": 44,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -1070,10 +1048,10 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 24,
-      "score": 44,
-      "bucket": "watch",
-      "readingClass": "beobachten"
+      "ageHours": 28,
+      "score": 38,
+      "bucket": "read",
+      "readingClass": "lesen"
     },
     {
       "id": "859c1451896d",
@@ -1092,7 +1070,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 31,
+      "ageHours": 34,
       "score": 38,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1114,7 +1092,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 32,
+      "ageHours": 36,
       "score": 38,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1136,7 +1114,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 34,
+      "ageHours": 38,
       "score": 38,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1158,7 +1136,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 43,
+      "ageHours": 46,
       "score": 38,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1180,7 +1158,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 56,
+      "ageHours": 59,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1202,7 +1180,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 56,
+      "ageHours": 60,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1224,7 +1202,29 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 56,
+      "ageHours": 60,
+      "score": 32,
+      "bucket": "read",
+      "readingClass": "lesen"
+    },
+    {
+      "id": "70f708f2d7b3",
+      "title": "Getränkeautomaten in Japan verlieren immer mehr Marktanteile an Supermärkte und Drogerien - Sumikai",
+      "summary": "Getränkeautomaten in Japan verlieren immer mehr Marktanteile an Supermärkte und Drogerien Sumikai",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNdUphOE1vZ3VHNkIybGV3T3ExZ25WSklsMTdaZWJZWGZlcWhqQ2JMTzNhNk43YkpnbVdfcE1GUFhLc2hyN3NlbDhPVkgwajJ6aDRwTTR0MUdKM29QNFBfWk1QU2FLdVFhQS04SDd0Z0dKQ0NFQVhVVENpMzZUcldQZmZhSnNncENDUFg3d1oxbktMa200ZmFHWFRXMmpRbUtDQ1BlRWVNSFU3QWNsdEtWVFg5Q2R3QjM0WE45Wkh3SjJHUmVRRFAydHNVZVctNVFJZm1EcDk1dVhabEp3N3JJb2RVY2hqZ3M?oc=5",
+      "domain": "news.google.com",
+      "publishedAt": "2026-04-07T05:00:00.000Z",
+      "topic": "market",
+      "feedId": "bev-launches",
+      "feedName": "Launches / Neuheiten",
+      "feedKind": "search",
+      "basePriority": 0.95,
+      "dachSignal": false,
+      "operatorSignal": false,
+      "regulationSignal": false,
+      "launchSignal": false,
+      "financeLike": false,
+      "ageHours": 64,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1246,29 +1246,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 62,
-      "score": 32,
-      "bucket": "read",
-      "readingClass": "lesen"
-    },
-    {
-      "id": "94ace128bd18",
-      "title": "Argentinische Weinkellereien eröffnen neue High-End-Anlagen trotz Branchenflaute - Vinetur",
-      "summary": "Argentinische Weinkellereien eröffnen neue High-End-Anlagen trotz Branchenflaute Vinetur",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNY0E3Z2Q2YmdEbXFyVGExTlAyMmFhbi1YcHgySjJIU0Y1ZGJPOFBGTG1iSjdaUFNWSzdMdl9iZlE5aFc2bUZLaWp4aHljazJhQlM1cTQ0WndzUWQxX2lsWjNqUU5Vc0RuYV93SjBuNFVsX0FVT3hxQ1NDS0hKd093bE5TOTFkT3VVZWk4X084bHpsVEVvb29QQTVoQUs3LWtSNV9Rak1EbHZaTnNueG03U0lQdzRobGxVeWpBMm930gHDAUFVX3lxTE5LQV90UktMcjlzYVBrdFEzS01NUHJkV3RYLTZzT3U0SUotRC1nRDE3RlV3ZTRKVzd2N3dlN1JNWkZrQXMtWXZsQjFWNHJBV3lyRFhNelVUSE5qMHhRLTBiTnRLZ3Y5bVowTFJvWFNicHIwb3dJc0dkcElrWDZjQWo4dE1yUkcyTVk1aGREVDRRR2laUkpqQzRZWW1wbHd4NlZwX25XV2ZoaXlNdUNtMzJIMU1RLUpkSzRnLXBmazFmNXRWUQ?oc=5",
-      "domain": "news.google.com",
-      "publishedAt": "2026-04-07T00:16:03.000Z",
-      "topic": "alcohol",
-      "feedId": "bev-alcohol",
-      "feedName": "Bier / Wein / Spirituosen",
-      "feedKind": "search",
-      "basePriority": 1,
-      "dachSignal": false,
-      "operatorSignal": false,
-      "regulationSignal": false,
-      "launchSignal": false,
-      "financeLike": false,
-      "ageHours": 65,
+      "ageHours": 66,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1290,7 +1268,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 66,
+      "ageHours": 70,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1312,7 +1290,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 67,
+      "ageHours": 70,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1334,7 +1312,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 68,
+      "ageHours": 71,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1356,7 +1334,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 68,
+      "ageHours": 71,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1378,7 +1356,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 68,
+      "ageHours": 72,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1400,7 +1378,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 68,
+      "ageHours": 72,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1422,7 +1400,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 114,
+      "ageHours": 117,
       "score": 31,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1444,7 +1422,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 118,
+      "ageHours": 122,
       "score": 28,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1466,7 +1444,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 147,
+      "ageHours": 151,
       "score": 28,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1488,7 +1466,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 116,
+      "ageHours": 120,
       "score": 27,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1510,7 +1488,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 105,
+      "ageHours": 109,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1532,7 +1510,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 139,
+      "ageHours": 142,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1554,29 +1532,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 147,
-      "score": 26,
-      "bucket": "read",
-      "readingClass": "lesen"
-    },
-    {
-      "id": "b866238d89c9",
-      "title": "Aufbruchstimmung - meininger.de",
-      "summary": "Aufbruchstimmung meininger.de",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB4dEtrWVdhR1Zmd29tM2F5bEloYV9NLXR3d1dULXFVNERtX3ZXc0VJRkRfVGNyRVhUVjY5RlJFajFyeVNRQnlkVm1NZkUyTHdna094YnBaSVltUXNYWkM4NmFYa2dWZw?oc=5",
-      "domain": "news.google.com",
-      "publishedAt": "2026-04-03T06:26:09.000Z",
-      "topic": "alcohol",
-      "feedId": "bev-alcohol",
-      "feedName": "Bier / Wein / Spirituosen",
-      "feedKind": "search",
-      "basePriority": 1,
-      "dachSignal": false,
-      "operatorSignal": false,
-      "regulationSignal": false,
-      "launchSignal": false,
-      "financeLike": false,
-      "ageHours": 155,
+      "ageHours": 151,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1598,7 +1554,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 163,
+      "ageHours": 166,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
