@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-04-11T03:17:23.430Z",
+  "generatedAt": "2026-04-11T05:38:13.175Z",
   "totals": {
-    "items": 37,
+    "items": 38,
     "sources": 8,
     "failures": 0,
     "todayImportant": 0,
     "watch": 8,
-    "read": 29
+    "read": 30
   },
   "failures": [],
   "sections": {
@@ -29,7 +29,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 3,
+        "ageHours": 5,
         "score": 50,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -51,7 +51,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 7,
+        "ageHours": 9,
         "score": 50,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -73,7 +73,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 18,
+        "ageHours": 20,
         "score": 46,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -95,7 +95,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 66,
+        "ageHours": 68,
         "score": 46,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -117,7 +117,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 67,
+        "ageHours": 69,
         "score": 46,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -139,7 +139,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 18,
+        "ageHours": 21,
         "score": 44,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -161,7 +161,7 @@
         "regulationSignal": true,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 102,
+        "ageHours": 105,
         "score": 44,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -183,7 +183,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 89,
+        "ageHours": 92,
         "score": 42,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -207,7 +207,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 31,
+        "ageHours": 34,
         "score": 40,
         "bucket": "read",
         "readingClass": "lesen"
@@ -229,7 +229,7 @@
         "regulationSignal": false,
         "launchSignal": true,
         "financeLike": false,
-        "ageHours": 64,
+        "ageHours": 67,
         "score": 39,
         "bucket": "read",
         "readingClass": "lesen"
@@ -251,7 +251,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 30,
+        "ageHours": 32,
         "score": 38,
         "bucket": "read",
         "readingClass": "lesen"
@@ -273,7 +273,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 40,
+        "ageHours": 43,
         "score": 38,
         "bucket": "read",
         "readingClass": "lesen"
@@ -295,7 +295,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 41,
+        "ageHours": 43,
         "score": 38,
         "bucket": "read",
         "readingClass": "lesen"
@@ -317,8 +317,8 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 47,
-        "score": 38,
+        "ageHours": 50,
+        "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
       },
@@ -339,7 +339,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 51,
+        "ageHours": 53,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -361,7 +361,29 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 53,
+        "ageHours": 55,
+        "score": 32,
+        "bucket": "read",
+        "readingClass": "lesen"
+      },
+      {
+        "id": "889085975966",
+        "title": "Weinbau an der Mosel wird weiblicher: Immer mehr Frauen im Winzergeschäft - SWR",
+        "summary": "Weinbau an der Mosel wird weiblicher: Immer mehr Frauen im Winzergeschäft SWR",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObWVNMDBZejEyRW91YmVSSTctdUtSVXpXWmZRQlh0YkF4UlkyMHk4SFZXRUc0UHhaSjgwYnh2YUd1NG9TR3diTm90Q1piNF8yeXNCUVM3MkxGY0hGVy1laUFmaGV2bjJqQnZSWjZMQjNXWFM1TnktYTBTQ292OUJoRGhvMjZJRm1WOWxOODN4eVZmS19xcnlyU2VicEFhQTU1cmNmVWk5RFZfWTQ?oc=5",
+        "domain": "news.google.com",
+        "publishedAt": "2026-04-08T22:00:00.000Z",
+        "topic": "alcohol",
+        "feedId": "bev-alcohol",
+        "feedName": "Bier / Wein / Spirituosen",
+        "feedKind": "search",
+        "basePriority": 1,
+        "dachSignal": false,
+        "operatorSignal": false,
+        "regulationSignal": false,
+        "launchSignal": false,
+        "financeLike": false,
+        "ageHours": 56,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -383,7 +405,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 54,
+        "ageHours": 56,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -405,7 +427,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 65,
+        "ageHours": 67,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -427,7 +449,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 66,
+        "ageHours": 69,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -449,7 +471,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 68,
+        "ageHours": 71,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -471,7 +493,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 148,
+        "ageHours": 150,
         "score": 31,
         "bucket": "read",
         "readingClass": "lesen"
@@ -493,7 +515,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 152,
+        "ageHours": 154,
         "score": 28,
         "bucket": "read",
         "readingClass": "lesen"
@@ -515,7 +537,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 77,
+        "ageHours": 79,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -537,7 +559,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 89,
+        "ageHours": 92,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -559,7 +581,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 90,
+        "ageHours": 93,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -581,7 +603,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 90,
+        "ageHours": 93,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -603,29 +625,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 94,
-        "score": 26,
-        "bucket": "read",
-        "readingClass": "lesen"
-      },
-      {
-        "id": "caa480224b31",
-        "title": "Rückläufig­er Bierkonsum: Branche in Sachsen stemmt sich gegen das Brauereist­erben - PressReader",
-        "summary": "Rückläufig­er Bierkonsum: Branche in Sachsen stemmt sich gegen das Brauereist­erben PressReader",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSWMwaWxOX2lOeUplek1LRk5JVnNoWWZWbDF3UmRqYmVxRHp5cWFwaGpJUFYySVdKOUEzbHJmUjRlcnZYTWFybXp6bDhtZ2xRcERtaWFnN1RrMmFTc2wtOGx2Y0RxUXdla1pjODZhME85MFBPUGsyaFV4NmIxQVE4UU1DN1BQV1NBSG56dzB1SnI?oc=5",
-        "domain": "news.google.com",
-        "publishedAt": "2026-04-07T02:54:55.000Z",
-        "topic": "alcohol",
-        "feedId": "bev-alcohol",
-        "feedName": "Bier / Wein / Spirituosen",
-        "feedKind": "search",
-        "basePriority": 1,
-        "dachSignal": false,
-        "operatorSignal": false,
-        "regulationSignal": false,
-        "launchSignal": false,
-        "financeLike": false,
-        "ageHours": 96,
+        "ageHours": 97,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -647,7 +647,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 99,
+        "ageHours": 101,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -669,7 +669,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 100,
+        "ageHours": 102,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -691,7 +691,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 101,
+        "ageHours": 103,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -713,7 +713,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 102,
+        "ageHours": 104,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -723,7 +723,7 @@
   "radar": {
     "dominantTopic": {
       "id": "alcohol",
-      "count": 21
+      "count": 22
     },
     "dachSignals": 0,
     "regulationSignals": 1,
@@ -752,8 +752,8 @@
     },
     {
       "feedName": "Bier / Wein / Spirituosen",
-      "count": 28,
-      "avgScore": 33
+      "count": 29,
+      "avgScore": 32
     },
     {
       "feedName": "Regulierung",
@@ -784,7 +784,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 3,
+      "ageHours": 5,
       "score": 50,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -806,7 +806,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 7,
+      "ageHours": 9,
       "score": 50,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -828,7 +828,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 18,
+      "ageHours": 20,
       "score": 46,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -850,7 +850,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 66,
+      "ageHours": 68,
       "score": 46,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -872,7 +872,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 67,
+      "ageHours": 69,
       "score": 46,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -894,7 +894,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 18,
+      "ageHours": 21,
       "score": 44,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -916,7 +916,7 @@
       "regulationSignal": true,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 102,
+      "ageHours": 105,
       "score": 44,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -938,7 +938,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 89,
+      "ageHours": 92,
       "score": 42,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -960,7 +960,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 31,
+      "ageHours": 34,
       "score": 40,
       "bucket": "read",
       "readingClass": "lesen"
@@ -982,7 +982,7 @@
       "regulationSignal": false,
       "launchSignal": true,
       "financeLike": false,
-      "ageHours": 64,
+      "ageHours": 67,
       "score": 39,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1004,7 +1004,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 30,
+      "ageHours": 32,
       "score": 38,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1026,7 +1026,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 40,
+      "ageHours": 43,
       "score": 38,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1048,7 +1048,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 41,
+      "ageHours": 43,
       "score": 38,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1070,8 +1070,8 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 47,
-      "score": 38,
+      "ageHours": 50,
+      "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
     },
@@ -1092,7 +1092,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 51,
+      "ageHours": 53,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1114,7 +1114,29 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 53,
+      "ageHours": 55,
+      "score": 32,
+      "bucket": "read",
+      "readingClass": "lesen"
+    },
+    {
+      "id": "889085975966",
+      "title": "Weinbau an der Mosel wird weiblicher: Immer mehr Frauen im Winzergeschäft - SWR",
+      "summary": "Weinbau an der Mosel wird weiblicher: Immer mehr Frauen im Winzergeschäft SWR",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObWVNMDBZejEyRW91YmVSSTctdUtSVXpXWmZRQlh0YkF4UlkyMHk4SFZXRUc0UHhaSjgwYnh2YUd1NG9TR3diTm90Q1piNF8yeXNCUVM3MkxGY0hGVy1laUFmaGV2bjJqQnZSWjZMQjNXWFM1TnktYTBTQ292OUJoRGhvMjZJRm1WOWxOODN4eVZmS19xcnlyU2VicEFhQTU1cmNmVWk5RFZfWTQ?oc=5",
+      "domain": "news.google.com",
+      "publishedAt": "2026-04-08T22:00:00.000Z",
+      "topic": "alcohol",
+      "feedId": "bev-alcohol",
+      "feedName": "Bier / Wein / Spirituosen",
+      "feedKind": "search",
+      "basePriority": 1,
+      "dachSignal": false,
+      "operatorSignal": false,
+      "regulationSignal": false,
+      "launchSignal": false,
+      "financeLike": false,
+      "ageHours": 56,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1136,7 +1158,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 54,
+      "ageHours": 56,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1158,7 +1180,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 65,
+      "ageHours": 67,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1180,7 +1202,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 66,
+      "ageHours": 69,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1202,7 +1224,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 68,
+      "ageHours": 71,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1224,7 +1246,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 148,
+      "ageHours": 150,
       "score": 31,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1246,7 +1268,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 152,
+      "ageHours": 154,
       "score": 28,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1268,7 +1290,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 77,
+      "ageHours": 79,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1290,7 +1312,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 89,
+      "ageHours": 92,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1312,7 +1334,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 90,
+      "ageHours": 93,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1334,7 +1356,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 90,
+      "ageHours": 93,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1356,29 +1378,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 94,
-      "score": 26,
-      "bucket": "read",
-      "readingClass": "lesen"
-    },
-    {
-      "id": "caa480224b31",
-      "title": "Rückläufig­er Bierkonsum: Branche in Sachsen stemmt sich gegen das Brauereist­erben - PressReader",
-      "summary": "Rückläufig­er Bierkonsum: Branche in Sachsen stemmt sich gegen das Brauereist­erben PressReader",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSWMwaWxOX2lOeUplek1LRk5JVnNoWWZWbDF3UmRqYmVxRHp5cWFwaGpJUFYySVdKOUEzbHJmUjRlcnZYTWFybXp6bDhtZ2xRcERtaWFnN1RrMmFTc2wtOGx2Y0RxUXdla1pjODZhME85MFBPUGsyaFV4NmIxQVE4UU1DN1BQV1NBSG56dzB1SnI?oc=5",
-      "domain": "news.google.com",
-      "publishedAt": "2026-04-07T02:54:55.000Z",
-      "topic": "alcohol",
-      "feedId": "bev-alcohol",
-      "feedName": "Bier / Wein / Spirituosen",
-      "feedKind": "search",
-      "basePriority": 1,
-      "dachSignal": false,
-      "operatorSignal": false,
-      "regulationSignal": false,
-      "launchSignal": false,
-      "financeLike": false,
-      "ageHours": 96,
+      "ageHours": 97,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1400,7 +1400,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 99,
+      "ageHours": 101,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1422,7 +1422,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 100,
+      "ageHours": 102,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1444,7 +1444,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 101,
+      "ageHours": 103,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1466,7 +1466,29 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 102,
+      "ageHours": 104,
+      "score": 26,
+      "bucket": "read",
+      "readingClass": "lesen"
+    },
+    {
+      "id": "52b122fbadaf",
+      "title": "Mehrheit der US-Weintrinker sagt, dass steigende Kosten sie dazu zwingen, ihre Einkäufe zu reduzieren - Vinetur",
+      "summary": "Mehrheit der US-Weintrinker sagt, dass steigende Kosten sie dazu zwingen, ihre Einkäufe zu reduzieren Vinetur",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZFd5VmwyN0tUb3RSYm9Pdlg5ajVzVGxSdm1jcGhNVTA1RXlRanZYTkVKQ0NtLTI4R28yTEhNMlprYnpYLVJ6QmFWdEZvOWlzOGttcnFldUNleGxIVkphU25JNF9tZDFkMHZGd3Z0d2pmaWYtbjNnRTV2UGFNOHJZTjE0dHBoajlJZkc1dzFTNDJjOF94aWN3RUQxRDNETnVmVzFSdG1IQWNCWmR6X3VuaHlJbEM4OTVsVFg0cUNLNkpRV085MmfSAcsBQVVfeXFMUEhtdm42ckhqVm9nTTVNQjA2bEg1Xzd3VnNqWERrYnh3eWl5NHoxeU5EbWd1cVF1UW83a0MtV2RTWFJ3T2l1bUxsZE45N0xrMjAzd3NSOUdRMWNzVFZVNjhnSzBkS3BEelJaVzltai1ZVGJVZ0VkaTJqQXEtcjI0VHNVcTlncTRmcGE4QmRzU0Q4M1NFYkl4eDZzRlJNSzhnY1h5OVNEb1AwLUhHeDZjbmtWMXROSGFWeWR0a1kzdW1ZSi1yczRNeENGWkU?oc=5",
+      "domain": "news.google.com",
+      "publishedAt": "2026-04-06T21:43:29.000Z",
+      "topic": "alcohol",
+      "feedId": "bev-alcohol",
+      "feedName": "Bier / Wein / Spirituosen",
+      "feedKind": "search",
+      "basePriority": 1,
+      "dachSignal": false,
+      "operatorSignal": false,
+      "regulationSignal": false,
+      "launchSignal": false,
+      "financeLike": false,
+      "ageHours": 104,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1488,7 +1510,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 102,
+      "ageHours": 104,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1510,7 +1532,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 102,
+      "ageHours": 105,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1532,7 +1554,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 139,
+      "ageHours": 142,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1554,7 +1576,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 143,
+      "ageHours": 145,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1576,7 +1598,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 150,
+      "ageHours": 152,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
