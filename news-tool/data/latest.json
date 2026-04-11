@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-11T13:21:07.409Z",
+  "generatedAt": "2026-04-11T16:53:43.185Z",
   "totals": {
     "items": 38,
     "sources": 8,
@@ -28,7 +28,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 5,
+        "ageHours": 9,
         "score": 65,
         "bucket": "today-important",
         "readingClass": "heute wichtig"
@@ -52,7 +52,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 13,
+        "ageHours": 17,
         "score": 44,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -74,7 +74,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 13,
+        "ageHours": 17,
         "score": 44,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -96,7 +96,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 17,
+        "ageHours": 20,
         "score": 44,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -118,7 +118,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 99,
+        "ageHours": 103,
         "score": 42,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -140,7 +140,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 28,
+        "ageHours": 32,
         "score": 40,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -162,7 +162,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 76,
+        "ageHours": 80,
         "score": 40,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -184,7 +184,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 77,
+        "ageHours": 81,
         "score": 40,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -208,7 +208,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 41,
+        "ageHours": 45,
         "score": 40,
         "bucket": "read",
         "readingClass": "lesen"
@@ -230,7 +230,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 37,
+        "ageHours": 41,
         "score": 38,
         "bucket": "read",
         "readingClass": "lesen"
@@ -252,7 +252,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 40,
+        "ageHours": 43,
         "score": 38,
         "bucket": "read",
         "readingClass": "lesen"
@@ -274,7 +274,7 @@
         "regulationSignal": false,
         "launchSignal": true,
         "financeLike": false,
-        "ageHours": 74,
+        "ageHours": 78,
         "score": 33,
         "bucket": "read",
         "readingClass": "lesen"
@@ -296,7 +296,29 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 50,
+        "ageHours": 54,
+        "score": 32,
+        "bucket": "read",
+        "readingClass": "lesen"
+      },
+      {
+        "id": "aba4fe159532",
+        "title": "500 verschiedene Biersorten, 7.000 m² Biergarten und ein Pop-up-Restaurant mit Craft-Bier-Paarungen: Das „Bierparadies“ kehrt dieses Wochenende zurück - Barcelona Secreta",
+        "summary": "500 verschiedene Biersorten, 7.000 m² Biergarten und ein Pop-up-Restaurant mit Craft-Bier-Paarungen: Das „Bierparadies“ kehrt dieses Wochenende zurück Barcelona Secreta",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2eEVkTmVhekpBZi1McThWMDNkZkFVbkpLeWxydG1WaVFudXRKOFdfeXRLX3NoU3RpTE15Z3JFSmwtR2I5MXp6eEk2R0ZXYzUtb05mMDN0VmdUbW5XRmE3dnU2bWxRUEJjSy1ZY1RwU3RRTDFROU9DcGxNVWJZclE?oc=5",
+        "domain": "news.google.com",
+        "publishedAt": "2026-04-09T10:25:53.000Z",
+        "topic": "alcohol",
+        "feedId": "bev-alcohol",
+        "feedName": "Bier / Wein / Spirituosen",
+        "feedKind": "search",
+        "basePriority": 1,
+        "dachSignal": false,
+        "operatorSignal": false,
+        "regulationSignal": false,
+        "launchSignal": false,
+        "financeLike": false,
+        "ageHours": 54,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -318,7 +340,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 57,
+        "ageHours": 61,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -340,29 +362,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 61,
-        "score": 32,
-        "bucket": "read",
-        "readingClass": "lesen"
-      },
-      {
-        "id": "889085975966",
-        "title": "Weinbau an der Mosel wird weiblicher: Immer mehr Frauen im Winzergeschäft - SWR",
-        "summary": "Weinbau an der Mosel wird weiblicher: Immer mehr Frauen im Winzergeschäft SWR",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObWVNMDBZejEyRW91YmVSSTctdUtSVXpXWmZRQlh0YkF4UlkyMHk4SFZXRUc0UHhaSjgwYnh2YUd1NG9TR3diTm90Q1piNF8yeXNCUVM3MkxGY0hGVy1laUFmaGV2bjJqQnZSWjZMQjNXWFM1TnktYTBTQ292OUJoRGhvMjZJRm1WOWxOODN4eVZmS19xcnlyU2VicEFhQTU1cmNmVWk5RFZfWTQ?oc=5",
-        "domain": "news.google.com",
-        "publishedAt": "2026-04-08T22:00:00.000Z",
-        "topic": "alcohol",
-        "feedId": "bev-alcohol",
-        "feedName": "Bier / Wein / Spirituosen",
-        "feedKind": "search",
-        "basePriority": 1,
-        "dachSignal": false,
-        "operatorSignal": false,
-        "regulationSignal": false,
-        "launchSignal": false,
-        "financeLike": false,
-        "ageHours": 63,
+        "ageHours": 65,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -384,7 +384,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 64,
+        "ageHours": 67,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -406,7 +406,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 64,
+        "ageHours": 67,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -428,7 +428,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 68,
+        "ageHours": 72,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -450,7 +450,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 158,
+        "ageHours": 161,
         "score": 31,
         "bucket": "read",
         "readingClass": "lesen"
@@ -472,7 +472,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 162,
+        "ageHours": 166,
         "score": 28,
         "bucket": "read",
         "readingClass": "lesen"
@@ -494,7 +494,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 75,
+        "ageHours": 78,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -516,7 +516,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 76,
+        "ageHours": 80,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -538,7 +538,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 78,
+        "ageHours": 82,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -560,7 +560,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 87,
+        "ageHours": 90,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -582,7 +582,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 100,
+        "ageHours": 103,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -604,7 +604,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 100,
+        "ageHours": 104,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -626,7 +626,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 100,
+        "ageHours": 104,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -648,7 +648,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 104,
+        "ageHours": 108,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -670,7 +670,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 109,
+        "ageHours": 113,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -692,7 +692,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 110,
+        "ageHours": 114,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -714,7 +714,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 111,
+        "ageHours": 114,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -785,7 +785,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 5,
+      "ageHours": 9,
       "score": 65,
       "bucket": "today-important",
       "readingClass": "heute wichtig"
@@ -807,7 +807,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 13,
+      "ageHours": 17,
       "score": 44,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -829,7 +829,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 13,
+      "ageHours": 17,
       "score": 44,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -851,7 +851,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 17,
+      "ageHours": 20,
       "score": 44,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -873,7 +873,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 99,
+      "ageHours": 103,
       "score": 42,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -895,7 +895,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 28,
+      "ageHours": 32,
       "score": 40,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -917,7 +917,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 41,
+      "ageHours": 45,
       "score": 40,
       "bucket": "read",
       "readingClass": "lesen"
@@ -939,7 +939,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 76,
+      "ageHours": 80,
       "score": 40,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -961,7 +961,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 77,
+      "ageHours": 81,
       "score": 40,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -983,7 +983,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 37,
+      "ageHours": 41,
       "score": 38,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1005,7 +1005,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 40,
+      "ageHours": 43,
       "score": 38,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1027,7 +1027,7 @@
       "regulationSignal": false,
       "launchSignal": true,
       "financeLike": false,
-      "ageHours": 74,
+      "ageHours": 78,
       "score": 33,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1049,7 +1049,29 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 50,
+      "ageHours": 54,
+      "score": 32,
+      "bucket": "read",
+      "readingClass": "lesen"
+    },
+    {
+      "id": "aba4fe159532",
+      "title": "500 verschiedene Biersorten, 7.000 m² Biergarten und ein Pop-up-Restaurant mit Craft-Bier-Paarungen: Das „Bierparadies“ kehrt dieses Wochenende zurück - Barcelona Secreta",
+      "summary": "500 verschiedene Biersorten, 7.000 m² Biergarten und ein Pop-up-Restaurant mit Craft-Bier-Paarungen: Das „Bierparadies“ kehrt dieses Wochenende zurück Barcelona Secreta",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2eEVkTmVhekpBZi1McThWMDNkZkFVbkpLeWxydG1WaVFudXRKOFdfeXRLX3NoU3RpTE15Z3JFSmwtR2I5MXp6eEk2R0ZXYzUtb05mMDN0VmdUbW5XRmE3dnU2bWxRUEJjSy1ZY1RwU3RRTDFROU9DcGxNVWJZclE?oc=5",
+      "domain": "news.google.com",
+      "publishedAt": "2026-04-09T10:25:53.000Z",
+      "topic": "alcohol",
+      "feedId": "bev-alcohol",
+      "feedName": "Bier / Wein / Spirituosen",
+      "feedKind": "search",
+      "basePriority": 1,
+      "dachSignal": false,
+      "operatorSignal": false,
+      "regulationSignal": false,
+      "launchSignal": false,
+      "financeLike": false,
+      "ageHours": 54,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1071,7 +1093,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 57,
+      "ageHours": 61,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1093,29 +1115,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 61,
-      "score": 32,
-      "bucket": "read",
-      "readingClass": "lesen"
-    },
-    {
-      "id": "889085975966",
-      "title": "Weinbau an der Mosel wird weiblicher: Immer mehr Frauen im Winzergeschäft - SWR",
-      "summary": "Weinbau an der Mosel wird weiblicher: Immer mehr Frauen im Winzergeschäft SWR",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObWVNMDBZejEyRW91YmVSSTctdUtSVXpXWmZRQlh0YkF4UlkyMHk4SFZXRUc0UHhaSjgwYnh2YUd1NG9TR3diTm90Q1piNF8yeXNCUVM3MkxGY0hGVy1laUFmaGV2bjJqQnZSWjZMQjNXWFM1TnktYTBTQ292OUJoRGhvMjZJRm1WOWxOODN4eVZmS19xcnlyU2VicEFhQTU1cmNmVWk5RFZfWTQ?oc=5",
-      "domain": "news.google.com",
-      "publishedAt": "2026-04-08T22:00:00.000Z",
-      "topic": "alcohol",
-      "feedId": "bev-alcohol",
-      "feedName": "Bier / Wein / Spirituosen",
-      "feedKind": "search",
-      "basePriority": 1,
-      "dachSignal": false,
-      "operatorSignal": false,
-      "regulationSignal": false,
-      "launchSignal": false,
-      "financeLike": false,
-      "ageHours": 63,
+      "ageHours": 65,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1137,7 +1137,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 64,
+      "ageHours": 67,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1159,7 +1159,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 64,
+      "ageHours": 67,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1181,7 +1181,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 68,
+      "ageHours": 72,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1203,7 +1203,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 158,
+      "ageHours": 161,
       "score": 31,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1225,7 +1225,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 162,
+      "ageHours": 166,
       "score": 28,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1247,7 +1247,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 75,
+      "ageHours": 78,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1269,7 +1269,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 76,
+      "ageHours": 80,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1291,7 +1291,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 78,
+      "ageHours": 82,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1313,7 +1313,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 87,
+      "ageHours": 90,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1335,7 +1335,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 100,
+      "ageHours": 103,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1357,7 +1357,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 100,
+      "ageHours": 104,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1379,7 +1379,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 100,
+      "ageHours": 104,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1401,7 +1401,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 104,
+      "ageHours": 108,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1423,7 +1423,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 109,
+      "ageHours": 113,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1445,7 +1445,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 110,
+      "ageHours": 114,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1467,7 +1467,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 111,
+      "ageHours": 114,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1489,7 +1489,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 112,
+      "ageHours": 115,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1511,7 +1511,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 112,
+      "ageHours": 115,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1533,7 +1533,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 112,
+      "ageHours": 116,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1555,7 +1555,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 112,
+      "ageHours": 116,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1577,7 +1577,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 149,
+      "ageHours": 153,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1599,7 +1599,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 160,
+      "ageHours": 164,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
