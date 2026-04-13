@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-04-13T17:18:01.001Z",
+  "generatedAt": "2026-04-13T17:30:45.013Z",
   "totals": {
-    "items": 39,
+    "items": 37,
     "sources": 8,
     "failures": 0,
     "todayImportant": 0,
-    "watch": 12,
-    "read": 27
+    "watch": 11,
+    "read": 26
   },
   "failures": [],
   "sections": {
@@ -95,7 +95,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 5,
+        "ageHours": 6,
         "score": 51,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -205,7 +205,7 @@
         "regulationSignal": true,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 164,
+        "ageHours": 165,
         "score": 44,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -229,28 +229,6 @@
         "financeLike": false,
         "ageHours": 151,
         "score": 42,
-        "bucket": "watch",
-        "readingClass": "beobachten"
-      },
-      {
-        "id": "58b7925c1ad8",
-        "title": "7. Biersommelier-Staatsmeisterschaft 2026 in Vorarlberg - GASTRO.at",
-        "summary": "7. Biersommelier-Staatsmeisterschaft 2026 in Vorarlberg GASTRO.at",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOamVOSEpmbDE0czZ4a18tQTJPNFlUaUFWa2VmVms2dFNBWXljNHRpaDlFQXgtOTd0LXJYUkhFWkRUamJSRUtSQjdJaXpwcVpGN1VqNjJIWHI4Nzd6blhLcHVBRnVpbXJvMDJCV1pTTlFCNUhadkhCRmtyTlI5RjljUE9KbVktMkR1eVp0ZzVn?oc=5",
-        "domain": "news.google.com",
-        "publishedAt": "2026-04-08T09:23:20.000Z",
-        "topic": "market",
-        "feedId": "bev-alcohol",
-        "feedName": "Bier / Wein / Spirituosen",
-        "feedKind": "search",
-        "basePriority": 1,
-        "dachSignal": false,
-        "operatorSignal": true,
-        "regulationSignal": false,
-        "launchSignal": false,
-        "financeLike": false,
-        "ageHours": 128,
-        "score": 40,
         "bucket": "watch",
         "readingClass": "beobachten"
       },
@@ -317,7 +295,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 45,
+        "ageHours": 46,
         "score": 38,
         "bucket": "read",
         "readingClass": "lesen"
@@ -477,28 +455,6 @@
         "readingClass": "lesen"
       },
       {
-        "id": "aba4fe159532",
-        "title": "500 verschiedene Biersorten, 7.000 m² Biergarten und ein Pop-up-Restaurant mit Craft-Bier-Paarungen: Das „Bierparadies“ kehrt dieses Wochenende zurück - Barcelona Secreta",
-        "summary": "500 verschiedene Biersorten, 7.000 m² Biergarten und ein Pop-up-Restaurant mit Craft-Bier-Paarungen: Das „Bierparadies“ kehrt dieses Wochenende zurück Barcelona Secreta",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2eEVkTmVhekpBZi1McThWMDNkZkFVbkpLeWxydG1WaVFudXRKOFdfeXRLX3NoU3RpTE15Z3JFSmwtR2I5MXp6eEk2R0ZXYzUtb05mMDN0VmdUbW5XRmE3dnU2bWxRUEJjSy1ZY1RwU3RRTDFROU9DcGxNVWJZclE?oc=5",
-        "domain": "news.google.com",
-        "publishedAt": "2026-04-09T10:25:53.000Z",
-        "topic": "alcohol",
-        "feedId": "bev-alcohol",
-        "feedName": "Bier / Wein / Spirituosen",
-        "feedKind": "search",
-        "basePriority": 1,
-        "dachSignal": false,
-        "operatorSignal": false,
-        "regulationSignal": false,
-        "launchSignal": false,
-        "financeLike": false,
-        "ageHours": 103,
-        "score": 26,
-        "bucket": "read",
-        "readingClass": "lesen"
-      },
-      {
         "id": "d032e0ea2a87",
         "title": "Bier-Branche stemmt sich gegen Brauereisterben + Pläne für neues Industriegebiet + Schweinepest erneut ausgebrochen - Sächsische Zeitung",
         "summary": "Bier-Branche stemmt sich gegen Brauereisterben + Pläne für neues Industriegebiet + Schweinepest erneut ausgebrochen Sächsische Zeitung",
@@ -515,7 +471,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 109,
+        "ageHours": 110,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -647,7 +603,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 130,
+        "ageHours": 131,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -691,7 +647,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 151,
+        "ageHours": 152,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -735,7 +691,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 152,
+        "ageHours": 153,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -757,7 +713,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 156,
+        "ageHours": 157,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -805,17 +761,39 @@
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
+      },
+      {
+        "id": "9ecc2f992218",
+        "title": "IWINETC-Organisatoren stellen internationale Lebensmitteltourismuskonferenz vor, die 2026 in Spanien stattfinden soll - Vinetur",
+        "summary": "IWINETC-Organisatoren stellen internationale Lebensmitteltourismuskonferenz vor, die 2026 in Spanien stattfinden soll Vinetur",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRVhGSmd1UnBiamZVeXgzRU5kZlFHdUZaMm5CcGpxY0w3b0owN2ZFYmZ0VURjMnQxTTlZaW1hVUNIblBHRmpVQXpubnlyUjNRN0UxMHNKN05PQTBYanI5eFhlUEVJckxRV0JwS3pHUEc4a0NzUWdsWE1BbWxnYUM4N01fa05JbzkwbEpvbm1FQ3JsanZkZjIzYmJZNENpWExqVnNTaVA4T29Da1JKTkV2VjgwLV9tbG5k0gG-AUFVX3lxTE5yMFBmdHphVUViVjVKb0JCQjBzUlJwcDBuUEZYd2tTcW1pek5mUi11R1BxSE53UWt5anhzdm5NeDY5ZjVVMVVoVmpydFdPVFFGS1F0QkU5QzVzV1hIa3dzeHZEblVLemoxLTV4cGxmU2dNTlpkSFg2d2dOUG9sUWg2dE9zM3p1bG45MzI3V3VxSEtrb0hvWV9LT2VxbEJ4c1dRSUZmU3k0UmdfbHRnTlN4VVlMaDZORFJibkY3Zmc?oc=5",
+        "domain": "news.google.com",
+        "publishedAt": "2026-04-06T23:11:54.000Z",
+        "topic": "alcohol",
+        "feedId": "bev-alcohol",
+        "feedName": "Bier / Wein / Spirituosen",
+        "feedKind": "search",
+        "basePriority": 1,
+        "dachSignal": false,
+        "operatorSignal": false,
+        "regulationSignal": false,
+        "launchSignal": false,
+        "financeLike": false,
+        "ageHours": 162,
+        "score": 26,
+        "bucket": "read",
+        "readingClass": "lesen"
       }
     ]
   },
   "radar": {
     "dominantTopic": {
       "id": "alcohol",
-      "count": 22
+      "count": 21
     },
     "dachSignals": 2,
     "regulationSignals": 1,
-    "operatorSignals": 3
+    "operatorSignals": 2
   },
   "sourceStats": [
     {
@@ -840,7 +818,7 @@
     },
     {
       "feedName": "Bier / Wein / Spirituosen",
-      "count": 27,
+      "count": 25,
       "avgScore": 31
     },
     {
@@ -933,7 +911,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 5,
+      "ageHours": 6,
       "score": 51,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -1043,7 +1021,7 @@
       "regulationSignal": true,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 164,
+      "ageHours": 165,
       "score": 44,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -1093,28 +1071,6 @@
       "readingClass": "lesen"
     },
     {
-      "id": "58b7925c1ad8",
-      "title": "7. Biersommelier-Staatsmeisterschaft 2026 in Vorarlberg - GASTRO.at",
-      "summary": "7. Biersommelier-Staatsmeisterschaft 2026 in Vorarlberg GASTRO.at",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOamVOSEpmbDE0czZ4a18tQTJPNFlUaUFWa2VmVms2dFNBWXljNHRpaDlFQXgtOTd0LXJYUkhFWkRUamJSRUtSQjdJaXpwcVpGN1VqNjJIWHI4Nzd6blhLcHVBRnVpbXJvMDJCV1pTTlFCNUhadkhCRmtyTlI5RjljUE9KbVktMkR1eVp0ZzVn?oc=5",
-      "domain": "news.google.com",
-      "publishedAt": "2026-04-08T09:23:20.000Z",
-      "topic": "market",
-      "feedId": "bev-alcohol",
-      "feedName": "Bier / Wein / Spirituosen",
-      "feedKind": "search",
-      "basePriority": 1,
-      "dachSignal": false,
-      "operatorSignal": true,
-      "regulationSignal": false,
-      "launchSignal": false,
-      "financeLike": false,
-      "ageHours": 128,
-      "score": 40,
-      "bucket": "watch",
-      "readingClass": "beobachten"
-    },
-    {
       "id": "6a9fe17729e5",
       "title": "Weingut Keringer wird exklusiver ÖFB Weinpartner - GASTRO.at",
       "summary": "Weingut Keringer wird exklusiver ÖFB Weinpartner GASTRO.at",
@@ -1153,7 +1109,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 45,
+      "ageHours": 46,
       "score": 38,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1313,28 +1269,6 @@
       "readingClass": "lesen"
     },
     {
-      "id": "aba4fe159532",
-      "title": "500 verschiedene Biersorten, 7.000 m² Biergarten und ein Pop-up-Restaurant mit Craft-Bier-Paarungen: Das „Bierparadies“ kehrt dieses Wochenende zurück - Barcelona Secreta",
-      "summary": "500 verschiedene Biersorten, 7.000 m² Biergarten und ein Pop-up-Restaurant mit Craft-Bier-Paarungen: Das „Bierparadies“ kehrt dieses Wochenende zurück Barcelona Secreta",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2eEVkTmVhekpBZi1McThWMDNkZkFVbkpLeWxydG1WaVFudXRKOFdfeXRLX3NoU3RpTE15Z3JFSmwtR2I5MXp6eEk2R0ZXYzUtb05mMDN0VmdUbW5XRmE3dnU2bWxRUEJjSy1ZY1RwU3RRTDFROU9DcGxNVWJZclE?oc=5",
-      "domain": "news.google.com",
-      "publishedAt": "2026-04-09T10:25:53.000Z",
-      "topic": "alcohol",
-      "feedId": "bev-alcohol",
-      "feedName": "Bier / Wein / Spirituosen",
-      "feedKind": "search",
-      "basePriority": 1,
-      "dachSignal": false,
-      "operatorSignal": false,
-      "regulationSignal": false,
-      "launchSignal": false,
-      "financeLike": false,
-      "ageHours": 103,
-      "score": 26,
-      "bucket": "read",
-      "readingClass": "lesen"
-    },
-    {
       "id": "d032e0ea2a87",
       "title": "Bier-Branche stemmt sich gegen Brauereisterben + Pläne für neues Industriegebiet + Schweinepest erneut ausgebrochen - Sächsische Zeitung",
       "summary": "Bier-Branche stemmt sich gegen Brauereisterben + Pläne für neues Industriegebiet + Schweinepest erneut ausgebrochen Sächsische Zeitung",
@@ -1351,7 +1285,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 109,
+      "ageHours": 110,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1483,7 +1417,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 130,
+      "ageHours": 131,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1527,7 +1461,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 151,
+      "ageHours": 152,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1571,7 +1505,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 152,
+      "ageHours": 153,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1593,7 +1527,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 156,
+      "ageHours": 157,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
