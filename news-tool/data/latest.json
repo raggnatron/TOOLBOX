@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-04-18T03:28:29.422Z",
+  "generatedAt": "2026-04-18T05:48:42.234Z",
   "totals": {
-    "items": 58,
+    "items": 59,
     "sources": 8,
     "failures": 0,
     "todayImportant": 0,
-    "watch": 15,
-    "read": 43
+    "watch": 14,
+    "read": 45
   },
   "failures": [],
   "sections": {
@@ -29,7 +29,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 42,
+        "ageHours": 44,
         "score": 53,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -51,7 +51,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 36,
+        "ageHours": 38,
         "score": 52,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -73,30 +73,8 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 7,
+        "ageHours": 9,
         "score": 51,
-        "bucket": "watch",
-        "readingClass": "beobachten"
-      },
-      {
-        "id": "e041b7a073da",
-        "title": "Monster Energy: Warum der Boom im Energy-Drink-Markt jetzt anhält - AD HOC NEWS",
-        "summary": "Monster Energy: Warum der Boom im Energy-Drink-Markt jetzt anhält AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNR3MydVozYlVMMV9pcUxvSFF2SkxrY3JjeERSZnBJQzlXUnJhTVlCbTlTbzBPdVF3bUU1VkItWGpmbWZyRTduRlhxRmtVYklmbklObUswZk5fVTJKUlMxTGpqa1Q0bUpIQV9vWURBbUFjc1lMaGM1dVAtVnpwU0t2X25oWDhYb3ZhQS1uNXc2cUkzQUJVRlE4azdXSFNhNG5qTUtETEd2cW5NcWE5NmxlWTJaTmt2em5ucjBkaXhid1Zmdw?oc=5",
-        "domain": "news.google.com",
-        "publishedAt": "2026-04-17T15:47:01.000Z",
-        "topic": "market",
-        "feedId": "bev-launches",
-        "feedName": "Launches / Neuheiten",
-        "feedKind": "search",
-        "basePriority": 0.95,
-        "dachSignal": false,
-        "operatorSignal": false,
-        "regulationSignal": false,
-        "launchSignal": false,
-        "financeLike": false,
-        "ageHours": 12,
-        "score": 50,
         "bucket": "watch",
         "readingClass": "beobachten"
       },
@@ -117,7 +95,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 58,
+        "ageHours": 60,
         "score": 48,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -139,7 +117,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 66,
+        "ageHours": 68,
         "score": 48,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -161,7 +139,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 63,
+        "ageHours": 65,
         "score": 47,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -183,8 +161,30 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 66,
+        "ageHours": 68,
         "score": 47,
+        "bucket": "watch",
+        "readingClass": "beobachten"
+      },
+      {
+        "id": "2ab63d5e8e89",
+        "title": "Monster Energy: Warum der Boom im Energy-Drink-Markt jetzt anhält - AD HOC NEWS",
+        "summary": "Monster Energy: Warum der Boom im Energy-Drink-Markt jetzt anhält AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVzN4bndDbWRoRGJxd1hwU0xEUFFKeXpjWEh1WHBFSUZqc0FmUVNDdDVmWGYzVmdlYnpHb0lhNDNmdC1nUm4yNVJxeUs1NDNTN1FiV2ZtVlZDclRaakRtZHF2cDhLcDk0c0VPZG5IdTgtSWVmNk9hUkJrUTJRSzRFaWZsQ0dqMGM1S2dpSjkzWnp1b2hZVTVfT1RjZm9mY0RyWThoV3FwZVpfNE5qVVhCWUo4Y0JDUWlKMmxN?oc=5",
+        "domain": "news.google.com",
+        "publishedAt": "2026-04-17T15:47:01.000Z",
+        "topic": "market",
+        "feedId": "bev-launches",
+        "feedName": "Launches / Neuheiten",
+        "feedKind": "search",
+        "basePriority": 0.95,
+        "dachSignal": false,
+        "operatorSignal": false,
+        "regulationSignal": false,
+        "launchSignal": false,
+        "financeLike": false,
+        "ageHours": 14,
+        "score": 44,
         "bucket": "watch",
         "readingClass": "beobachten"
       },
@@ -205,7 +205,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 15,
+        "ageHours": 17,
         "score": 44,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -227,7 +227,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 17,
+        "ageHours": 20,
         "score": 44,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -249,7 +249,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 92,
+        "ageHours": 95,
         "score": 41,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -271,7 +271,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 135,
+        "ageHours": 137,
         "score": 41,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -295,7 +295,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 38,
+        "ageHours": 40,
         "score": 39,
         "bucket": "read",
         "readingClass": "lesen"
@@ -317,7 +317,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 30,
+        "ageHours": 32,
         "score": 38,
         "bucket": "read",
         "readingClass": "lesen"
@@ -339,7 +339,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 35,
+        "ageHours": 37,
         "score": 38,
         "bucket": "read",
         "readingClass": "lesen"
@@ -361,7 +361,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 39,
+        "ageHours": 41,
         "score": 38,
         "bucket": "read",
         "readingClass": "lesen"
@@ -383,7 +383,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 42,
+        "ageHours": 45,
         "score": 38,
         "bucket": "read",
         "readingClass": "lesen"
@@ -405,8 +405,30 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 43,
+        "ageHours": 45,
         "score": 38,
+        "bucket": "read",
+        "readingClass": "lesen"
+      },
+      {
+        "id": "df64c9fd601c",
+        "title": "Ist Monster Beverage (MNST) nach der jüngsten Kursschwäche fair bewertet? - simplywall.st",
+        "summary": "Ist Monster Beverage (MNST) nach der jüngsten Kursschwäche fair bewertet? simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNZ2p2SXltLUZwb29KY2QyMUFDRW13SUJaVk9ob2pXTW5uZDg3bmRzSHJlV1ctblYyVW9BYkRZZnRIZ0w2elhYNm5LRE1qcW1VRWtfOS1qN3JXZUJZbFU1NVU5SU1aUWk3blFxSWh4WmM0N1dzUUFNNzN2aVphcXJPLXo0YVpxUFZPNWlPQ2JOSnRrdFVheVlBWDFUWldVM3FxbmFoZk11LUFVUWVLeGlwUU1yZzRXU0dFLXBGODlUd2RQdGV6bEJiVGpJc2d1M2xIQTZaRGI0MjJNNXZ1Q1ZHaDRDXzlLdjN0SE5z0gHrAUFVX3lxTE1nanZJeW0tRnBvb0pjZDIxQUNFbXdJQlpWT2hvaldNbm5kODduZHNIcmVXVy1uVjJVb0FiRFlmdEhnTDZ6WFg2bktETWpxbVVFa185LWo3cldlQllsVTU1VTlJTVpRaTduUXFJaHhaYzQ3V3NRQU03M3ZpWmFxck8tejRhWnFQVk81aU9DYk5KdGt0VWF5WUFYMVRaV1UzcXFuYWhmTXUtQVVRZUt4aXBRTXJnNFdTR0UtcEY4OVR3ZFB0ZXpsQmJUaklzZ3UzbEhBNlpEYjQyMk01dnVDVkdoNENfOUt2M3RITnM?oc=5",
+        "domain": "news.google.com",
+        "publishedAt": "2026-04-16T03:25:35.000Z",
+        "topic": "distribution",
+        "feedId": "bev-distribution",
+        "feedName": "Distribution / Logistik",
+        "feedKind": "search",
+        "basePriority": 1.1,
+        "dachSignal": false,
+        "operatorSignal": false,
+        "regulationSignal": false,
+        "launchSignal": false,
+        "financeLike": false,
+        "ageHours": 50,
+        "score": 34,
         "bucket": "read",
         "readingClass": "lesen"
       },
@@ -427,7 +449,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 52,
+        "ageHours": 54,
         "score": 33,
         "bucket": "read",
         "readingClass": "lesen"
@@ -449,7 +471,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 69,
+        "ageHours": 71,
         "score": 33,
         "bucket": "read",
         "readingClass": "lesen"
@@ -471,7 +493,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 69,
+        "ageHours": 72,
         "score": 33,
         "bucket": "read",
         "readingClass": "lesen"
@@ -493,7 +515,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 51,
+        "ageHours": 54,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -515,7 +537,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 51,
+        "ageHours": 54,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -537,7 +559,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 52,
+        "ageHours": 54,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -559,7 +581,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 52,
+        "ageHours": 54,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -581,7 +603,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 52,
+        "ageHours": 54,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -603,7 +625,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 53,
+        "ageHours": 55,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -625,7 +647,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 60,
+        "ageHours": 63,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -647,7 +669,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 61,
+        "ageHours": 64,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -669,7 +691,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 62,
+        "ageHours": 64,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -691,7 +713,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 62,
+        "ageHours": 65,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -713,7 +735,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 63,
+        "ageHours": 65,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -735,7 +757,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 63,
+        "ageHours": 66,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -757,7 +779,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 63,
+        "ageHours": 66,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -779,29 +801,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 65,
-        "score": 32,
-        "bucket": "read",
-        "readingClass": "lesen"
-      },
-      {
-        "id": "fed08a4f58fb",
-        "title": "Deutsche Hotelakademie und wein.plus stärken die Weiterbildung in der Wein- und Hospitality-Branche - tageskarte.io",
-        "summary": "Deutsche Hotelakademie und wein.plus stärken die Weiterbildung in der Wein- und Hospitality-Branche tageskarte.io",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUHA0dDZQZXh2T0tCRnllTlZZc1BJZ1ZkbVFmZ08yUGUzT2VzZXFoM0xJdC1meDV1eDdGZWRFZFpoQmFSY2Vnc3lTU2tRejJEOWpEZXYzQnF4dGNpaWNZcVpXRENYNGNCUngyZ2p5RTBmMFVGVDkzX21sNlNzbXNxVExtV3Q3SUdhVTFPbXVBY1c1RGZLd1ZGNVhvU1dWX1YtMmJmMXIyY1h1aWRFVVZZZWxUT1hrNW5hN0FhY29DTHdsMmdLMlViVVFxWHZHeDhsMUZXRkx0b2dwSDhlYmV3?oc=5",
-        "domain": "news.google.com",
-        "publishedAt": "2026-04-15T08:23:36.000Z",
-        "topic": "alcohol",
-        "feedId": "bev-alcohol",
-        "feedName": "Bier / Wein / Spirituosen",
-        "feedKind": "search",
-        "basePriority": 1,
-        "dachSignal": false,
-        "operatorSignal": false,
-        "regulationSignal": false,
-        "launchSignal": false,
-        "financeLike": false,
-        "ageHours": 67,
+        "ageHours": 68,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -811,7 +811,7 @@
   "radar": {
     "dominantTopic": {
       "id": "alcohol",
-      "count": 33
+      "count": 35
     },
     "dachSignals": 8,
     "regulationSignals": 0,
@@ -826,12 +826,12 @@
     {
       "feedName": "Distribution / Logistik",
       "count": 7,
-      "avgScore": 42
+      "avgScore": 41
     },
     {
       "feedName": "Launches / Neuheiten",
-      "count": 7,
-      "avgScore": 38
+      "count": 6,
+      "avgScore": 39
     },
     {
       "feedName": "Getränkeindustrie",
@@ -845,7 +845,7 @@
     },
     {
       "feedName": "Bier / Wein / Spirituosen",
-      "count": 29,
+      "count": 31,
       "avgScore": 31
     },
     {
@@ -872,7 +872,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 42,
+      "ageHours": 44,
       "score": 53,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -894,7 +894,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 36,
+      "ageHours": 38,
       "score": 52,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -916,30 +916,8 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 7,
+      "ageHours": 9,
       "score": 51,
-      "bucket": "watch",
-      "readingClass": "beobachten"
-    },
-    {
-      "id": "e041b7a073da",
-      "title": "Monster Energy: Warum der Boom im Energy-Drink-Markt jetzt anhält - AD HOC NEWS",
-      "summary": "Monster Energy: Warum der Boom im Energy-Drink-Markt jetzt anhält AD HOC NEWS",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNR3MydVozYlVMMV9pcUxvSFF2SkxrY3JjeERSZnBJQzlXUnJhTVlCbTlTbzBPdVF3bUU1VkItWGpmbWZyRTduRlhxRmtVYklmbklObUswZk5fVTJKUlMxTGpqa1Q0bUpIQV9vWURBbUFjc1lMaGM1dVAtVnpwU0t2X25oWDhYb3ZhQS1uNXc2cUkzQUJVRlE4azdXSFNhNG5qTUtETEd2cW5NcWE5NmxlWTJaTmt2em5ucjBkaXhid1Zmdw?oc=5",
-      "domain": "news.google.com",
-      "publishedAt": "2026-04-17T15:47:01.000Z",
-      "topic": "market",
-      "feedId": "bev-launches",
-      "feedName": "Launches / Neuheiten",
-      "feedKind": "search",
-      "basePriority": 0.95,
-      "dachSignal": false,
-      "operatorSignal": false,
-      "regulationSignal": false,
-      "launchSignal": false,
-      "financeLike": false,
-      "ageHours": 12,
-      "score": 50,
       "bucket": "watch",
       "readingClass": "beobachten"
     },
@@ -960,7 +938,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 58,
+      "ageHours": 60,
       "score": 48,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -982,7 +960,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 66,
+      "ageHours": 68,
       "score": 48,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -1004,7 +982,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 63,
+      "ageHours": 65,
       "score": 47,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -1026,8 +1004,30 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 66,
+      "ageHours": 68,
       "score": 47,
+      "bucket": "watch",
+      "readingClass": "beobachten"
+    },
+    {
+      "id": "2ab63d5e8e89",
+      "title": "Monster Energy: Warum der Boom im Energy-Drink-Markt jetzt anhält - AD HOC NEWS",
+      "summary": "Monster Energy: Warum der Boom im Energy-Drink-Markt jetzt anhält AD HOC NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVzN4bndDbWRoRGJxd1hwU0xEUFFKeXpjWEh1WHBFSUZqc0FmUVNDdDVmWGYzVmdlYnpHb0lhNDNmdC1nUm4yNVJxeUs1NDNTN1FiV2ZtVlZDclRaakRtZHF2cDhLcDk0c0VPZG5IdTgtSWVmNk9hUkJrUTJRSzRFaWZsQ0dqMGM1S2dpSjkzWnp1b2hZVTVfT1RjZm9mY0RyWThoV3FwZVpfNE5qVVhCWUo4Y0JDUWlKMmxN?oc=5",
+      "domain": "news.google.com",
+      "publishedAt": "2026-04-17T15:47:01.000Z",
+      "topic": "market",
+      "feedId": "bev-launches",
+      "feedName": "Launches / Neuheiten",
+      "feedKind": "search",
+      "basePriority": 0.95,
+      "dachSignal": false,
+      "operatorSignal": false,
+      "regulationSignal": false,
+      "launchSignal": false,
+      "financeLike": false,
+      "ageHours": 14,
+      "score": 44,
       "bucket": "watch",
       "readingClass": "beobachten"
     },
@@ -1048,7 +1048,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 15,
+      "ageHours": 17,
       "score": 44,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -1070,7 +1070,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 17,
+      "ageHours": 20,
       "score": 44,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -1092,7 +1092,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 92,
+      "ageHours": 95,
       "score": 41,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -1114,7 +1114,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 135,
+      "ageHours": 137,
       "score": 41,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -1136,30 +1136,8 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 163,
+      "ageHours": 166,
       "score": 41,
-      "bucket": "watch",
-      "readingClass": "beobachten"
-    },
-    {
-      "id": "df64c9fd601c",
-      "title": "Ist Monster Beverage (MNST) nach der jüngsten Kursschwäche fair bewertet? - simplywall.st",
-      "summary": "Ist Monster Beverage (MNST) nach der jüngsten Kursschwäche fair bewertet? simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNZ2p2SXltLUZwb29KY2QyMUFDRW13SUJaVk9ob2pXTW5uZDg3bmRzSHJlV1ctblYyVW9BYkRZZnRIZ0w2elhYNm5LRE1qcW1VRWtfOS1qN3JXZUJZbFU1NVU5SU1aUWk3blFxSWh4WmM0N1dzUUFNNzN2aVphcXJPLXo0YVpxUFZPNWlPQ2JOSnRrdFVheVlBWDFUWldVM3FxbmFoZk11LUFVUWVLeGlwUU1yZzRXU0dFLXBGODlUd2RQdGV6bEJiVGpJc2d1M2xIQTZaRGI0MjJNNXZ1Q1ZHaDRDXzlLdjN0SE5z0gHrAUFVX3lxTE1nanZJeW0tRnBvb0pjZDIxQUNFbXdJQlpWT2hvaldNbm5kODduZHNIcmVXVy1uVjJVb0FiRFlmdEhnTDZ6WFg2bktETWpxbVVFa185LWo3cldlQllsVTU1VTlJTVpRaTduUXFJaHhaYzQ3V3NRQU03M3ZpWmFxck8tejRhWnFQVk81aU9DYk5KdGt0VWF5WUFYMVRaV1UzcXFuYWhmTXUtQVVRZUt4aXBRTXJnNFdTR0UtcEY4OVR3ZFB0ZXpsQmJUaklzZ3UzbEhBNlpEYjQyMk01dnVDVkdoNENfOUt2M3RITnM?oc=5",
-      "domain": "news.google.com",
-      "publishedAt": "2026-04-16T03:25:35.000Z",
-      "topic": "distribution",
-      "feedId": "bev-distribution",
-      "feedName": "Distribution / Logistik",
-      "feedKind": "search",
-      "basePriority": 1.1,
-      "dachSignal": false,
-      "operatorSignal": false,
-      "regulationSignal": false,
-      "launchSignal": false,
-      "financeLike": false,
-      "ageHours": 48,
-      "score": 40,
       "bucket": "watch",
       "readingClass": "beobachten"
     },
@@ -1180,7 +1158,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 78,
+      "ageHours": 80,
       "score": 40,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -1202,7 +1180,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 38,
+      "ageHours": 40,
       "score": 39,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1224,7 +1202,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 30,
+      "ageHours": 32,
       "score": 38,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1246,7 +1224,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 35,
+      "ageHours": 37,
       "score": 38,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1268,7 +1246,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 39,
+      "ageHours": 41,
       "score": 38,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1290,7 +1268,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 42,
+      "ageHours": 45,
       "score": 38,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1312,8 +1290,30 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 43,
+      "ageHours": 45,
       "score": 38,
+      "bucket": "read",
+      "readingClass": "lesen"
+    },
+    {
+      "id": "df64c9fd601c",
+      "title": "Ist Monster Beverage (MNST) nach der jüngsten Kursschwäche fair bewertet? - simplywall.st",
+      "summary": "Ist Monster Beverage (MNST) nach der jüngsten Kursschwäche fair bewertet? simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNZ2p2SXltLUZwb29KY2QyMUFDRW13SUJaVk9ob2pXTW5uZDg3bmRzSHJlV1ctblYyVW9BYkRZZnRIZ0w2elhYNm5LRE1qcW1VRWtfOS1qN3JXZUJZbFU1NVU5SU1aUWk3blFxSWh4WmM0N1dzUUFNNzN2aVphcXJPLXo0YVpxUFZPNWlPQ2JOSnRrdFVheVlBWDFUWldVM3FxbmFoZk11LUFVUWVLeGlwUU1yZzRXU0dFLXBGODlUd2RQdGV6bEJiVGpJc2d1M2xIQTZaRGI0MjJNNXZ1Q1ZHaDRDXzlLdjN0SE5z0gHrAUFVX3lxTE1nanZJeW0tRnBvb0pjZDIxQUNFbXdJQlpWT2hvaldNbm5kODduZHNIcmVXVy1uVjJVb0FiRFlmdEhnTDZ6WFg2bktETWpxbVVFa185LWo3cldlQllsVTU1VTlJTVpRaTduUXFJaHhaYzQ3V3NRQU03M3ZpWmFxck8tejRhWnFQVk81aU9DYk5KdGt0VWF5WUFYMVRaV1UzcXFuYWhmTXUtQVVRZUt4aXBRTXJnNFdTR0UtcEY4OVR3ZFB0ZXpsQmJUaklzZ3UzbEhBNlpEYjQyMk01dnVDVkdoNENfOUt2M3RITnM?oc=5",
+      "domain": "news.google.com",
+      "publishedAt": "2026-04-16T03:25:35.000Z",
+      "topic": "distribution",
+      "feedId": "bev-distribution",
+      "feedName": "Distribution / Logistik",
+      "feedKind": "search",
+      "basePriority": 1.1,
+      "dachSignal": false,
+      "operatorSignal": false,
+      "regulationSignal": false,
+      "launchSignal": false,
+      "financeLike": false,
+      "ageHours": 50,
+      "score": 34,
       "bucket": "read",
       "readingClass": "lesen"
     },
@@ -1334,7 +1334,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 52,
+      "ageHours": 54,
       "score": 33,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1356,7 +1356,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 69,
+      "ageHours": 71,
       "score": 33,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1378,7 +1378,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 69,
+      "ageHours": 72,
       "score": 33,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1400,7 +1400,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 51,
+      "ageHours": 54,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1422,7 +1422,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 51,
+      "ageHours": 54,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1444,7 +1444,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 52,
+      "ageHours": 54,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1466,7 +1466,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 52,
+      "ageHours": 54,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1488,7 +1488,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 52,
+      "ageHours": 54,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1510,7 +1510,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 53,
+      "ageHours": 55,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1532,7 +1532,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 60,
+      "ageHours": 63,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1554,7 +1554,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 61,
+      "ageHours": 64,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1576,7 +1576,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 62,
+      "ageHours": 64,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1598,7 +1598,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 62,
+      "ageHours": 65,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1620,7 +1620,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 63,
+      "ageHours": 65,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1642,7 +1642,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 63,
+      "ageHours": 66,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1664,7 +1664,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 63,
+      "ageHours": 66,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1686,7 +1686,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 65,
+      "ageHours": 68,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1708,7 +1708,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 67,
+      "ageHours": 69,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1730,7 +1730,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 67,
+      "ageHours": 70,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1752,7 +1752,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 69,
+      "ageHours": 71,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1774,7 +1774,7 @@
       "regulationSignal": false,
       "launchSignal": true,
       "financeLike": false,
-      "ageHours": 114,
+      "ageHours": 117,
       "score": 31,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1796,7 +1796,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 75,
+      "ageHours": 78,
       "score": 28,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1818,7 +1818,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 110,
+      "ageHours": 113,
       "score": 28,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1840,7 +1840,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 131,
+      "ageHours": 134,
       "score": 28,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1862,7 +1862,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 104,
+      "ageHours": 106,
       "score": 27,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1884,7 +1884,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 112,
+      "ageHours": 114,
       "score": 27,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1906,7 +1906,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 75,
+      "ageHours": 78,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1928,7 +1928,29 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 75,
+      "ageHours": 78,
+      "score": 26,
+      "bucket": "read",
+      "readingClass": "lesen"
+    },
+    {
+      "id": "91b0bad83b4d",
+      "title": "Club Soda startet Umfrage zu britischen Getränken mit niedrigem Alkoholgehalt - Vinetur",
+      "summary": "Club Soda startet Umfrage zu britischen Getränken mit niedrigem Alkoholgehalt Vinetur",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeXZqcnIzM2syeW9ORmQwUnBUUkk1U2FzcU5IN0IzTy1fcVVpajRzdEIxLVNYQXlwZlBEMmZXVjloQzVZOXY4Rlpsa0Z0b1lxdHBkeENJLXBtcEFqMGhVcmptQS1yTnZfa0dSakdWMGlKczdBNFhNcUU0NGdFUU1oc2J5Y2dab0Q3WnFjSkk0aFhQYVV0dkNMS1k2YXpDeE5KT21wSdIBqgFBVV95cUxNNV9hWUxheWpUWWxzWFVCbE5XNXFHMzFsZ21QNDI0aUlfNEN5LUdZMXJFQ21UR01iWTBKYllkWFdOZnlfTkd5d2c1THNSZFI3MWxZVFkyT1V6aU1hQmVSUnhQZXVRR3hXcHpQM3pRNVlkVDVEa0E5TDNrRWNVbk1xSE9ob25CaUtVUzlhUEFYRVlCVlFqUlR2TzlJTnoxZlpZRXVrS2t0TUY5UQ?oc=5",
+      "domain": "news.google.com",
+      "publishedAt": "2026-04-15T00:00:16.000Z",
+      "topic": "alcohol",
+      "feedId": "bev-alcohol",
+      "feedName": "Bier / Wein / Spirituosen",
+      "feedKind": "search",
+      "basePriority": 1,
+      "dachSignal": false,
+      "operatorSignal": false,
+      "regulationSignal": false,
+      "launchSignal": false,
+      "financeLike": false,
+      "ageHours": 78,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1950,7 +1972,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 75,
+      "ageHours": 78,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1972,7 +1994,29 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 75,
+      "ageHours": 78,
+      "score": 26,
+      "bucket": "read",
+      "readingClass": "lesen"
+    },
+    {
+      "id": "aa0fedbc078f",
+      "title": "Italienische Weinexporte sinken nach US-Zöllen - Vinetur",
+      "summary": "Italienische Weinexporte sinken nach US-Zöllen Vinetur",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWVNadFpYaklhVWlzMUtoYnFKZFdOM3BoV2UzUFNpRDZIY3JuQzE2d3pyampOQ0xKSl9XTXBoZkpUeUVrRlgyNGplcG5UN3RGb2RTOFkwUzMyLXFfV0dPZ2I1M0dIZXVXY25RZFlzX1FmbmFFYlRWUlVZMXhzQUNjVEl5OEVjOXR5TndlRC1URDRZd9IBlwFBVV95cUxNazJaeE4wejRFNm5PdUJPaXBadHlleG45anZURHcwcmkybXNhc1hKUlZYLWIzTHVmclVGODFncm9KQVV2TVVjbUhlc1Nva0ZXeU9rZDJ6Qm05MEs1WXkwbExJVmNEc2cyOVYtUzM0c2NBWjRHTDVBYzJmQzFyMXpvdmN6c29mTHNtMkU0aWhyV0RhUE9zaE5N?oc=5",
+      "domain": "news.google.com",
+      "publishedAt": "2026-04-15T00:00:00.000Z",
+      "topic": "alcohol",
+      "feedId": "bev-alcohol",
+      "feedName": "Bier / Wein / Spirituosen",
+      "feedKind": "search",
+      "basePriority": 1,
+      "dachSignal": false,
+      "operatorSignal": false,
+      "regulationSignal": false,
+      "launchSignal": false,
+      "financeLike": false,
+      "ageHours": 78,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1994,7 +2038,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 76,
+      "ageHours": 78,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -2016,7 +2060,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 76,
+      "ageHours": 78,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -2038,7 +2082,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 77,
+      "ageHours": 79,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -2060,7 +2104,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 77,
+      "ageHours": 79,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -2082,7 +2126,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 87,
+      "ageHours": 89,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -2104,29 +2148,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 119,
-      "score": 26,
-      "bucket": "read",
-      "readingClass": "lesen"
-    },
-    {
-      "id": "149bdba9cb62",
-      "title": "Monster Energy: Pipeline Punch bringt neuen Schwung in den Energy-Drink-Markt - AD HOC NEWS",
-      "summary": "Monster Energy: Pipeline Punch bringt neuen Schwung in den Energy-Drink-Markt AD HOC NEWS",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcEdOTzZ3WHVobjNUdVJ3UlVtVUZVWmNSR3N2YWgyZWVBOFVtTjBESTduNm82TW5JREo2amVoS0pHU1ozR1NQc3lYQ0tHZmFJYVpkU2ZIcHhYZVJiLXE2TTg0R0hySFJOX0RmSHlmLTU1ZENEckhJS05PQWQxU2FDdkQ0NkFJdTFRMEpTd2owZEFDekx0T1RwQmFpTy0tQUtDME5hanFfdDVSRUNCNzFGUw?oc=5",
-      "domain": "news.google.com",
-      "publishedAt": "2026-04-11T04:40:29.000Z",
-      "topic": "market",
-      "feedId": "bev-launches",
-      "feedName": "Launches / Neuheiten",
-      "feedKind": "search",
-      "basePriority": 0.95,
-      "dachSignal": false,
-      "operatorSignal": false,
-      "regulationSignal": false,
-      "launchSignal": false,
-      "financeLike": false,
-      "ageHours": 167,
+      "ageHours": 122,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
