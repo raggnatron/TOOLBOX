@@ -1,16 +1,17 @@
 {
-  "generatedAt": "2026-04-20T03:50:09.267Z",
+  "generatedAt": "2026-04-20T06:26:16.437Z",
   "totals": {
-    "items": 68,
+    "items": 69,
     "sources": 8,
     "failures": 0,
-    "todayImportant": 1,
-    "watch": 13,
-    "read": 54
+    "todayImportant": 0,
+    "watch": 12,
+    "read": 57
   },
   "failures": [],
   "sections": {
-    "todayImportant": [
+    "todayImportant": [],
+    "watch": [
       {
         "id": "bff3901497cd",
         "title": "Monster Energy: Pipeline Punch treibt Wachstum in Europa voran - AD HOC NEWS",
@@ -28,13 +29,11 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 12,
-        "score": 65,
-        "bucket": "today-important",
-        "readingClass": "heute wichtig"
-      }
-    ],
-    "watch": [
+        "ageHours": 15,
+        "score": 59,
+        "bucket": "watch",
+        "readingClass": "beobachten"
+      },
       {
         "id": "c8b988250584",
         "title": "Monster Energy: Pipeline Punch als neuer Sommerhit in Deutschland - AD HOC NEWS",
@@ -52,7 +51,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 16,
+        "ageHours": 18,
         "score": 59,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -74,7 +73,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 21,
+        "ageHours": 23,
         "score": 59,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -96,30 +95,8 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 16,
+        "ageHours": 19,
         "score": 45,
-        "bucket": "watch",
-        "readingClass": "beobachten"
-      },
-      {
-        "id": "85017d912991",
-        "title": "Noch besser als Wasser: Diese Alltagsgetränke halten Flüssigkeit länger im Körper - CHIP",
-        "summary": "Noch besser als Wasser: Diese Alltagsgetränke halten Flüssigkeit länger im Körper CHIP",
-        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPcGNQZkg3LWdTUno2VW9sdGliS0pXc2VhallqNDlJaGJmOGVVeEhNR25iUjhQLWxHUlpITW03a1NkZXlsU20wamlmTG5MNjZTTlNISFZWeGNkV2VLS0ZETXFOZGpJN3BGRmdiMTBSLWFUeExCa3FhcXJoc19keFhyN08wMk9EX3FMT1loYmNjTkNhbU5GcEJmek13V0VNalowSUhpb2RpZlN4QVQ4QWItZExGTlpRMFQwWEZ0NDFRX1Z6TTZZQ3RuMHh5T3JCcVg1MEZ3aDdLVExwUTBpMzh6RFhja2tQeFdFc1ltUzFib1pRd2xLcmxzT0U2UVZqTEE?oc=5",
-        "domain": "news.google.com",
-        "publishedAt": "2026-04-19T04:55:00.000Z",
-        "topic": "launches",
-        "feedId": "bev-launches",
-        "feedName": "Launches / Neuheiten",
-        "feedKind": "search",
-        "basePriority": 0.95,
-        "dachSignal": false,
-        "operatorSignal": false,
-        "regulationSignal": false,
-        "launchSignal": false,
-        "financeLike": false,
-        "ageHours": 23,
-        "score": 43,
         "bucket": "watch",
         "readingClass": "beobachten"
       },
@@ -140,7 +117,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 106,
+        "ageHours": 109,
         "score": 42,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -162,7 +139,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 115,
+        "ageHours": 117,
         "score": 42,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -184,7 +161,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 90,
+        "ageHours": 93,
         "score": 41,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -206,7 +183,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 111,
+        "ageHours": 114,
         "score": 41,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -228,7 +205,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 114,
+        "ageHours": 117,
         "score": 41,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -250,7 +227,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 141,
+        "ageHours": 143,
         "score": 41,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -272,7 +249,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 79,
+        "ageHours": 81,
         "score": 40,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -294,7 +271,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 84,
+        "ageHours": 87,
         "score": 40,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -302,12 +279,12 @@
     ],
     "read": [
       {
-        "id": "ec1b357a1059",
+        "id": "f2c8ec9af627",
         "title": "Globale Getränkeverkäufe geraten ins Stocken, weil Verbraucher zu günstigeren Produkten greifen - Vinetur",
         "summary": "Globale Getränkeverkäufe geraten ins Stocken, weil Verbraucher zu günstigeren Produkten greifen Vinetur",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUVAxRURyQUUxUFNkYV9DTkVhNnA1c3F6MU9PdkFxeDAwSDJoUENQNENKelBvQ2hMbHp2TVFiMjFFVlNISDhuMXZJcWRMTS1FZ3c3TTBQVGV4aHUtd2pjWVhDOTVBRHVHeWRYZkE1bTQ2RVlRbmR0V2NmREUtX3VYS1E1MzZMQ2V1MEUxb1JXdEQ3c2pXRDBoY2tMSdIBoAFBVV95cUxPTHUyeEZhUzRFZjM0azNYU1RSLTF3bEpqVUlWWk5CejFtWVI4c010WnlZTHl6bnlZWlFpNHFtU0J3SmJ4V2x5cFY3NGlfWGx0V1plc2VJSzVxM2FvM2l4M3hMSkREdV84QlIyVFFUTl9Uam82QUpCazRMbmRTb0w5VUVkN2N5dUtFamNWckJ6eFQtWlNKdkRHdjUyN01nTFlj?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTHUyeEZhUzRFZjM0azNYU1RSLTF3bEpqVUlWWk5CejFtWVI4c010WnlZTHl6bnlZWlFpNHFtU0J3SmJ4V2x5cFY3NGlfWGx0V1plc2VJSzVxM2FvM2l4M3hMSkREdV84QlIyVFFUTl9Uam82QUpCazRMbmRTb0w5VUVkN2N5dUtFamNWckJ6eFQtWlNKdkRHdjUyN01nTFlj0gGgAUFVX3lxTE9MdTJ4RmFTNEVmMzRrM1hTVFItMXdsSmpVSVZaTkJ6MW1ZUjhzTXRaeVlMeXpueVlaUWk0cW1TQndKYnhXbHlwVjc0aV9YbHRXWmVzZUlLNXEzYW8zaXgzeExKRER1XzhCUjJUUVROX1RqbzZBSkJrNExuZFNvTDlVRWQ3Y3l1S0VqY1ZyQnp4VC1aU0p2REd2NTI3TWdMWWM?oc=5",
         "domain": "news.google.com",
-        "publishedAt": "2026-04-18T18:21:51.000Z",
+        "publishedAt": "2026-04-18T18:21:52.000Z",
         "topic": "nonalcoholic",
         "feedId": "bev-nonalc",
         "feedName": "Alkoholfrei / Functional",
@@ -318,7 +295,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 33,
+        "ageHours": 36,
         "score": 40,
         "bucket": "read",
         "readingClass": "lesen"
@@ -340,7 +317,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 36,
+        "ageHours": 38,
         "score": 39,
         "bucket": "read",
         "readingClass": "lesen"
@@ -362,8 +339,52 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 39,
+        "ageHours": 41,
         "score": 38,
+        "bucket": "read",
+        "readingClass": "lesen"
+      },
+      {
+        "id": "85017d912991",
+        "title": "Noch besser als Wasser: Diese Alltagsgetränke halten Flüssigkeit länger im Körper - CHIP",
+        "summary": "Noch besser als Wasser: Diese Alltagsgetränke halten Flüssigkeit länger im Körper CHIP",
+        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPcGNQZkg3LWdTUno2VW9sdGliS0pXc2VhallqNDlJaGJmOGVVeEhNR25iUjhQLWxHUlpITW03a1NkZXlsU20wamlmTG5MNjZTTlNISFZWeGNkV2VLS0ZETXFOZGpJN3BGRmdiMTBSLWFUeExCa3FhcXJoc19keFhyN08wMk9EX3FMT1loYmNjTkNhbU5GcEJmek13V0VNalowSUhpb2RpZlN4QVQ4QWItZExGTlpRMFQwWEZ0NDFRX1Z6TTZZQ3RuMHh5T3JCcVg1MEZ3aDdLVExwUTBpMzh6RFhja2tQeFdFc1ltUzFib1pRd2xLcmxzT0U2UVZqTEE?oc=5",
+        "domain": "news.google.com",
+        "publishedAt": "2026-04-19T04:55:00.000Z",
+        "topic": "launches",
+        "feedId": "bev-launches",
+        "feedName": "Launches / Neuheiten",
+        "feedKind": "search",
+        "basePriority": 0.95,
+        "dachSignal": false,
+        "operatorSignal": false,
+        "regulationSignal": false,
+        "launchSignal": false,
+        "financeLike": false,
+        "ageHours": 26,
+        "score": 37,
+        "bucket": "read",
+        "readingClass": "lesen"
+      },
+      {
+        "id": "b6bf930c2f6d",
+        "title": "Sinkender Weinkonsum: Ein Winzer aus Schliengen wirbt für mehr heimischen Wein - Rebland - Schwarzwälder Bote - schwarzwaelder-bote.de",
+        "summary": "Sinkender Weinkonsum: Ein Winzer aus Schliengen wirbt für mehr heimischen Wein - Rebland - Schwarzwälder Bote schwarzwaelder-bote.de",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOSElYd0Zacms2R01TZlhqbUphbGNid0ExaERRWGJOYWYwWGhJY1pVYmFicjllZmFfTUdpeUd6SDlmWlhjODJXSDQ2YWlzM0VieDRKeVJpUTQ3OXAwdFVCQTlVZHFhMk1jUlRGbGVlaU45SExVM2pZOTAzb2VOc0UxZ2NTYnB6YnZtcnBzU1ZzeDV0NmV6Z2pWbXp1N196OXRPLTFIaEtUckFoVHVuVF8yenJXZF9iekZaaE1JWEE5WnIwYU9xb016N1U0bDlZb1JhYVk2WFpsaEd5d3hmb2JqckFoajhJZG9teExMRm1rb0g4dFE?oc=5",
+        "domain": "news.google.com",
+        "publishedAt": "2026-04-18T05:00:00.000Z",
+        "topic": "alcohol",
+        "feedId": "bev-alcohol",
+        "feedName": "Bier / Wein / Spirituosen",
+        "feedKind": "search",
+        "basePriority": 1,
+        "dachSignal": false,
+        "operatorSignal": false,
+        "regulationSignal": false,
+        "launchSignal": false,
+        "financeLike": false,
+        "ageHours": 49,
+        "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
       },
@@ -384,7 +405,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 55,
+        "ageHours": 58,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -406,7 +427,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 56,
+        "ageHours": 59,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -428,7 +449,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 60,
+        "ageHours": 63,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -450,7 +471,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 63,
+        "ageHours": 66,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -472,7 +493,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 66,
+        "ageHours": 68,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -494,7 +515,7 @@
         "regulationSignal": false,
         "launchSignal": true,
         "financeLike": false,
-        "ageHours": 163,
+        "ageHours": 165,
         "score": 31,
         "bucket": "read",
         "readingClass": "lesen"
@@ -516,7 +537,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 85,
+        "ageHours": 87,
         "score": 29,
         "bucket": "read",
         "readingClass": "lesen"
@@ -538,7 +559,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 124,
+        "ageHours": 126,
         "score": 28,
         "bucket": "read",
         "readingClass": "lesen"
@@ -560,7 +581,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 132,
+        "ageHours": 135,
         "score": 28,
         "bucket": "read",
         "readingClass": "lesen"
@@ -582,7 +603,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 159,
+        "ageHours": 161,
         "score": 28,
         "bucket": "read",
         "readingClass": "lesen"
@@ -604,7 +625,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 86,
+        "ageHours": 89,
         "score": 27,
         "bucket": "read",
         "readingClass": "lesen"
@@ -626,7 +647,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 91,
+        "ageHours": 93,
         "score": 27,
         "bucket": "read",
         "readingClass": "lesen"
@@ -648,7 +669,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 100,
+        "ageHours": 102,
         "score": 27,
         "bucket": "read",
         "readingClass": "lesen"
@@ -670,7 +691,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 118,
+        "ageHours": 120,
         "score": 27,
         "bucket": "read",
         "readingClass": "lesen"
@@ -692,7 +713,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 118,
+        "ageHours": 120,
         "score": 27,
         "bucket": "read",
         "readingClass": "lesen"
@@ -714,7 +735,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 152,
+        "ageHours": 155,
         "score": 27,
         "bucket": "read",
         "readingClass": "lesen"
@@ -736,7 +757,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 160,
+        "ageHours": 163,
         "score": 27,
         "bucket": "read",
         "readingClass": "lesen"
@@ -758,18 +779,18 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 78,
+        "ageHours": 81,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
       },
       {
-        "id": "fadfd142d8cd",
-        "title": "WHO plant Gespräche mit der Alkoholindustrie - Vinetur",
-        "summary": "WHO plant Gespräche mit der Alkoholindustrie Vinetur",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRkV6OElkVVZlZms3dFN1OHQxTUNPczhzY0gyaUtZb2VlREZ6NjBDaXRTbkhuekpyV3hGYV9nQ0dROEpxU1FzY1NJS2k2WFh3MjZlTEs2bWZDRUFwUVVYUGdQd0lGc2lQc1V3ZjB5YTAtQmZreVdwUWRVcUd6dWhrQXRqU1nSAYoBQVVfeXFMTVFKU2duRzBjbjZEOGVqbU5BUWJYV2FSNk9SOFdKcnpXYnpsemxpTEFwdjFDV0pNWjQzTzljSjZkZmM0WmY3Z2pKaHd4VjRTZEhkYmFqM0lCYmVMLU8wc0hMODlaUWo1Vldod2ZDR0hiRHJWVmRFRmRLT1NZV3BDVGNVNjBNb0oxZThn?oc=5",
+        "id": "566f2080ca85",
+        "title": "Frauen in Führungspositionen verändern Italiens Weinunternehmen - Vinetur",
+        "summary": "Frauen in Führungspositionen verändern Italiens Weinunternehmen Vinetur",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQk5RVXJHWWFubDV1VHRCZjdjM0c4YVJWc1pxV19IYThmekV0dDF2ZWhkTXl6enRJTGlXWk9mNC0ycEJjcEdveFRCNnlWNEtWc0Zjak1BS2RFOU9sdmNQdUFWWXN6MnYyLXNmbDZMMU1uOWw5bDFvT0ViMWFsRWtZRDV1aVRac0U2XzVIVEtoOVNKc05EODlHcGJ30gGfAUFVX3lxTE42MUpfQXNlekxLa2t2c3FIZlRCdXJJN2d5VnRXTWZaTWhTNUNPSXBlcVBieW1jUUVJTVJrRkh3RmlZT2JNYzNWX05nSXBBMlVLdkFwOW9XX0VWVzFDcnpaSC13NXIxUjdtMXBuNW42YVhvbnpPdVFMV2NDWjJ1bG9WX1ZzUi1OYnRySF9wV3RpbkF1dHZzSHhtcW15VU5Tcw?oc=5",
         "domain": "news.google.com",
-        "publishedAt": "2026-04-16T21:11:04.000Z",
+        "publishedAt": "2026-04-16T21:32:41.000Z",
         "topic": "alcohol",
         "feedId": "bev-alcohol",
         "feedName": "Bier / Wein / Spirituosen",
@@ -780,51 +801,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 79,
-        "score": 26,
-        "bucket": "read",
-        "readingClass": "lesen"
-      },
-      {
-        "id": "679c05f09019",
-        "title": "SETO Holdings, Inc. Advances Vertical Integration as Subsidiary CapCity Beverage Establishes Dedicated Tequila Production Infrastructure - FinanzNachrichten.de",
-        "summary": "SETO Holdings, Inc. Advances Vertical Integration as Subsidiary CapCity Beverage Establishes Dedicated Tequila Production Infrastructure FinanzNachrichten.de",
-        "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQbmdHTnd1VnhHWHdSZGNOYzFhYWZSeWxPMXNCeU9JRnVtVEpfMHdUNXZDcmdYWDNaTTk0cmNVbW1RVEQ0bnltaHFkVVh1cTVGTFdQNkROVS1nUU9tSUthREhWM0xkV2hPbnd4TGZTZW5xdEdVRDg5RHpCam1yYXVUNFR3b0xrT3JXSDhST2V4TmItZThqZFh4Wml5WEpzSTd4aVoyS0owSlBpTWh2RGVHbkdyUUdtbDZTVWxrdU5yTFVQQlAxZzdWNC14ZXVKNnYzMHhnVXp2a3NxZnVSZ3lzeFVFZXQyUWJnRWpoNjV1Wk9pRXo5WnlPN3I5VEtfWnVsVnVVcG5FeFY0LXJ5dVM5RUFtQXVOWXRRT3UyVFRJOXJacXB6bnljUjd0Vjc?oc=5",
-        "domain": "news.google.com",
-        "publishedAt": "2026-04-16T16:38:00.000Z",
-        "topic": "market",
-        "feedId": "bev-general",
-        "feedName": "Getränkeindustrie",
-        "feedKind": "search",
-        "basePriority": 1,
-        "dachSignal": false,
-        "operatorSignal": false,
-        "regulationSignal": false,
-        "launchSignal": false,
-        "financeLike": false,
-        "ageHours": 83,
-        "score": 26,
-        "bucket": "read",
-        "readingClass": "lesen"
-      },
-      {
-        "id": "f54df1b3f761",
-        "title": "Wie der „glück­li­che Zu­fall“ den Wein­tou­ris­mus in der Pfalz an­kur­beln soll - Die Rheinpfalz",
-        "summary": "Wie der „glück­li­che Zu­fall“ den Wein­tou­ris­mus in der Pfalz an­kur­beln soll Die Rheinpfalz",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNaldmRm9zQjZvQjQwQVlfd0dXay1LdV82N3lGMmo2VkZNejZBVUp4T2lVZ0g1Z3ZHYjZfLUR5X1JVY1p6SmxLTEdzVUZ2cFI2dE1DeVJqRzljcnVtUTNibGgxejhDdnN6azQxUUtodnpRSDVHaTNCSmwxcU5pWHlwcDN3LTF6bXdKclllR21uLTcxeWdzSy1yZlAzeWl5WXczN0hEU0pNb1J3MFlXRlgwajhjQVJxT25DSVRiaFdzVXdzWHNUN0FpMVFoTFhFV0JnT0FJVFM2ZmlKWEo1R2c?oc=5",
-        "domain": "news.google.com",
-        "publishedAt": "2026-04-16T09:00:00.000Z",
-        "topic": "alcohol",
-        "feedId": "bev-alcohol",
-        "feedName": "Bier / Wein / Spirituosen",
-        "feedKind": "search",
-        "basePriority": 1,
-        "dachSignal": false,
-        "operatorSignal": false,
-        "regulationSignal": false,
-        "launchSignal": false,
-        "financeLike": false,
-        "ageHours": 91,
+        "ageHours": 81,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -834,17 +811,17 @@
   "radar": {
     "dominantTopic": {
       "id": "alcohol",
-      "count": 41
+      "count": 43
     },
-    "dachSignals": 10,
+    "dachSignals": 9,
     "regulationSignals": 0,
     "operatorSignals": 2
   },
   "sourceStats": [
     {
       "feedName": "Launches / Neuheiten",
-      "count": 10,
-      "avgScore": 42
+      "count": 9,
+      "avgScore": 41
     },
     {
       "feedName": "Nachhaltigkeit",
@@ -868,7 +845,7 @@
     },
     {
       "feedName": "Bier / Wein / Spirituosen",
-      "count": 37,
+      "count": 39,
       "avgScore": 28
     },
     {
@@ -895,10 +872,10 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 12,
-      "score": 65,
-      "bucket": "today-important",
-      "readingClass": "heute wichtig"
+      "ageHours": 15,
+      "score": 59,
+      "bucket": "watch",
+      "readingClass": "beobachten"
     },
     {
       "id": "c8b988250584",
@@ -917,7 +894,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 16,
+      "ageHours": 18,
       "score": 59,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -939,7 +916,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 21,
+      "ageHours": 23,
       "score": 59,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -961,30 +938,8 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 16,
+      "ageHours": 19,
       "score": 45,
-      "bucket": "watch",
-      "readingClass": "beobachten"
-    },
-    {
-      "id": "85017d912991",
-      "title": "Noch besser als Wasser: Diese Alltagsgetränke halten Flüssigkeit länger im Körper - CHIP",
-      "summary": "Noch besser als Wasser: Diese Alltagsgetränke halten Flüssigkeit länger im Körper CHIP",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPcGNQZkg3LWdTUno2VW9sdGliS0pXc2VhallqNDlJaGJmOGVVeEhNR25iUjhQLWxHUlpITW03a1NkZXlsU20wamlmTG5MNjZTTlNISFZWeGNkV2VLS0ZETXFOZGpJN3BGRmdiMTBSLWFUeExCa3FhcXJoc19keFhyN08wMk9EX3FMT1loYmNjTkNhbU5GcEJmek13V0VNalowSUhpb2RpZlN4QVQ4QWItZExGTlpRMFQwWEZ0NDFRX1Z6TTZZQ3RuMHh5T3JCcVg1MEZ3aDdLVExwUTBpMzh6RFhja2tQeFdFc1ltUzFib1pRd2xLcmxzT0U2UVZqTEE?oc=5",
-      "domain": "news.google.com",
-      "publishedAt": "2026-04-19T04:55:00.000Z",
-      "topic": "launches",
-      "feedId": "bev-launches",
-      "feedName": "Launches / Neuheiten",
-      "feedKind": "search",
-      "basePriority": 0.95,
-      "dachSignal": false,
-      "operatorSignal": false,
-      "regulationSignal": false,
-      "launchSignal": false,
-      "financeLike": false,
-      "ageHours": 23,
-      "score": 43,
       "bucket": "watch",
       "readingClass": "beobachten"
     },
@@ -1005,7 +960,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 106,
+      "ageHours": 109,
       "score": 42,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -1027,7 +982,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 115,
+      "ageHours": 117,
       "score": 42,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -1049,7 +1004,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 90,
+      "ageHours": 93,
       "score": 41,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -1071,7 +1026,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 111,
+      "ageHours": 114,
       "score": 41,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -1093,7 +1048,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 114,
+      "ageHours": 117,
       "score": 41,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -1115,18 +1070,18 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 141,
+      "ageHours": 143,
       "score": 41,
       "bucket": "watch",
       "readingClass": "beobachten"
     },
     {
-      "id": "ec1b357a1059",
+      "id": "f2c8ec9af627",
       "title": "Globale Getränkeverkäufe geraten ins Stocken, weil Verbraucher zu günstigeren Produkten greifen - Vinetur",
       "summary": "Globale Getränkeverkäufe geraten ins Stocken, weil Verbraucher zu günstigeren Produkten greifen Vinetur",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUVAxRURyQUUxUFNkYV9DTkVhNnA1c3F6MU9PdkFxeDAwSDJoUENQNENKelBvQ2hMbHp2TVFiMjFFVlNISDhuMXZJcWRMTS1FZ3c3TTBQVGV4aHUtd2pjWVhDOTVBRHVHeWRYZkE1bTQ2RVlRbmR0V2NmREUtX3VYS1E1MzZMQ2V1MEUxb1JXdEQ3c2pXRDBoY2tMSdIBoAFBVV95cUxPTHUyeEZhUzRFZjM0azNYU1RSLTF3bEpqVUlWWk5CejFtWVI4c010WnlZTHl6bnlZWlFpNHFtU0J3SmJ4V2x5cFY3NGlfWGx0V1plc2VJSzVxM2FvM2l4M3hMSkREdV84QlIyVFFUTl9Uam82QUpCazRMbmRTb0w5VUVkN2N5dUtFamNWckJ6eFQtWlNKdkRHdjUyN01nTFlj?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTHUyeEZhUzRFZjM0azNYU1RSLTF3bEpqVUlWWk5CejFtWVI4c010WnlZTHl6bnlZWlFpNHFtU0J3SmJ4V2x5cFY3NGlfWGx0V1plc2VJSzVxM2FvM2l4M3hMSkREdV84QlIyVFFUTl9Uam82QUpCazRMbmRTb0w5VUVkN2N5dUtFamNWckJ6eFQtWlNKdkRHdjUyN01nTFlj0gGgAUFVX3lxTE9MdTJ4RmFTNEVmMzRrM1hTVFItMXdsSmpVSVZaTkJ6MW1ZUjhzTXRaeVlMeXpueVlaUWk0cW1TQndKYnhXbHlwVjc0aV9YbHRXWmVzZUlLNXEzYW8zaXgzeExKRER1XzhCUjJUUVROX1RqbzZBSkJrNExuZFNvTDlVRWQ3Y3l1S0VqY1ZyQnp4VC1aU0p2REd2NTI3TWdMWWM?oc=5",
       "domain": "news.google.com",
-      "publishedAt": "2026-04-18T18:21:51.000Z",
+      "publishedAt": "2026-04-18T18:21:52.000Z",
       "topic": "nonalcoholic",
       "feedId": "bev-nonalc",
       "feedName": "Alkoholfrei / Functional",
@@ -1137,7 +1092,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 33,
+      "ageHours": 36,
       "score": 40,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1159,7 +1114,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 79,
+      "ageHours": 81,
       "score": 40,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -1181,29 +1136,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 84,
-      "score": 40,
-      "bucket": "watch",
-      "readingClass": "beobachten"
-    },
-    {
-      "id": "92d73e919f6b",
-      "title": "Monster Energy: Pipeline Punch knackt DACH-Markt mit neuem Twist - AD HOC NEWS",
-      "summary": "Monster Energy: Pipeline Punch knackt DACH-Markt mit neuem Twist AD HOC NEWS",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQc0lqa01vcFM1VkZwc1ppSjNqS2h3YmEzbWdwMEZLc1Bpc3pXTEh1Z3FLd29JbDZNbllRWlEycjFCeVI4eW0wOWhib0JFMlZ4MEtScWI4Nzc1QlVRNmVuUVI1WThMUk9qQzVRUXdhWkFQdEQ0aWhzcWRFOFlFcmtjYkhwLUp4OU5PNlhUWEFObVAwbGxGZG1MVmVJcnRuNk5ZTkwxVnNJOHJoZE1jYWc4M19FMXFwdGl3?oc=5",
-      "domain": "news.google.com",
-      "publishedAt": "2026-04-14T21:23:36.000Z",
-      "topic": "market",
-      "feedId": "bev-launches",
-      "feedName": "Launches / Neuheiten",
-      "feedKind": "search",
-      "basePriority": 0.95,
-      "dachSignal": true,
-      "operatorSignal": false,
-      "regulationSignal": false,
-      "launchSignal": false,
-      "financeLike": false,
-      "ageHours": 126,
+      "ageHours": 87,
       "score": 40,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -1225,7 +1158,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 36,
+      "ageHours": 38,
       "score": 39,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1247,8 +1180,52 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 39,
+      "ageHours": 41,
       "score": 38,
+      "bucket": "read",
+      "readingClass": "lesen"
+    },
+    {
+      "id": "85017d912991",
+      "title": "Noch besser als Wasser: Diese Alltagsgetränke halten Flüssigkeit länger im Körper - CHIP",
+      "summary": "Noch besser als Wasser: Diese Alltagsgetränke halten Flüssigkeit länger im Körper CHIP",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPcGNQZkg3LWdTUno2VW9sdGliS0pXc2VhallqNDlJaGJmOGVVeEhNR25iUjhQLWxHUlpITW03a1NkZXlsU20wamlmTG5MNjZTTlNISFZWeGNkV2VLS0ZETXFOZGpJN3BGRmdiMTBSLWFUeExCa3FhcXJoc19keFhyN08wMk9EX3FMT1loYmNjTkNhbU5GcEJmek13V0VNalowSUhpb2RpZlN4QVQ4QWItZExGTlpRMFQwWEZ0NDFRX1Z6TTZZQ3RuMHh5T3JCcVg1MEZ3aDdLVExwUTBpMzh6RFhja2tQeFdFc1ltUzFib1pRd2xLcmxzT0U2UVZqTEE?oc=5",
+      "domain": "news.google.com",
+      "publishedAt": "2026-04-19T04:55:00.000Z",
+      "topic": "launches",
+      "feedId": "bev-launches",
+      "feedName": "Launches / Neuheiten",
+      "feedKind": "search",
+      "basePriority": 0.95,
+      "dachSignal": false,
+      "operatorSignal": false,
+      "regulationSignal": false,
+      "launchSignal": false,
+      "financeLike": false,
+      "ageHours": 26,
+      "score": 37,
+      "bucket": "read",
+      "readingClass": "lesen"
+    },
+    {
+      "id": "b6bf930c2f6d",
+      "title": "Sinkender Weinkonsum: Ein Winzer aus Schliengen wirbt für mehr heimischen Wein - Rebland - Schwarzwälder Bote - schwarzwaelder-bote.de",
+      "summary": "Sinkender Weinkonsum: Ein Winzer aus Schliengen wirbt für mehr heimischen Wein - Rebland - Schwarzwälder Bote schwarzwaelder-bote.de",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOSElYd0Zacms2R01TZlhqbUphbGNid0ExaERRWGJOYWYwWGhJY1pVYmFicjllZmFfTUdpeUd6SDlmWlhjODJXSDQ2YWlzM0VieDRKeVJpUTQ3OXAwdFVCQTlVZHFhMk1jUlRGbGVlaU45SExVM2pZOTAzb2VOc0UxZ2NTYnB6YnZtcnBzU1ZzeDV0NmV6Z2pWbXp1N196OXRPLTFIaEtUckFoVHVuVF8yenJXZF9iekZaaE1JWEE5WnIwYU9xb016N1U0bDlZb1JhYVk2WFpsaEd5d3hmb2JqckFoajhJZG9teExMRm1rb0g4dFE?oc=5",
+      "domain": "news.google.com",
+      "publishedAt": "2026-04-18T05:00:00.000Z",
+      "topic": "alcohol",
+      "feedId": "bev-alcohol",
+      "feedName": "Bier / Wein / Spirituosen",
+      "feedKind": "search",
+      "basePriority": 1,
+      "dachSignal": false,
+      "operatorSignal": false,
+      "regulationSignal": false,
+      "launchSignal": false,
+      "financeLike": false,
+      "ageHours": 49,
+      "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
     },
@@ -1269,7 +1246,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 55,
+      "ageHours": 58,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1291,7 +1268,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 56,
+      "ageHours": 59,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1313,7 +1290,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 60,
+      "ageHours": 63,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1335,7 +1312,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 63,
+      "ageHours": 66,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1357,7 +1334,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 66,
+      "ageHours": 68,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1379,7 +1356,7 @@
       "regulationSignal": false,
       "launchSignal": true,
       "financeLike": false,
-      "ageHours": 163,
+      "ageHours": 165,
       "score": 31,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1401,7 +1378,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 85,
+      "ageHours": 87,
       "score": 29,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1423,7 +1400,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 124,
+      "ageHours": 126,
       "score": 28,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1445,7 +1422,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 132,
+      "ageHours": 135,
       "score": 28,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1467,7 +1444,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 159,
+      "ageHours": 161,
       "score": 28,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1489,7 +1466,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 86,
+      "ageHours": 89,
       "score": 27,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1511,7 +1488,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 91,
+      "ageHours": 93,
       "score": 27,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1533,7 +1510,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 100,
+      "ageHours": 102,
       "score": 27,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1555,7 +1532,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 118,
+      "ageHours": 120,
       "score": 27,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1577,7 +1554,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 118,
+      "ageHours": 120,
       "score": 27,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1599,7 +1576,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 152,
+      "ageHours": 155,
       "score": 27,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1621,7 +1598,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 160,
+      "ageHours": 163,
       "score": 27,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1643,7 +1620,29 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 78,
+      "ageHours": 81,
+      "score": 26,
+      "bucket": "read",
+      "readingClass": "lesen"
+    },
+    {
+      "id": "566f2080ca85",
+      "title": "Frauen in Führungspositionen verändern Italiens Weinunternehmen - Vinetur",
+      "summary": "Frauen in Führungspositionen verändern Italiens Weinunternehmen Vinetur",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQk5RVXJHWWFubDV1VHRCZjdjM0c4YVJWc1pxV19IYThmekV0dDF2ZWhkTXl6enRJTGlXWk9mNC0ycEJjcEdveFRCNnlWNEtWc0Zjak1BS2RFOU9sdmNQdUFWWXN6MnYyLXNmbDZMMU1uOWw5bDFvT0ViMWFsRWtZRDV1aVRac0U2XzVIVEtoOVNKc05EODlHcGJ30gGfAUFVX3lxTE42MUpfQXNlekxLa2t2c3FIZlRCdXJJN2d5VnRXTWZaTWhTNUNPSXBlcVBieW1jUUVJTVJrRkh3RmlZT2JNYzNWX05nSXBBMlVLdkFwOW9XX0VWVzFDcnpaSC13NXIxUjdtMXBuNW42YVhvbnpPdVFMV2NDWjJ1bG9WX1ZzUi1OYnRySF9wV3RpbkF1dHZzSHhtcW15VU5Tcw?oc=5",
+      "domain": "news.google.com",
+      "publishedAt": "2026-04-16T21:32:41.000Z",
+      "topic": "alcohol",
+      "feedId": "bev-alcohol",
+      "feedName": "Bier / Wein / Spirituosen",
+      "feedKind": "search",
+      "basePriority": 1,
+      "dachSignal": false,
+      "operatorSignal": false,
+      "regulationSignal": false,
+      "launchSignal": false,
+      "financeLike": false,
+      "ageHours": 81,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1665,7 +1664,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 79,
+      "ageHours": 81,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1687,7 +1686,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 83,
+      "ageHours": 86,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1709,7 +1708,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 91,
+      "ageHours": 93,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1731,7 +1730,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 92,
+      "ageHours": 94,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1753,7 +1752,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 100,
+      "ageHours": 102,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1775,7 +1774,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 100,
+      "ageHours": 102,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1797,7 +1796,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 100,
+      "ageHours": 102,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1819,7 +1818,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 100,
+      "ageHours": 102,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1841,7 +1840,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 100,
+      "ageHours": 103,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1863,7 +1862,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 100,
+      "ageHours": 103,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1885,7 +1884,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 101,
+      "ageHours": 104,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1907,7 +1906,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 109,
+      "ageHours": 111,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1929,7 +1928,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 110,
+      "ageHours": 112,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1951,7 +1950,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 110,
+      "ageHours": 113,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1973,7 +1972,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 111,
+      "ageHours": 113,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1995,7 +1994,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 111,
+      "ageHours": 114,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -2017,7 +2016,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 112,
+      "ageHours": 114,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -2039,7 +2038,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 112,
+      "ageHours": 114,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -2061,7 +2060,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 114,
+      "ageHours": 116,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -2083,7 +2082,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 115,
+      "ageHours": 117,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -2105,7 +2104,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 116,
+      "ageHours": 118,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -2127,7 +2126,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 124,
+      "ageHours": 126,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -2149,7 +2148,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 124,
+      "ageHours": 126,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -2171,16 +2170,16 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 124,
+      "ageHours": 126,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
     },
     {
-      "id": "7335204adaae",
-      "title": "Kaliforniens Weinbauern sehen einer kleineren Ernte entgegen - Vinetur",
-      "summary": "Kaliforniens Weinbauern sehen einer kleineren Ernte entgegen Vinetur",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSEpwM1AtSklzYW9JdUM2TGpmLWNLQjRjdm1uSkVOQjNyUUNaYlowLThydnhKREhiOXJKNTFWdjNlTnZGSHUtOTlRYVFCdGc2T190c2xjODVldHNlcTNQV3NCQXJVaWRYMmg1TncyRHJNQUtCZ2xsOE80QktSWGdXTjA0eULSAYoBQVVfeXFMTnB1SC00QkM4RXo1RkZyWGY4WDhrQmVQemdfc3BOR1NvcmttbWM2TjdyaGNzN0RwaENTSWtHUlphUzd1WjViMk92ZE1rOHlRYVJJWDFiemxTSGlUc1VfSW16RVh6d1FJRHdKUS13N25SZFhfZURxQ2VScXlReEhMcjhSMy1BTlphQXpB?oc=5",
+      "id": "a90b78327c4c",
+      "title": "Italienische Weinexporte sollen bis 2029 an Wert gewinnen - Vinetur",
+      "summary": "Italienische Weinexporte sollen bis 2029 an Wert gewinnen Vinetur",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcEpXVlFiWl9PdmdoZ2JLSW5pcDQwbkdIZTFsWkRfc25OS1BkX1hJeXRaVVJWN2xtcHlFSXNaeEpDa1VqX051SFdfaEVXODlGSTQ5N19YUUh6NWdDVkpjVWg5Y0lGWnVZaV9qeE0wcDdncHgzZ0VoWjl6eXFfZXdlRHk2WS1DOHpGemZCMTdMaWdnWjg2M0NpT1NPT0FYbTllZC1R0gGoAUFVX3lxTE5jcURSN3ZqUDRwakhlVnJSbEtudkx4WER0RXZ5WmFySUlWSWl1R25LRHg4MnR4ZnNSZkVMUEZJOEZRaE9hZ2o4Y3pKQ3VDa1ZjeUJQR1NFWkFFRzA2RkoyMDJkdWJQNnVLQXE1NzIzOU92UzdSSGp3RDVrb1hBT1RKOUo0RnRGOENXMUNya292b3h2T2hXem5HYUNFSnR3RE5YMXE1eFpJRw?oc=5",
       "domain": "news.google.com",
       "publishedAt": "2026-04-15T00:00:16.000Z",
       "topic": "alcohol",
@@ -2193,7 +2192,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 124,
+      "ageHours": 126,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -2215,7 +2214,29 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 124,
+      "ageHours": 126,
+      "score": 26,
+      "bucket": "read",
+      "readingClass": "lesen"
+    },
+    {
+      "id": "7335204adaae",
+      "title": "Kaliforniens Weinbauern sehen einer kleineren Ernte entgegen - Vinetur",
+      "summary": "Kaliforniens Weinbauern sehen einer kleineren Ernte entgegen Vinetur",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSEpwM1AtSklzYW9JdUM2TGpmLWNLQjRjdm1uSkVOQjNyUUNaYlowLThydnhKREhiOXJKNTFWdjNlTnZGSHUtOTlRYVFCdGc2T190c2xjODVldHNlcTNQV3NCQXJVaWRYMmg1TncyRHJNQUtCZ2xsOE80QktSWGdXTjA0eULSAYoBQVVfeXFMTnB1SC00QkM4RXo1RkZyWGY4WDhrQmVQemdfc3BOR1NvcmttbWM2TjdyaGNzN0RwaENTSWtHUlphUzd1WjViMk92ZE1rOHlRYVJJWDFiemxTSGlUc1VfSW16RVh6d1FJRHdKUS13N25SZFhfZURxQ2VScXlReEhMcjhSMy1BTlphQXpB?oc=5",
+      "domain": "news.google.com",
+      "publishedAt": "2026-04-15T00:00:16.000Z",
+      "topic": "alcohol",
+      "feedId": "bev-alcohol",
+      "feedName": "Bier / Wein / Spirituosen",
+      "feedKind": "search",
+      "basePriority": 1,
+      "dachSignal": false,
+      "operatorSignal": false,
+      "regulationSignal": false,
+      "launchSignal": false,
+      "financeLike": false,
+      "ageHours": 126,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -2237,7 +2258,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 124,
+      "ageHours": 126,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -2259,7 +2280,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 124,
+      "ageHours": 127,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -2281,7 +2302,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 125,
+      "ageHours": 128,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -2303,7 +2324,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 125,
+      "ageHours": 128,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -2325,7 +2346,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 135,
+      "ageHours": 138,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -2347,29 +2368,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 158,
-      "score": 26,
-      "bucket": "read",
-      "readingClass": "lesen"
-    },
-    {
-      "id": "9e6fe7a8c53f",
-      "title": "Absolut Vodka: Warum Premium-Vodka in unsicheren Zeiten stabiler wird - AD HOC NEWS",
-      "summary": "Absolut Vodka: Warum Premium-Vodka in unsicheren Zeiten stabiler wird AD HOC NEWS",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdGd0VzRsMVlJQXhxZi12bFdJV1lTaldxR01fYlZLMlI1TkJNZ1ZwVS1PWEs2NDJOX184MGZiNU1RVElMck44YUYycUQtM0lNdnpVcGJXUl94UEI3TWlQNlJwODA2QWVXeFBEaWJBOU92a2NiTTVoRVhDc0hhZ3F1ZFdYVl9hcldtNHEteS1QTVZEUEE1X1VzVk4zTnI4MnVhX1ZYdnhNQURNbll2ZWRkNkotMTNpaE4zVFJtcmJXSQ?oc=5",
-      "domain": "news.google.com",
-      "publishedAt": "2026-04-13T04:05:25.000Z",
-      "topic": "alcohol",
-      "feedId": "bev-alcohol",
-      "feedName": "Bier / Wein / Spirituosen",
-      "feedKind": "search",
-      "basePriority": 1,
-      "dachSignal": false,
-      "operatorSignal": false,
-      "regulationSignal": false,
-      "launchSignal": false,
-      "financeLike": false,
-      "ageHours": 168,
+      "ageHours": 160,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
