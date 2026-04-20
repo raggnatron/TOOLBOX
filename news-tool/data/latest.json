@@ -1,16 +1,39 @@
 {
-  "generatedAt": "2026-04-20T06:26:16.437Z",
+  "generatedAt": "2026-04-20T10:07:50.437Z",
   "totals": {
-    "items": 69,
+    "items": 68,
     "sources": 8,
     "failures": 0,
-    "todayImportant": 0,
+    "todayImportant": 1,
     "watch": 12,
-    "read": 57
+    "read": 55
   },
   "failures": [],
   "sections": {
-    "todayImportant": [],
+    "todayImportant": [
+      {
+        "id": "acaf94f7c7aa",
+        "title": "Neue Spezialagentur food.agency geht an den Start – Volldienstleister für Food- und Beverage-Marken im DACH-Raum - lifePR",
+        "summary": "Neue Spezialagentur food.agency geht an den Start – Volldienstleister für Food- und Beverage-Marken im DACH-Raum lifePR",
+        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOTFQ1aHdzQmxHNjFFTUZpUXdLdlNnUjA3Xy1lMm00ZnBPUVlveTkxTkFEdDVHQmZtM21zRWpDQXhIbVNkOUQ1TWFNRmlfa1NIeDRDVFZSWW9fcEJxcGpwR29scDdFVVBfMFNoVTNaWHdhaWYwb3ZmR3NmUFBSQ2VyODN3NHozbmllcmhYeFZjUUxxLTlsMVVnc0FfajBLVnRlNmNEcVEzaWVkZzFPLUdvUDBmWTBxaEhuamV5U3c3T1VBTGI2WF91Q0hWbWdWNE9NdUJfY1BYai1iRDZkS1E4dTZFY2otZTcyU1pnRlRQTzdld0lpVGdpMG5CRVV0U3o1S0E?oc=5",
+        "domain": "news.google.com",
+        "publishedAt": "2026-04-20T06:15:00.000Z",
+        "topic": "packaging",
+        "feedId": "bev-packaging",
+        "feedName": "Verpackung",
+        "feedKind": "search",
+        "basePriority": 1.1,
+        "dachSignal": true,
+        "operatorSignal": false,
+        "regulationSignal": false,
+        "launchSignal": false,
+        "financeLike": false,
+        "ageHours": 4,
+        "score": 66,
+        "bucket": "today-important",
+        "readingClass": "heute wichtig"
+      }
+    ],
     "watch": [
       {
         "id": "bff3901497cd",
@@ -29,7 +52,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 15,
+        "ageHours": 18,
         "score": 59,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -51,7 +74,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 18,
+        "ageHours": 22,
         "score": 59,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -73,8 +96,8 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 23,
-        "score": 59,
+        "ageHours": 27,
+        "score": 53,
         "bucket": "watch",
         "readingClass": "beobachten"
       },
@@ -95,7 +118,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 19,
+        "ageHours": 22,
         "score": 45,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -117,7 +140,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 109,
+        "ageHours": 112,
         "score": 42,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -139,7 +162,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 117,
+        "ageHours": 121,
         "score": 42,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -161,7 +184,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 93,
+        "ageHours": 96,
         "score": 41,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -183,7 +206,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 114,
+        "ageHours": 117,
         "score": 41,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -205,7 +228,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 117,
+        "ageHours": 121,
         "score": 41,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -227,7 +250,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 143,
+        "ageHours": 147,
         "score": 41,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -249,7 +272,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 81,
+        "ageHours": 85,
         "score": 40,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -271,7 +294,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 87,
+        "ageHours": 91,
         "score": 40,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -295,7 +318,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 36,
+        "ageHours": 40,
         "score": 40,
         "bucket": "read",
         "readingClass": "lesen"
@@ -317,7 +340,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 38,
+        "ageHours": 42,
         "score": 39,
         "bucket": "read",
         "readingClass": "lesen"
@@ -339,7 +362,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 41,
+        "ageHours": 45,
         "score": 38,
         "bucket": "read",
         "readingClass": "lesen"
@@ -361,30 +384,8 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 26,
+        "ageHours": 29,
         "score": 37,
-        "bucket": "read",
-        "readingClass": "lesen"
-      },
-      {
-        "id": "b6bf930c2f6d",
-        "title": "Sinkender Weinkonsum: Ein Winzer aus Schliengen wirbt für mehr heimischen Wein - Rebland - Schwarzwälder Bote - schwarzwaelder-bote.de",
-        "summary": "Sinkender Weinkonsum: Ein Winzer aus Schliengen wirbt für mehr heimischen Wein - Rebland - Schwarzwälder Bote schwarzwaelder-bote.de",
-        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOSElYd0Zacms2R01TZlhqbUphbGNid0ExaERRWGJOYWYwWGhJY1pVYmFicjllZmFfTUdpeUd6SDlmWlhjODJXSDQ2YWlzM0VieDRKeVJpUTQ3OXAwdFVCQTlVZHFhMk1jUlRGbGVlaU45SExVM2pZOTAzb2VOc0UxZ2NTYnB6YnZtcnBzU1ZzeDV0NmV6Z2pWbXp1N196OXRPLTFIaEtUckFoVHVuVF8yenJXZF9iekZaaE1JWEE5WnIwYU9xb016N1U0bDlZb1JhYVk2WFpsaEd5d3hmb2JqckFoajhJZG9teExMRm1rb0g4dFE?oc=5",
-        "domain": "news.google.com",
-        "publishedAt": "2026-04-18T05:00:00.000Z",
-        "topic": "alcohol",
-        "feedId": "bev-alcohol",
-        "feedName": "Bier / Wein / Spirituosen",
-        "feedKind": "search",
-        "basePriority": 1,
-        "dachSignal": false,
-        "operatorSignal": false,
-        "regulationSignal": false,
-        "launchSignal": false,
-        "financeLike": false,
-        "ageHours": 49,
-        "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
       },
@@ -405,7 +406,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 58,
+        "ageHours": 62,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -427,7 +428,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 59,
+        "ageHours": 63,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -449,7 +450,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 63,
+        "ageHours": 66,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -471,7 +472,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 66,
+        "ageHours": 69,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -493,30 +494,8 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 68,
+        "ageHours": 72,
         "score": 32,
-        "bucket": "read",
-        "readingClass": "lesen"
-      },
-      {
-        "id": "e2290c00afcc",
-        "title": "Guangdong Huayan Robotics Co., Ltd.: Huayan Robotics to Debut at HANNOVER MESSE 2026 with Advanced Automation Solutions after IPO Milestone - FinanzNachrichten.de",
-        "summary": "Guangdong Huayan Robotics Co., Ltd.: Huayan Robotics to Debut at HANNOVER MESSE 2026 with Advanced Automation Solutions after IPO Milestone FinanzNachrichten.de",
-        "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxORTBuUDVzaExNYUhET2JmelFqZUpuNkM5RXhnR2xVdDlaR3lFd0hPYUxESG83dnphd3lYenJoRnN3TENZSFhDWnVvWWl6Vy0zT2VULTFvcUpyZTBwOFFDMUlIc1VGUjhLeWM1SmRtSHd6Y3Q5QWUxRXV1bUdVRElOS2NFMXYxMFUyU2t3bUZXTHRNQ3hiTGdGSnA5ekxNSHBsckNWTmdfdmJ5cnE4NU52VnJURUpDMWNZakRQXzhvYmhTSWRRWFhNdV9XdTNRZEhJcUdNZTNTMHNXWlMtVk5DQjNfNWJVZjVaWld2cEVrY2xtaDk5NUxRTDlCOEV1eUVhN1lBU1NjbUZ0WDB6d05rd0FvS3Z6bHJIWjRmTU0wLWEzZHhOcWlfY3Rtc1Qydw?oc=5",
-        "domain": "news.google.com",
-        "publishedAt": "2026-04-13T09:10:00.000Z",
-        "topic": "launches",
-        "feedId": "bev-general",
-        "feedName": "Getränkeindustrie",
-        "feedKind": "search",
-        "basePriority": 1,
-        "dachSignal": false,
-        "operatorSignal": false,
-        "regulationSignal": false,
-        "launchSignal": true,
-        "financeLike": false,
-        "ageHours": 165,
-        "score": 31,
         "bucket": "read",
         "readingClass": "lesen"
       },
@@ -537,7 +516,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 87,
+        "ageHours": 91,
         "score": 29,
         "bucket": "read",
         "readingClass": "lesen"
@@ -559,7 +538,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 126,
+        "ageHours": 130,
         "score": 28,
         "bucket": "read",
         "readingClass": "lesen"
@@ -581,7 +560,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 135,
+        "ageHours": 138,
         "score": 28,
         "bucket": "read",
         "readingClass": "lesen"
@@ -603,7 +582,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 161,
+        "ageHours": 165,
         "score": 28,
         "bucket": "read",
         "readingClass": "lesen"
@@ -625,7 +604,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 89,
+        "ageHours": 92,
         "score": 27,
         "bucket": "read",
         "readingClass": "lesen"
@@ -647,7 +626,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 93,
+        "ageHours": 97,
         "score": 27,
         "bucket": "read",
         "readingClass": "lesen"
@@ -669,7 +648,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 102,
+        "ageHours": 106,
         "score": 27,
         "bucket": "read",
         "readingClass": "lesen"
@@ -691,7 +670,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 120,
+        "ageHours": 124,
         "score": 27,
         "bucket": "read",
         "readingClass": "lesen"
@@ -713,7 +692,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 120,
+        "ageHours": 124,
         "score": 27,
         "bucket": "read",
         "readingClass": "lesen"
@@ -735,7 +714,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 155,
+        "ageHours": 158,
         "score": 27,
         "bucket": "read",
         "readingClass": "lesen"
@@ -757,7 +736,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 163,
+        "ageHours": 166,
         "score": 27,
         "bucket": "read",
         "readingClass": "lesen"
@@ -779,18 +758,18 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 81,
+        "ageHours": 85,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
       },
       {
-        "id": "566f2080ca85",
-        "title": "Frauen in Führungspositionen verändern Italiens Weinunternehmen - Vinetur",
-        "summary": "Frauen in Führungspositionen verändern Italiens Weinunternehmen Vinetur",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQk5RVXJHWWFubDV1VHRCZjdjM0c4YVJWc1pxV19IYThmekV0dDF2ZWhkTXl6enRJTGlXWk9mNC0ycEJjcEdveFRCNnlWNEtWc0Zjak1BS2RFOU9sdmNQdUFWWXN6MnYyLXNmbDZMMU1uOWw5bDFvT0ViMWFsRWtZRDV1aVRac0U2XzVIVEtoOVNKc05EODlHcGJ30gGfAUFVX3lxTE42MUpfQXNlekxLa2t2c3FIZlRCdXJJN2d5VnRXTWZaTWhTNUNPSXBlcVBieW1jUUVJTVJrRkh3RmlZT2JNYzNWX05nSXBBMlVLdkFwOW9XX0VWVzFDcnpaSC13NXIxUjdtMXBuNW42YVhvbnpPdVFMV2NDWjJ1bG9WX1ZzUi1OYnRySF9wV3RpbkF1dHZzSHhtcW15VU5Tcw?oc=5",
+        "id": "fadfd142d8cd",
+        "title": "WHO plant Gespräche mit der Alkoholindustrie - Vinetur",
+        "summary": "WHO plant Gespräche mit der Alkoholindustrie Vinetur",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRkV6OElkVVZlZms3dFN1OHQxTUNPczhzY0gyaUtZb2VlREZ6NjBDaXRTbkhuekpyV3hGYV9nQ0dROEpxU1FzY1NJS2k2WFh3MjZlTEs2bWZDRUFwUVVYUGdQd0lGc2lQc1V3ZjB5YTAtQmZreVdwUWRVcUd6dWhrQXRqU1nSAYoBQVVfeXFMTVFKU2duRzBjbjZEOGVqbU5BUWJYV2FSNk9SOFdKcnpXYnpsemxpTEFwdjFDV0pNWjQzTzljSjZkZmM0WmY3Z2pKaHd4VjRTZEhkYmFqM0lCYmVMLU8wc0hMODlaUWo1Vldod2ZDR0hiRHJWVmRFRmRLT1NZV3BDVGNVNjBNb0oxZThn?oc=5",
         "domain": "news.google.com",
-        "publishedAt": "2026-04-16T21:32:41.000Z",
+        "publishedAt": "2026-04-16T21:11:04.000Z",
         "topic": "alcohol",
         "feedId": "bev-alcohol",
         "feedName": "Bier / Wein / Spirituosen",
@@ -801,7 +780,51 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 81,
+        "ageHours": 85,
+        "score": 26,
+        "bucket": "read",
+        "readingClass": "lesen"
+      },
+      {
+        "id": "679c05f09019",
+        "title": "SETO Holdings, Inc. Advances Vertical Integration as Subsidiary CapCity Beverage Establishes Dedicated Tequila Production Infrastructure - FinanzNachrichten.de",
+        "summary": "SETO Holdings, Inc. Advances Vertical Integration as Subsidiary CapCity Beverage Establishes Dedicated Tequila Production Infrastructure FinanzNachrichten.de",
+        "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQbmdHTnd1VnhHWHdSZGNOYzFhYWZSeWxPMXNCeU9JRnVtVEpfMHdUNXZDcmdYWDNaTTk0cmNVbW1RVEQ0bnltaHFkVVh1cTVGTFdQNkROVS1nUU9tSUthREhWM0xkV2hPbnd4TGZTZW5xdEdVRDg5RHpCam1yYXVUNFR3b0xrT3JXSDhST2V4TmItZThqZFh4Wml5WEpzSTd4aVoyS0owSlBpTWh2RGVHbkdyUUdtbDZTVWxrdU5yTFVQQlAxZzdWNC14ZXVKNnYzMHhnVXp2a3NxZnVSZ3lzeFVFZXQyUWJnRWpoNjV1Wk9pRXo5WnlPN3I5VEtfWnVsVnVVcG5FeFY0LXJ5dVM5RUFtQXVOWXRRT3UyVFRJOXJacXB6bnljUjd0Vjc?oc=5",
+        "domain": "news.google.com",
+        "publishedAt": "2026-04-16T16:38:00.000Z",
+        "topic": "market",
+        "feedId": "bev-general",
+        "feedName": "Getränkeindustrie",
+        "feedKind": "search",
+        "basePriority": 1,
+        "dachSignal": false,
+        "operatorSignal": false,
+        "regulationSignal": false,
+        "launchSignal": false,
+        "financeLike": false,
+        "ageHours": 89,
+        "score": 26,
+        "bucket": "read",
+        "readingClass": "lesen"
+      },
+      {
+        "id": "f54df1b3f761",
+        "title": "Wie der „glück­li­che Zu­fall“ den Wein­tou­ris­mus in der Pfalz an­kur­beln soll - Die Rheinpfalz",
+        "summary": "Wie der „glück­li­che Zu­fall“ den Wein­tou­ris­mus in der Pfalz an­kur­beln soll Die Rheinpfalz",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNaldmRm9zQjZvQjQwQVlfd0dXay1LdV82N3lGMmo2VkZNejZBVUp4T2lVZ0g1Z3ZHYjZfLUR5X1JVY1p6SmxLTEdzVUZ2cFI2dE1DeVJqRzljcnVtUTNibGgxejhDdnN6azQxUUtodnpRSDVHaTNCSmwxcU5pWHlwcDN3LTF6bXdKclllR21uLTcxeWdzSy1yZlAzeWl5WXczN0hEU0pNb1J3MFlXRlgwajhjQVJxT25DSVRiaFdzVXdzWHNUN0FpMVFoTFhFV0JnT0FJVFM2ZmlKWEo1R2c?oc=5",
+        "domain": "news.google.com",
+        "publishedAt": "2026-04-16T09:00:00.000Z",
+        "topic": "alcohol",
+        "feedId": "bev-alcohol",
+        "feedName": "Bier / Wein / Spirituosen",
+        "feedKind": "search",
+        "basePriority": 1,
+        "dachSignal": false,
+        "operatorSignal": false,
+        "regulationSignal": false,
+        "launchSignal": false,
+        "financeLike": false,
+        "ageHours": 97,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -811,9 +834,9 @@
   "radar": {
     "dominantTopic": {
       "id": "alcohol",
-      "count": 43
+      "count": 42
     },
-    "dachSignals": 9,
+    "dachSignals": 10,
     "regulationSignals": 0,
     "operatorSignals": 2
   },
@@ -829,9 +852,9 @@
       "avgScore": 41
     },
     {
-      "feedName": "Alkoholfrei / Functional",
-      "count": 5,
-      "avgScore": 36
+      "feedName": "Verpackung",
+      "count": 4,
+      "avgScore": 37
     },
     {
       "feedName": "Distribution / Logistik",
@@ -839,22 +862,44 @@
       "avgScore": 36
     },
     {
+      "feedName": "Alkoholfrei / Functional",
+      "count": 5,
+      "avgScore": 35
+    },
+    {
       "feedName": "Getränkeindustrie",
-      "count": 7,
+      "count": 6,
       "avgScore": 30
     },
     {
       "feedName": "Bier / Wein / Spirituosen",
-      "count": 39,
-      "avgScore": 28
-    },
-    {
-      "feedName": "Verpackung",
-      "count": 3,
+      "count": 38,
       "avgScore": 28
     }
   ],
   "items": [
+    {
+      "id": "acaf94f7c7aa",
+      "title": "Neue Spezialagentur food.agency geht an den Start – Volldienstleister für Food- und Beverage-Marken im DACH-Raum - lifePR",
+      "summary": "Neue Spezialagentur food.agency geht an den Start – Volldienstleister für Food- und Beverage-Marken im DACH-Raum lifePR",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOTFQ1aHdzQmxHNjFFTUZpUXdLdlNnUjA3Xy1lMm00ZnBPUVlveTkxTkFEdDVHQmZtM21zRWpDQXhIbVNkOUQ1TWFNRmlfa1NIeDRDVFZSWW9fcEJxcGpwR29scDdFVVBfMFNoVTNaWHdhaWYwb3ZmR3NmUFBSQ2VyODN3NHozbmllcmhYeFZjUUxxLTlsMVVnc0FfajBLVnRlNmNEcVEzaWVkZzFPLUdvUDBmWTBxaEhuamV5U3c3T1VBTGI2WF91Q0hWbWdWNE9NdUJfY1BYai1iRDZkS1E4dTZFY2otZTcyU1pnRlRQTzdld0lpVGdpMG5CRVV0U3o1S0E?oc=5",
+      "domain": "news.google.com",
+      "publishedAt": "2026-04-20T06:15:00.000Z",
+      "topic": "packaging",
+      "feedId": "bev-packaging",
+      "feedName": "Verpackung",
+      "feedKind": "search",
+      "basePriority": 1.1,
+      "dachSignal": true,
+      "operatorSignal": false,
+      "regulationSignal": false,
+      "launchSignal": false,
+      "financeLike": false,
+      "ageHours": 4,
+      "score": 66,
+      "bucket": "today-important",
+      "readingClass": "heute wichtig"
+    },
     {
       "id": "bff3901497cd",
       "title": "Monster Energy: Pipeline Punch treibt Wachstum in Europa voran - AD HOC NEWS",
@@ -872,7 +917,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 15,
+      "ageHours": 18,
       "score": 59,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -894,7 +939,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 18,
+      "ageHours": 22,
       "score": 59,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -916,8 +961,8 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 23,
-      "score": 59,
+      "ageHours": 27,
+      "score": 53,
       "bucket": "watch",
       "readingClass": "beobachten"
     },
@@ -938,7 +983,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 19,
+      "ageHours": 22,
       "score": 45,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -960,7 +1005,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 109,
+      "ageHours": 112,
       "score": 42,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -982,7 +1027,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 117,
+      "ageHours": 121,
       "score": 42,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -1004,7 +1049,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 93,
+      "ageHours": 96,
       "score": 41,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -1026,7 +1071,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 114,
+      "ageHours": 117,
       "score": 41,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -1048,7 +1093,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 117,
+      "ageHours": 121,
       "score": 41,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -1070,7 +1115,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 143,
+      "ageHours": 147,
       "score": 41,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -1092,7 +1137,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 36,
+      "ageHours": 40,
       "score": 40,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1114,7 +1159,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 81,
+      "ageHours": 85,
       "score": 40,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -1136,7 +1181,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 87,
+      "ageHours": 91,
       "score": 40,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -1158,7 +1203,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 38,
+      "ageHours": 42,
       "score": 39,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1180,7 +1225,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 41,
+      "ageHours": 45,
       "score": 38,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1202,30 +1247,8 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 26,
+      "ageHours": 29,
       "score": 37,
-      "bucket": "read",
-      "readingClass": "lesen"
-    },
-    {
-      "id": "b6bf930c2f6d",
-      "title": "Sinkender Weinkonsum: Ein Winzer aus Schliengen wirbt für mehr heimischen Wein - Rebland - Schwarzwälder Bote - schwarzwaelder-bote.de",
-      "summary": "Sinkender Weinkonsum: Ein Winzer aus Schliengen wirbt für mehr heimischen Wein - Rebland - Schwarzwälder Bote schwarzwaelder-bote.de",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOSElYd0Zacms2R01TZlhqbUphbGNid0ExaERRWGJOYWYwWGhJY1pVYmFicjllZmFfTUdpeUd6SDlmWlhjODJXSDQ2YWlzM0VieDRKeVJpUTQ3OXAwdFVCQTlVZHFhMk1jUlRGbGVlaU45SExVM2pZOTAzb2VOc0UxZ2NTYnB6YnZtcnBzU1ZzeDV0NmV6Z2pWbXp1N196OXRPLTFIaEtUckFoVHVuVF8yenJXZF9iekZaaE1JWEE5WnIwYU9xb016N1U0bDlZb1JhYVk2WFpsaEd5d3hmb2JqckFoajhJZG9teExMRm1rb0g4dFE?oc=5",
-      "domain": "news.google.com",
-      "publishedAt": "2026-04-18T05:00:00.000Z",
-      "topic": "alcohol",
-      "feedId": "bev-alcohol",
-      "feedName": "Bier / Wein / Spirituosen",
-      "feedKind": "search",
-      "basePriority": 1,
-      "dachSignal": false,
-      "operatorSignal": false,
-      "regulationSignal": false,
-      "launchSignal": false,
-      "financeLike": false,
-      "ageHours": 49,
-      "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
     },
@@ -1246,7 +1269,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 58,
+      "ageHours": 62,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1268,7 +1291,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 59,
+      "ageHours": 63,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1290,7 +1313,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 63,
+      "ageHours": 66,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1312,7 +1335,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 66,
+      "ageHours": 69,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1334,30 +1357,8 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 68,
+      "ageHours": 72,
       "score": 32,
-      "bucket": "read",
-      "readingClass": "lesen"
-    },
-    {
-      "id": "e2290c00afcc",
-      "title": "Guangdong Huayan Robotics Co., Ltd.: Huayan Robotics to Debut at HANNOVER MESSE 2026 with Advanced Automation Solutions after IPO Milestone - FinanzNachrichten.de",
-      "summary": "Guangdong Huayan Robotics Co., Ltd.: Huayan Robotics to Debut at HANNOVER MESSE 2026 with Advanced Automation Solutions after IPO Milestone FinanzNachrichten.de",
-      "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxORTBuUDVzaExNYUhET2JmelFqZUpuNkM5RXhnR2xVdDlaR3lFd0hPYUxESG83dnphd3lYenJoRnN3TENZSFhDWnVvWWl6Vy0zT2VULTFvcUpyZTBwOFFDMUlIc1VGUjhLeWM1SmRtSHd6Y3Q5QWUxRXV1bUdVRElOS2NFMXYxMFUyU2t3bUZXTHRNQ3hiTGdGSnA5ekxNSHBsckNWTmdfdmJ5cnE4NU52VnJURUpDMWNZakRQXzhvYmhTSWRRWFhNdV9XdTNRZEhJcUdNZTNTMHNXWlMtVk5DQjNfNWJVZjVaWld2cEVrY2xtaDk5NUxRTDlCOEV1eUVhN1lBU1NjbUZ0WDB6d05rd0FvS3Z6bHJIWjRmTU0wLWEzZHhOcWlfY3Rtc1Qydw?oc=5",
-      "domain": "news.google.com",
-      "publishedAt": "2026-04-13T09:10:00.000Z",
-      "topic": "launches",
-      "feedId": "bev-general",
-      "feedName": "Getränkeindustrie",
-      "feedKind": "search",
-      "basePriority": 1,
-      "dachSignal": false,
-      "operatorSignal": false,
-      "regulationSignal": false,
-      "launchSignal": true,
-      "financeLike": false,
-      "ageHours": 165,
-      "score": 31,
       "bucket": "read",
       "readingClass": "lesen"
     },
@@ -1378,7 +1379,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 87,
+      "ageHours": 91,
       "score": 29,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1400,7 +1401,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 126,
+      "ageHours": 130,
       "score": 28,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1422,7 +1423,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 135,
+      "ageHours": 138,
       "score": 28,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1444,7 +1445,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 161,
+      "ageHours": 165,
       "score": 28,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1466,7 +1467,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 89,
+      "ageHours": 92,
       "score": 27,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1488,7 +1489,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 93,
+      "ageHours": 97,
       "score": 27,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1510,7 +1511,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 102,
+      "ageHours": 106,
       "score": 27,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1532,7 +1533,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 120,
+      "ageHours": 124,
       "score": 27,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1554,7 +1555,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 120,
+      "ageHours": 124,
       "score": 27,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1576,7 +1577,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 155,
+      "ageHours": 158,
       "score": 27,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1598,7 +1599,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 163,
+      "ageHours": 166,
       "score": 27,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1620,29 +1621,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 81,
-      "score": 26,
-      "bucket": "read",
-      "readingClass": "lesen"
-    },
-    {
-      "id": "566f2080ca85",
-      "title": "Frauen in Führungspositionen verändern Italiens Weinunternehmen - Vinetur",
-      "summary": "Frauen in Führungspositionen verändern Italiens Weinunternehmen Vinetur",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQk5RVXJHWWFubDV1VHRCZjdjM0c4YVJWc1pxV19IYThmekV0dDF2ZWhkTXl6enRJTGlXWk9mNC0ycEJjcEdveFRCNnlWNEtWc0Zjak1BS2RFOU9sdmNQdUFWWXN6MnYyLXNmbDZMMU1uOWw5bDFvT0ViMWFsRWtZRDV1aVRac0U2XzVIVEtoOVNKc05EODlHcGJ30gGfAUFVX3lxTE42MUpfQXNlekxLa2t2c3FIZlRCdXJJN2d5VnRXTWZaTWhTNUNPSXBlcVBieW1jUUVJTVJrRkh3RmlZT2JNYzNWX05nSXBBMlVLdkFwOW9XX0VWVzFDcnpaSC13NXIxUjdtMXBuNW42YVhvbnpPdVFMV2NDWjJ1bG9WX1ZzUi1OYnRySF9wV3RpbkF1dHZzSHhtcW15VU5Tcw?oc=5",
-      "domain": "news.google.com",
-      "publishedAt": "2026-04-16T21:32:41.000Z",
-      "topic": "alcohol",
-      "feedId": "bev-alcohol",
-      "feedName": "Bier / Wein / Spirituosen",
-      "feedKind": "search",
-      "basePriority": 1,
-      "dachSignal": false,
-      "operatorSignal": false,
-      "regulationSignal": false,
-      "launchSignal": false,
-      "financeLike": false,
-      "ageHours": 81,
+      "ageHours": 85,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1664,7 +1643,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 81,
+      "ageHours": 85,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1686,7 +1665,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 86,
+      "ageHours": 89,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1708,7 +1687,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 93,
+      "ageHours": 97,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1730,7 +1709,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 94,
+      "ageHours": 98,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1752,7 +1731,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 102,
+      "ageHours": 106,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1774,7 +1753,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 102,
+      "ageHours": 106,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1796,7 +1775,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 102,
+      "ageHours": 106,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1818,7 +1797,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 102,
+      "ageHours": 106,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1840,7 +1819,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 103,
+      "ageHours": 106,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1862,7 +1841,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 103,
+      "ageHours": 106,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1884,7 +1863,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 104,
+      "ageHours": 107,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1906,7 +1885,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 111,
+      "ageHours": 115,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1928,7 +1907,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 112,
+      "ageHours": 116,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1950,7 +1929,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 113,
+      "ageHours": 116,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1972,7 +1951,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 113,
+      "ageHours": 117,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1994,7 +1973,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 114,
+      "ageHours": 118,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -2016,7 +1995,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 114,
+      "ageHours": 118,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -2038,7 +2017,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 114,
+      "ageHours": 118,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -2060,7 +2039,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 116,
+      "ageHours": 120,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -2082,7 +2061,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 117,
+      "ageHours": 121,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -2104,7 +2083,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 118,
+      "ageHours": 122,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -2126,7 +2105,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 126,
+      "ageHours": 130,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -2148,7 +2127,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 126,
+      "ageHours": 130,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -2170,7 +2149,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 126,
+      "ageHours": 130,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -2192,7 +2171,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 126,
+      "ageHours": 130,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -2214,7 +2193,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 126,
+      "ageHours": 130,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -2236,7 +2215,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 126,
+      "ageHours": 130,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -2258,7 +2237,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 126,
+      "ageHours": 130,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -2280,7 +2259,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 127,
+      "ageHours": 131,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -2302,7 +2281,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 128,
+      "ageHours": 131,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -2324,7 +2303,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 128,
+      "ageHours": 132,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -2346,7 +2325,29 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 138,
+      "ageHours": 142,
+      "score": 26,
+      "bucket": "read",
+      "readingClass": "lesen"
+    },
+    {
+      "id": "56455de5f3c0",
+      "title": "„Krypto hatte ein schwieriges Jahr“: Nikita Bier von X erklärt dies angesichts des bevorstehenden Starts von X Money - CoinDesk",
+      "summary": "„Krypto hatte ein schwieriges Jahr“: Nikita Bier von X erklärt dies angesichts des bevorstehenden Starts von X Money CoinDesk",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMlFlc1FNREtDRkhvOGtXSzh5NzNLVXM0UlRtZ0ZUeWFCTHRlSjYycHdMX2RBUU9iNzNXVDV0M2x4a3UzTXdDZTB2clR3V28xc2hFaDNPRlAzUXlmZEJ1UTc4NEpNQjhyZ2xIdWVYS3ZwQkt6WU92dVhnQXdKdVhtbXEzSXM5c1VTcW9NeUhzSm55MHhqSHItOGZFMnpEUzZyc0V0OFlxbGx2VHIwbW1RUFRjaFpJZ0M1?oc=5",
+      "domain": "news.google.com",
+      "publishedAt": "2026-04-13T21:13:00.000Z",
+      "topic": "alcohol",
+      "feedId": "bev-alcohol",
+      "feedName": "Bier / Wein / Spirituosen",
+      "feedKind": "search",
+      "basePriority": 1,
+      "dachSignal": false,
+      "operatorSignal": false,
+      "regulationSignal": false,
+      "launchSignal": false,
+      "financeLike": false,
+      "ageHours": 157,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -2368,7 +2369,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 160,
+      "ageHours": 164,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
