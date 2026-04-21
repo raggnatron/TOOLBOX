@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-21T03:43:49.240Z",
+  "generatedAt": "2026-04-21T06:12:10.291Z",
   "totals": {
     "items": 68,
     "sources": 8,
@@ -28,7 +28,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 21,
+        "ageHours": 24,
         "score": 60,
         "bucket": "today-important",
         "readingClass": "heute wichtig"
@@ -52,7 +52,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 16,
+        "ageHours": 19,
         "score": 59,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -74,7 +74,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 7,
+        "ageHours": 9,
         "score": 53,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -96,7 +96,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 36,
+        "ageHours": 38,
         "score": 53,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -118,7 +118,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 40,
+        "ageHours": 42,
         "score": 53,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -140,7 +140,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 10,
+        "ageHours": 12,
         "score": 52,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -162,7 +162,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 6,
+        "ageHours": 9,
         "score": 50,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -184,7 +184,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 7,
+        "ageHours": 9,
         "score": 50,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -206,7 +206,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 15,
+        "ageHours": 17,
         "score": 46,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -228,7 +228,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 13,
+        "ageHours": 16,
         "score": 44,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -250,7 +250,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 15,
+        "ageHours": 18,
         "score": 44,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -272,7 +272,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 15,
+        "ageHours": 18,
         "score": 44,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -294,7 +294,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 130,
+        "ageHours": 132,
         "score": 42,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -318,30 +318,8 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 40,
+        "ageHours": 43,
         "score": 39,
-        "bucket": "read",
-        "readingClass": "lesen"
-      },
-      {
-        "id": "85017d912991",
-        "title": "Noch besser als Wasser: Diese Alltagsgetränke halten Flüssigkeit länger im Körper - CHIP",
-        "summary": "Noch besser als Wasser: Diese Alltagsgetränke halten Flüssigkeit länger im Körper CHIP",
-        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPcGNQZkg3LWdTUno2VW9sdGliS0pXc2VhallqNDlJaGJmOGVVeEhNR25iUjhQLWxHUlpITW03a1NkZXlsU20wamlmTG5MNjZTTlNISFZWeGNkV2VLS0ZETXFOZGpJN3BGRmdiMTBSLWFUeExCa3FhcXJoc19keFhyN08wMk9EX3FMT1loYmNjTkNhbU5GcEJmek13V0VNalowSUhpb2RpZlN4QVQ4QWItZExGTlpRMFQwWEZ0NDFRX1Z6TTZZQ3RuMHh5T3JCcVg1MEZ3aDdLVExwUTBpMzh6RFhja2tQeFdFc1ltUzFib1pRd2xLcmxzT0U2UVZqTEE?oc=5",
-        "domain": "news.google.com",
-        "publishedAt": "2026-04-19T04:55:00.000Z",
-        "topic": "launches",
-        "feedId": "bev-launches",
-        "feedName": "Launches / Neuheiten",
-        "feedKind": "search",
-        "basePriority": 0.95,
-        "dachSignal": false,
-        "operatorSignal": false,
-        "regulationSignal": false,
-        "launchSignal": false,
-        "financeLike": false,
-        "ageHours": 47,
-        "score": 37,
         "bucket": "read",
         "readingClass": "lesen"
       },
@@ -362,7 +340,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 57,
+        "ageHours": 60,
         "score": 34,
         "bucket": "read",
         "readingClass": "lesen"
@@ -384,7 +362,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 59,
+        "ageHours": 62,
         "score": 33,
         "bucket": "read",
         "readingClass": "lesen"
@@ -406,7 +384,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 60,
+        "ageHours": 62,
         "score": 33,
         "bucket": "read",
         "readingClass": "lesen"
@@ -428,8 +406,30 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 63,
+        "ageHours": 65,
         "score": 32,
+        "bucket": "read",
+        "readingClass": "lesen"
+      },
+      {
+        "id": "85017d912991",
+        "title": "Noch besser als Wasser: Diese Alltagsgetränke halten Flüssigkeit länger im Körper - CHIP",
+        "summary": "Noch besser als Wasser: Diese Alltagsgetränke halten Flüssigkeit länger im Körper CHIP",
+        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPcGNQZkg3LWdTUno2VW9sdGliS0pXc2VhallqNDlJaGJmOGVVeEhNR25iUjhQLWxHUlpITW03a1NkZXlsU20wamlmTG5MNjZTTlNISFZWeGNkV2VLS0ZETXFOZGpJN3BGRmdiMTBSLWFUeExCa3FhcXJoc19keFhyN08wMk9EX3FMT1loYmNjTkNhbU5GcEJmek13V0VNalowSUhpb2RpZlN4QVQ4QWItZExGTlpRMFQwWEZ0NDFRX1Z6TTZZQ3RuMHh5T3JCcVg1MEZ3aDdLVExwUTBpMzh6RFhja2tQeFdFc1ltUzFib1pRd2xLcmxzT0U2UVZqTEE?oc=5",
+        "domain": "news.google.com",
+        "publishedAt": "2026-04-19T04:55:00.000Z",
+        "topic": "launches",
+        "feedId": "bev-launches",
+        "feedName": "Launches / Neuheiten",
+        "feedKind": "search",
+        "basePriority": 0.95,
+        "dachSignal": false,
+        "operatorSignal": false,
+        "regulationSignal": false,
+        "launchSignal": false,
+        "financeLike": false,
+        "ageHours": 49,
+        "score": 31,
         "bucket": "read",
         "readingClass": "lesen"
       },
@@ -450,7 +450,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 109,
+        "ageHours": 111,
         "score": 29,
         "bucket": "read",
         "readingClass": "lesen"
@@ -472,7 +472,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 148,
+        "ageHours": 150,
         "score": 28,
         "bucket": "read",
         "readingClass": "lesen"
@@ -494,7 +494,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 156,
+        "ageHours": 158,
         "score": 28,
         "bucket": "read",
         "readingClass": "lesen"
@@ -516,7 +516,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 79,
+        "ageHours": 82,
         "score": 27,
         "bucket": "read",
         "readingClass": "lesen"
@@ -538,7 +538,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 110,
+        "ageHours": 112,
         "score": 27,
         "bucket": "read",
         "readingClass": "lesen"
@@ -560,7 +560,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 115,
+        "ageHours": 117,
         "score": 27,
         "bucket": "read",
         "readingClass": "lesen"
@@ -582,7 +582,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 124,
+        "ageHours": 126,
         "score": 27,
         "bucket": "read",
         "readingClass": "lesen"
@@ -604,7 +604,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 141,
+        "ageHours": 144,
         "score": 27,
         "bucket": "read",
         "readingClass": "lesen"
@@ -626,7 +626,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 142,
+        "ageHours": 144,
         "score": 27,
         "bucket": "read",
         "readingClass": "lesen"
@@ -648,7 +648,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 84,
+        "ageHours": 86,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -670,7 +670,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 87,
+        "ageHours": 89,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -692,7 +692,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 90,
+        "ageHours": 92,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -714,7 +714,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 102,
+        "ageHours": 105,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -736,7 +736,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 107,
+        "ageHours": 110,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -758,7 +758,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 115,
+        "ageHours": 117,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -780,7 +780,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 115,
+        "ageHours": 118,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -802,7 +802,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 124,
+        "ageHours": 126,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -824,7 +824,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 124,
+        "ageHours": 126,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -842,14 +842,14 @@
   },
   "sourceStats": [
     {
-      "feedName": "Launches / Neuheiten",
-      "count": 9,
-      "avgScore": 41
-    },
-    {
       "feedName": "Nachhaltigkeit",
       "count": 1,
       "avgScore": 41
+    },
+    {
+      "feedName": "Launches / Neuheiten",
+      "count": 9,
+      "avgScore": 40
     },
     {
       "feedName": "Verpackung",
@@ -895,7 +895,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 21,
+      "ageHours": 24,
       "score": 60,
       "bucket": "today-important",
       "readingClass": "heute wichtig"
@@ -917,7 +917,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 16,
+      "ageHours": 19,
       "score": 59,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -939,7 +939,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 7,
+      "ageHours": 9,
       "score": 53,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -961,7 +961,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 36,
+      "ageHours": 38,
       "score": 53,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -983,7 +983,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 40,
+      "ageHours": 42,
       "score": 53,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -1005,7 +1005,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 10,
+      "ageHours": 12,
       "score": 52,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -1027,7 +1027,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 6,
+      "ageHours": 9,
       "score": 50,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -1049,7 +1049,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 7,
+      "ageHours": 9,
       "score": 50,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -1071,7 +1071,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 15,
+      "ageHours": 17,
       "score": 46,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -1093,7 +1093,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 13,
+      "ageHours": 16,
       "score": 44,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -1115,7 +1115,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 15,
+      "ageHours": 18,
       "score": 44,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -1137,7 +1137,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 15,
+      "ageHours": 18,
       "score": 44,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -1159,7 +1159,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 130,
+      "ageHours": 132,
       "score": 42,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -1181,7 +1181,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 138,
+      "ageHours": 141,
       "score": 42,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -1203,7 +1203,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 114,
+      "ageHours": 117,
       "score": 41,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -1225,7 +1225,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 135,
+      "ageHours": 138,
       "score": 41,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -1247,7 +1247,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 138,
+      "ageHours": 141,
       "score": 41,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -1269,7 +1269,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 165,
+      "ageHours": 167,
       "score": 41,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -1291,7 +1291,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 103,
+      "ageHours": 105,
       "score": 40,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -1313,7 +1313,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 108,
+      "ageHours": 111,
       "score": 40,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -1335,30 +1335,8 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 40,
+      "ageHours": 43,
       "score": 39,
-      "bucket": "read",
-      "readingClass": "lesen"
-    },
-    {
-      "id": "85017d912991",
-      "title": "Noch besser als Wasser: Diese Alltagsgetränke halten Flüssigkeit länger im Körper - CHIP",
-      "summary": "Noch besser als Wasser: Diese Alltagsgetränke halten Flüssigkeit länger im Körper CHIP",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPcGNQZkg3LWdTUno2VW9sdGliS0pXc2VhallqNDlJaGJmOGVVeEhNR25iUjhQLWxHUlpITW03a1NkZXlsU20wamlmTG5MNjZTTlNISFZWeGNkV2VLS0ZETXFOZGpJN3BGRmdiMTBSLWFUeExCa3FhcXJoc19keFhyN08wMk9EX3FMT1loYmNjTkNhbU5GcEJmek13V0VNalowSUhpb2RpZlN4QVQ4QWItZExGTlpRMFQwWEZ0NDFRX1Z6TTZZQ3RuMHh5T3JCcVg1MEZ3aDdLVExwUTBpMzh6RFhja2tQeFdFc1ltUzFib1pRd2xLcmxzT0U2UVZqTEE?oc=5",
-      "domain": "news.google.com",
-      "publishedAt": "2026-04-19T04:55:00.000Z",
-      "topic": "launches",
-      "feedId": "bev-launches",
-      "feedName": "Launches / Neuheiten",
-      "feedKind": "search",
-      "basePriority": 0.95,
-      "dachSignal": false,
-      "operatorSignal": false,
-      "regulationSignal": false,
-      "launchSignal": false,
-      "financeLike": false,
-      "ageHours": 47,
-      "score": 37,
       "bucket": "read",
       "readingClass": "lesen"
     },
@@ -1379,7 +1357,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 57,
+      "ageHours": 60,
       "score": 34,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1401,7 +1379,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 59,
+      "ageHours": 62,
       "score": 33,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1423,7 +1401,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 60,
+      "ageHours": 62,
       "score": 33,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1445,8 +1423,30 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 63,
+      "ageHours": 65,
       "score": 32,
+      "bucket": "read",
+      "readingClass": "lesen"
+    },
+    {
+      "id": "85017d912991",
+      "title": "Noch besser als Wasser: Diese Alltagsgetränke halten Flüssigkeit länger im Körper - CHIP",
+      "summary": "Noch besser als Wasser: Diese Alltagsgetränke halten Flüssigkeit länger im Körper CHIP",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPcGNQZkg3LWdTUno2VW9sdGliS0pXc2VhallqNDlJaGJmOGVVeEhNR25iUjhQLWxHUlpITW03a1NkZXlsU20wamlmTG5MNjZTTlNISFZWeGNkV2VLS0ZETXFOZGpJN3BGRmdiMTBSLWFUeExCa3FhcXJoc19keFhyN08wMk9EX3FMT1loYmNjTkNhbU5GcEJmek13V0VNalowSUhpb2RpZlN4QVQ4QWItZExGTlpRMFQwWEZ0NDFRX1Z6TTZZQ3RuMHh5T3JCcVg1MEZ3aDdLVExwUTBpMzh6RFhja2tQeFdFc1ltUzFib1pRd2xLcmxzT0U2UVZqTEE?oc=5",
+      "domain": "news.google.com",
+      "publishedAt": "2026-04-19T04:55:00.000Z",
+      "topic": "launches",
+      "feedId": "bev-launches",
+      "feedName": "Launches / Neuheiten",
+      "feedKind": "search",
+      "basePriority": 0.95,
+      "dachSignal": false,
+      "operatorSignal": false,
+      "regulationSignal": false,
+      "launchSignal": false,
+      "financeLike": false,
+      "ageHours": 49,
+      "score": 31,
       "bucket": "read",
       "readingClass": "lesen"
     },
@@ -1467,7 +1467,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 109,
+      "ageHours": 111,
       "score": 29,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1489,7 +1489,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 148,
+      "ageHours": 150,
       "score": 28,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1511,7 +1511,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 156,
+      "ageHours": 158,
       "score": 28,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1533,7 +1533,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 79,
+      "ageHours": 82,
       "score": 27,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1555,7 +1555,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 110,
+      "ageHours": 112,
       "score": 27,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1577,7 +1577,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 115,
+      "ageHours": 117,
       "score": 27,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1599,7 +1599,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 124,
+      "ageHours": 126,
       "score": 27,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1621,7 +1621,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 141,
+      "ageHours": 144,
       "score": 27,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1643,7 +1643,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 142,
+      "ageHours": 144,
       "score": 27,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1665,7 +1665,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 84,
+      "ageHours": 86,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1687,7 +1687,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 87,
+      "ageHours": 89,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1709,7 +1709,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 90,
+      "ageHours": 92,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1731,7 +1731,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 102,
+      "ageHours": 105,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1753,7 +1753,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 107,
+      "ageHours": 110,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1775,7 +1775,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 115,
+      "ageHours": 117,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1797,7 +1797,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 115,
+      "ageHours": 118,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1819,7 +1819,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 124,
+      "ageHours": 126,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1841,7 +1841,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 124,
+      "ageHours": 126,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1863,7 +1863,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 124,
+      "ageHours": 126,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1885,7 +1885,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 124,
+      "ageHours": 126,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1907,7 +1907,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 124,
+      "ageHours": 126,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1929,7 +1929,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 125,
+      "ageHours": 127,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1951,7 +1951,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 133,
+      "ageHours": 135,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1973,7 +1973,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 134,
+      "ageHours": 136,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1995,7 +1995,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 135,
+      "ageHours": 137,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -2017,7 +2017,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 135,
+      "ageHours": 138,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -2039,7 +2039,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 136,
+      "ageHours": 138,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -2061,7 +2061,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 136,
+      "ageHours": 138,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -2083,7 +2083,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 138,
+      "ageHours": 140,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -2105,7 +2105,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 138,
+      "ageHours": 141,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -2127,7 +2127,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 139,
+      "ageHours": 142,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -2149,7 +2149,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 148,
+      "ageHours": 150,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -2171,7 +2171,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 148,
+      "ageHours": 150,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -2193,7 +2193,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 148,
+      "ageHours": 150,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -2215,7 +2215,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 148,
+      "ageHours": 150,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -2237,7 +2237,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 148,
+      "ageHours": 150,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -2259,7 +2259,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 148,
+      "ageHours": 150,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -2281,7 +2281,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 148,
+      "ageHours": 150,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -2303,7 +2303,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 148,
+      "ageHours": 151,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -2325,7 +2325,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 149,
+      "ageHours": 151,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -2347,7 +2347,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 149,
+      "ageHours": 152,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -2369,7 +2369,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 159,
+      "ageHours": 162,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
