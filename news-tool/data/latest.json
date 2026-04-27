@@ -1,16 +1,17 @@
 {
-  "generatedAt": "2026-04-27T03:57:58.297Z",
+  "generatedAt": "2026-04-27T06:39:58.018Z",
   "totals": {
-    "items": 45,
+    "items": 44,
     "sources": 8,
     "failures": 0,
-    "todayImportant": 1,
-    "watch": 6,
-    "read": 38
+    "todayImportant": 0,
+    "watch": 7,
+    "read": 37
   },
   "failures": [],
   "sections": {
-    "todayImportant": [
+    "todayImportant": [],
+    "watch": [
       {
         "id": "3da32ee945f1",
         "title": "Celsius Energy Drink: Premium-Trend treibt Wachstum in Europa voran - AD HOC NEWS",
@@ -28,13 +29,11 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 12,
-        "score": 66,
-        "bucket": "today-important",
-        "readingClass": "heute wichtig"
-      }
-    ],
-    "watch": [
+        "ageHours": 15,
+        "score": 60,
+        "bucket": "watch",
+        "readingClass": "beobachten"
+      },
       {
         "id": "2481ebd69587",
         "title": "Weniger Wein, aber mehr Schweiz - foodaktuell.ch",
@@ -52,7 +51,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 64,
+        "ageHours": 66,
         "score": 46,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -74,7 +73,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 18,
+        "ageHours": 21,
         "score": 45,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -96,7 +95,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 157,
+        "ageHours": 159,
         "score": 41,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -118,7 +117,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 160,
+        "ageHours": 163,
         "score": 41,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -140,7 +139,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 135,
+        "ageHours": 138,
         "score": 40,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -162,7 +161,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 164,
+        "ageHours": 166,
         "score": 40,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -186,7 +185,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 51,
+        "ageHours": 54,
         "score": 34,
         "bucket": "read",
         "readingClass": "lesen"
@@ -208,7 +207,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 59,
+        "ageHours": 61,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -230,7 +229,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 63,
+        "ageHours": 66,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -252,7 +251,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 67,
+        "ageHours": 70,
         "score": 31,
         "bucket": "read",
         "readingClass": "lesen"
@@ -274,30 +273,8 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 81,
+        "ageHours": 83,
         "score": 29,
-        "bucket": "read",
-        "readingClass": "lesen"
-      },
-      {
-        "id": "f1cc7f3c8a00",
-        "title": "2- und 3-teilige Dosen für die Lebensmittel- und Getränkeindustrie – Analyse und Entwicklungstrends - ekz-crosstour",
-        "summary": "2- und 3-teilige Dosen für die Lebensmittel- und Getränkeindustrie – Analyse und Entwicklungstrends ekz-crosstour",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPS1habVZwaENIMmN5S204X3hha0wzMWc2dXBpZVpIMDFFUUJFUUtycG9XNTJJWXRZWlNUQ3pWT2N3UTV6TkFwVjlkb3VHaXhwRlhTMjJVOU5CYW80bXo2S2s3MUU1azUwOHBzNnBGTDFBXzgwb2V1Q2F6cUhfRnotaVotTlVXWl84WkZpUzdod25XbWJ3NFBUQ1FGRzR1S1N6YUFUeG1oa2xkSlJtekh3eFdrWldqQjdqV1pEWGhfdkp1SGsxRENpaG1JS2I?oc=5",
-        "domain": "news.google.com",
-        "publishedAt": "2026-04-23T16:22:00.000Z",
-        "topic": "packaging",
-        "feedId": "bev-packaging",
-        "feedName": "Verpackung",
-        "feedKind": "search",
-        "basePriority": 1.1,
-        "dachSignal": false,
-        "operatorSignal": false,
-        "regulationSignal": false,
-        "launchSignal": false,
-        "financeLike": false,
-        "ageHours": 84,
-        "score": 28,
         "bucket": "read",
         "readingClass": "lesen"
       },
@@ -318,7 +295,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 87,
+        "ageHours": 89,
         "score": 28,
         "bucket": "read",
         "readingClass": "lesen"
@@ -340,7 +317,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 159,
+        "ageHours": 162,
         "score": 28,
         "bucket": "read",
         "readingClass": "lesen"
@@ -362,7 +339,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 78,
+        "ageHours": 81,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -384,7 +361,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 78,
+        "ageHours": 81,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -406,7 +383,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 78,
+        "ageHours": 81,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -428,7 +405,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 78,
+        "ageHours": 81,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -450,7 +427,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 79,
+        "ageHours": 82,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -472,7 +449,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 80,
+        "ageHours": 82,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -494,7 +471,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 81,
+        "ageHours": 83,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -516,18 +493,18 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 82,
+        "ageHours": 85,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
       },
       {
-        "id": "07b5eff30114",
-        "title": "Tag des Bieres: Warum die Branche auch in OWL umdenken muss - Mindener Tageblatt",
-        "summary": "Tag des Bieres: Warum die Branche auch in OWL umdenken muss Mindener Tageblatt",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdGN0Y2dGRXdkbkQ1dGhNVVJUaGhkUk5YaWYxMi1KNWZWci02X0pjd2RKUllSY2xKdkQ3SDRFdUtyeXFXd2tUS0VBbDlNWFpCRGtWdVJvbU9HNktiNFZ3ZmJQNHNldWR2Vl8wYVJmbDl1U19nczd6MnlVQzBsZm92V0xuTjZ1aVp5S2FSYnI0Y21OdkZ5cktFby01VGhFbFB6dERZN3h5RzhRMFQyN3FSbnRpcHZ2aTJyWElNcGFSTmFDaHU5Tk5ITk1DdVQ?oc=5",
+        "id": "511ed78f24ac",
+        "title": "Tag des Bieres: Warum die Branche auch in OWL umdenken muss - Neue Westfälische",
+        "summary": "Tag des Bieres: Warum die Branche auch in OWL umdenken muss Neue Westfälische",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZm4xZkhUeF9IaFNjNXNKMEpKTU9mZTBQVVNjUk5ZUTFFTEVkSVJKQVR6NTZoZjNJWE85bzc5ZmwxMERBRmNMQkFfWEpzaEd2NnI0MGtjUkhpUGdkLVF0Tk5YZC0yYWdGNnVvNDU5ZEdlWnFhRElQT0xxVFIwd3FXcWVGaHlpeTRoSzJXaDdTb3I1bnAxVkg4cXZBZU01M0lWXzdvVGNWZnNiWVNiemNNQXBYdw?oc=5",
         "domain": "news.google.com",
-        "publishedAt": "2026-04-23T16:15:40.000Z",
+        "publishedAt": "2026-04-23T16:00:00.000Z",
         "topic": "alcohol",
         "feedId": "bev-alcohol",
         "feedName": "Bier / Wein / Spirituosen",
@@ -538,7 +515,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 84,
+        "ageHours": 87,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -560,7 +537,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 84,
+        "ageHours": 87,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -582,7 +559,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 89,
+        "ageHours": 91,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -604,7 +581,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 102,
+        "ageHours": 105,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -626,7 +603,29 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 104,
+        "ageHours": 106,
+        "score": 26,
+        "bucket": "read",
+        "readingClass": "lesen"
+      },
+      {
+        "id": "407a9494cc38",
+        "title": "Italien legt 98-Millionen-Euro-Fonds zur Förderung von Weinausfuhren auf - Vinetur",
+        "summary": "Italien legt 98-Millionen-Euro-Fonds zur Förderung von Weinausfuhren auf Vinetur",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdGpYdnZFbU9hZlBKQ2tiVl9nemJHV3c2UHpNRm5TMkEzVmRVU2VleDVtaktUVjR6T2lVd1M0ZTQ4TnVSeE45N1loM2l0TW01d1ZLYWg1TVY2ZE9oa2J3WVB2SVdHWXotYXJ0NVlvdURwSHJhUXU0NEZVX0hxbWxhbnpOTmxKVzNsdldIQVBnMTVFQTRneFR3UThfcFEzZXl0eW000gGoAUFVX3lxTE5MdjJNWTdaNDh2V1F3ZU5hczFmTWVuRlNUX01QVW93ZnBHalJITTV0bno0YVRLLVZBWEFhbWlaZlVpYzVqNUdUUmk3cW9LQ294dTIyd3J5U1RpcjBpRVFtYjFxeXNHRzRIQkdIVWhhUlA5eWQxUmJxcTNqYi1nV0JYTjJrMkNYbUVxdDdURm1BR1dtbkMtR2MzQzlfNWh2WnU0bkJjU3NxRg?oc=5",
+        "domain": "news.google.com",
+        "publishedAt": "2026-04-22T20:21:35.000Z",
+        "topic": "alcohol",
+        "feedId": "bev-alcohol",
+        "feedName": "Bier / Wein / Spirituosen",
+        "feedKind": "search",
+        "basePriority": 1,
+        "dachSignal": false,
+        "operatorSignal": false,
+        "regulationSignal": false,
+        "launchSignal": false,
+        "financeLike": false,
+        "ageHours": 106,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -648,7 +647,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 108,
+        "ageHours": 111,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -670,7 +669,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 110,
+        "ageHours": 113,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -692,7 +691,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 112,
+        "ageHours": 115,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -712,7 +711,7 @@
     {
       "feedName": "Distribution / Logistik",
       "count": 2,
-      "avgScore": 50
+      "avgScore": 47
     },
     {
       "feedName": "Alkoholfrei / Functional",
@@ -731,7 +730,7 @@
     },
     {
       "feedName": "Verpackung",
-      "count": 2,
+      "count": 1,
       "avgScore": 28
     },
     {
@@ -758,10 +757,10 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 12,
-      "score": 66,
-      "bucket": "today-important",
-      "readingClass": "heute wichtig"
+      "ageHours": 15,
+      "score": 60,
+      "bucket": "watch",
+      "readingClass": "beobachten"
     },
     {
       "id": "2481ebd69587",
@@ -780,7 +779,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 64,
+      "ageHours": 66,
       "score": 46,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -802,7 +801,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 18,
+      "ageHours": 21,
       "score": 45,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -824,7 +823,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 157,
+      "ageHours": 159,
       "score": 41,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -846,7 +845,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 160,
+      "ageHours": 163,
       "score": 41,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -868,7 +867,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 135,
+      "ageHours": 138,
       "score": 40,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -890,7 +889,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 164,
+      "ageHours": 166,
       "score": 40,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -912,7 +911,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 51,
+      "ageHours": 54,
       "score": 34,
       "bucket": "read",
       "readingClass": "lesen"
@@ -934,7 +933,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 59,
+      "ageHours": 61,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -956,7 +955,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 63,
+      "ageHours": 66,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -978,7 +977,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 67,
+      "ageHours": 70,
       "score": 31,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1000,30 +999,8 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 81,
+      "ageHours": 83,
       "score": 29,
-      "bucket": "read",
-      "readingClass": "lesen"
-    },
-    {
-      "id": "f1cc7f3c8a00",
-      "title": "2- und 3-teilige Dosen für die Lebensmittel- und Getränkeindustrie – Analyse und Entwicklungstrends - ekz-crosstour",
-      "summary": "2- und 3-teilige Dosen für die Lebensmittel- und Getränkeindustrie – Analyse und Entwicklungstrends ekz-crosstour",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPS1habVZwaENIMmN5S204X3hha0wzMWc2dXBpZVpIMDFFUUJFUUtycG9XNTJJWXRZWlNUQ3pWT2N3UTV6TkFwVjlkb3VHaXhwRlhTMjJVOU5CYW80bXo2S2s3MUU1azUwOHBzNnBGTDFBXzgwb2V1Q2F6cUhfRnotaVotTlVXWl84WkZpUzdod25XbWJ3NFBUQ1FGRzR1S1N6YUFUeG1oa2xkSlJtekh3eFdrWldqQjdqV1pEWGhfdkp1SGsxRENpaG1JS2I?oc=5",
-      "domain": "news.google.com",
-      "publishedAt": "2026-04-23T16:22:00.000Z",
-      "topic": "packaging",
-      "feedId": "bev-packaging",
-      "feedName": "Verpackung",
-      "feedKind": "search",
-      "basePriority": 1.1,
-      "dachSignal": false,
-      "operatorSignal": false,
-      "regulationSignal": false,
-      "launchSignal": false,
-      "financeLike": false,
-      "ageHours": 84,
-      "score": 28,
       "bucket": "read",
       "readingClass": "lesen"
     },
@@ -1044,7 +1021,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 87,
+      "ageHours": 89,
       "score": 28,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1066,7 +1043,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 159,
+      "ageHours": 162,
       "score": 28,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1088,7 +1065,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 78,
+      "ageHours": 81,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1110,7 +1087,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 78,
+      "ageHours": 81,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1132,7 +1109,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 78,
+      "ageHours": 81,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1154,7 +1131,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 78,
+      "ageHours": 81,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1176,7 +1153,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 79,
+      "ageHours": 82,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1198,7 +1175,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 80,
+      "ageHours": 82,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1220,7 +1197,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 81,
+      "ageHours": 83,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1242,18 +1219,18 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 82,
+      "ageHours": 85,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
     },
     {
-      "id": "07b5eff30114",
-      "title": "Tag des Bieres: Warum die Branche auch in OWL umdenken muss - Mindener Tageblatt",
-      "summary": "Tag des Bieres: Warum die Branche auch in OWL umdenken muss Mindener Tageblatt",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdGN0Y2dGRXdkbkQ1dGhNVVJUaGhkUk5YaWYxMi1KNWZWci02X0pjd2RKUllSY2xKdkQ3SDRFdUtyeXFXd2tUS0VBbDlNWFpCRGtWdVJvbU9HNktiNFZ3ZmJQNHNldWR2Vl8wYVJmbDl1U19nczd6MnlVQzBsZm92V0xuTjZ1aVp5S2FSYnI0Y21OdkZ5cktFby01VGhFbFB6dERZN3h5RzhRMFQyN3FSbnRpcHZ2aTJyWElNcGFSTmFDaHU5Tk5ITk1DdVQ?oc=5",
+      "id": "511ed78f24ac",
+      "title": "Tag des Bieres: Warum die Branche auch in OWL umdenken muss - Neue Westfälische",
+      "summary": "Tag des Bieres: Warum die Branche auch in OWL umdenken muss Neue Westfälische",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZm4xZkhUeF9IaFNjNXNKMEpKTU9mZTBQVVNjUk5ZUTFFTEVkSVJKQVR6NTZoZjNJWE85bzc5ZmwxMERBRmNMQkFfWEpzaEd2NnI0MGtjUkhpUGdkLVF0Tk5YZC0yYWdGNnVvNDU5ZEdlWnFhRElQT0xxVFIwd3FXcWVGaHlpeTRoSzJXaDdTb3I1bnAxVkg4cXZBZU01M0lWXzdvVGNWZnNiWVNiemNNQXBYdw?oc=5",
       "domain": "news.google.com",
-      "publishedAt": "2026-04-23T16:15:40.000Z",
+      "publishedAt": "2026-04-23T16:00:00.000Z",
       "topic": "alcohol",
       "feedId": "bev-alcohol",
       "feedName": "Bier / Wein / Spirituosen",
@@ -1264,7 +1241,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 84,
+      "ageHours": 87,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1286,7 +1263,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 84,
+      "ageHours": 87,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1308,7 +1285,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 89,
+      "ageHours": 91,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1330,7 +1307,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 102,
+      "ageHours": 105,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1352,7 +1329,29 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 104,
+      "ageHours": 106,
+      "score": 26,
+      "bucket": "read",
+      "readingClass": "lesen"
+    },
+    {
+      "id": "407a9494cc38",
+      "title": "Italien legt 98-Millionen-Euro-Fonds zur Förderung von Weinausfuhren auf - Vinetur",
+      "summary": "Italien legt 98-Millionen-Euro-Fonds zur Förderung von Weinausfuhren auf Vinetur",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdGpYdnZFbU9hZlBKQ2tiVl9nemJHV3c2UHpNRm5TMkEzVmRVU2VleDVtaktUVjR6T2lVd1M0ZTQ4TnVSeE45N1loM2l0TW01d1ZLYWg1TVY2ZE9oa2J3WVB2SVdHWXotYXJ0NVlvdURwSHJhUXU0NEZVX0hxbWxhbnpOTmxKVzNsdldIQVBnMTVFQTRneFR3UThfcFEzZXl0eW000gGoAUFVX3lxTE5MdjJNWTdaNDh2V1F3ZU5hczFmTWVuRlNUX01QVW93ZnBHalJITTV0bno0YVRLLVZBWEFhbWlaZlVpYzVqNUdUUmk3cW9LQ294dTIyd3J5U1RpcjBpRVFtYjFxeXNHRzRIQkdIVWhhUlA5eWQxUmJxcTNqYi1nV0JYTjJrMkNYbUVxdDdURm1BR1dtbkMtR2MzQzlfNWh2WnU0bkJjU3NxRg?oc=5",
+      "domain": "news.google.com",
+      "publishedAt": "2026-04-22T20:21:35.000Z",
+      "topic": "alcohol",
+      "feedId": "bev-alcohol",
+      "feedName": "Bier / Wein / Spirituosen",
+      "feedKind": "search",
+      "basePriority": 1,
+      "dachSignal": false,
+      "operatorSignal": false,
+      "regulationSignal": false,
+      "launchSignal": false,
+      "financeLike": false,
+      "ageHours": 106,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1374,7 +1373,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 108,
+      "ageHours": 111,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1396,7 +1395,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 110,
+      "ageHours": 113,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1418,7 +1417,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 112,
+      "ageHours": 115,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1440,7 +1439,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 115,
+      "ageHours": 118,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1462,7 +1461,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 127,
+      "ageHours": 130,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1484,7 +1483,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 127,
+      "ageHours": 130,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1506,29 +1505,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 127,
-      "score": 26,
-      "bucket": "read",
-      "readingClass": "lesen"
-    },
-    {
-      "id": "233c96c3a9f4",
-      "title": "Burgund setzt bei jüngeren Weintrinkern auf eine neue Botschaft - Vinetur",
-      "summary": "Burgund setzt bei jüngeren Weintrinkern auf eine neue Botschaft Vinetur",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWmdqUkpxMlQxRUpyOHRGOVJ4WFRKb19ra3pYeWZOamxCRTVjS2Z0OWdHdEduSERtX1M5RUMtbno3eUZlSHFMbGloRnhLMXVfaHZfdFFNNFR4NVN6YUgtX011X0RiZVVkRmRNVHgxTE5RRGhWZU9TWkloamYxZTBQYkxvd2xsZnZFakN0cjIyUnNubGhlTEtlVUNERDBmb01YOGfSAacBQVVfeXFMTXZEZDhUYWduT3oyb1JrUUVTTmlCMVdwNktYWVhwZUtTUF8tTDRqWkFzc3V6VnRlejFqUVVEVFl1NF9oMVFRT3E2Y2w2S0FhR3dlOFg4OU1Ic1JLaC1jVGZrRVc1aUZMMjN3b0hFWENJRkRJSDMxQy1hYVp5NzJJN0tEd3FadEI3S2U4ZkhGSzQ2UFFjYlRkR1pEZGlrRnpVNlZESW9LT0U?oc=5",
-      "domain": "news.google.com",
-      "publishedAt": "2026-04-21T20:55:55.000Z",
-      "topic": "alcohol",
-      "feedId": "bev-alcohol",
-      "feedName": "Bier / Wein / Spirituosen",
-      "feedKind": "search",
-      "basePriority": 1,
-      "dachSignal": false,
-      "operatorSignal": false,
-      "regulationSignal": false,
-      "launchSignal": false,
-      "financeLike": false,
-      "ageHours": 127,
+      "ageHours": 130,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1550,7 +1527,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 128,
+      "ageHours": 130,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1572,7 +1549,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 139,
+      "ageHours": 141,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1594,7 +1571,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 144,
+      "ageHours": 147,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1616,7 +1593,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 151,
+      "ageHours": 154,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1638,7 +1615,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 152,
+      "ageHours": 155,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1660,7 +1637,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 157,
+      "ageHours": 160,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1682,7 +1659,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 160,
+      "ageHours": 162,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1704,7 +1681,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 160,
+      "ageHours": 162,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1726,7 +1703,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 94,
+      "ageHours": 97,
       "score": 25,
       "bucket": "read",
       "readingClass": "lesen"
