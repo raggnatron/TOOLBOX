@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-04-30T04:00:51.756Z",
+  "generatedAt": "2026-04-30T06:39:34.426Z",
   "totals": {
-    "items": 44,
+    "items": 45,
     "sources": 8,
     "failures": 0,
     "todayImportant": 0,
-    "watch": 18,
+    "watch": 19,
     "read": 26
   },
   "failures": [],
@@ -29,7 +29,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 4,
+        "ageHours": 7,
         "score": 53,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -51,7 +51,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 4,
+        "ageHours": 7,
         "score": 53,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -73,7 +73,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 4,
+        "ageHours": 7,
         "score": 50,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -95,7 +95,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 4,
+        "ageHours": 7,
         "score": 50,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -117,7 +117,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 4,
+        "ageHours": 7,
         "score": 50,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -139,7 +139,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 4,
+        "ageHours": 7,
         "score": 50,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -161,7 +161,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 4,
+        "ageHours": 7,
         "score": 50,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -183,7 +183,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 4,
+        "ageHours": 7,
         "score": 50,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -205,7 +205,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 4,
+        "ageHours": 7,
         "score": 50,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -227,7 +227,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 5,
+        "ageHours": 8,
         "score": 50,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -249,7 +249,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 7,
+        "ageHours": 10,
         "score": 50,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -271,7 +271,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 7,
+        "ageHours": 10,
         "score": 49,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -295,7 +295,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 28,
+        "ageHours": 30,
         "score": 40,
         "bucket": "read",
         "readingClass": "lesen"
@@ -317,7 +317,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 29,
+        "ageHours": 32,
         "score": 40,
         "bucket": "read",
         "readingClass": "lesen"
@@ -339,7 +339,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 33,
+        "ageHours": 35,
         "score": 40,
         "bucket": "read",
         "readingClass": "lesen"
@@ -361,7 +361,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 28,
+        "ageHours": 30,
         "score": 38,
         "bucket": "read",
         "readingClass": "lesen"
@@ -383,7 +383,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 28,
+        "ageHours": 31,
         "score": 38,
         "bucket": "read",
         "readingClass": "lesen"
@@ -405,7 +405,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 32,
+        "ageHours": 35,
         "score": 38,
         "bucket": "read",
         "readingClass": "lesen"
@@ -427,7 +427,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 33,
+        "ageHours": 36,
         "score": 38,
         "bucket": "read",
         "readingClass": "lesen"
@@ -449,7 +449,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 41,
+        "ageHours": 44,
         "score": 38,
         "bucket": "read",
         "readingClass": "lesen"
@@ -471,7 +471,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 44,
+        "ageHours": 47,
         "score": 38,
         "bucket": "read",
         "readingClass": "lesen"
@@ -493,7 +493,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 39,
+        "ageHours": 42,
         "score": 37,
         "bucket": "read",
         "readingClass": "lesen"
@@ -515,7 +515,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 50,
+        "ageHours": 52,
         "score": 34,
         "bucket": "read",
         "readingClass": "lesen"
@@ -537,7 +537,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 51,
+        "ageHours": 53,
         "score": 33,
         "bucket": "read",
         "readingClass": "lesen"
@@ -559,7 +559,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 53,
+        "ageHours": 55,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -581,7 +581,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 53,
+        "ageHours": 56,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -603,16 +603,16 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 61,
+        "ageHours": 64,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
       },
       {
-        "id": "e3835ed2367d",
+        "id": "4f389b5b1c3b",
         "title": "Christian Zechmeister im Falstaff-Talk: »Die Weinbranche steht unter Druck – doch sie wird ihren Weg finden - Falstaff",
         "summary": "Christian Zechmeister im Falstaff-Talk: »Die Weinbranche steht unter Druck – doch sie wird ihren Weg finden Falstaff",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNU281aDA4VC1QeEh1SkdFMXcyNUxOYzVSUmFmZXBDQXpfRm9zNjJuRV9ULWI4UVBvZHhHcHZkOU0zcjF3ZU8xTl9LTTRPZ1Z2NXlmQlNpZnpJMVdNQ0RrenhYY2xFZzVkdFpCcjM3QzVPQUxXSDY3NjdlbTRkbEo4MUM4UGhsS0duV0Y3QUxsRXZvNnE5Qko4YnNqbGVqZHFZV3Y5bmFPbncySjRCRm0weWExQzA0WWEzQzZhNlFtZ2Y0QVZXSlZqZ2FTQmJQVFFyYlE?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOeGJuTlpvUm5wb0dGam9jc0VwbTU2ZkJTSHAwRjVYRWhhcUQwRTV6QmdmZk9QcEMtNl9kUkFwUVVhemp5Y0szamVNSGg3UkJ3Z0dRQ0gwR0toQkNXem1aX1BsZ1p2N29jRUJSTXFqTlJfbVROdVN5UTM1WHVCSEhDOTNFTTRfVlJHYlczeGRVUG5GSG92UU1GSVZ2Mk5fbGRzT3p6OUs1Si1ucDhqcjRyalFrZmpMdEdGVnJHOVV4bXIyRFhZa0xFclJIMHBoX2FWUFE?oc=5",
         "domain": "news.google.com",
         "publishedAt": "2026-04-27T11:30:02.000Z",
         "topic": "alcohol",
@@ -625,7 +625,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 65,
+        "ageHours": 67,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -647,7 +647,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 153,
+        "ageHours": 155,
         "score": 29,
         "bucket": "read",
         "readingClass": "lesen"
@@ -669,7 +669,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 93,
+        "ageHours": 96,
         "score": 28,
         "bucket": "read",
         "readingClass": "lesen"
@@ -691,7 +691,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 75,
+        "ageHours": 78,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -713,7 +713,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 131,
+        "ageHours": 133,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -735,7 +735,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 135,
+        "ageHours": 138,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -757,7 +757,29 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 142,
+        "ageHours": 145,
+        "score": 26,
+        "bucket": "read",
+        "readingClass": "lesen"
+      },
+      {
+        "id": "92387bd7b207",
+        "title": "Brite erhält 10 Jahre Haft wegen 97-Millionen-Dollar-Weinbetrugs - Vinetur",
+        "summary": "Brite erhält 10 Jahre Haft wegen 97-Millionen-Dollar-Weinbetrugs Vinetur",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNS2QtSWduOFVlUEp3TnVKSWVldm5lNEhGSEdLZHRHTENfOEcyV3BZeGhWTllCQ2FBdGs0bUtPaThUV3c3ZmpyUFRqdkwxSGtvWVFNaThIU1BJNmxWelVfLU1ZNHlvcG1uVHFJeDZfSjNFUXZSdFlYdGN4XzVvVmdFMVpIT2NJN0ZfTXE0LS1memN4Z0ZOOWJZR0xyTTRtR1HSAaQBQVVfeXFMUEFVdTV2eDJYY1VIa2JEWWhlWlpCUHdXNl9QanNJVUFXMTEzbU5nbjJrUS1NYmFCTWNrRHJCTTJJcExBQkhYSkZIZXI1amItNnhVRTVkaVZQYUxYdWtFM0pfNlJTd3Rtb1dfbFV1cFpLaVN2NEpqdzV2ZEtONHJEOVdMSWdnZzk4THlzZlF0bURMMmJfMWFySFZhdzVMT0FWVW91UWY?oc=5",
+        "domain": "news.google.com",
+        "publishedAt": "2026-04-23T19:12:48.000Z",
+        "topic": "alcohol",
+        "feedId": "bev-alcohol",
+        "feedName": "Bier / Wein / Spirituosen",
+        "feedKind": "search",
+        "basePriority": 1,
+        "dachSignal": false,
+        "operatorSignal": false,
+        "regulationSignal": false,
+        "launchSignal": false,
+        "financeLike": false,
+        "ageHours": 155,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -779,29 +801,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 154,
-        "score": 26,
-        "bucket": "read",
-        "readingClass": "lesen"
-      },
-      {
-        "id": "511ed78f24ac",
-        "title": "Tag des Bieres: Warum die Branche auch in OWL umdenken muss - Neue Westfälische",
-        "summary": "Tag des Bieres: Warum die Branche auch in OWL umdenken muss Neue Westfälische",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZm4xZkhUeF9IaFNjNXNKMEpKTU9mZTBQVVNjUk5ZUTFFTEVkSVJKQVR6NTZoZjNJWE85bzc5ZmwxMERBRmNMQkFfWEpzaEd2NnI0MGtjUkhpUGdkLVF0Tk5YZC0yYWdGNnVvNDU5ZEdlWnFhRElQT0xxVFIwd3FXcWVGaHlpeTRoSzJXaDdTb3I1bnAxVkg4cXZBZU01M0lWXzdvVGNWZnNiWVNiemNNQXBYdw?oc=5",
-        "domain": "news.google.com",
-        "publishedAt": "2026-04-23T16:00:00.000Z",
-        "topic": "alcohol",
-        "feedId": "bev-alcohol",
-        "feedName": "Bier / Wein / Spirituosen",
-        "feedKind": "search",
-        "basePriority": 1,
-        "dachSignal": false,
-        "operatorSignal": false,
-        "regulationSignal": false,
-        "launchSignal": false,
-        "financeLike": false,
-        "ageHours": 156,
+        "ageHours": 157,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -811,7 +811,7 @@
   "radar": {
     "dominantTopic": {
       "id": "alcohol",
-      "count": 20
+      "count": 21
     },
     "dachSignals": 2,
     "regulationSignals": 0,
@@ -819,14 +819,14 @@
   },
   "sourceStats": [
     {
+      "feedName": "Launches / Neuheiten",
+      "count": 4,
+      "avgScore": 43
+    },
+    {
       "feedName": "Distribution / Logistik",
       "count": 1,
       "avgScore": 42
-    },
-    {
-      "feedName": "Bier / Wein / Spirituosen",
-      "count": 27,
-      "avgScore": 40
     },
     {
       "feedName": "Verpackung",
@@ -834,14 +834,14 @@
       "avgScore": 40
     },
     {
-      "feedName": "Launches / Neuheiten",
-      "count": 5,
+      "feedName": "Bier / Wein / Spirituosen",
+      "count": 28,
       "avgScore": 39
     },
     {
       "feedName": "Alkoholfrei / Functional",
-      "count": 4,
-      "avgScore": 37
+      "count": 5,
+      "avgScore": 39
     },
     {
       "feedName": "Getränkeindustrie",
@@ -872,7 +872,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 4,
+      "ageHours": 7,
       "score": 53,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -894,7 +894,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 4,
+      "ageHours": 7,
       "score": 53,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -916,7 +916,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 4,
+      "ageHours": 7,
       "score": 50,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -938,7 +938,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 4,
+      "ageHours": 7,
       "score": 50,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -960,7 +960,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 4,
+      "ageHours": 7,
       "score": 50,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -982,7 +982,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 4,
+      "ageHours": 7,
       "score": 50,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -1004,7 +1004,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 4,
+      "ageHours": 7,
       "score": 50,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -1026,7 +1026,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 4,
+      "ageHours": 7,
       "score": 50,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -1048,7 +1048,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 4,
+      "ageHours": 7,
       "score": 50,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -1070,7 +1070,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 5,
+      "ageHours": 8,
       "score": 50,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -1092,7 +1092,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 7,
+      "ageHours": 10,
       "score": 50,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -1114,8 +1114,30 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 7,
+      "ageHours": 10,
       "score": 49,
+      "bucket": "watch",
+      "readingClass": "beobachten"
+    },
+    {
+      "id": "eb377baf7f66",
+      "title": "Iran-Krieg: Was heißt das für öster­reichische Lebens­mittel? - Österreich isst informiert",
+      "summary": "Iran-Krieg: Was heißt das für öster­reichische Lebens­mittel? Österreich isst informiert",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZThXTU1rLUJ5OElId1RCdllDWnRlUG5LTG9vRTFxNnNoN2R1LUJHUGRsZ1V6YzBKbF9OODM1aGFKTV9BMUs0QTI2N2xJdEkyY0YtQmRocWxjZGIzRzBrdHdNTWhGMXZwU2MweG0tZWdqVEdzNjNBQnNUZUV2RlVvcmpGSGtYbUpibEJRZjNlZkVBLUI1?oc=5",
+      "domain": "news.google.com",
+      "publishedAt": "2026-04-29T13:43:53.000Z",
+      "topic": "nonalcoholic",
+      "feedId": "bev-nonalc",
+      "feedName": "Alkoholfrei / Functional",
+      "feedKind": "search",
+      "basePriority": 1.05,
+      "dachSignal": false,
+      "operatorSignal": false,
+      "regulationSignal": false,
+      "launchSignal": false,
+      "financeLike": false,
+      "ageHours": 17,
+      "score": 46,
       "bucket": "watch",
       "readingClass": "beobachten"
     },
@@ -1136,7 +1158,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 16,
+      "ageHours": 18,
       "score": 44,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -1158,7 +1180,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 18,
+      "ageHours": 20,
       "score": 43,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -1180,7 +1202,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 19,
+      "ageHours": 22,
       "score": 43,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -1202,7 +1224,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 84,
+      "ageHours": 87,
       "score": 42,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -1224,7 +1246,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 28,
+      "ageHours": 30,
       "score": 40,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1246,7 +1268,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 29,
+      "ageHours": 32,
       "score": 40,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1268,7 +1290,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 33,
+      "ageHours": 35,
       "score": 40,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1290,7 +1312,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 43,
+      "ageHours": 45,
       "score": 40,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -1312,7 +1334,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 136,
+      "ageHours": 138,
       "score": 40,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -1334,7 +1356,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 28,
+      "ageHours": 30,
       "score": 38,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1356,7 +1378,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 28,
+      "ageHours": 31,
       "score": 38,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1378,7 +1400,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 32,
+      "ageHours": 35,
       "score": 38,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1400,7 +1422,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 33,
+      "ageHours": 36,
       "score": 38,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1422,7 +1444,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 41,
+      "ageHours": 44,
       "score": 38,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1444,7 +1466,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 44,
+      "ageHours": 47,
       "score": 38,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1466,7 +1488,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 39,
+      "ageHours": 42,
       "score": 37,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1488,7 +1510,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 50,
+      "ageHours": 52,
       "score": 34,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1510,7 +1532,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 51,
+      "ageHours": 53,
       "score": 33,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1532,7 +1554,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 53,
+      "ageHours": 55,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1554,7 +1576,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 53,
+      "ageHours": 56,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1576,16 +1598,16 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 61,
+      "ageHours": 64,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
     },
     {
-      "id": "e3835ed2367d",
+      "id": "4f389b5b1c3b",
       "title": "Christian Zechmeister im Falstaff-Talk: »Die Weinbranche steht unter Druck – doch sie wird ihren Weg finden - Falstaff",
       "summary": "Christian Zechmeister im Falstaff-Talk: »Die Weinbranche steht unter Druck – doch sie wird ihren Weg finden Falstaff",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNU281aDA4VC1QeEh1SkdFMXcyNUxOYzVSUmFmZXBDQXpfRm9zNjJuRV9ULWI4UVBvZHhHcHZkOU0zcjF3ZU8xTl9LTTRPZ1Z2NXlmQlNpZnpJMVdNQ0RrenhYY2xFZzVkdFpCcjM3QzVPQUxXSDY3NjdlbTRkbEo4MUM4UGhsS0duV0Y3QUxsRXZvNnE5Qko4YnNqbGVqZHFZV3Y5bmFPbncySjRCRm0weWExQzA0WWEzQzZhNlFtZ2Y0QVZXSlZqZ2FTQmJQVFFyYlE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOeGJuTlpvUm5wb0dGam9jc0VwbTU2ZkJTSHAwRjVYRWhhcUQwRTV6QmdmZk9QcEMtNl9kUkFwUVVhemp5Y0szamVNSGg3UkJ3Z0dRQ0gwR0toQkNXem1aX1BsZ1p2N29jRUJSTXFqTlJfbVROdVN5UTM1WHVCSEhDOTNFTTRfVlJHYlczeGRVUG5GSG92UU1GSVZ2Mk5fbGRzT3p6OUs1Si1ucDhqcjRyalFrZmpMdEdGVnJHOVV4bXIyRFhZa0xFclJIMHBoX2FWUFE?oc=5",
       "domain": "news.google.com",
       "publishedAt": "2026-04-27T11:30:02.000Z",
       "topic": "alcohol",
@@ -1598,7 +1620,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 65,
+      "ageHours": 67,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1620,7 +1642,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 153,
+      "ageHours": 155,
       "score": 29,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1642,7 +1664,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 93,
+      "ageHours": 96,
       "score": 28,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1664,7 +1686,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 75,
+      "ageHours": 78,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1686,7 +1708,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 131,
+      "ageHours": 133,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1708,7 +1730,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 135,
+      "ageHours": 138,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1730,7 +1752,29 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 142,
+      "ageHours": 145,
+      "score": 26,
+      "bucket": "read",
+      "readingClass": "lesen"
+    },
+    {
+      "id": "92387bd7b207",
+      "title": "Brite erhält 10 Jahre Haft wegen 97-Millionen-Dollar-Weinbetrugs - Vinetur",
+      "summary": "Brite erhält 10 Jahre Haft wegen 97-Millionen-Dollar-Weinbetrugs Vinetur",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNS2QtSWduOFVlUEp3TnVKSWVldm5lNEhGSEdLZHRHTENfOEcyV3BZeGhWTllCQ2FBdGs0bUtPaThUV3c3ZmpyUFRqdkwxSGtvWVFNaThIU1BJNmxWelVfLU1ZNHlvcG1uVHFJeDZfSjNFUXZSdFlYdGN4XzVvVmdFMVpIT2NJN0ZfTXE0LS1memN4Z0ZOOWJZR0xyTTRtR1HSAaQBQVVfeXFMUEFVdTV2eDJYY1VIa2JEWWhlWlpCUHdXNl9QanNJVUFXMTEzbU5nbjJrUS1NYmFCTWNrRHJCTTJJcExBQkhYSkZIZXI1amItNnhVRTVkaVZQYUxYdWtFM0pfNlJTd3Rtb1dfbFV1cFpLaVN2NEpqdzV2ZEtONHJEOVdMSWdnZzk4THlzZlF0bURMMmJfMWFySFZhdzVMT0FWVW91UWY?oc=5",
+      "domain": "news.google.com",
+      "publishedAt": "2026-04-23T19:12:48.000Z",
+      "topic": "alcohol",
+      "feedId": "bev-alcohol",
+      "feedName": "Bier / Wein / Spirituosen",
+      "feedKind": "search",
+      "basePriority": 1,
+      "dachSignal": false,
+      "operatorSignal": false,
+      "regulationSignal": false,
+      "launchSignal": false,
+      "financeLike": false,
+      "ageHours": 155,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1752,7 +1796,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 154,
+      "ageHours": 157,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1774,7 +1818,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 156,
+      "ageHours": 159,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1796,30 +1840,8 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 156,
+      "ageHours": 159,
       "score": 26,
-      "bucket": "read",
-      "readingClass": "lesen"
-    },
-    {
-      "id": "25c142b37148",
-      "title": "Capri Sun Unveils \"Hydrate\", One of the First to Market Drinks with Electrolytes Designed Just for Kids - guetsel.de",
-      "summary": "Capri Sun Unveils \"Hydrate\", One of the First to Market Drinks with Electrolytes Designed Just for Kids guetsel.de",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBERXVlNHdTZnRJaF9BVkxROWtOZzMxRHB6ZlVhTGRNV0RlRV9SQm5NNDBHUmlIRHMwUk5oMWhuVWNVeFRvMGRZdUlNNDNVbXl4SHUxdHpRR0dXc19EckliTnY4Zw?oc=5",
-      "domain": "news.google.com",
-      "publishedAt": "2026-04-23T05:15:34.000Z",
-      "topic": "launches",
-      "feedId": "bev-launches",
-      "feedName": "Launches / Neuheiten",
-      "feedKind": "search",
-      "basePriority": 0.95,
-      "dachSignal": false,
-      "operatorSignal": false,
-      "regulationSignal": false,
-      "launchSignal": false,
-      "financeLike": false,
-      "ageHours": 167,
-      "score": 25,
       "bucket": "read",
       "readingClass": "lesen"
     }
