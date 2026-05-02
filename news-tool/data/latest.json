@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-05-02T06:19:18.974Z",
+  "generatedAt": "2026-05-02T09:19:01.696Z",
   "totals": {
     "items": 45,
     "sources": 8,
     "failures": 0,
     "todayImportant": 1,
-    "watch": 5,
-    "read": 39
+    "watch": 6,
+    "read": 38
   },
   "failures": [],
   "sections": {
@@ -28,7 +28,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 18,
+        "ageHours": 21,
         "score": 60,
         "bucket": "today-important",
         "readingClass": "heute wichtig"
@@ -52,8 +52,30 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 40,
+        "ageHours": 43,
         "score": 52,
+        "bucket": "watch",
+        "readingClass": "beobachten"
+      },
+      {
+        "id": "ddaaadbd80b1",
+        "title": "\"Markt für schöne Dinge\" kommt erneut nach Mertingen - Donau-Ries-Aktuell",
+        "summary": "\"Markt für schöne Dinge\" kommt erneut nach Mertingen Donau-Ries-Aktuell",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNM3Y2a2lFYmw4Vl9mdWpSVDc4ZEhCTEt6djdKTktpNF9mSzIxRzVlYmtwem1oNzBPUDAzOEc4dndYVGxVR2hWYmhfbThtOGNrR3ZINkUwZ2VzX2VLWkpfMllFVGJvZkk0UnlNbVZ1enZYZm5pQ0tZODE0aUpxdV9ZNDdCd0lFWkhKSjNYRHBCbXdEWmQ1MkFYMF9FdGxHNnZmQXFIeUE4U0NBU3pjNXBuWENn?oc=5",
+        "domain": "news.google.com",
+        "publishedAt": "2026-05-02T07:41:23.000Z",
+        "topic": "market",
+        "feedId": "bev-nonalc",
+        "feedName": "Alkoholfrei / Functional",
+        "feedKind": "search",
+        "basePriority": 1.05,
+        "dachSignal": false,
+        "operatorSignal": false,
+        "regulationSignal": false,
+        "launchSignal": false,
+        "financeLike": false,
+        "ageHours": 2,
+        "score": 51,
         "bucket": "watch",
         "readingClass": "beobachten"
       },
@@ -74,7 +96,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 8,
+        "ageHours": 11,
         "score": 50,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -96,7 +118,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 15,
+        "ageHours": 18,
         "score": 46,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -118,7 +140,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 15,
+        "ageHours": 18,
         "score": 44,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -140,7 +162,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 135,
+        "ageHours": 138,
         "score": 42,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -164,7 +186,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 37,
+        "ageHours": 40,
         "score": 39,
         "bucket": "read",
         "readingClass": "lesen"
@@ -186,7 +208,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 39,
+        "ageHours": 42,
         "score": 38,
         "bucket": "read",
         "readingClass": "lesen"
@@ -208,7 +230,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 40,
+        "ageHours": 43,
         "score": 38,
         "bucket": "read",
         "readingClass": "lesen"
@@ -230,7 +252,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 40,
+        "ageHours": 43,
         "score": 38,
         "bucket": "read",
         "readingClass": "lesen"
@@ -252,7 +274,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 41,
+        "ageHours": 44,
         "score": 38,
         "bucket": "read",
         "readingClass": "lesen"
@@ -274,7 +296,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 43,
+        "ageHours": 46,
         "score": 38,
         "bucket": "read",
         "readingClass": "lesen"
@@ -296,7 +318,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 44,
+        "ageHours": 47,
         "score": 38,
         "bucket": "read",
         "readingClass": "lesen"
@@ -318,29 +340,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 45,
-        "score": 38,
-        "bucket": "read",
-        "readingClass": "lesen"
-      },
-      {
-        "id": "c5ffee574017",
-        "title": "Standortschließung: Hofer Kult-Bier kommt bald nicht mehr aus Franken - inFranken.de",
-        "summary": "Standortschließung: Hofer Kult-Bier kommt bald nicht mehr aus Franken inFranken.de",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYUd2TW1XLXVsUTNoZGF3YTFwSjZzZmpEc05BVExQY1BWQmpxLUxIUWJYelNWU3FnckpvSms2VXJUSHhNdUlLZjM0QkNWY0hNUVlkSXFvV0JwWlQ1OS1ZWFlYb2FhYjdabW85Q1kyMy04VXlmUGFxclJDX0tfYWhNRVBFQno2Y0JQTE1VeWltX2VxdzNDVVpXR0JnLTlNNHd5VGExc3daUHJENmhVOTlPOTRYd9IBswFBVV95cUxQYUd2TW1XLXVsUTNoZGF3YTFwSjZzZmpEc05BVExQY1BWQmpxLUxIUWJYelNWU3FnckpvSms2VXJUSHhNdUlLZjM0QkNWY0hNUVlkSXFvV0JwWlQ1OS1ZWFlYb2FhYjdabW85Q1kyMy04VXlmUGFxclJDX0tfYWhNRVBFQno2Y0JQTE1VeWltX2VxdzNDVVpXR0JnLTlNNHd5VGExc3daUHJENmhVOTlPOTRYdw?oc=5",
-        "domain": "news.google.com",
-        "publishedAt": "2026-04-30T08:35:00.000Z",
-        "topic": "alcohol",
-        "feedId": "bev-alcohol",
-        "feedName": "Bier / Wein / Spirituosen",
-        "feedKind": "search",
-        "basePriority": 1,
-        "dachSignal": false,
-        "operatorSignal": false,
-        "regulationSignal": false,
-        "launchSignal": false,
-        "financeLike": false,
-        "ageHours": 46,
+        "ageHours": 48,
         "score": 38,
         "bucket": "read",
         "readingClass": "lesen"
@@ -362,7 +362,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 55,
+        "ageHours": 58,
         "score": 35,
         "bucket": "read",
         "readingClass": "lesen"
@@ -384,30 +384,30 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 55,
+        "ageHours": 58,
         "score": 35,
         "bucket": "read",
         "readingClass": "lesen"
       },
       {
-        "id": "45c82b952055",
-        "title": "Yaya Kombucha: Der neueste Trend-Drink kommt aus Amsterdam - FAZ",
-        "summary": "Yaya Kombucha: Der neueste Trend-Drink kommt aus Amsterdam FAZ",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbjRaZ2gyb1BNNVh3Qmdwcm9tZ3Jwd0Z0U3dRRU9MMEFBYnp5N1ZITF8xcHg4YkI4OEltcmtfaXFDM0N0WDJ5czlPMEcyVHpwQUE1Y09NbVlEdU1kZmF5ZGFtckJ0MDQ1YjRqbkxCbnVpSGRBTXBFYWE3UmFhU2lvN2dLbjBoQjFvYmxxMUoyVndPSTFGVmx2SGFPUEJXMzU3RFlWeUNDWld6VFZURFM2Zk9MRmsxWHlyWlQ2NTA0RFFmSmttalJFRA?oc=5",
+        "id": "c5ffee574017",
+        "title": "Standortschließung: Hofer Kult-Bier kommt bald nicht mehr aus Franken - inFranken.de",
+        "summary": "Standortschließung: Hofer Kult-Bier kommt bald nicht mehr aus Franken inFranken.de",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYUd2TW1XLXVsUTNoZGF3YTFwSjZzZmpEc05BVExQY1BWQmpxLUxIUWJYelNWU3FnckpvSms2VXJUSHhNdUlLZjM0QkNWY0hNUVlkSXFvV0JwWlQ1OS1ZWFlYb2FhYjdabW85Q1kyMy04VXlmUGFxclJDX0tfYWhNRVBFQno2Y0JQTE1VeWltX2VxdzNDVVpXR0JnLTlNNHd5VGExc3daUHJENmhVOTlPOTRYd9IBswFBVV95cUxQYUd2TW1XLXVsUTNoZGF3YTFwSjZzZmpEc05BVExQY1BWQmpxLUxIUWJYelNWU3FnckpvSms2VXJUSHhNdUlLZjM0QkNWY0hNUVlkSXFvV0JwWlQ1OS1ZWFlYb2FhYjdabW85Q1kyMy04VXlmUGFxclJDX0tfYWhNRVBFQno2Y0JQTE1VeWltX2VxdzNDVVpXR0JnLTlNNHd5VGExc3daUHJENmhVOTlPOTRYdw?oc=5",
         "domain": "news.google.com",
-        "publishedAt": "2026-04-29T19:13:03.000Z",
-        "topic": "nonalcoholic",
-        "feedId": "bev-nonalc",
-        "feedName": "Alkoholfrei / Functional",
+        "publishedAt": "2026-04-30T08:35:00.000Z",
+        "topic": "alcohol",
+        "feedId": "bev-alcohol",
+        "feedName": "Bier / Wein / Spirituosen",
         "feedKind": "search",
-        "basePriority": 1.05,
+        "basePriority": 1,
         "dachSignal": false,
         "operatorSignal": false,
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 59,
-        "score": 34,
+        "ageHours": 49,
+        "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
       },
@@ -428,7 +428,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 55,
+        "ageHours": 58,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -450,7 +450,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 55,
+        "ageHours": 58,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -472,7 +472,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 55,
+        "ageHours": 58,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -494,7 +494,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 55,
+        "ageHours": 58,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -516,7 +516,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 55,
+        "ageHours": 58,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -538,7 +538,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 55,
+        "ageHours": 58,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -560,7 +560,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 55,
+        "ageHours": 58,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -582,7 +582,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 55,
+        "ageHours": 58,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -604,7 +604,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 56,
+        "ageHours": 59,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -626,7 +626,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 58,
+        "ageHours": 61,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -648,7 +648,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 66,
+        "ageHours": 69,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -670,7 +670,29 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 68,
+        "ageHours": 71,
+        "score": 31,
+        "bucket": "read",
+        "readingClass": "lesen"
+      },
+      {
+        "id": "bd11770c1708",
+        "title": "Noch besser als Wasser: Mit diesen Getränke bleibt Flüssigkeit länger im Körper - CHIP",
+        "summary": "Noch besser als Wasser: Mit diesen Getränke bleibt Flüssigkeit länger im Körper CHIP",
+        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNaFJtSFR6T0JMaC13UWdPenA4VUxLZVladUdCa2U5aHBBcUQ1SUZ4UE81SkdFVmdOUndKQkRfNnplN0J4NWxqV2M0YmtUUm52QUstNnFiOGFpWVVUc3BtV1NwaGo0QkJKcGlXLUYxTko5dnlpZFpVQk1WVEVuTWVUeHBqdVpzbC1sdExRcFJwUzRyU2ZNZHpUWlBvS2JxSV9oaFdWM2JMQVNkNlZ0Z3p1bi1rWGZIcmVtUElJQkFSQ2RjdnE1MVZaNlJja0d3UWh4Z0pqNFNLM3hrR0w5NFg1ZmxjVEQ5bWpDRjhOUTE3ZEpBcHc3TVNad0RRLTg?oc=5",
+        "domain": "news.google.com",
+        "publishedAt": "2026-04-29T09:00:00.000Z",
+        "topic": "launches",
+        "feedId": "bev-launches",
+        "feedName": "Launches / Neuheiten",
+        "feedKind": "search",
+        "basePriority": 0.95,
+        "dachSignal": false,
+        "operatorSignal": false,
+        "regulationSignal": false,
+        "launchSignal": false,
+        "financeLike": false,
+        "ageHours": 72,
         "score": 31,
         "bucket": "read",
         "readingClass": "lesen"
@@ -680,7 +702,7 @@
   "radar": {
     "dominantTopic": {
       "id": "alcohol",
-      "count": 25
+      "count": 24
     },
     "dachSignals": 2,
     "regulationSignals": 0,
@@ -693,19 +715,19 @@
       "avgScore": 51
     },
     {
-      "feedName": "Getränkeindustrie",
-      "count": 3,
+      "feedName": "Alkoholfrei / Functional",
+      "count": 6,
       "avgScore": 37
     },
     {
-      "feedName": "Alkoholfrei / Functional",
-      "count": 6,
+      "feedName": "Bier / Wein / Spirituosen",
+      "count": 28,
       "avgScore": 34
     },
     {
-      "feedName": "Bier / Wein / Spirituosen",
-      "count": 29,
-      "avgScore": 33
+      "feedName": "Getränkeindustrie",
+      "count": 4,
+      "avgScore": 34
     },
     {
       "feedName": "Launches / Neuheiten",
@@ -741,7 +763,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 18,
+      "ageHours": 21,
       "score": 60,
       "bucket": "today-important",
       "readingClass": "heute wichtig"
@@ -763,8 +785,30 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 40,
+      "ageHours": 43,
       "score": 52,
+      "bucket": "watch",
+      "readingClass": "beobachten"
+    },
+    {
+      "id": "ddaaadbd80b1",
+      "title": "\"Markt für schöne Dinge\" kommt erneut nach Mertingen - Donau-Ries-Aktuell",
+      "summary": "\"Markt für schöne Dinge\" kommt erneut nach Mertingen Donau-Ries-Aktuell",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNM3Y2a2lFYmw4Vl9mdWpSVDc4ZEhCTEt6djdKTktpNF9mSzIxRzVlYmtwem1oNzBPUDAzOEc4dndYVGxVR2hWYmhfbThtOGNrR3ZINkUwZ2VzX2VLWkpfMllFVGJvZkk0UnlNbVZ1enZYZm5pQ0tZODE0aUpxdV9ZNDdCd0lFWkhKSjNYRHBCbXdEWmQ1MkFYMF9FdGxHNnZmQXFIeUE4U0NBU3pjNXBuWENn?oc=5",
+      "domain": "news.google.com",
+      "publishedAt": "2026-05-02T07:41:23.000Z",
+      "topic": "market",
+      "feedId": "bev-nonalc",
+      "feedName": "Alkoholfrei / Functional",
+      "feedKind": "search",
+      "basePriority": 1.05,
+      "dachSignal": false,
+      "operatorSignal": false,
+      "regulationSignal": false,
+      "launchSignal": false,
+      "financeLike": false,
+      "ageHours": 2,
+      "score": 51,
       "bucket": "watch",
       "readingClass": "beobachten"
     },
@@ -785,7 +829,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 8,
+      "ageHours": 11,
       "score": 50,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -807,7 +851,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 15,
+      "ageHours": 18,
       "score": 46,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -829,7 +873,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 15,
+      "ageHours": 18,
       "score": 44,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -851,7 +895,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 135,
+      "ageHours": 138,
       "score": 42,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -873,7 +917,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 37,
+      "ageHours": 40,
       "score": 39,
       "bucket": "read",
       "readingClass": "lesen"
@@ -895,7 +939,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 39,
+      "ageHours": 42,
       "score": 38,
       "bucket": "read",
       "readingClass": "lesen"
@@ -917,7 +961,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 40,
+      "ageHours": 43,
       "score": 38,
       "bucket": "read",
       "readingClass": "lesen"
@@ -939,7 +983,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 40,
+      "ageHours": 43,
       "score": 38,
       "bucket": "read",
       "readingClass": "lesen"
@@ -961,7 +1005,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 41,
+      "ageHours": 44,
       "score": 38,
       "bucket": "read",
       "readingClass": "lesen"
@@ -983,7 +1027,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 43,
+      "ageHours": 46,
       "score": 38,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1005,7 +1049,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 44,
+      "ageHours": 47,
       "score": 38,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1027,29 +1071,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 45,
-      "score": 38,
-      "bucket": "read",
-      "readingClass": "lesen"
-    },
-    {
-      "id": "c5ffee574017",
-      "title": "Standortschließung: Hofer Kult-Bier kommt bald nicht mehr aus Franken - inFranken.de",
-      "summary": "Standortschließung: Hofer Kult-Bier kommt bald nicht mehr aus Franken inFranken.de",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYUd2TW1XLXVsUTNoZGF3YTFwSjZzZmpEc05BVExQY1BWQmpxLUxIUWJYelNWU3FnckpvSms2VXJUSHhNdUlLZjM0QkNWY0hNUVlkSXFvV0JwWlQ1OS1ZWFlYb2FhYjdabW85Q1kyMy04VXlmUGFxclJDX0tfYWhNRVBFQno2Y0JQTE1VeWltX2VxdzNDVVpXR0JnLTlNNHd5VGExc3daUHJENmhVOTlPOTRYd9IBswFBVV95cUxQYUd2TW1XLXVsUTNoZGF3YTFwSjZzZmpEc05BVExQY1BWQmpxLUxIUWJYelNWU3FnckpvSms2VXJUSHhNdUlLZjM0QkNWY0hNUVlkSXFvV0JwWlQ1OS1ZWFlYb2FhYjdabW85Q1kyMy04VXlmUGFxclJDX0tfYWhNRVBFQno2Y0JQTE1VeWltX2VxdzNDVVpXR0JnLTlNNHd5VGExc3daUHJENmhVOTlPOTRYdw?oc=5",
-      "domain": "news.google.com",
-      "publishedAt": "2026-04-30T08:35:00.000Z",
-      "topic": "alcohol",
-      "feedId": "bev-alcohol",
-      "feedName": "Bier / Wein / Spirituosen",
-      "feedKind": "search",
-      "basePriority": 1,
-      "dachSignal": false,
-      "operatorSignal": false,
-      "regulationSignal": false,
-      "launchSignal": false,
-      "financeLike": false,
-      "ageHours": 46,
+      "ageHours": 48,
       "score": 38,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1071,7 +1093,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 55,
+      "ageHours": 58,
       "score": 35,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1093,30 +1115,30 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 55,
+      "ageHours": 58,
       "score": 35,
       "bucket": "read",
       "readingClass": "lesen"
     },
     {
-      "id": "45c82b952055",
-      "title": "Yaya Kombucha: Der neueste Trend-Drink kommt aus Amsterdam - FAZ",
-      "summary": "Yaya Kombucha: Der neueste Trend-Drink kommt aus Amsterdam FAZ",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbjRaZ2gyb1BNNVh3Qmdwcm9tZ3Jwd0Z0U3dRRU9MMEFBYnp5N1ZITF8xcHg4YkI4OEltcmtfaXFDM0N0WDJ5czlPMEcyVHpwQUE1Y09NbVlEdU1kZmF5ZGFtckJ0MDQ1YjRqbkxCbnVpSGRBTXBFYWE3UmFhU2lvN2dLbjBoQjFvYmxxMUoyVndPSTFGVmx2SGFPUEJXMzU3RFlWeUNDWld6VFZURFM2Zk9MRmsxWHlyWlQ2NTA0RFFmSmttalJFRA?oc=5",
+      "id": "c5ffee574017",
+      "title": "Standortschließung: Hofer Kult-Bier kommt bald nicht mehr aus Franken - inFranken.de",
+      "summary": "Standortschließung: Hofer Kult-Bier kommt bald nicht mehr aus Franken inFranken.de",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYUd2TW1XLXVsUTNoZGF3YTFwSjZzZmpEc05BVExQY1BWQmpxLUxIUWJYelNWU3FnckpvSms2VXJUSHhNdUlLZjM0QkNWY0hNUVlkSXFvV0JwWlQ1OS1ZWFlYb2FhYjdabW85Q1kyMy04VXlmUGFxclJDX0tfYWhNRVBFQno2Y0JQTE1VeWltX2VxdzNDVVpXR0JnLTlNNHd5VGExc3daUHJENmhVOTlPOTRYd9IBswFBVV95cUxQYUd2TW1XLXVsUTNoZGF3YTFwSjZzZmpEc05BVExQY1BWQmpxLUxIUWJYelNWU3FnckpvSms2VXJUSHhNdUlLZjM0QkNWY0hNUVlkSXFvV0JwWlQ1OS1ZWFlYb2FhYjdabW85Q1kyMy04VXlmUGFxclJDX0tfYWhNRVBFQno2Y0JQTE1VeWltX2VxdzNDVVpXR0JnLTlNNHd5VGExc3daUHJENmhVOTlPOTRYdw?oc=5",
       "domain": "news.google.com",
-      "publishedAt": "2026-04-29T19:13:03.000Z",
-      "topic": "nonalcoholic",
-      "feedId": "bev-nonalc",
-      "feedName": "Alkoholfrei / Functional",
+      "publishedAt": "2026-04-30T08:35:00.000Z",
+      "topic": "alcohol",
+      "feedId": "bev-alcohol",
+      "feedName": "Bier / Wein / Spirituosen",
       "feedKind": "search",
-      "basePriority": 1.05,
+      "basePriority": 1,
       "dachSignal": false,
       "operatorSignal": false,
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 59,
-      "score": 34,
+      "ageHours": 49,
+      "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
     },
@@ -1137,7 +1159,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 55,
+      "ageHours": 58,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1159,7 +1181,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 55,
+      "ageHours": 58,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1181,7 +1203,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 55,
+      "ageHours": 58,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1203,7 +1225,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 55,
+      "ageHours": 58,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1225,7 +1247,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 55,
+      "ageHours": 58,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1247,7 +1269,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 55,
+      "ageHours": 58,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1269,7 +1291,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 55,
+      "ageHours": 58,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1291,7 +1313,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 55,
+      "ageHours": 58,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1313,7 +1335,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 56,
+      "ageHours": 59,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1335,7 +1357,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 58,
+      "ageHours": 61,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1357,7 +1379,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 66,
+      "ageHours": 69,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1379,7 +1401,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 68,
+      "ageHours": 71,
       "score": 31,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1401,7 +1423,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 69,
+      "ageHours": 72,
       "score": 31,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1423,7 +1445,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 78,
+      "ageHours": 81,
       "score": 28,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1445,7 +1467,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 83,
+      "ageHours": 86,
       "score": 28,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1467,7 +1489,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 88,
+      "ageHours": 91,
       "score": 28,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1489,7 +1511,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 100,
+      "ageHours": 103,
       "score": 28,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1511,7 +1533,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 143,
+      "ageHours": 146,
       "score": 28,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1533,7 +1555,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 101,
+      "ageHours": 104,
       "score": 27,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1555,7 +1577,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 78,
+      "ageHours": 81,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1577,21 +1599,21 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 82,
+      "ageHours": 85,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
     },
     {
-      "id": "baba5daa687f",
-      "title": "London Wine Fair zieht 1.500 Einkäufer an - Vinetur",
-      "summary": "London Wine Fair zieht 1.500 Einkäufer an Vinetur",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVmlzRy1CaXZMUXEwUDBWbXgxQUlXYTBUcnFVM2gyelAzR0N1ZXI5anYzMkc3emMtbUM1RFVudzRsdkxXbzh2cjg0TjhLLV91YVVYZUJTeDUyQ2tWNXJMZWxpTUhwcG9IdGJESW5pSUpfVnF4M3c1bkNKMFl1WHEyR2I4UlA3X1HSAYwBQVVfeXFMTmc0Mi1rTm5NM2RuR1pRTDJhcHMtcXBYa0pVSENyQk1EN0RyOXVCekx2N3pYd0Nfa2dJRXhaZjlIWDA0azFsREhJTkh2N0hENTZNcTR6VlBjN3I5TEpGdHZKWVljRkFvY1Vxa2FFRU1yOTJCX1djY1gtVUVnX2RVdDhtc1VVSjdDR3ZkanM?oc=5",
+      "id": "a815ef41c3bf",
+      "title": "Branchenexpertin argumentiert: Hybridfleisch könnte pflanzliche Alternativen beim ökologischen Nutzen übertreffen - vegconomist - Das vegane Wirtschaftsmagazin",
+      "summary": "Branchenexpertin argumentiert: Hybridfleisch könnte pflanzliche Alternativen beim ökologischen Nutzen übertreffen vegconomist - Das vegane Wirtschaftsmagazin",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWUgya0lzVFZ1QTd6bGdKMzJlNy1sVE84OGYwNGRRanNzbnFINThXQkhQMm14N2RJV0RuT2lQU0ptaGhzZllwS0RWWlNXdkxob2g4NndESExyN0l5cjlDdVQ5MVU3eENGVXM3dVhpYTVfUjdwWWhoNkRSYUpETUlSNzdQeUlwWEV0STZ2NGg4MW0wQm9wU25tNDMyMkZVckNyRV9Uc1lIWlZKTzY3RVVudlVOQndmVUt1V01XTkxTVWNlVUJHQ0FfeW9DenlyeTBxS09j?oc=5",
       "domain": "news.google.com",
-      "publishedAt": "2026-04-28T18:58:50.000Z",
-      "topic": "alcohol",
-      "feedId": "bev-alcohol",
-      "feedName": "Bier / Wein / Spirituosen",
+      "publishedAt": "2026-04-28T10:41:24.000Z",
+      "topic": "market",
+      "feedId": "bev-general",
+      "feedName": "Getränkeindustrie",
       "feedKind": "search",
       "basePriority": 1,
       "dachSignal": false,
@@ -1599,7 +1621,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 83,
+      "ageHours": 95,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1621,7 +1643,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 95,
+      "ageHours": 98,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1643,7 +1665,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 103,
+      "ageHours": 106,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1665,7 +1687,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 111,
+      "ageHours": 114,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1687,7 +1709,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 115,
+      "ageHours": 118,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1709,7 +1731,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 89,
+      "ageHours": 92,
       "score": 25,
       "bucket": "read",
       "readingClass": "lesen"
