@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-05-12T04:02:42.175Z",
+  "generatedAt": "2026-05-12T06:46:21.787Z",
   "totals": {
-    "items": 36,
+    "items": 32,
     "sources": 8,
     "failures": 0,
     "todayImportant": 1,
     "watch": 10,
-    "read": 25
+    "read": 21
   },
   "failures": [],
   "sections": {
@@ -28,7 +28,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 5,
+        "ageHours": 8,
         "score": 64,
         "bucket": "today-important",
         "readingClass": "heute wichtig"
@@ -52,16 +52,16 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 5,
+        "ageHours": 8,
         "score": 50,
         "bucket": "watch",
         "readingClass": "beobachten"
       },
       {
-        "id": "6db889c125c8",
+        "id": "b28385d3649b",
         "title": "Goa plant Flaschenverfolgung für Spirituosenverkäufe - Vinetur",
         "summary": "Goa plant Flaschenverfolgung für Spirituosenverkäufe Vinetur",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOemJpVktzOUoxOWxQQkJ5WnhrSVoxOHBVT0hWdzN5TmxQLTVSa0ctclVzbnJJNzR2TjFZT29VZmhDX080bmM4N3BsWFZtenJYQ04zQXN4Y1FXM0o3ZklRT3hoUkV0bGVDeHJzVVc2Tk10Y1FEeEl6RmpLVWNrUS1fblVKaVpDclE0ZEJsdWNOMm93aUIxWnZwR1BEVdIBoAFBVV95cUxOdDBpaVhCSDlVRVJ4RDhYQjZOUTBLa01RM2Q4TVdEOWxreDNtNU85Nk1MME0tS1JDVWIxSjE4TnJxd252WHkzbW9pZWtLRFBYM2lOMTM2aUFxLWxLQno1S3k3M0h3QVRieTJiWi1tSjByandnX3ZURkcySWI5bW82eDhGYkNVVXd1V0tkLXpWelAzaXVTZjBmbnNyckFoSVBo?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdDBpaVhCSDlVRVJ4RDhYQjZOUTBLa01RM2Q4TVdEOWxreDNtNU85Nk1MME0tS1JDVWIxSjE4TnJxd252WHkzbW9pZWtLRFBYM2lOMTM2aUFxLWxLQno1S3k3M0h3QVRieTJiWi1tSjByandnX3ZURkcySWI5bW82eDhGYkNVVXd1V0tkLXpWelAzaXVTZjBmbnNyckFoSVBo0gGgAUFVX3lxTE50MGlpWEJIOVVFUnhEOFhCNk5RMEtrTVEzZDhNV0Q5bGt4M201Tzk2TUwwTS1LUkNVYjFKMThOcnF3bnZYeTNtb2lla0tEUFgzaU4xMzZpQXEtbEtCejVLeTczSHdBVGJ5MmJaLW1KMHJqd2dfdlRGRzJJYjltbzZ4OEZiQ1VVd3VXS2QtelZ6UDNpdVNmMGZuc3JyQWhJUGg?oc=5",
         "domain": "news.google.com",
         "publishedAt": "2026-05-11T20:49:38.000Z",
         "topic": "alcohol",
@@ -74,7 +74,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 7,
+        "ageHours": 10,
         "score": 50,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -96,7 +96,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 5,
+        "ageHours": 8,
         "score": 49,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -118,7 +118,7 @@
         "regulationSignal": false,
         "launchSignal": true,
         "financeLike": false,
-        "ageHours": 29,
+        "ageHours": 32,
         "score": 46,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -140,7 +140,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 20,
+        "ageHours": 22,
         "score": 45,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -162,7 +162,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 15,
+        "ageHours": 18,
         "score": 44,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -184,7 +184,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 19,
+        "ageHours": 22,
         "score": 44,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -206,7 +206,7 @@
         "regulationSignal": true,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 139,
+        "ageHours": 142,
         "score": 44,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -228,7 +228,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 114,
+        "ageHours": 117,
         "score": 42,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -250,7 +250,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 40,
+        "ageHours": 43,
         "score": 40,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -274,7 +274,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 30,
+        "ageHours": 33,
         "score": 38,
         "bucket": "read",
         "readingClass": "lesen"
@@ -296,7 +296,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 44,
+        "ageHours": 47,
         "score": 38,
         "bucket": "read",
         "readingClass": "lesen"
@@ -318,7 +318,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 44,
+        "ageHours": 47,
         "score": 38,
         "bucket": "read",
         "readingClass": "lesen"
@@ -340,30 +340,8 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 45,
+        "ageHours": 47,
         "score": 38,
-        "bucket": "read",
-        "readingClass": "lesen"
-      },
-      {
-        "id": "889085975966",
-        "title": "Weinbau an der Mosel wird weiblicher: Immer mehr Frauen im Winzergeschäft - SWR",
-        "summary": "Weinbau an der Mosel wird weiblicher: Immer mehr Frauen im Winzergeschäft SWR",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObWVNMDBZejEyRW91YmVSSTctdUtSVXpXWmZRQlh0YkF4UlkyMHk4SFZXRUc0UHhaSjgwYnh2YUd1NG9TR3diTm90Q1piNF8yeXNCUVM3MkxGY0hGVy1laUFmaGV2bjJqQnZSWjZMQjNXWFM1TnktYTBTQ292OUJoRGhvMjZJRm1WOWxOODN4eVZmS19xcnlyU2VicEFhQTU1cmNmVWk5RFZfWTQ?oc=5",
-        "domain": "news.google.com",
-        "publishedAt": "2026-05-09T22:00:00.000Z",
-        "topic": "alcohol",
-        "feedId": "bev-alcohol",
-        "feedName": "Bier / Wein / Spirituosen",
-        "feedKind": "search",
-        "basePriority": 1,
-        "dachSignal": false,
-        "operatorSignal": false,
-        "regulationSignal": false,
-        "launchSignal": false,
-        "financeLike": false,
-        "ageHours": 54,
-        "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
       },
@@ -384,7 +362,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 68,
+        "ageHours": 71,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -406,7 +384,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 98,
+        "ageHours": 101,
         "score": 29,
         "bucket": "read",
         "readingClass": "lesen"
@@ -428,7 +406,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 115,
+        "ageHours": 117,
         "score": 29,
         "bucket": "read",
         "readingClass": "lesen"
@@ -450,7 +428,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 138,
+        "ageHours": 141,
         "score": 29,
         "bucket": "read",
         "readingClass": "lesen"
@@ -472,29 +450,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 95,
-        "score": 27,
-        "bucket": "read",
-        "readingClass": "lesen"
-      },
-      {
-        "id": "f2eca21ca3c9",
-        "title": "Restaurant-Weinverkäufe in den USA brechen deutlich ein - Vinetur",
-        "summary": "Restaurant-Weinverkäufe in den USA brechen deutlich ein Vinetur",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNml4OXdlQUg3NDlod3A5QkFZeWRrdVIxYlF5MGptay1PV0dzT2Vfd1lpTzBBVVNoVFRFdUlFZThXUDJOcFdGN0N3VEVwYm5nMG1wTUVWREhmM2tLQlVtTTY1ZWJvRUN2czh1V1F6anFxZ0tPNDU0dmJUaUVNXzJVbi1fSWNxay1PN2RHQlpETEpLeEhhME9XUGhYMkZYVjlueDROTdIBqgFBVV95cUxOcnBjYUtzQmxXcldaWWdlREdST0J3UTJfZmRzYXpPMkhUeE5vRVlYcnppX3dzeDIyOXRUaWRmWFRTNjl3bnZLU1l4ckc1MDlfX0RxdWxQbDZHR0RoSmZzcTl5cS1Xc1l0Tld5eFQyT01UeEdVZ2Y2d3JsV0xUU29EZW5EUEZfT0J6LVRfU2NRS29fczJBMUszanNqSjJPUVNib3Z4YVZiRExKdw?oc=5",
-        "domain": "news.google.com",
-        "publishedAt": "2026-05-05T23:15:54.000Z",
-        "topic": "alcohol",
-        "feedId": "bev-distribution",
-        "feedName": "Distribution / Logistik",
-        "feedKind": "search",
-        "basePriority": 1.1,
-        "dachSignal": false,
-        "operatorSignal": false,
-        "regulationSignal": false,
-        "launchSignal": false,
-        "financeLike": false,
-        "ageHours": 149,
+        "ageHours": 97,
         "score": 27,
         "bucket": "read",
         "readingClass": "lesen"
@@ -516,7 +472,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 77,
+        "ageHours": 80,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -538,7 +494,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 77,
+        "ageHours": 80,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -560,7 +516,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 77,
+        "ageHours": 80,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -582,7 +538,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 87,
+        "ageHours": 90,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -604,7 +560,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 87,
+        "ageHours": 90,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -626,7 +582,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 89,
+        "ageHours": 92,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -648,7 +604,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 91,
+        "ageHours": 94,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -670,7 +626,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 101,
+        "ageHours": 104,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -692,7 +648,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 111,
+        "ageHours": 113,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -704,28 +660,6 @@
         "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWXptYkZ1S3M1eWRFQm81c2ZYdGN6RW9aZVJNU1c1VW44YTNMMnJaVEhYRWo3dU90ZGNhU2Y5cUUzbWNJLW5fMTlzTUM4RWgxeUdtSG1QM0xQeEVJTFdSeFhxN2tSRVlFTlBNazUzSGVHZ0VKN0JXSUdUNnkta1FVck1GWFNwVmY2NmFOMzNnS3dhb2tqMzRLWUpCX25iR0ZmMjczRlJYbkMwdUJWMnJhYUdBc1pUMUhPWmExTXphc2dMQ2dh0gHEAUFVX3lxTE9uUEtsWHAwR185TUo5LWJjTE1zM1pGOXdzWXRnd1VGMGxjdndiNnBNcGZRM2g5eTA5OEVFbFdOZ3JzZG1tUnZLZUtNeFRkLXRhVjVaT3FPNXNKMmtic2V0NjlvNXpaYkRzUVlLU1VGWGdraHVoNmpxR2NHWTFrRlFBcVFWX1huV1c4emJNUHVQbHloYlZQeWI5OFI4VEVqb1k1YTNHZVpnQ2tMdGxoR3lwUmtKUEN1amhPSlBZekp2VVRobFo?oc=5",
         "domain": "news.google.com",
         "publishedAt": "2026-05-07T06:03:00.000Z",
-        "topic": "alcohol",
-        "feedId": "bev-alcohol",
-        "feedName": "Bier / Wein / Spirituosen",
-        "feedKind": "search",
-        "basePriority": 1,
-        "dachSignal": false,
-        "operatorSignal": false,
-        "regulationSignal": false,
-        "launchSignal": false,
-        "financeLike": false,
-        "ageHours": 118,
-        "score": 26,
-        "bucket": "read",
-        "readingClass": "lesen"
-      },
-      {
-        "id": "83b654a0107d",
-        "title": "Craftvoll: Wie passen Craftbeer und die Brau Union zusammen? - Kleine Zeitung",
-        "summary": "Craftvoll: Wie passen Craftbeer und die Brau Union zusammen? Kleine Zeitung",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdnd0VHk4MFBqcktuNWpqbWhURHREN0k4MVBnM0dFWVgzQmZDdTNlRmp4V0ZTTVRrMHBfbkNaLS11NDZSR0dQbTFMQmd3Njk3Zk93Q3E1ZS04aHhNZGhod2F2R3g2aW5semRCN2JnTFlMaTZ4UTlydUdCaVFjdC1PNlNzUmh5NF9FQW1SN2FxT1lXMkEyM2Z5bDlQUS0teVRkUXk0NkR0WWhtNjRlb0FQbnJjSQ?oc=5",
-        "domain": "news.google.com",
-        "publishedAt": "2026-05-07T03:30:00.000Z",
         "topic": "alcohol",
         "feedId": "bev-alcohol",
         "feedName": "Bier / Wein / Spirituosen",
@@ -758,7 +692,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 125,
+        "ageHours": 128,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -780,7 +714,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 138,
+        "ageHours": 141,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -790,7 +724,7 @@
   "radar": {
     "dominantTopic": {
       "id": "alcohol",
-      "count": 26
+      "count": 22
     },
     "dachSignals": 1,
     "regulationSignals": 1,
@@ -803,18 +737,18 @@
       "avgScore": 45
     },
     {
+      "feedName": "Distribution / Logistik",
+      "count": 2,
+      "avgScore": 41
+    },
+    {
       "feedName": "Verpackung",
       "count": 2,
       "avgScore": 37
     },
     {
-      "feedName": "Distribution / Logistik",
-      "count": 3,
-      "avgScore": 36
-    },
-    {
       "feedName": "Bier / Wein / Spirituosen",
-      "count": 27,
+      "count": 24,
       "avgScore": 35
     },
     {
@@ -841,7 +775,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 5,
+      "ageHours": 8,
       "score": 64,
       "bucket": "today-important",
       "readingClass": "heute wichtig"
@@ -863,16 +797,16 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 5,
+      "ageHours": 8,
       "score": 50,
       "bucket": "watch",
       "readingClass": "beobachten"
     },
     {
-      "id": "6db889c125c8",
+      "id": "b28385d3649b",
       "title": "Goa plant Flaschenverfolgung für Spirituosenverkäufe - Vinetur",
       "summary": "Goa plant Flaschenverfolgung für Spirituosenverkäufe Vinetur",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOemJpVktzOUoxOWxQQkJ5WnhrSVoxOHBVT0hWdzN5TmxQLTVSa0ctclVzbnJJNzR2TjFZT29VZmhDX080bmM4N3BsWFZtenJYQ04zQXN4Y1FXM0o3ZklRT3hoUkV0bGVDeHJzVVc2Tk10Y1FEeEl6RmpLVWNrUS1fblVKaVpDclE0ZEJsdWNOMm93aUIxWnZwR1BEVdIBoAFBVV95cUxOdDBpaVhCSDlVRVJ4RDhYQjZOUTBLa01RM2Q4TVdEOWxreDNtNU85Nk1MME0tS1JDVWIxSjE4TnJxd252WHkzbW9pZWtLRFBYM2lOMTM2aUFxLWxLQno1S3k3M0h3QVRieTJiWi1tSjByandnX3ZURkcySWI5bW82eDhGYkNVVXd1V0tkLXpWelAzaXVTZjBmbnNyckFoSVBo?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdDBpaVhCSDlVRVJ4RDhYQjZOUTBLa01RM2Q4TVdEOWxreDNtNU85Nk1MME0tS1JDVWIxSjE4TnJxd252WHkzbW9pZWtLRFBYM2lOMTM2aUFxLWxLQno1S3k3M0h3QVRieTJiWi1tSjByandnX3ZURkcySWI5bW82eDhGYkNVVXd1V0tkLXpWelAzaXVTZjBmbnNyckFoSVBo0gGgAUFVX3lxTE50MGlpWEJIOVVFUnhEOFhCNk5RMEtrTVEzZDhNV0Q5bGt4M201Tzk2TUwwTS1LUkNVYjFKMThOcnF3bnZYeTNtb2lla0tEUFgzaU4xMzZpQXEtbEtCejVLeTczSHdBVGJ5MmJaLW1KMHJqd2dfdlRGRzJJYjltbzZ4OEZiQ1VVd3VXS2QtelZ6UDNpdVNmMGZuc3JyQWhJUGg?oc=5",
       "domain": "news.google.com",
       "publishedAt": "2026-05-11T20:49:38.000Z",
       "topic": "alcohol",
@@ -885,7 +819,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 7,
+      "ageHours": 10,
       "score": 50,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -907,7 +841,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 5,
+      "ageHours": 8,
       "score": 49,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -929,7 +863,7 @@
       "regulationSignal": false,
       "launchSignal": true,
       "financeLike": false,
-      "ageHours": 29,
+      "ageHours": 32,
       "score": 46,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -951,7 +885,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 20,
+      "ageHours": 22,
       "score": 45,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -973,7 +907,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 15,
+      "ageHours": 18,
       "score": 44,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -995,7 +929,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 19,
+      "ageHours": 22,
       "score": 44,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -1017,7 +951,7 @@
       "regulationSignal": true,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 139,
+      "ageHours": 142,
       "score": 44,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -1039,7 +973,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 114,
+      "ageHours": 117,
       "score": 42,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -1061,7 +995,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 40,
+      "ageHours": 43,
       "score": 40,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -1083,7 +1017,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 30,
+      "ageHours": 33,
       "score": 38,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1105,7 +1039,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 44,
+      "ageHours": 47,
       "score": 38,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1127,7 +1061,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 44,
+      "ageHours": 47,
       "score": 38,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1149,30 +1083,8 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 45,
+      "ageHours": 47,
       "score": 38,
-      "bucket": "read",
-      "readingClass": "lesen"
-    },
-    {
-      "id": "889085975966",
-      "title": "Weinbau an der Mosel wird weiblicher: Immer mehr Frauen im Winzergeschäft - SWR",
-      "summary": "Weinbau an der Mosel wird weiblicher: Immer mehr Frauen im Winzergeschäft SWR",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObWVNMDBZejEyRW91YmVSSTctdUtSVXpXWmZRQlh0YkF4UlkyMHk4SFZXRUc0UHhaSjgwYnh2YUd1NG9TR3diTm90Q1piNF8yeXNCUVM3MkxGY0hGVy1laUFmaGV2bjJqQnZSWjZMQjNXWFM1TnktYTBTQ292OUJoRGhvMjZJRm1WOWxOODN4eVZmS19xcnlyU2VicEFhQTU1cmNmVWk5RFZfWTQ?oc=5",
-      "domain": "news.google.com",
-      "publishedAt": "2026-05-09T22:00:00.000Z",
-      "topic": "alcohol",
-      "feedId": "bev-alcohol",
-      "feedName": "Bier / Wein / Spirituosen",
-      "feedKind": "search",
-      "basePriority": 1,
-      "dachSignal": false,
-      "operatorSignal": false,
-      "regulationSignal": false,
-      "launchSignal": false,
-      "financeLike": false,
-      "ageHours": 54,
-      "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
     },
@@ -1193,7 +1105,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 68,
+      "ageHours": 71,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1215,7 +1127,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 98,
+      "ageHours": 101,
       "score": 29,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1237,7 +1149,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 115,
+      "ageHours": 117,
       "score": 29,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1259,7 +1171,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 138,
+      "ageHours": 141,
       "score": 29,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1281,29 +1193,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 95,
-      "score": 27,
-      "bucket": "read",
-      "readingClass": "lesen"
-    },
-    {
-      "id": "f2eca21ca3c9",
-      "title": "Restaurant-Weinverkäufe in den USA brechen deutlich ein - Vinetur",
-      "summary": "Restaurant-Weinverkäufe in den USA brechen deutlich ein Vinetur",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNml4OXdlQUg3NDlod3A5QkFZeWRrdVIxYlF5MGptay1PV0dzT2Vfd1lpTzBBVVNoVFRFdUlFZThXUDJOcFdGN0N3VEVwYm5nMG1wTUVWREhmM2tLQlVtTTY1ZWJvRUN2czh1V1F6anFxZ0tPNDU0dmJUaUVNXzJVbi1fSWNxay1PN2RHQlpETEpLeEhhME9XUGhYMkZYVjlueDROTdIBqgFBVV95cUxOcnBjYUtzQmxXcldaWWdlREdST0J3UTJfZmRzYXpPMkhUeE5vRVlYcnppX3dzeDIyOXRUaWRmWFRTNjl3bnZLU1l4ckc1MDlfX0RxdWxQbDZHR0RoSmZzcTl5cS1Xc1l0Tld5eFQyT01UeEdVZ2Y2d3JsV0xUU29EZW5EUEZfT0J6LVRfU2NRS29fczJBMUszanNqSjJPUVNib3Z4YVZiRExKdw?oc=5",
-      "domain": "news.google.com",
-      "publishedAt": "2026-05-05T23:15:54.000Z",
-      "topic": "alcohol",
-      "feedId": "bev-distribution",
-      "feedName": "Distribution / Logistik",
-      "feedKind": "search",
-      "basePriority": 1.1,
-      "dachSignal": false,
-      "operatorSignal": false,
-      "regulationSignal": false,
-      "launchSignal": false,
-      "financeLike": false,
-      "ageHours": 149,
+      "ageHours": 97,
       "score": 27,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1325,7 +1215,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 77,
+      "ageHours": 80,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1347,7 +1237,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 77,
+      "ageHours": 80,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1369,7 +1259,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 77,
+      "ageHours": 80,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1391,7 +1281,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 87,
+      "ageHours": 90,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1413,7 +1303,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 87,
+      "ageHours": 90,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1435,7 +1325,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 89,
+      "ageHours": 92,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1457,7 +1347,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 91,
+      "ageHours": 94,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1479,7 +1369,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 101,
+      "ageHours": 104,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1501,7 +1391,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 111,
+      "ageHours": 113,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1513,28 +1403,6 @@
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWXptYkZ1S3M1eWRFQm81c2ZYdGN6RW9aZVJNU1c1VW44YTNMMnJaVEhYRWo3dU90ZGNhU2Y5cUUzbWNJLW5fMTlzTUM4RWgxeUdtSG1QM0xQeEVJTFdSeFhxN2tSRVlFTlBNazUzSGVHZ0VKN0JXSUdUNnkta1FVck1GWFNwVmY2NmFOMzNnS3dhb2tqMzRLWUpCX25iR0ZmMjczRlJYbkMwdUJWMnJhYUdBc1pUMUhPWmExTXphc2dMQ2dh0gHEAUFVX3lxTE9uUEtsWHAwR185TUo5LWJjTE1zM1pGOXdzWXRnd1VGMGxjdndiNnBNcGZRM2g5eTA5OEVFbFdOZ3JzZG1tUnZLZUtNeFRkLXRhVjVaT3FPNXNKMmtic2V0NjlvNXpaYkRzUVlLU1VGWGdraHVoNmpxR2NHWTFrRlFBcVFWX1huV1c4emJNUHVQbHloYlZQeWI5OFI4VEVqb1k1YTNHZVpnQ2tMdGxoR3lwUmtKUEN1amhPSlBZekp2VVRobFo?oc=5",
       "domain": "news.google.com",
       "publishedAt": "2026-05-07T06:03:00.000Z",
-      "topic": "alcohol",
-      "feedId": "bev-alcohol",
-      "feedName": "Bier / Wein / Spirituosen",
-      "feedKind": "search",
-      "basePriority": 1,
-      "dachSignal": false,
-      "operatorSignal": false,
-      "regulationSignal": false,
-      "launchSignal": false,
-      "financeLike": false,
-      "ageHours": 118,
-      "score": 26,
-      "bucket": "read",
-      "readingClass": "lesen"
-    },
-    {
-      "id": "83b654a0107d",
-      "title": "Craftvoll: Wie passen Craftbeer und die Brau Union zusammen? - Kleine Zeitung",
-      "summary": "Craftvoll: Wie passen Craftbeer und die Brau Union zusammen? Kleine Zeitung",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdnd0VHk4MFBqcktuNWpqbWhURHREN0k4MVBnM0dFWVgzQmZDdTNlRmp4V0ZTTVRrMHBfbkNaLS11NDZSR0dQbTFMQmd3Njk3Zk93Q3E1ZS04aHhNZGhod2F2R3g2aW5semRCN2JnTFlMaTZ4UTlydUdCaVFjdC1PNlNzUmh5NF9FQW1SN2FxT1lXMkEyM2Z5bDlQUS0teVRkUXk0NkR0WWhtNjRlb0FQbnJjSQ?oc=5",
-      "domain": "news.google.com",
-      "publishedAt": "2026-05-07T03:30:00.000Z",
       "topic": "alcohol",
       "feedId": "bev-alcohol",
       "feedName": "Bier / Wein / Spirituosen",
@@ -1567,7 +1435,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 125,
+      "ageHours": 128,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1589,29 +1457,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 138,
-      "score": 26,
-      "bucket": "read",
-      "readingClass": "lesen"
-    },
-    {
-      "id": "2b2b6e9074df",
-      "title": "Die deutsche Weinbranche umwirbt die Gen Z - Vinetur",
-      "summary": "Die deutsche Weinbranche umwirbt die Gen Z Vinetur",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBYQkMtbHhsQm5GQzF5WGRqZHh3VmNuSG0zTUhIS0oxRmgxQVk1RU1NU1JBdko1N2o2cF9YS1dwNGwzbjV1NjN1OTNCYUNVbEw2aGEzdlJKMzBmZ2g3ODhzOUVfbmY3d3BJVlRndUd5Ui1PRzAxVXfSAXtBVV95cUxNQUVpcmtETW5Sb3lkcWpnUWNKb2FfbXRwUkVJYXFqd0FSYVFjemljbU1sYWpkNm1uV1JETFl6TmFXVHNsWDQzZWdrMlhGTExyVmxqRXhsRE40eXl6Rk5MdzhCSlJZMEJidHRUZUhhaEtqd3d6RmJiR0x2ZEk?oc=5",
-      "domain": "news.google.com",
-      "publishedAt": "2026-05-05T23:15:55.000Z",
-      "topic": "alcohol",
-      "feedId": "bev-alcohol",
-      "feedName": "Bier / Wein / Spirituosen",
-      "feedKind": "search",
-      "basePriority": 1,
-      "dachSignal": false,
-      "operatorSignal": false,
-      "regulationSignal": false,
-      "launchSignal": false,
-      "financeLike": false,
-      "ageHours": 149,
+      "ageHours": 141,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
