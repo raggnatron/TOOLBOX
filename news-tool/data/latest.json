@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-05-13T04:10:24.957Z",
+  "generatedAt": "2026-05-13T07:24:04.804Z",
   "totals": {
-    "items": 33,
+    "items": 34,
     "sources": 8,
     "failures": 0,
     "todayImportant": 0,
-    "watch": 8,
-    "read": 25
+    "watch": 10,
+    "read": 24
   },
   "failures": [],
   "sections": {
@@ -29,7 +29,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 6,
+        "ageHours": 9,
         "score": 53,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -51,8 +51,30 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 29,
+        "ageHours": 32,
         "score": 52,
+        "bucket": "watch",
+        "readingClass": "beobachten"
+      },
+      {
+        "id": "356e5e604931",
+        "title": "Wein verliert weltweit an Bedeutung - faktum.at",
+        "summary": "Wein verliert weltweit an Bedeutung faktum.at",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5DSkZiZV9yWlZjcG11NksxUFgyMUljUloydFduVnN6T0dIbk5qRExka25UdmE1LXZRSHpXY05aa3JWSFZzUnpoQUxaZl9fYkZqR3czTTVTc2ZSXzlyTHBwOWt6cVo?oc=5",
+        "domain": "news.google.com",
+        "publishedAt": "2026-05-13T06:54:44.000Z",
+        "topic": "alcohol",
+        "feedId": "bev-alcohol",
+        "feedName": "Bier / Wein / Spirituosen",
+        "feedKind": "search",
+        "basePriority": 1,
+        "dachSignal": false,
+        "operatorSignal": false,
+        "regulationSignal": false,
+        "launchSignal": false,
+        "financeLike": false,
+        "ageHours": 0,
+        "score": 50,
         "bucket": "watch",
         "readingClass": "beobachten"
       },
@@ -73,7 +95,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 8,
+        "ageHours": 11,
         "score": 50,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -95,18 +117,18 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 10,
-        "score": 50,
+        "ageHours": 13,
+        "score": 44,
         "bucket": "watch",
         "readingClass": "beobachten"
       },
       {
-        "id": "27fa269c0410",
-        "title": "Fragwürdiger Genuss-Trend: Warum das Paaren von Vapes mit Essen große Sorgen auslöst - Wetterauer Zeitung",
-        "summary": "Fragwürdiger Genuss-Trend: Warum das Paaren von Vapes mit Essen große Sorgen auslöst Wetterauer Zeitung",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQT01EZEljWmJxLU14NFo3SEhSNzRpNGRMcGROd2NGeEE0MUNKRmYzdzdQek1tR1lpVF96Vm0yYmNpaWtxOFBybm40WDRuVFhfR3ZRaXlfVEhNQUZraFQ0RjIwaVNRLVJSOHBQczVIa09tdjFJY3dRQnVIbFpacTFIelY3cW9YdlBacUxRZmJieklqeUtaclRScmxablpMWU5KUHRuems0MzNqblJEdUxVVWdZRmtOVFFhdXlVd1FMOEY?oc=5",
+        "id": "167920863d77",
+        "title": "Alta Langa Roma 2026 erobert die Hauptstadt: über 700 Gäste und 115 Cuvées bei der rekordverdächtigen dritten Auflage - Montenapo Daily",
+        "summary": "Alta Langa Roma 2026 erobert die Hauptstadt: über 700 Gäste und 115 Cuvées bei der rekordverdächtigen dritten Auflage Montenapo Daily",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNEdOYTlqSmFVeFdYR0JZcTRSRUpJT2JmdHV2a2RNdTFFWFQyajQ2N3VSNnBXTDRsS3RJVXV4M0Y3ZWhSTGV0MS1Ya3VQczctLV9kdUQzZ0pVbmZsLS05dzhnMUhYakFwUXBkR2RZRDlZQ3Y5U0g3WUVhWDhqZnZ1VzdpNF9jTEdtMGswRWNvM1ExZDI2VG9qaE41NGp6SmtnUDNkdEt0MkpsY2d5amlnZzlZVXVua1h2c1czR0pWNnBiaVhWeUVmY3MxSDR1VkZON1M1WUltYmVmQQ?oc=5",
         "domain": "news.google.com",
-        "publishedAt": "2026-05-12T13:09:47.000Z",
+        "publishedAt": "2026-05-12T09:45:00.000Z",
         "topic": "alcohol",
         "feedId": "bev-alcohol",
         "feedName": "Bier / Wein / Spirituosen",
@@ -117,7 +139,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 15,
+        "ageHours": 22,
         "score": 44,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -139,7 +161,29 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 19,
+        "ageHours": 22,
+        "score": 44,
+        "bucket": "watch",
+        "readingClass": "beobachten"
+      },
+      {
+        "id": "390c246d53c6",
+        "title": "Getränkebranche - Spirituosen-Verband BSI befürchtet höhere Steuer für 2027 - Lebensmittelpraxis.de",
+        "summary": "Getränkebranche - Spirituosen-Verband BSI befürchtet höhere Steuer für 2027 Lebensmittelpraxis.de",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeTVpWHJUWU1ZalZYLWlTb0FSYWpYTEg1S2wtNDVKT3VjYVhBVjYwX2dyMHE3bzJBTU1QQ2hKWGxFaHdUSHowbi1OUG8xTExwOEszZmpKWDBaZzBTR0hDcmxQWTh6NVVJem1RdGlWekVoYmQ5YjNzeHk4SWF1ZkhVbDRsVGZjSF96TkJUOVdsT195NE90dXlBMm9ZX0U3OFlFVURTbnp4WUtuQkZrQ1MxTHlYOFFIQkh0N3Zwak1na01CLTB1eF9wZ0Zn?oc=5",
+        "domain": "news.google.com",
+        "publishedAt": "2026-05-06T09:06:00.000Z",
+        "topic": "alcohol",
+        "feedId": "bev-alcohol",
+        "feedName": "Bier / Wein / Spirituosen",
+        "feedKind": "search",
+        "basePriority": 1,
+        "dachSignal": false,
+        "operatorSignal": false,
+        "regulationSignal": true,
+        "launchSignal": false,
+        "financeLike": false,
+        "ageHours": 166,
         "score": 44,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -161,7 +205,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 139,
+        "ageHours": 142,
         "score": 42,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -183,7 +227,7 @@
         "regulationSignal": false,
         "launchSignal": true,
         "financeLike": false,
-        "ageHours": 53,
+        "ageHours": 56,
         "score": 40,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -207,7 +251,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 44,
+        "ageHours": 47,
         "score": 39,
         "bucket": "read",
         "readingClass": "lesen"
@@ -229,16 +273,16 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 29,
+        "ageHours": 32,
         "score": 38,
         "bucket": "read",
         "readingClass": "lesen"
       },
       {
-        "id": "6db889c125c8",
+        "id": "b28385d3649b",
         "title": "Goa plant Flaschenverfolgung für Spirituosenverkäufe - Vinetur",
         "summary": "Goa plant Flaschenverfolgung für Spirituosenverkäufe Vinetur",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOemJpVktzOUoxOWxQQkJ5WnhrSVoxOHBVT0hWdzN5TmxQLTVSa0ctclVzbnJJNzR2TjFZT29VZmhDX080bmM4N3BsWFZtenJYQ04zQXN4Y1FXM0o3ZklRT3hoUkV0bGVDeHJzVVc2Tk10Y1FEeEl6RmpLVWNrUS1fblVKaVpDclE0ZEJsdWNOMm93aUIxWnZwR1BEVdIBoAFBVV95cUxOdDBpaVhCSDlVRVJ4RDhYQjZOUTBLa01RM2Q4TVdEOWxreDNtNU85Nk1MME0tS1JDVWIxSjE4TnJxd252WHkzbW9pZWtLRFBYM2lOMTM2aUFxLWxLQno1S3k3M0h3QVRieTJiWi1tSjByandnX3ZURkcySWI5bW82eDhGYkNVVXd1V0tkLXpWelAzaXVTZjBmbnNyckFoSVBo?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdDBpaVhCSDlVRVJ4RDhYQjZOUTBLa01RM2Q4TVdEOWxreDNtNU85Nk1MME0tS1JDVWIxSjE4TnJxd252WHkzbW9pZWtLRFBYM2lOMTM2aUFxLWxLQno1S3k3M0h3QVRieTJiWi1tSjByandnX3ZURkcySWI5bW82eDhGYkNVVXd1V0tkLXpWelAzaXVTZjBmbnNyckFoSVBo0gGgAUFVX3lxTE50MGlpWEJIOVVFUnhEOFhCNk5RMEtrTVEzZDhNV0Q5bGt4M201Tzk2TUwwTS1LUkNVYjFKMThOcnF3bnZYeTNtb2lla0tEUFgzaU4xMzZpQXEtbEtCejVLeTczSHdBVGJ5MmJaLW1KMHJqd2dfdlRGRzJJYjltbzZ4OEZiQ1VVd3VXS2QtelZ6UDNpdVNmMGZuc3JyQWhJUGg?oc=5",
         "domain": "news.google.com",
         "publishedAt": "2026-05-11T20:49:38.000Z",
         "topic": "alcohol",
@@ -251,7 +295,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 31,
+        "ageHours": 35,
         "score": 38,
         "bucket": "read",
         "readingClass": "lesen"
@@ -273,7 +317,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 39,
+        "ageHours": 43,
         "score": 38,
         "bucket": "read",
         "readingClass": "lesen"
@@ -295,7 +339,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 44,
+        "ageHours": 47,
         "score": 38,
         "bucket": "read",
         "readingClass": "lesen"
@@ -317,7 +361,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 29,
+        "ageHours": 32,
         "score": 37,
         "bucket": "read",
         "readingClass": "lesen"
@@ -339,7 +383,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 64,
+        "ageHours": 68,
         "score": 34,
         "bucket": "read",
         "readingClass": "lesen"
@@ -361,7 +405,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 54,
+        "ageHours": 57,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -383,7 +427,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 69,
+        "ageHours": 72,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -405,7 +449,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 69,
+        "ageHours": 72,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -427,7 +471,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 69,
+        "ageHours": 72,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -449,7 +493,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 139,
+        "ageHours": 142,
         "score": 29,
         "bucket": "read",
         "readingClass": "lesen"
@@ -471,7 +515,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 162,
+        "ageHours": 165,
         "score": 29,
         "bucket": "read",
         "readingClass": "lesen"
@@ -493,7 +537,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 92,
+        "ageHours": 95,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -515,7 +559,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 101,
+        "ageHours": 104,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -537,7 +581,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 111,
+        "ageHours": 114,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -559,7 +603,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 111,
+        "ageHours": 115,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -581,7 +625,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 113,
+        "ageHours": 116,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -603,7 +647,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 116,
+        "ageHours": 119,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -625,7 +669,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 125,
+        "ageHours": 128,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -647,7 +691,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 135,
+        "ageHours": 138,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -669,7 +713,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 136,
+        "ageHours": 140,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -691,18 +735,18 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 142,
+        "ageHours": 145,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
       },
       {
-        "id": "83b654a0107d",
-        "title": "Craftvoll: Wie passen Craftbeer und die Brau Union zusammen? - Kleine Zeitung",
-        "summary": "Craftvoll: Wie passen Craftbeer und die Brau Union zusammen? Kleine Zeitung",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdnd0VHk4MFBqcktuNWpqbWhURHREN0k4MVBnM0dFWVgzQmZDdTNlRmp4V0ZTTVRrMHBfbkNaLS11NDZSR0dQbTFMQmd3Njk3Zk93Q3E1ZS04aHhNZGhod2F2R3g2aW5semRCN2JnTFlMaTZ4UTlydUdCaVFjdC1PNlNzUmh5NF9FQW1SN2FxT1lXMkEyM2Z5bDlQUS0teVRkUXk0NkR0WWhtNjRlb0FQbnJjSQ?oc=5",
+        "id": "60769c4c372c",
+        "title": "Bier Guide 2026: Österreichs Bierkultur erneut ausgezeichnet - gast.at",
+        "summary": "Bier Guide 2026: Österreichs Bierkultur erneut ausgezeichnet gast.at",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaU1mM3RyenZTVTRnUGx1eWVoNFhlQ3pvQmEtblh1QjRGejlvQ1hJMGt2b0ZKRnQ5YXpxNXY2UDd2aWJ0N2hpTTN6YnlmNHVvRFlpNnVBRXBrSnVvQkhCc18xbXhTTVVyaFl5bXZmc1YtcHZ2TjNXMEVaaEZpVkZ5ZWgtazJSbjJBaHllWmpXbTczWjE2cjZ0V2w4c0oxUWV3RGZyMUltVzNsUQ?oc=5",
         "domain": "news.google.com",
-        "publishedAt": "2026-05-07T03:30:00.000Z",
+        "publishedAt": "2026-05-06T09:45:45.000Z",
         "topic": "alcohol",
         "feedId": "bev-alcohol",
         "feedName": "Bier / Wein / Spirituosen",
@@ -713,7 +757,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 145,
+        "ageHours": 166,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -723,10 +767,10 @@
   "radar": {
     "dominantTopic": {
       "id": "alcohol",
-      "count": 22
+      "count": 23
     },
     "dachSignals": 1,
-    "regulationSignals": 0,
+    "regulationSignals": 1,
     "operatorSignals": 1
   },
   "sourceStats": [
@@ -747,8 +791,8 @@
     },
     {
       "feedName": "Bier / Wein / Spirituosen",
-      "count": 25,
-      "avgScore": 35
+      "count": 26,
+      "avgScore": 36
     },
     {
       "feedName": "Getränkeindustrie",
@@ -774,7 +818,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 6,
+      "ageHours": 9,
       "score": 53,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -796,8 +840,30 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 29,
+      "ageHours": 32,
       "score": 52,
+      "bucket": "watch",
+      "readingClass": "beobachten"
+    },
+    {
+      "id": "356e5e604931",
+      "title": "Wein verliert weltweit an Bedeutung - faktum.at",
+      "summary": "Wein verliert weltweit an Bedeutung faktum.at",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5DSkZiZV9yWlZjcG11NksxUFgyMUljUloydFduVnN6T0dIbk5qRExka25UdmE1LXZRSHpXY05aa3JWSFZzUnpoQUxaZl9fYkZqR3czTTVTc2ZSXzlyTHBwOWt6cVo?oc=5",
+      "domain": "news.google.com",
+      "publishedAt": "2026-05-13T06:54:44.000Z",
+      "topic": "alcohol",
+      "feedId": "bev-alcohol",
+      "feedName": "Bier / Wein / Spirituosen",
+      "feedKind": "search",
+      "basePriority": 1,
+      "dachSignal": false,
+      "operatorSignal": false,
+      "regulationSignal": false,
+      "launchSignal": false,
+      "financeLike": false,
+      "ageHours": 0,
+      "score": 50,
       "bucket": "watch",
       "readingClass": "beobachten"
     },
@@ -818,7 +884,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 8,
+      "ageHours": 11,
       "score": 50,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -840,18 +906,18 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 10,
-      "score": 50,
+      "ageHours": 13,
+      "score": 44,
       "bucket": "watch",
       "readingClass": "beobachten"
     },
     {
-      "id": "27fa269c0410",
-      "title": "Fragwürdiger Genuss-Trend: Warum das Paaren von Vapes mit Essen große Sorgen auslöst - Wetterauer Zeitung",
-      "summary": "Fragwürdiger Genuss-Trend: Warum das Paaren von Vapes mit Essen große Sorgen auslöst Wetterauer Zeitung",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQT01EZEljWmJxLU14NFo3SEhSNzRpNGRMcGROd2NGeEE0MUNKRmYzdzdQek1tR1lpVF96Vm0yYmNpaWtxOFBybm40WDRuVFhfR3ZRaXlfVEhNQUZraFQ0RjIwaVNRLVJSOHBQczVIa09tdjFJY3dRQnVIbFpacTFIelY3cW9YdlBacUxRZmJieklqeUtaclRScmxablpMWU5KUHRuems0MzNqblJEdUxVVWdZRmtOVFFhdXlVd1FMOEY?oc=5",
+      "id": "167920863d77",
+      "title": "Alta Langa Roma 2026 erobert die Hauptstadt: über 700 Gäste und 115 Cuvées bei der rekordverdächtigen dritten Auflage - Montenapo Daily",
+      "summary": "Alta Langa Roma 2026 erobert die Hauptstadt: über 700 Gäste und 115 Cuvées bei der rekordverdächtigen dritten Auflage Montenapo Daily",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNEdOYTlqSmFVeFdYR0JZcTRSRUpJT2JmdHV2a2RNdTFFWFQyajQ2N3VSNnBXTDRsS3RJVXV4M0Y3ZWhSTGV0MS1Ya3VQczctLV9kdUQzZ0pVbmZsLS05dzhnMUhYakFwUXBkR2RZRDlZQ3Y5U0g3WUVhWDhqZnZ1VzdpNF9jTEdtMGswRWNvM1ExZDI2VG9qaE41NGp6SmtnUDNkdEt0MkpsY2d5amlnZzlZVXVua1h2c1czR0pWNnBiaVhWeUVmY3MxSDR1VkZON1M1WUltYmVmQQ?oc=5",
       "domain": "news.google.com",
-      "publishedAt": "2026-05-12T13:09:47.000Z",
+      "publishedAt": "2026-05-12T09:45:00.000Z",
       "topic": "alcohol",
       "feedId": "bev-alcohol",
       "feedName": "Bier / Wein / Spirituosen",
@@ -862,7 +928,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 15,
+      "ageHours": 22,
       "score": 44,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -884,7 +950,29 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 19,
+      "ageHours": 22,
+      "score": 44,
+      "bucket": "watch",
+      "readingClass": "beobachten"
+    },
+    {
+      "id": "390c246d53c6",
+      "title": "Getränkebranche - Spirituosen-Verband BSI befürchtet höhere Steuer für 2027 - Lebensmittelpraxis.de",
+      "summary": "Getränkebranche - Spirituosen-Verband BSI befürchtet höhere Steuer für 2027 Lebensmittelpraxis.de",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeTVpWHJUWU1ZalZYLWlTb0FSYWpYTEg1S2wtNDVKT3VjYVhBVjYwX2dyMHE3bzJBTU1QQ2hKWGxFaHdUSHowbi1OUG8xTExwOEszZmpKWDBaZzBTR0hDcmxQWTh6NVVJem1RdGlWekVoYmQ5YjNzeHk4SWF1ZkhVbDRsVGZjSF96TkJUOVdsT195NE90dXlBMm9ZX0U3OFlFVURTbnp4WUtuQkZrQ1MxTHlYOFFIQkh0N3Zwak1na01CLTB1eF9wZ0Zn?oc=5",
+      "domain": "news.google.com",
+      "publishedAt": "2026-05-06T09:06:00.000Z",
+      "topic": "alcohol",
+      "feedId": "bev-alcohol",
+      "feedName": "Bier / Wein / Spirituosen",
+      "feedKind": "search",
+      "basePriority": 1,
+      "dachSignal": false,
+      "operatorSignal": false,
+      "regulationSignal": true,
+      "launchSignal": false,
+      "financeLike": false,
+      "ageHours": 166,
       "score": 44,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -906,7 +994,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 139,
+      "ageHours": 142,
       "score": 42,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -928,7 +1016,7 @@
       "regulationSignal": false,
       "launchSignal": true,
       "financeLike": false,
-      "ageHours": 53,
+      "ageHours": 56,
       "score": 40,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -950,7 +1038,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 44,
+      "ageHours": 47,
       "score": 39,
       "bucket": "read",
       "readingClass": "lesen"
@@ -972,16 +1060,16 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 29,
+      "ageHours": 32,
       "score": 38,
       "bucket": "read",
       "readingClass": "lesen"
     },
     {
-      "id": "6db889c125c8",
+      "id": "b28385d3649b",
       "title": "Goa plant Flaschenverfolgung für Spirituosenverkäufe - Vinetur",
       "summary": "Goa plant Flaschenverfolgung für Spirituosenverkäufe Vinetur",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOemJpVktzOUoxOWxQQkJ5WnhrSVoxOHBVT0hWdzN5TmxQLTVSa0ctclVzbnJJNzR2TjFZT29VZmhDX080bmM4N3BsWFZtenJYQ04zQXN4Y1FXM0o3ZklRT3hoUkV0bGVDeHJzVVc2Tk10Y1FEeEl6RmpLVWNrUS1fblVKaVpDclE0ZEJsdWNOMm93aUIxWnZwR1BEVdIBoAFBVV95cUxOdDBpaVhCSDlVRVJ4RDhYQjZOUTBLa01RM2Q4TVdEOWxreDNtNU85Nk1MME0tS1JDVWIxSjE4TnJxd252WHkzbW9pZWtLRFBYM2lOMTM2aUFxLWxLQno1S3k3M0h3QVRieTJiWi1tSjByandnX3ZURkcySWI5bW82eDhGYkNVVXd1V0tkLXpWelAzaXVTZjBmbnNyckFoSVBo?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdDBpaVhCSDlVRVJ4RDhYQjZOUTBLa01RM2Q4TVdEOWxreDNtNU85Nk1MME0tS1JDVWIxSjE4TnJxd252WHkzbW9pZWtLRFBYM2lOMTM2aUFxLWxLQno1S3k3M0h3QVRieTJiWi1tSjByandnX3ZURkcySWI5bW82eDhGYkNVVXd1V0tkLXpWelAzaXVTZjBmbnNyckFoSVBo0gGgAUFVX3lxTE50MGlpWEJIOVVFUnhEOFhCNk5RMEtrTVEzZDhNV0Q5bGt4M201Tzk2TUwwTS1LUkNVYjFKMThOcnF3bnZYeTNtb2lla0tEUFgzaU4xMzZpQXEtbEtCejVLeTczSHdBVGJ5MmJaLW1KMHJqd2dfdlRGRzJJYjltbzZ4OEZiQ1VVd3VXS2QtelZ6UDNpdVNmMGZuc3JyQWhJUGg?oc=5",
       "domain": "news.google.com",
       "publishedAt": "2026-05-11T20:49:38.000Z",
       "topic": "alcohol",
@@ -994,7 +1082,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 31,
+      "ageHours": 35,
       "score": 38,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1016,7 +1104,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 39,
+      "ageHours": 43,
       "score": 38,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1038,7 +1126,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 44,
+      "ageHours": 47,
       "score": 38,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1060,7 +1148,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 29,
+      "ageHours": 32,
       "score": 37,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1082,7 +1170,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 64,
+      "ageHours": 68,
       "score": 34,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1104,7 +1192,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 54,
+      "ageHours": 57,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1126,7 +1214,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 69,
+      "ageHours": 72,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1148,7 +1236,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 69,
+      "ageHours": 72,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1170,7 +1258,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 69,
+      "ageHours": 72,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1192,7 +1280,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 139,
+      "ageHours": 142,
       "score": 29,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1214,7 +1302,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 162,
+      "ageHours": 165,
       "score": 29,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1236,7 +1324,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 92,
+      "ageHours": 95,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1258,7 +1346,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 101,
+      "ageHours": 104,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1280,7 +1368,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 111,
+      "ageHours": 114,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1302,7 +1390,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 111,
+      "ageHours": 115,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1324,7 +1412,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 113,
+      "ageHours": 116,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1346,7 +1434,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 116,
+      "ageHours": 119,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1368,7 +1456,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 125,
+      "ageHours": 128,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1390,7 +1478,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 135,
+      "ageHours": 138,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1412,7 +1500,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 136,
+      "ageHours": 140,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1424,28 +1512,6 @@
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWXptYkZ1S3M1eWRFQm81c2ZYdGN6RW9aZVJNU1c1VW44YTNMMnJaVEhYRWo3dU90ZGNhU2Y5cUUzbWNJLW5fMTlzTUM4RWgxeUdtSG1QM0xQeEVJTFdSeFhxN2tSRVlFTlBNazUzSGVHZ0VKN0JXSUdUNnkta1FVck1GWFNwVmY2NmFOMzNnS3dhb2tqMzRLWUpCX25iR0ZmMjczRlJYbkMwdUJWMnJhYUdBc1pUMUhPWmExTXphc2dMQ2dh0gHEAUFVX3lxTE9uUEtsWHAwR185TUo5LWJjTE1zM1pGOXdzWXRnd1VGMGxjdndiNnBNcGZRM2g5eTA5OEVFbFdOZ3JzZG1tUnZLZUtNeFRkLXRhVjVaT3FPNXNKMmtic2V0NjlvNXpaYkRzUVlLU1VGWGdraHVoNmpxR2NHWTFrRlFBcVFWX1huV1c4emJNUHVQbHloYlZQeWI5OFI4VEVqb1k1YTNHZVpnQ2tMdGxoR3lwUmtKUEN1amhPSlBZekp2VVRobFo?oc=5",
       "domain": "news.google.com",
       "publishedAt": "2026-05-07T06:03:00.000Z",
-      "topic": "alcohol",
-      "feedId": "bev-alcohol",
-      "feedName": "Bier / Wein / Spirituosen",
-      "feedKind": "search",
-      "basePriority": 1,
-      "dachSignal": false,
-      "operatorSignal": false,
-      "regulationSignal": false,
-      "launchSignal": false,
-      "financeLike": false,
-      "ageHours": 142,
-      "score": 26,
-      "bucket": "read",
-      "readingClass": "lesen"
-    },
-    {
-      "id": "83b654a0107d",
-      "title": "Craftvoll: Wie passen Craftbeer und die Brau Union zusammen? - Kleine Zeitung",
-      "summary": "Craftvoll: Wie passen Craftbeer und die Brau Union zusammen? Kleine Zeitung",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdnd0VHk4MFBqcktuNWpqbWhURHREN0k4MVBnM0dFWVgzQmZDdTNlRmp4V0ZTTVRrMHBfbkNaLS11NDZSR0dQbTFMQmd3Njk3Zk93Q3E1ZS04aHhNZGhod2F2R3g2aW5semRCN2JnTFlMaTZ4UTlydUdCaVFjdC1PNlNzUmh5NF9FQW1SN2FxT1lXMkEyM2Z5bDlQUS0teVRkUXk0NkR0WWhtNjRlb0FQbnJjSQ?oc=5",
-      "domain": "news.google.com",
-      "publishedAt": "2026-05-07T03:30:00.000Z",
       "topic": "alcohol",
       "feedId": "bev-alcohol",
       "feedName": "Bier / Wein / Spirituosen",
@@ -1478,7 +1544,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 162,
+      "ageHours": 166,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
