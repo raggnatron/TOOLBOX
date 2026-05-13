@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-05-13T15:12:28.364Z",
+  "generatedAt": "2026-05-13T18:11:15.050Z",
   "totals": {
-    "items": 29,
+    "items": 30,
     "sources": 8,
     "failures": 0,
     "todayImportant": 0,
-    "watch": 7,
+    "watch": 8,
     "read": 22
   },
   "failures": [],
@@ -29,7 +29,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 5,
+        "ageHours": 8,
         "score": 53,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -51,8 +51,30 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 40,
+        "ageHours": 43,
         "score": 52,
+        "bucket": "watch",
+        "readingClass": "beobachten"
+      },
+      {
+        "id": "bcc2f6c59642",
+        "title": "Die Spirituosenindustrie wird ein exponentielles Wachstum erleben. - ekz-crosstour -",
+        "summary": "Die Spirituosenindustrie wird ein exponentielles Wachstum erleben. ekz-crosstour -",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaWtGTjJsdGp1QVRxb3M5SENsNHNSQnJkLUhvanZMUWVhLWRsaDZMdzVIZ1k5ZXBMeGRGU0JUeUZOUkY1Tnc1ZVQ0bmF0c2RWZWpjLUlmYXY1Q2EyTGROWkFCajNwTnBvOEtwWUVHdHB3TVN1b3R0V2NKdWhWQUlORXduSS1ZdjY1eDdCNDNOU2hyTDVMUVpDQ3FXUWdCa3lhOGJfSXhjUQ?oc=5",
+        "domain": "news.google.com",
+        "publishedAt": "2026-05-13T15:24:00.000Z",
+        "topic": "alcohol",
+        "feedId": "bev-alcohol",
+        "feedName": "Bier / Wein / Spirituosen",
+        "feedKind": "search",
+        "basePriority": 1,
+        "dachSignal": false,
+        "operatorSignal": false,
+        "regulationSignal": false,
+        "launchSignal": false,
+        "financeLike": false,
+        "ageHours": 3,
+        "score": 50,
         "bucket": "watch",
         "readingClass": "beobachten"
       },
@@ -73,7 +95,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 8,
+        "ageHours": 11,
         "score": 50,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -95,7 +117,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 19,
+        "ageHours": 22,
         "score": 44,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -117,7 +139,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 21,
+        "ageHours": 24,
         "score": 44,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -139,7 +161,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 150,
+        "ageHours": 153,
         "score": 42,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -161,35 +183,13 @@
         "regulationSignal": false,
         "launchSignal": true,
         "financeLike": false,
-        "ageHours": 64,
+        "ageHours": 67,
         "score": 40,
         "bucket": "watch",
         "readingClass": "beobachten"
       }
     ],
     "read": [
-      {
-        "id": "27fa269c0410",
-        "title": "Fragwürdiger Genuss-Trend: Warum das Paaren von Vapes mit Essen große Sorgen auslöst - Wetterauer Zeitung",
-        "summary": "Fragwürdiger Genuss-Trend: Warum das Paaren von Vapes mit Essen große Sorgen auslöst Wetterauer Zeitung",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQT01EZEljWmJxLU14NFo3SEhSNzRpNGRMcGROd2NGeEE0MUNKRmYzdzdQek1tR1lpVF96Vm0yYmNpaWtxOFBybm40WDRuVFhfR3ZRaXlfVEhNQUZraFQ0RjIwaVNRLVJSOHBQczVIa09tdjFJY3dRQnVIbFpacTFIelY3cW9YdlBacUxRZmJieklqeUtaclRScmxablpMWU5KUHRuems0MzNqblJEdUxVVWdZRmtOVFFhdXlVd1FMOEY?oc=5",
-        "domain": "news.google.com",
-        "publishedAt": "2026-05-12T13:09:47.000Z",
-        "topic": "alcohol",
-        "feedId": "bev-alcohol",
-        "feedName": "Bier / Wein / Spirituosen",
-        "feedKind": "search",
-        "basePriority": 1,
-        "dachSignal": false,
-        "operatorSignal": false,
-        "regulationSignal": false,
-        "launchSignal": false,
-        "financeLike": false,
-        "ageHours": 26,
-        "score": 38,
-        "bucket": "read",
-        "readingClass": "lesen"
-      },
       {
         "id": "c22ff8632088",
         "title": "So gehts mit dem Wein weiter: Fachevent von Wottle thematisierte die Zukunft des Weinbaus - MeinBezirk.at",
@@ -207,7 +207,29 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 30,
+        "ageHours": 33,
+        "score": 38,
+        "bucket": "read",
+        "readingClass": "lesen"
+      },
+      {
+        "id": "03195b7e13ce",
+        "title": "EQS-News: AGRANA achieves solid 2025|26 operating profit of € 81.2 million before exceptionals and joint ventures - finanzen.ch",
+        "summary": "EQS-News: AGRANA achieves solid 2025|26 operating profit of € 81.2 million before exceptionals and joint ventures finanzen.ch",
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNS3kxQmRGaTE5VFFLOFp5bFBqczEtNktsWkdSN0FXeWZKbkhocngySnUtRFd3TzVKa1RCM1ZKZ19kY3VhRHdLOEtwOTlKYjRJaFE1T2FyeWFQQV9RMi1Ha3RndUxjVXNiNjI4cEJwSWwzQ0xyUWVsLTY4M2VMbDNEY3FlbEZYb29iMzlONmJsUVN5dGV1RFV2NmRQczJtSndTSU14Qzc1VWh2TlhiR2VhcXRWanlfUHZyMzhaTWJVa1M0cGFOeE40ZGhvNFBONWNQa0VPOWhERGJvLUFmQTFiT3NiaU9lbkhCWHRKSGNSdjlZWUFSeWc?oc=5",
+        "domain": "news.google.com",
+        "publishedAt": "2026-05-12T05:30:04.000Z",
+        "topic": "market",
+        "feedId": "bev-general",
+        "feedName": "Getränkeindustrie",
+        "feedKind": "search",
+        "basePriority": 1,
+        "dachSignal": false,
+        "operatorSignal": false,
+        "regulationSignal": false,
+        "launchSignal": false,
+        "financeLike": false,
+        "ageHours": 37,
         "score": 38,
         "bucket": "read",
         "readingClass": "lesen"
@@ -229,7 +251,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 40,
+        "ageHours": 43,
         "score": 38,
         "bucket": "read",
         "readingClass": "lesen"
@@ -251,7 +273,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 42,
+        "ageHours": 45,
         "score": 38,
         "bucket": "read",
         "readingClass": "lesen"
@@ -273,7 +295,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 40,
+        "ageHours": 43,
         "score": 37,
         "bucket": "read",
         "readingClass": "lesen"
@@ -295,7 +317,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 55,
+        "ageHours": 58,
         "score": 33,
         "bucket": "read",
         "readingClass": "lesen"
@@ -317,7 +339,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 50,
+        "ageHours": 53,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -339,7 +361,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 55,
+        "ageHours": 58,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -361,7 +383,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 65,
+        "ageHours": 68,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -383,30 +405,8 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 150,
+        "ageHours": 153,
         "score": 29,
-        "bucket": "read",
-        "readingClass": "lesen"
-      },
-      {
-        "id": "8adf2c678873",
-        "title": "Ist es zu spät, Monster Beverage (MNST) nach starken mehrjährigen Kursgewinnen zu berücksichtigen? - simplywall.st",
-        "summary": "Ist es zu spät, Monster Beverage (MNST) nach starken mehrjährigen Kursgewinnen zu berücksichtigen? simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOOFBibU5kUXJGV3hNRm1vNG9FQ3RoRnRTTHRidDhtZ0FJeThHdzhVczhmWkhtRGlLRm5VXzZoYUJkRWVydXJ2aVRKN1ZZNWM4cjhIOGJoOWw5V0NBV0FDNVlUTXgtdXRvanpLWUl6QjgtakNyMG5BWTZ1dlhBVmItdm9RN19zZWo2Z2tXdjBIbWRrZkZoNVFCSHBXVC1QQVZJSF9hc3ctNEtkME9TY2JmdFdkcnhvS19vd3R5R3BxOGFZRFpFS0dtalE3OHVFV3E1OERVbEZ2TXJPcnlCS0tkWjlmbkp6NjhDcUk00gHrAUFVX3lxTE44UGJtTmRRckZXeE1GbW80b0VDdGhGdFNMdGJ0OG1nQUl5OEd3OFVzOGZaSG1EaUtGblVfNmhhQmRFZXJ1cnZpVEo3Vlk1YzhyOEg4Ymg5bDlXQ0FXQUM1WVRNeC11dG9qektZSXpCOC1qQ3IwbkFZNnV2WEFWYi12b1E3X3NlajZna1d2MEhtZGtmRmg1UUJIcFdULVBBVklIX2Fzdy00S2QwT1NjYmZ0V2RyeG9LX293dHlHcHE4YVlEWkVLR21qUTc4dUVXcTU4RFVsRnZNck9yeUJLS2RaOWZuSno2OENxSTQ?oc=5",
-        "domain": "news.google.com",
-        "publishedAt": "2026-05-10T11:48:05.000Z",
-        "topic": "distribution",
-        "feedId": "bev-distribution",
-        "feedName": "Distribution / Logistik",
-        "feedKind": "search",
-        "basePriority": 1.1,
-        "dachSignal": false,
-        "operatorSignal": false,
-        "regulationSignal": false,
-        "launchSignal": false,
-        "financeLike": false,
-        "ageHours": 75,
-        "score": 28,
         "bucket": "read",
         "readingClass": "lesen"
       },
@@ -427,7 +427,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 80,
+        "ageHours": 83,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -449,7 +449,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 80,
+        "ageHours": 83,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -471,7 +471,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 103,
+        "ageHours": 106,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -493,7 +493,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 122,
+        "ageHours": 125,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -515,7 +515,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 122,
+        "ageHours": 125,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -537,7 +537,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 124,
+        "ageHours": 127,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -559,7 +559,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 127,
+        "ageHours": 130,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -581,7 +581,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 136,
+        "ageHours": 139,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -603,7 +603,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 146,
+        "ageHours": 149,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -625,7 +625,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 147,
+        "ageHours": 150,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -647,8 +647,30 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 153,
+        "ageHours": 156,
         "score": 26,
+        "bucket": "read",
+        "readingClass": "lesen"
+      },
+      {
+        "id": "150ab5d18afe",
+        "title": "Ist es zu spät, Monster Beverage (MNST) nach starken mehrjährigen Kursgewinnen zu berücksichtigen? - simplywall.st",
+        "summary": "Ist es zu spät, Monster Beverage (MNST) nach starken mehrjährigen Kursgewinnen zu berücksichtigen? simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNTGJnZm44YXdBRlpPdlg5M2V1NHFVdS16VXFrc29sUWlsekdsMEozRjFWRnl6VHQzNkg3a1VlclhNcEpSeWJhOTdIUGp4MGp0Y0p3RWhldjVIcHMxd0pHWFB2dlg1aHlVejRHRTRLTU1xNVpvbTl2RTJ0RFdRU0dmT08yazJadXNjaFFsX3FOa2ZBYU1qc2NHMGFIUUhTbTdyOVFzLXh0aVZmVEdPQlZaS2xMSnRYTjlqcV9kbzVoYnRKR0FTMlE2eFFYTldXOTItWDVubEdvU2lHWUxzRWI0Yzljc002Z9IB6wFBVV95cUxOOFBibU5kUXJGV3hNRm1vNG9FQ3RoRnRTTHRidDhtZ0FJeThHdzhVczhmWkhtRGlLRm5VXzZoYUJkRWVydXJ2aVRKN1ZZNWM4cjhIOGJoOWw5V0NBV0FDNVlUTXgtdXRvanpLWUl6QjgtakNyMG5BWTZ1dlhBVmItdm9RN19zZWo2Z2tXdjBIbWRrZkZoNVFCSHBXVC1QQVZJSF9hc3ctNEtkME9TY2JmdFdkcnhvS19vd3R5R3BxOGFZRFpFS0dtalE3OHVFV3E1OERVbEZ2TXJPcnlCS0tkWjlmbkp6NjhDcUk0?oc=5",
+        "domain": "news.google.com",
+        "publishedAt": "2026-05-10T11:07:50.000Z",
+        "topic": "launches",
+        "feedId": "bev-launches",
+        "feedName": "Launches / Neuheiten",
+        "feedKind": "search",
+        "basePriority": 0.95,
+        "dachSignal": false,
+        "operatorSignal": false,
+        "regulationSignal": false,
+        "launchSignal": false,
+        "financeLike": false,
+        "ageHours": 79,
+        "score": 25,
         "bucket": "read",
         "readingClass": "lesen"
       }
@@ -665,6 +687,11 @@
   },
   "sourceStats": [
     {
+      "feedName": "Distribution / Logistik",
+      "count": 1,
+      "avgScore": 42
+    },
+    {
       "feedName": "Verpackung",
       "count": 1,
       "avgScore": 40
@@ -672,12 +699,7 @@
     {
       "feedName": "Bier / Wein / Spirituosen",
       "count": 21,
-      "avgScore": 35
-    },
-    {
-      "feedName": "Distribution / Logistik",
-      "count": 2,
-      "avgScore": 35
+      "avgScore": 36
     },
     {
       "feedName": "Alkoholfrei / Functional",
@@ -686,8 +708,13 @@
     },
     {
       "feedName": "Getränkeindustrie",
-      "count": 4,
-      "avgScore": 26
+      "count": 5,
+      "avgScore": 28
+    },
+    {
+      "feedName": "Launches / Neuheiten",
+      "count": 1,
+      "avgScore": 25
     }
   ],
   "items": [
@@ -708,7 +735,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 5,
+      "ageHours": 8,
       "score": 53,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -730,8 +757,30 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 40,
+      "ageHours": 43,
       "score": 52,
+      "bucket": "watch",
+      "readingClass": "beobachten"
+    },
+    {
+      "id": "bcc2f6c59642",
+      "title": "Die Spirituosenindustrie wird ein exponentielles Wachstum erleben. - ekz-crosstour -",
+      "summary": "Die Spirituosenindustrie wird ein exponentielles Wachstum erleben. ekz-crosstour -",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaWtGTjJsdGp1QVRxb3M5SENsNHNSQnJkLUhvanZMUWVhLWRsaDZMdzVIZ1k5ZXBMeGRGU0JUeUZOUkY1Tnc1ZVQ0bmF0c2RWZWpjLUlmYXY1Q2EyTGROWkFCajNwTnBvOEtwWUVHdHB3TVN1b3R0V2NKdWhWQUlORXduSS1ZdjY1eDdCNDNOU2hyTDVMUVpDQ3FXUWdCa3lhOGJfSXhjUQ?oc=5",
+      "domain": "news.google.com",
+      "publishedAt": "2026-05-13T15:24:00.000Z",
+      "topic": "alcohol",
+      "feedId": "bev-alcohol",
+      "feedName": "Bier / Wein / Spirituosen",
+      "feedKind": "search",
+      "basePriority": 1,
+      "dachSignal": false,
+      "operatorSignal": false,
+      "regulationSignal": false,
+      "launchSignal": false,
+      "financeLike": false,
+      "ageHours": 3,
+      "score": 50,
       "bucket": "watch",
       "readingClass": "beobachten"
     },
@@ -752,7 +801,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 8,
+      "ageHours": 11,
       "score": 50,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -774,7 +823,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 19,
+      "ageHours": 22,
       "score": 44,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -796,7 +845,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 21,
+      "ageHours": 24,
       "score": 44,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -818,7 +867,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 150,
+      "ageHours": 153,
       "score": 42,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -840,32 +889,10 @@
       "regulationSignal": false,
       "launchSignal": true,
       "financeLike": false,
-      "ageHours": 64,
+      "ageHours": 67,
       "score": 40,
       "bucket": "watch",
       "readingClass": "beobachten"
-    },
-    {
-      "id": "27fa269c0410",
-      "title": "Fragwürdiger Genuss-Trend: Warum das Paaren von Vapes mit Essen große Sorgen auslöst - Wetterauer Zeitung",
-      "summary": "Fragwürdiger Genuss-Trend: Warum das Paaren von Vapes mit Essen große Sorgen auslöst Wetterauer Zeitung",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQT01EZEljWmJxLU14NFo3SEhSNzRpNGRMcGROd2NGeEE0MUNKRmYzdzdQek1tR1lpVF96Vm0yYmNpaWtxOFBybm40WDRuVFhfR3ZRaXlfVEhNQUZraFQ0RjIwaVNRLVJSOHBQczVIa09tdjFJY3dRQnVIbFpacTFIelY3cW9YdlBacUxRZmJieklqeUtaclRScmxablpMWU5KUHRuems0MzNqblJEdUxVVWdZRmtOVFFhdXlVd1FMOEY?oc=5",
-      "domain": "news.google.com",
-      "publishedAt": "2026-05-12T13:09:47.000Z",
-      "topic": "alcohol",
-      "feedId": "bev-alcohol",
-      "feedName": "Bier / Wein / Spirituosen",
-      "feedKind": "search",
-      "basePriority": 1,
-      "dachSignal": false,
-      "operatorSignal": false,
-      "regulationSignal": false,
-      "launchSignal": false,
-      "financeLike": false,
-      "ageHours": 26,
-      "score": 38,
-      "bucket": "read",
-      "readingClass": "lesen"
     },
     {
       "id": "c22ff8632088",
@@ -884,7 +911,29 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 30,
+      "ageHours": 33,
+      "score": 38,
+      "bucket": "read",
+      "readingClass": "lesen"
+    },
+    {
+      "id": "03195b7e13ce",
+      "title": "EQS-News: AGRANA achieves solid 2025|26 operating profit of € 81.2 million before exceptionals and joint ventures - finanzen.ch",
+      "summary": "EQS-News: AGRANA achieves solid 2025|26 operating profit of € 81.2 million before exceptionals and joint ventures finanzen.ch",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNS3kxQmRGaTE5VFFLOFp5bFBqczEtNktsWkdSN0FXeWZKbkhocngySnUtRFd3TzVKa1RCM1ZKZ19kY3VhRHdLOEtwOTlKYjRJaFE1T2FyeWFQQV9RMi1Ha3RndUxjVXNiNjI4cEJwSWwzQ0xyUWVsLTY4M2VMbDNEY3FlbEZYb29iMzlONmJsUVN5dGV1RFV2NmRQczJtSndTSU14Qzc1VWh2TlhiR2VhcXRWanlfUHZyMzhaTWJVa1M0cGFOeE40ZGhvNFBONWNQa0VPOWhERGJvLUFmQTFiT3NiaU9lbkhCWHRKSGNSdjlZWUFSeWc?oc=5",
+      "domain": "news.google.com",
+      "publishedAt": "2026-05-12T05:30:04.000Z",
+      "topic": "market",
+      "feedId": "bev-general",
+      "feedName": "Getränkeindustrie",
+      "feedKind": "search",
+      "basePriority": 1,
+      "dachSignal": false,
+      "operatorSignal": false,
+      "regulationSignal": false,
+      "launchSignal": false,
+      "financeLike": false,
+      "ageHours": 37,
       "score": 38,
       "bucket": "read",
       "readingClass": "lesen"
@@ -906,7 +955,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 40,
+      "ageHours": 43,
       "score": 38,
       "bucket": "read",
       "readingClass": "lesen"
@@ -928,7 +977,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 42,
+      "ageHours": 45,
       "score": 38,
       "bucket": "read",
       "readingClass": "lesen"
@@ -950,7 +999,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 40,
+      "ageHours": 43,
       "score": 37,
       "bucket": "read",
       "readingClass": "lesen"
@@ -972,7 +1021,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 55,
+      "ageHours": 58,
       "score": 33,
       "bucket": "read",
       "readingClass": "lesen"
@@ -994,7 +1043,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 50,
+      "ageHours": 53,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1016,7 +1065,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 55,
+      "ageHours": 58,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1038,7 +1087,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 65,
+      "ageHours": 68,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1060,30 +1109,8 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 150,
+      "ageHours": 153,
       "score": 29,
-      "bucket": "read",
-      "readingClass": "lesen"
-    },
-    {
-      "id": "8adf2c678873",
-      "title": "Ist es zu spät, Monster Beverage (MNST) nach starken mehrjährigen Kursgewinnen zu berücksichtigen? - simplywall.st",
-      "summary": "Ist es zu spät, Monster Beverage (MNST) nach starken mehrjährigen Kursgewinnen zu berücksichtigen? simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOOFBibU5kUXJGV3hNRm1vNG9FQ3RoRnRTTHRidDhtZ0FJeThHdzhVczhmWkhtRGlLRm5VXzZoYUJkRWVydXJ2aVRKN1ZZNWM4cjhIOGJoOWw5V0NBV0FDNVlUTXgtdXRvanpLWUl6QjgtakNyMG5BWTZ1dlhBVmItdm9RN19zZWo2Z2tXdjBIbWRrZkZoNVFCSHBXVC1QQVZJSF9hc3ctNEtkME9TY2JmdFdkcnhvS19vd3R5R3BxOGFZRFpFS0dtalE3OHVFV3E1OERVbEZ2TXJPcnlCS0tkWjlmbkp6NjhDcUk00gHrAUFVX3lxTE44UGJtTmRRckZXeE1GbW80b0VDdGhGdFNMdGJ0OG1nQUl5OEd3OFVzOGZaSG1EaUtGblVfNmhhQmRFZXJ1cnZpVEo3Vlk1YzhyOEg4Ymg5bDlXQ0FXQUM1WVRNeC11dG9qektZSXpCOC1qQ3IwbkFZNnV2WEFWYi12b1E3X3NlajZna1d2MEhtZGtmRmg1UUJIcFdULVBBVklIX2Fzdy00S2QwT1NjYmZ0V2RyeG9LX293dHlHcHE4YVlEWkVLR21qUTc4dUVXcTU4RFVsRnZNck9yeUJLS2RaOWZuSno2OENxSTQ?oc=5",
-      "domain": "news.google.com",
-      "publishedAt": "2026-05-10T11:48:05.000Z",
-      "topic": "distribution",
-      "feedId": "bev-distribution",
-      "feedName": "Distribution / Logistik",
-      "feedKind": "search",
-      "basePriority": 1.1,
-      "dachSignal": false,
-      "operatorSignal": false,
-      "regulationSignal": false,
-      "launchSignal": false,
-      "financeLike": false,
-      "ageHours": 75,
-      "score": 28,
       "bucket": "read",
       "readingClass": "lesen"
     },
@@ -1104,7 +1131,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 80,
+      "ageHours": 83,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1126,7 +1153,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 80,
+      "ageHours": 83,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1148,7 +1175,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 103,
+      "ageHours": 106,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1170,7 +1197,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 122,
+      "ageHours": 125,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1192,7 +1219,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 122,
+      "ageHours": 125,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1214,7 +1241,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 124,
+      "ageHours": 127,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1236,7 +1263,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 127,
+      "ageHours": 130,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1258,7 +1285,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 136,
+      "ageHours": 139,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1280,7 +1307,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 146,
+      "ageHours": 149,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1302,7 +1329,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 147,
+      "ageHours": 150,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1324,8 +1351,30 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 153,
+      "ageHours": 156,
       "score": 26,
+      "bucket": "read",
+      "readingClass": "lesen"
+    },
+    {
+      "id": "150ab5d18afe",
+      "title": "Ist es zu spät, Monster Beverage (MNST) nach starken mehrjährigen Kursgewinnen zu berücksichtigen? - simplywall.st",
+      "summary": "Ist es zu spät, Monster Beverage (MNST) nach starken mehrjährigen Kursgewinnen zu berücksichtigen? simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNTGJnZm44YXdBRlpPdlg5M2V1NHFVdS16VXFrc29sUWlsekdsMEozRjFWRnl6VHQzNkg3a1VlclhNcEpSeWJhOTdIUGp4MGp0Y0p3RWhldjVIcHMxd0pHWFB2dlg1aHlVejRHRTRLTU1xNVpvbTl2RTJ0RFdRU0dmT08yazJadXNjaFFsX3FOa2ZBYU1qc2NHMGFIUUhTbTdyOVFzLXh0aVZmVEdPQlZaS2xMSnRYTjlqcV9kbzVoYnRKR0FTMlE2eFFYTldXOTItWDVubEdvU2lHWUxzRWI0Yzljc002Z9IB6wFBVV95cUxOOFBibU5kUXJGV3hNRm1vNG9FQ3RoRnRTTHRidDhtZ0FJeThHdzhVczhmWkhtRGlLRm5VXzZoYUJkRWVydXJ2aVRKN1ZZNWM4cjhIOGJoOWw5V0NBV0FDNVlUTXgtdXRvanpLWUl6QjgtakNyMG5BWTZ1dlhBVmItdm9RN19zZWo2Z2tXdjBIbWRrZkZoNVFCSHBXVC1QQVZJSF9hc3ctNEtkME9TY2JmdFdkcnhvS19vd3R5R3BxOGFZRFpFS0dtalE3OHVFV3E1OERVbEZ2TXJPcnlCS0tkWjlmbkp6NjhDcUk0?oc=5",
+      "domain": "news.google.com",
+      "publishedAt": "2026-05-10T11:07:50.000Z",
+      "topic": "launches",
+      "feedId": "bev-launches",
+      "feedName": "Launches / Neuheiten",
+      "feedKind": "search",
+      "basePriority": 0.95,
+      "dachSignal": false,
+      "operatorSignal": false,
+      "regulationSignal": false,
+      "launchSignal": false,
+      "financeLike": false,
+      "ageHours": 79,
+      "score": 25,
       "bucket": "read",
       "readingClass": "lesen"
     }
