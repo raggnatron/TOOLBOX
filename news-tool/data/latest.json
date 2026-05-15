@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-05-15T04:15:07.072Z",
+  "generatedAt": "2026-05-15T07:33:03.768Z",
   "totals": {
-    "items": 26,
+    "items": 27,
     "sources": 8,
     "failures": 0,
     "todayImportant": 0,
     "watch": 8,
-    "read": 18
+    "read": 19
   },
   "failures": [],
   "sections": {
@@ -29,7 +29,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 17,
+        "ageHours": 20,
         "score": 59,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -51,7 +51,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 6,
+        "ageHours": 9,
         "score": 53,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -73,7 +73,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 7,
+        "ageHours": 10,
         "score": 52,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -95,7 +95,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 5,
+        "ageHours": 9,
         "score": 51,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -117,7 +117,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 6,
+        "ageHours": 9,
         "score": 50,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -139,7 +139,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 8,
+        "ageHours": 11,
         "score": 50,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -161,11 +161,35 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 19,
+        "ageHours": 23,
         "score": 45,
         "bucket": "watch",
         "readingClass": "beobachten"
       },
+      {
+        "id": "79d06facb636",
+        "title": "Weinbranche strebt stärkeres Markenimage an: Podiumsdiskussion zur Bedeutung der Stärkung des Weinbaus und der Weinherstellung in Kroatien - Portal.hr",
+        "summary": "Weinbranche strebt stärkeres Markenimage an: Podiumsdiskussion zur Bedeutung der Stärkung des Weinbaus und der Weinherstellung in Kroatien Portal.hr",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVU5HNUtfY3JxQy1xZjJmdlhOWldYSExjUnV0aDJvMkJBLVBlamdBcms1aENPbTJqTTdZUHlZbEFjOElKV1FRMmN1b2l4Nmx5V3pmN0dkR0JJMklQd1RJWG8tNEd1a2NjZzM1RHF2WEhwUXpLU081UTFjdnNYYnBTWnlkeFI1NEpYWHNMTTVpS3dNQ05WWEVJ?oc=5",
+        "domain": "news.google.com",
+        "publishedAt": "2026-05-14T14:01:04.000Z",
+        "topic": "alcohol",
+        "feedId": "bev-alcohol",
+        "feedName": "Bier / Wein / Spirituosen",
+        "feedKind": "search",
+        "basePriority": 1,
+        "dachSignal": false,
+        "operatorSignal": false,
+        "regulationSignal": false,
+        "launchSignal": false,
+        "financeLike": false,
+        "ageHours": 18,
+        "score": 44,
+        "bucket": "watch",
+        "readingClass": "beobachten"
+      }
+    ],
+    "read": [
       {
         "id": "05b249a8a228",
         "title": "Tiefster Stand seit 1957 - Weltweiter Weinkonsum sinkt auf 208 Millionen Hektoliter - leadersnet.de",
@@ -183,13 +207,11 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 22,
-        "score": 44,
-        "bucket": "watch",
-        "readingClass": "beobachten"
-      }
-    ],
-    "read": [
+        "ageHours": 25,
+        "score": 38,
+        "bucket": "read",
+        "readingClass": "lesen"
+      },
       {
         "id": "fdd4387fb729",
         "title": "Weltweiter Weinkonsum sinkt auf niedrigsten Stand seit knapp 70 Jahren - MSN",
@@ -207,7 +229,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 25,
+        "ageHours": 29,
         "score": 38,
         "bucket": "read",
         "readingClass": "lesen"
@@ -229,7 +251,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 25,
+        "ageHours": 29,
         "score": 38,
         "bucket": "read",
         "readingClass": "lesen"
@@ -251,7 +273,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 29,
+        "ageHours": 33,
         "score": 38,
         "bucket": "read",
         "readingClass": "lesen"
@@ -273,29 +295,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 37,
-        "score": 38,
-        "bucket": "read",
-        "readingClass": "lesen"
-      },
-      {
-        "id": "356e5e604931",
-        "title": "Wein verliert weltweit an Bedeutung - faktum.at",
-        "summary": "Wein verliert weltweit an Bedeutung faktum.at",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5DSkZiZV9yWlZjcG11NksxUFgyMUljUloydFduVnN6T0dIbk5qRExka25UdmE1LXZRSHpXY05aa3JWSFZzUnpoQUxaZl9fYkZqR3czTTVTc2ZSXzlyTHBwOWt6cVo?oc=5",
-        "domain": "news.google.com",
-        "publishedAt": "2026-05-13T06:54:44.000Z",
-        "topic": "alcohol",
-        "feedId": "bev-alcohol",
-        "feedName": "Bier / Wein / Spirituosen",
-        "feedKind": "search",
-        "basePriority": 1,
-        "dachSignal": false,
-        "operatorSignal": false,
-        "regulationSignal": false,
-        "launchSignal": false,
-        "financeLike": false,
-        "ageHours": 45,
+        "ageHours": 40,
         "score": 38,
         "bucket": "read",
         "readingClass": "lesen"
@@ -317,8 +317,30 @@
         "regulationSignal": false,
         "launchSignal": true,
         "financeLike": false,
-        "ageHours": 101,
+        "ageHours": 104,
         "score": 34,
+        "bucket": "read",
+        "readingClass": "lesen"
+      },
+      {
+        "id": "356e5e604931",
+        "title": "Wein verliert weltweit an Bedeutung - faktum.at",
+        "summary": "Wein verliert weltweit an Bedeutung faktum.at",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5DSkZiZV9yWlZjcG11NksxUFgyMUljUloydFduVnN6T0dIbk5qRExka25UdmE1LXZRSHpXY05aa3JWSFZzUnpoQUxaZl9fYkZqR3czTTVTc2ZSXzlyTHBwOWt6cVo?oc=5",
+        "domain": "news.google.com",
+        "publishedAt": "2026-05-13T06:54:44.000Z",
+        "topic": "alcohol",
+        "feedId": "bev-alcohol",
+        "feedName": "Bier / Wein / Spirituosen",
+        "feedKind": "search",
+        "basePriority": 1,
+        "dachSignal": false,
+        "operatorSignal": false,
+        "regulationSignal": false,
+        "launchSignal": false,
+        "financeLike": false,
+        "ageHours": 49,
+        "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
       },
@@ -339,7 +361,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 54,
+        "ageHours": 58,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -361,7 +383,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 56,
+        "ageHours": 60,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -383,7 +405,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 58,
+        "ageHours": 61,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -405,7 +427,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 92,
+        "ageHours": 95,
         "score": 27,
         "bucket": "read",
         "readingClass": "lesen"
@@ -427,7 +449,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 92,
+        "ageHours": 95,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -449,7 +471,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 102,
+        "ageHours": 106,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -471,7 +493,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 117,
+        "ageHours": 120,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -493,7 +515,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 117,
+        "ageHours": 120,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -515,7 +537,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 141,
+        "ageHours": 145,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -537,7 +559,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 159,
+        "ageHours": 162,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -559,7 +581,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 159,
+        "ageHours": 162,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -581,7 +603,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 164,
+        "ageHours": 167,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -591,7 +613,7 @@
   "radar": {
     "dominantTopic": {
       "id": "alcohol",
-      "count": 17
+      "count": 18
     },
     "dachSignals": 0,
     "regulationSignals": 0,
@@ -615,8 +637,8 @@
     },
     {
       "feedName": "Bier / Wein / Spirituosen",
-      "count": 18,
-      "avgScore": 36
+      "count": 19,
+      "avgScore": 35
     },
     {
       "feedName": "Verpackung",
@@ -642,7 +664,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 17,
+      "ageHours": 20,
       "score": 59,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -664,7 +686,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 6,
+      "ageHours": 9,
       "score": 53,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -686,7 +708,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 7,
+      "ageHours": 10,
       "score": 52,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -708,7 +730,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 5,
+      "ageHours": 9,
       "score": 51,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -730,7 +752,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 6,
+      "ageHours": 9,
       "score": 50,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -752,7 +774,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 8,
+      "ageHours": 11,
       "score": 50,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -774,8 +796,30 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 19,
+      "ageHours": 23,
       "score": 45,
+      "bucket": "watch",
+      "readingClass": "beobachten"
+    },
+    {
+      "id": "79d06facb636",
+      "title": "Weinbranche strebt stärkeres Markenimage an: Podiumsdiskussion zur Bedeutung der Stärkung des Weinbaus und der Weinherstellung in Kroatien - Portal.hr",
+      "summary": "Weinbranche strebt stärkeres Markenimage an: Podiumsdiskussion zur Bedeutung der Stärkung des Weinbaus und der Weinherstellung in Kroatien Portal.hr",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVU5HNUtfY3JxQy1xZjJmdlhOWldYSExjUnV0aDJvMkJBLVBlamdBcms1aENPbTJqTTdZUHlZbEFjOElKV1FRMmN1b2l4Nmx5V3pmN0dkR0JJMklQd1RJWG8tNEd1a2NjZzM1RHF2WEhwUXpLU081UTFjdnNYYnBTWnlkeFI1NEpYWHNMTTVpS3dNQ05WWEVJ?oc=5",
+      "domain": "news.google.com",
+      "publishedAt": "2026-05-14T14:01:04.000Z",
+      "topic": "alcohol",
+      "feedId": "bev-alcohol",
+      "feedName": "Bier / Wein / Spirituosen",
+      "feedKind": "search",
+      "basePriority": 1,
+      "dachSignal": false,
+      "operatorSignal": false,
+      "regulationSignal": false,
+      "launchSignal": false,
+      "financeLike": false,
+      "ageHours": 18,
+      "score": 44,
       "bucket": "watch",
       "readingClass": "beobachten"
     },
@@ -796,10 +840,10 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 22,
-      "score": 44,
-      "bucket": "watch",
-      "readingClass": "beobachten"
+      "ageHours": 25,
+      "score": 38,
+      "bucket": "read",
+      "readingClass": "lesen"
     },
     {
       "id": "fdd4387fb729",
@@ -818,7 +862,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 25,
+      "ageHours": 29,
       "score": 38,
       "bucket": "read",
       "readingClass": "lesen"
@@ -840,7 +884,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 25,
+      "ageHours": 29,
       "score": 38,
       "bucket": "read",
       "readingClass": "lesen"
@@ -862,7 +906,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 29,
+      "ageHours": 33,
       "score": 38,
       "bucket": "read",
       "readingClass": "lesen"
@@ -884,29 +928,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 37,
-      "score": 38,
-      "bucket": "read",
-      "readingClass": "lesen"
-    },
-    {
-      "id": "356e5e604931",
-      "title": "Wein verliert weltweit an Bedeutung - faktum.at",
-      "summary": "Wein verliert weltweit an Bedeutung faktum.at",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5DSkZiZV9yWlZjcG11NksxUFgyMUljUloydFduVnN6T0dIbk5qRExka25UdmE1LXZRSHpXY05aa3JWSFZzUnpoQUxaZl9fYkZqR3czTTVTc2ZSXzlyTHBwOWt6cVo?oc=5",
-      "domain": "news.google.com",
-      "publishedAt": "2026-05-13T06:54:44.000Z",
-      "topic": "alcohol",
-      "feedId": "bev-alcohol",
-      "feedName": "Bier / Wein / Spirituosen",
-      "feedKind": "search",
-      "basePriority": 1,
-      "dachSignal": false,
-      "operatorSignal": false,
-      "regulationSignal": false,
-      "launchSignal": false,
-      "financeLike": false,
-      "ageHours": 45,
+      "ageHours": 40,
       "score": 38,
       "bucket": "read",
       "readingClass": "lesen"
@@ -928,8 +950,30 @@
       "regulationSignal": false,
       "launchSignal": true,
       "financeLike": false,
-      "ageHours": 101,
+      "ageHours": 104,
       "score": 34,
+      "bucket": "read",
+      "readingClass": "lesen"
+    },
+    {
+      "id": "356e5e604931",
+      "title": "Wein verliert weltweit an Bedeutung - faktum.at",
+      "summary": "Wein verliert weltweit an Bedeutung faktum.at",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5DSkZiZV9yWlZjcG11NksxUFgyMUljUloydFduVnN6T0dIbk5qRExka25UdmE1LXZRSHpXY05aa3JWSFZzUnpoQUxaZl9fYkZqR3czTTVTc2ZSXzlyTHBwOWt6cVo?oc=5",
+      "domain": "news.google.com",
+      "publishedAt": "2026-05-13T06:54:44.000Z",
+      "topic": "alcohol",
+      "feedId": "bev-alcohol",
+      "feedName": "Bier / Wein / Spirituosen",
+      "feedKind": "search",
+      "basePriority": 1,
+      "dachSignal": false,
+      "operatorSignal": false,
+      "regulationSignal": false,
+      "launchSignal": false,
+      "financeLike": false,
+      "ageHours": 49,
+      "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
     },
@@ -950,7 +994,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 54,
+      "ageHours": 58,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -972,7 +1016,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 56,
+      "ageHours": 60,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -994,7 +1038,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 58,
+      "ageHours": 61,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1016,7 +1060,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 92,
+      "ageHours": 95,
       "score": 27,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1038,7 +1082,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 92,
+      "ageHours": 95,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1060,7 +1104,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 102,
+      "ageHours": 106,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1082,7 +1126,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 117,
+      "ageHours": 120,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1104,7 +1148,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 117,
+      "ageHours": 120,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1126,7 +1170,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 141,
+      "ageHours": 145,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1148,7 +1192,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 159,
+      "ageHours": 162,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1170,7 +1214,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 159,
+      "ageHours": 162,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1192,7 +1236,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 164,
+      "ageHours": 167,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
