@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-20T18:29:22.741Z",
+  "generatedAt": "2026-05-20T22:03:10.968Z",
   "totals": {
     "items": 33,
     "sources": 8,
@@ -28,7 +28,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 6,
+        "ageHours": 9,
         "score": 64,
         "bucket": "today-important",
         "readingClass": "heute wichtig"
@@ -52,7 +52,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 19,
+        "ageHours": 23,
         "score": 58,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -74,7 +74,7 @@
         "regulationSignal": false,
         "launchSignal": true,
         "financeLike": false,
-        "ageHours": 6,
+        "ageHours": 9,
         "score": 56,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -96,7 +96,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 3,
+        "ageHours": 7,
         "score": 50,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -118,7 +118,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 5,
+        "ageHours": 8,
         "score": 50,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -140,7 +140,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 6,
+        "ageHours": 10,
         "score": 50,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -162,7 +162,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 17,
+        "ageHours": 20,
         "score": 44,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -184,7 +184,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 20,
+        "ageHours": 23,
         "score": 44,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -206,7 +206,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 20,
+        "ageHours": 23,
         "score": 44,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -228,7 +228,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 20,
+        "ageHours": 23,
         "score": 44,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -250,7 +250,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 151,
+        "ageHours": 154,
         "score": 41,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -274,7 +274,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 32,
+        "ageHours": 35,
         "score": 40,
         "bucket": "read",
         "readingClass": "lesen"
@@ -296,7 +296,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 35,
+        "ageHours": 39,
         "score": 38,
         "bucket": "read",
         "readingClass": "lesen"
@@ -318,7 +318,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 41,
+        "ageHours": 44,
         "score": 38,
         "bucket": "read",
         "readingClass": "lesen"
@@ -340,7 +340,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 44,
+        "ageHours": 48,
         "score": 38,
         "bucket": "read",
         "readingClass": "lesen"
@@ -362,7 +362,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 51,
+        "ageHours": 54,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -384,7 +384,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 53,
+        "ageHours": 56,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -406,7 +406,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 53,
+        "ageHours": 57,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -428,7 +428,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 55,
+        "ageHours": 59,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -450,7 +450,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 59,
+        "ageHours": 63,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -472,7 +472,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 104,
+        "ageHours": 108,
         "score": 27,
         "bucket": "read",
         "readingClass": "lesen"
@@ -494,7 +494,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 123,
+        "ageHours": 127,
         "score": 27,
         "bucket": "read",
         "readingClass": "lesen"
@@ -516,7 +516,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 153,
+        "ageHours": 157,
         "score": 27,
         "bucket": "read",
         "readingClass": "lesen"
@@ -538,7 +538,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 77,
+        "ageHours": 81,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -560,7 +560,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 87,
+        "ageHours": 91,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -582,7 +582,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 101,
+        "ageHours": 105,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -604,7 +604,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 116,
+        "ageHours": 120,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -626,7 +626,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 119,
+        "ageHours": 123,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -648,7 +648,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 124,
+        "ageHours": 127,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -670,7 +670,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 140,
+        "ageHours": 144,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -692,7 +692,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 148,
+        "ageHours": 152,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -714,18 +714,18 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 156,
+        "ageHours": 160,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
       },
       {
-        "id": "686072723c11",
-        "title": "Australiens Weinindustrie protestiert gegen Haushaltskürzungen - Vinetur",
-        "summary": "Australiens Weinindustrie protestiert gegen Haushaltskürzungen Vinetur",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQa3RWNE9UYTJNbmEzZHllU3FZRkdSU2dKb1EyS2ZIbm1JS2N3MkpnbV8yeGZJVHo4TzdQbV9lZ2xPaERIa2FJLUhYVUhuenk1REgxV3lLLVh6STdWd01adVp3dGZvY0UzZFhERnZJWHpNcjIwT3E0RlBnMkhMdk51alE1QU9tbkMwaS1EYWJ1ZG5IbG85eGRnc0FJN0pKX3fSAaQBQVVfeXFMTS1rNkJWWWxRVjZrOWljX2NtVi1qck5uTkdlN3BjSC1FWG9KNWNhSklqc0hPT2U0b3NHVGM1MXlvWXoyX2o3UzhEd213UnhMT3J3b1JQQXl0c0N2N0lWanVXUGNmazM4ejdpbHM4elluaGo3RVNiQ1B3T3BZenl6SWNYcndacjMtQnpDYm9ocVVXa0s2andBVFFaQXhvbjBkVkoyV0g?oc=5",
+        "id": "fdd4387fb729",
+        "title": "Weltweiter Weinkonsum sinkt auf niedrigsten Stand seit knapp 70 Jahren - MSN",
+        "summary": "Weltweiter Weinkonsum sinkt auf niedrigsten Stand seit knapp 70 Jahren MSN",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQTm9Sc1NvOHpObjQxYkVpTXhCeFZjN0hxSGJjamZHcjJXUE1fMThNdnM3bDE0aXNyN0tUN3lEbF8zWjN6Q25ReGxqcUJJbUlPcjlCSXlQWDR1ZzBkTUdhUUp2d1UxR2pIOVl6SHlueEZYSGVyQ2NWemFLVUZldEFtSjFpaFl4M2hicjFtX0tnVk1UdHRsR0dFOGZxeXVIMDBsT1BMR3RYc0F2WnRxTzMtM1VWOXQxT1pkTGkyNExFc0RBSm9CbjFLYl9XVk9YTVZTQWZNV0VCZDV4TUJPUlkxMGJzMGJKbzhpRExz?oc=5",
         "domain": "news.google.com",
-        "publishedAt": "2026-05-13T22:56:11.000Z",
+        "publishedAt": "2026-05-14T01:50:09.000Z",
         "topic": "alcohol",
         "feedId": "bev-alcohol",
         "feedName": "Bier / Wein / Spirituosen",
@@ -787,7 +787,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 6,
+      "ageHours": 9,
       "score": 64,
       "bucket": "today-important",
       "readingClass": "heute wichtig"
@@ -809,7 +809,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 19,
+      "ageHours": 23,
       "score": 58,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -831,7 +831,7 @@
       "regulationSignal": false,
       "launchSignal": true,
       "financeLike": false,
-      "ageHours": 6,
+      "ageHours": 9,
       "score": 56,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -853,7 +853,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 3,
+      "ageHours": 7,
       "score": 50,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -875,7 +875,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 5,
+      "ageHours": 8,
       "score": 50,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -897,7 +897,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 6,
+      "ageHours": 10,
       "score": 50,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -919,7 +919,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 17,
+      "ageHours": 20,
       "score": 44,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -941,7 +941,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 20,
+      "ageHours": 23,
       "score": 44,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -963,7 +963,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 20,
+      "ageHours": 23,
       "score": 44,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -985,7 +985,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 20,
+      "ageHours": 23,
       "score": 44,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -1007,7 +1007,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 151,
+      "ageHours": 154,
       "score": 41,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -1029,7 +1029,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 32,
+      "ageHours": 35,
       "score": 40,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1051,7 +1051,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 35,
+      "ageHours": 39,
       "score": 38,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1073,7 +1073,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 41,
+      "ageHours": 44,
       "score": 38,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1095,7 +1095,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 44,
+      "ageHours": 48,
       "score": 38,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1117,7 +1117,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 51,
+      "ageHours": 54,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1139,7 +1139,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 53,
+      "ageHours": 56,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1161,7 +1161,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 53,
+      "ageHours": 57,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1183,7 +1183,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 55,
+      "ageHours": 59,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1205,7 +1205,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 59,
+      "ageHours": 63,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1227,7 +1227,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 104,
+      "ageHours": 108,
       "score": 27,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1249,7 +1249,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 123,
+      "ageHours": 127,
       "score": 27,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1271,7 +1271,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 153,
+      "ageHours": 157,
       "score": 27,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1293,7 +1293,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 77,
+      "ageHours": 81,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1315,7 +1315,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 87,
+      "ageHours": 91,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1337,7 +1337,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 101,
+      "ageHours": 105,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1359,7 +1359,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 116,
+      "ageHours": 120,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1381,7 +1381,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 119,
+      "ageHours": 123,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1403,7 +1403,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 124,
+      "ageHours": 127,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1425,7 +1425,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 140,
+      "ageHours": 144,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1447,7 +1447,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 148,
+      "ageHours": 152,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1469,18 +1469,18 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 156,
+      "ageHours": 160,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
     },
     {
-      "id": "686072723c11",
-      "title": "Australiens Weinindustrie protestiert gegen Haushaltskürzungen - Vinetur",
-      "summary": "Australiens Weinindustrie protestiert gegen Haushaltskürzungen Vinetur",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQa3RWNE9UYTJNbmEzZHllU3FZRkdSU2dKb1EyS2ZIbm1JS2N3MkpnbV8yeGZJVHo4TzdQbV9lZ2xPaERIa2FJLUhYVUhuenk1REgxV3lLLVh6STdWd01adVp3dGZvY0UzZFhERnZJWHpNcjIwT3E0RlBnMkhMdk51alE1QU9tbkMwaS1EYWJ1ZG5IbG85eGRnc0FJN0pKX3fSAaQBQVVfeXFMTS1rNkJWWWxRVjZrOWljX2NtVi1qck5uTkdlN3BjSC1FWG9KNWNhSklqc0hPT2U0b3NHVGM1MXlvWXoyX2o3UzhEd213UnhMT3J3b1JQQXl0c0N2N0lWanVXUGNmazM4ejdpbHM4elluaGo3RVNiQ1B3T3BZenl6SWNYcndacjMtQnpDYm9ocVVXa0s2andBVFFaQXhvbjBkVkoyV0g?oc=5",
+      "id": "fdd4387fb729",
+      "title": "Weltweiter Weinkonsum sinkt auf niedrigsten Stand seit knapp 70 Jahren - MSN",
+      "summary": "Weltweiter Weinkonsum sinkt auf niedrigsten Stand seit knapp 70 Jahren MSN",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQTm9Sc1NvOHpObjQxYkVpTXhCeFZjN0hxSGJjamZHcjJXUE1fMThNdnM3bDE0aXNyN0tUN3lEbF8zWjN6Q25ReGxqcUJJbUlPcjlCSXlQWDR1ZzBkTUdhUUp2d1UxR2pIOVl6SHlueEZYSGVyQ2NWemFLVUZldEFtSjFpaFl4M2hicjFtX0tnVk1UdHRsR0dFOGZxeXVIMDBsT1BMR3RYc0F2WnRxTzMtM1VWOXQxT1pkTGkyNExFc0RBSm9CbjFLYl9XVk9YTVZTQWZNV0VCZDV4TUJPUlkxMGJzMGJKbzhpRExz?oc=5",
       "domain": "news.google.com",
-      "publishedAt": "2026-05-13T22:56:11.000Z",
+      "publishedAt": "2026-05-14T01:50:09.000Z",
       "topic": "alcohol",
       "feedId": "bev-alcohol",
       "feedName": "Bier / Wein / Spirituosen",
