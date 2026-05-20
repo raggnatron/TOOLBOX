@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-05-20T15:53:30.548Z",
+  "generatedAt": "2026-05-20T18:29:22.741Z",
   "totals": {
     "items": 33,
     "sources": 8,
     "failures": 0,
     "todayImportant": 1,
-    "watch": 9,
-    "read": 23
+    "watch": 10,
+    "read": 22
   },
   "failures": [],
   "sections": {
@@ -28,7 +28,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 3,
+        "ageHours": 6,
         "score": 64,
         "bucket": "today-important",
         "readingClass": "heute wichtig"
@@ -52,7 +52,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 17,
+        "ageHours": 19,
         "score": 58,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -74,8 +74,30 @@
         "regulationSignal": false,
         "launchSignal": true,
         "financeLike": false,
-        "ageHours": 3,
+        "ageHours": 6,
         "score": 56,
+        "bucket": "watch",
+        "readingClass": "beobachten"
+      },
+      {
+        "id": "488f77a1d3fe",
+        "title": "Cambrils richtet erste globale Konferenz für Food Tourism aus - Vinetur",
+        "summary": "Cambrils richtet erste globale Konferenz für Food Tourism aus Vinetur",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOX3FPRVRBVmxVMk55VXJqTFM2bkJTR1ZHMUlxbEdhTi1oZzVUbld1eWY4WXA4anpVaGdBX1lkSDF1dVNaSXpYeXotNjJrUXVidWFJOGQ1WHVVTUE4bEJjUXZWMllteFdqYzhaRmF6c0NSd08tSGY1SC1GQ2lZVl92b04tRWhYMXhGOUFIZHJwSlJqdWxPeXJiLUFicWZOMW_SAaQBQVVfeXFMTmd6dVpsRTdCNnJrcXg2WGZYYlFxR2FJZlZMR0lRN0NmSUJNYkdrbFlTcG5LS2puSVl4dHNvTGNhTXBCQnJndHpVQk1VeWtRd2g2MXExSkNyNV9pdy1QZkI4bkJlNC1yOTFMNXVyNzV0YmlnVzREY3BXTnVVeDFsQUpvb2hHOEk1TEUwUGdpQ0ZnUEUwWURjVmtWSUFHM2JvOHdSTW0?oc=5",
+        "domain": "news.google.com",
+        "publishedAt": "2026-05-20T15:19:09.000Z",
+        "topic": "alcohol",
+        "feedId": "bev-alcohol",
+        "feedName": "Bier / Wein / Spirituosen",
+        "feedKind": "search",
+        "basePriority": 1,
+        "dachSignal": false,
+        "operatorSignal": false,
+        "regulationSignal": false,
+        "launchSignal": false,
+        "financeLike": false,
+        "ageHours": 3,
+        "score": 50,
         "bucket": "watch",
         "readingClass": "beobachten"
       },
@@ -96,7 +118,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 2,
+        "ageHours": 5,
         "score": 50,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -118,7 +140,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 3,
+        "ageHours": 6,
         "score": 50,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -140,7 +162,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 14,
+        "ageHours": 17,
         "score": 44,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -162,7 +184,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 17,
+        "ageHours": 20,
         "score": 44,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -184,7 +206,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 17,
+        "ageHours": 20,
         "score": 44,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -206,7 +228,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 17,
+        "ageHours": 20,
         "score": 44,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -228,7 +250,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 148,
+        "ageHours": 151,
         "score": 41,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -252,29 +274,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 29,
-        "score": 40,
-        "bucket": "read",
-        "readingClass": "lesen"
-      },
-      {
-        "id": "33be14d91cfe",
-        "title": "»Ohnerausch« eröffnet ersten Store mit alkoholfreien Drinks in Wien - Falstaff",
-        "summary": "»Ohnerausch« eröffnet ersten Store mit alkoholfreien Drinks in Wien Falstaff",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PSE1MSUZ6Nnk3ODV6TmVFMUI4QzhIOEdvUFlCQ3V0WmVlVGVEaGx5UEJBRDVfOUZkbGN4b0N3djBPZEdBNHJlaE1PWU02em1JTU1vYkR0d2hUMjhUV3gtYzhzQnhIdWRsNVlfdWdJb0EtQjBVVmprX3d0WFJhVlk?oc=5",
-        "domain": "news.google.com",
-        "publishedAt": "2026-05-19T09:16:02.000Z",
-        "topic": "nonalcoholic",
-        "feedId": "bev-nonalc",
-        "feedName": "Alkoholfrei / Functional",
-        "feedKind": "search",
-        "basePriority": 1.05,
-        "dachSignal": false,
-        "operatorSignal": false,
-        "regulationSignal": false,
-        "launchSignal": false,
-        "financeLike": false,
-        "ageHours": 31,
+        "ageHours": 32,
         "score": 40,
         "bucket": "read",
         "readingClass": "lesen"
@@ -296,7 +296,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 33,
+        "ageHours": 35,
         "score": 38,
         "bucket": "read",
         "readingClass": "lesen"
@@ -318,7 +318,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 38,
+        "ageHours": 41,
         "score": 38,
         "bucket": "read",
         "readingClass": "lesen"
@@ -340,7 +340,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 42,
+        "ageHours": 44,
         "score": 38,
         "bucket": "read",
         "readingClass": "lesen"
@@ -362,8 +362,8 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 48,
-        "score": 38,
+        "ageHours": 51,
+        "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
       },
@@ -384,7 +384,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 50,
+        "ageHours": 53,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -406,7 +406,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 51,
+        "ageHours": 53,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -428,7 +428,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 53,
+        "ageHours": 55,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -450,30 +450,8 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 57,
+        "ageHours": 59,
         "score": 32,
-        "bucket": "read",
-        "readingClass": "lesen"
-      },
-      {
-        "id": "ab988021e1d6",
-        "title": "Getränkehändler unterstützen Gesetzentwurf gegen organisierte Diebstähle - Vinetur",
-        "summary": "Getränkehändler unterstützen Gesetzentwurf gegen organisierte Diebstähle Vinetur",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOLVlSZ3NNaFNWUWRvdS1Pc1RGUFl3alBhT1dXM3lUR2pUXzFMZk5fQ0g5S1BuVW52THB3NmtqWVMzeTUxelpSeElLdzA3UjlzUEliNjNFVmE4OWNxdHdqaDlFWVVpTXRDbF9VU1B3eUZVWUQxelJJQmNQNlY1amdJWXFiOFBVcjZocG1rLUgtT05oM3I4VkVJVUswdUh4aEpkWF9F0gGoAUFVX3lxTE5PNW5wMDdOaENTamFpZk1DS3IyMUt3a1B2Sl90Rkc3LUxrdUhlbVpHMzhndzRDc3hDekRUcXB6ODhVWW9HWGJ1TkVwOVA1ci1ZVF94VDZHNzlva2g0c1JadG1OSTlyTWJpMl9YVXBfUXpNd3FyVDRFckxRMTRCZncweWJhSlIta2NGdnpJYndzMFhlN2xoV2hiLTlneFhweW9WR2J0SG0yTg?oc=5",
-        "domain": "news.google.com",
-        "publishedAt": "2026-05-15T07:00:00.000Z",
-        "topic": "regulation",
-        "feedId": "bev-launches",
-        "feedName": "Launches / Neuheiten",
-        "feedKind": "search",
-        "basePriority": 0.95,
-        "dachSignal": false,
-        "operatorSignal": false,
-        "regulationSignal": false,
-        "launchSignal": false,
-        "financeLike": false,
-        "ageHours": 129,
-        "score": 29,
         "bucket": "read",
         "readingClass": "lesen"
       },
@@ -494,7 +472,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 102,
+        "ageHours": 104,
         "score": 27,
         "bucket": "read",
         "readingClass": "lesen"
@@ -516,7 +494,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 121,
+        "ageHours": 123,
         "score": 27,
         "bucket": "read",
         "readingClass": "lesen"
@@ -538,7 +516,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 151,
+        "ageHours": 153,
         "score": 27,
         "bucket": "read",
         "readingClass": "lesen"
@@ -560,7 +538,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 75,
+        "ageHours": 77,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -582,7 +560,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 85,
+        "ageHours": 87,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -604,7 +582,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 99,
+        "ageHours": 101,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -626,7 +604,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 114,
+        "ageHours": 116,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -648,7 +626,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 117,
+        "ageHours": 119,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -670,7 +648,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 121,
+        "ageHours": 124,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -692,7 +670,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 138,
+        "ageHours": 140,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -714,7 +692,29 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 146,
+        "ageHours": 148,
+        "score": 26,
+        "bucket": "read",
+        "readingClass": "lesen"
+      },
+      {
+        "id": "05b249a8a228",
+        "title": "Tiefster Stand seit 1957 - Weltweiter Weinkonsum sinkt auf 208 Millionen Hektoliter - leadersnet.de",
+        "summary": "Tiefster Stand seit 1957 - Weltweiter Weinkonsum sinkt auf 208 Millionen Hektoliter leadersnet.de",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYkpTZkx6NXIzMHNGTXRWOER4a1JZZlZhLU5fdkRZR2pOTV9RSGMxa0Q4bXBmaU1XZjZrQ2xlWlhzSFp2NkxpYXVTcWhFcjZvN21WcVhVM1g2Skt0WU9LRVRoRmdFaW1jRmh1MGZpMFhyeFNQeXlRYThmZ1ZaaDdxdzRRTnBNNnNwVEdacTdMcFl2cjFXeFVCTlR1aWhhdjNV?oc=5",
+        "domain": "news.google.com",
+        "publishedAt": "2026-05-14T06:11:00.000Z",
+        "topic": "alcohol",
+        "feedId": "bev-alcohol",
+        "feedName": "Bier / Wein / Spirituosen",
+        "feedKind": "search",
+        "basePriority": 1,
+        "dachSignal": false,
+        "operatorSignal": false,
+        "regulationSignal": false,
+        "launchSignal": false,
+        "financeLike": false,
+        "ageHours": 156,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -736,7 +736,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 161,
+        "ageHours": 164,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -746,7 +746,7 @@
   "radar": {
     "dominantTopic": {
       "id": "alcohol",
-      "count": 21
+      "count": 23
     },
     "dachSignals": 2,
     "regulationSignals": 0,
@@ -760,18 +760,13 @@
     },
     {
       "feedName": "Bier / Wein / Spirituosen",
-      "count": 24,
+      "count": 26,
       "avgScore": 36
     },
     {
       "feedName": "Alkoholfrei / Functional",
-      "count": 3,
-      "avgScore": 36
-    },
-    {
-      "feedName": "Launches / Neuheiten",
-      "count": 1,
-      "avgScore": 29
+      "count": 2,
+      "avgScore": 34
     }
   ],
   "items": [
@@ -792,7 +787,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 3,
+      "ageHours": 6,
       "score": 64,
       "bucket": "today-important",
       "readingClass": "heute wichtig"
@@ -814,7 +809,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 17,
+      "ageHours": 19,
       "score": 58,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -836,8 +831,30 @@
       "regulationSignal": false,
       "launchSignal": true,
       "financeLike": false,
-      "ageHours": 3,
+      "ageHours": 6,
       "score": 56,
+      "bucket": "watch",
+      "readingClass": "beobachten"
+    },
+    {
+      "id": "488f77a1d3fe",
+      "title": "Cambrils richtet erste globale Konferenz für Food Tourism aus - Vinetur",
+      "summary": "Cambrils richtet erste globale Konferenz für Food Tourism aus Vinetur",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOX3FPRVRBVmxVMk55VXJqTFM2bkJTR1ZHMUlxbEdhTi1oZzVUbld1eWY4WXA4anpVaGdBX1lkSDF1dVNaSXpYeXotNjJrUXVidWFJOGQ1WHVVTUE4bEJjUXZWMllteFdqYzhaRmF6c0NSd08tSGY1SC1GQ2lZVl92b04tRWhYMXhGOUFIZHJwSlJqdWxPeXJiLUFicWZOMW_SAaQBQVVfeXFMTmd6dVpsRTdCNnJrcXg2WGZYYlFxR2FJZlZMR0lRN0NmSUJNYkdrbFlTcG5LS2puSVl4dHNvTGNhTXBCQnJndHpVQk1VeWtRd2g2MXExSkNyNV9pdy1QZkI4bkJlNC1yOTFMNXVyNzV0YmlnVzREY3BXTnVVeDFsQUpvb2hHOEk1TEUwUGdpQ0ZnUEUwWURjVmtWSUFHM2JvOHdSTW0?oc=5",
+      "domain": "news.google.com",
+      "publishedAt": "2026-05-20T15:19:09.000Z",
+      "topic": "alcohol",
+      "feedId": "bev-alcohol",
+      "feedName": "Bier / Wein / Spirituosen",
+      "feedKind": "search",
+      "basePriority": 1,
+      "dachSignal": false,
+      "operatorSignal": false,
+      "regulationSignal": false,
+      "launchSignal": false,
+      "financeLike": false,
+      "ageHours": 3,
+      "score": 50,
       "bucket": "watch",
       "readingClass": "beobachten"
     },
@@ -858,7 +875,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 2,
+      "ageHours": 5,
       "score": 50,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -880,7 +897,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 3,
+      "ageHours": 6,
       "score": 50,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -902,7 +919,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 14,
+      "ageHours": 17,
       "score": 44,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -924,7 +941,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 17,
+      "ageHours": 20,
       "score": 44,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -946,7 +963,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 17,
+      "ageHours": 20,
       "score": 44,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -968,7 +985,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 17,
+      "ageHours": 20,
       "score": 44,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -990,7 +1007,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 148,
+      "ageHours": 151,
       "score": 41,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -1012,29 +1029,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 29,
-      "score": 40,
-      "bucket": "read",
-      "readingClass": "lesen"
-    },
-    {
-      "id": "33be14d91cfe",
-      "title": "»Ohnerausch« eröffnet ersten Store mit alkoholfreien Drinks in Wien - Falstaff",
-      "summary": "»Ohnerausch« eröffnet ersten Store mit alkoholfreien Drinks in Wien Falstaff",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PSE1MSUZ6Nnk3ODV6TmVFMUI4QzhIOEdvUFlCQ3V0WmVlVGVEaGx5UEJBRDVfOUZkbGN4b0N3djBPZEdBNHJlaE1PWU02em1JTU1vYkR0d2hUMjhUV3gtYzhzQnhIdWRsNVlfdWdJb0EtQjBVVmprX3d0WFJhVlk?oc=5",
-      "domain": "news.google.com",
-      "publishedAt": "2026-05-19T09:16:02.000Z",
-      "topic": "nonalcoholic",
-      "feedId": "bev-nonalc",
-      "feedName": "Alkoholfrei / Functional",
-      "feedKind": "search",
-      "basePriority": 1.05,
-      "dachSignal": false,
-      "operatorSignal": false,
-      "regulationSignal": false,
-      "launchSignal": false,
-      "financeLike": false,
-      "ageHours": 31,
+      "ageHours": 32,
       "score": 40,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1056,7 +1051,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 33,
+      "ageHours": 35,
       "score": 38,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1078,7 +1073,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 38,
+      "ageHours": 41,
       "score": 38,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1100,7 +1095,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 42,
+      "ageHours": 44,
       "score": 38,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1122,8 +1117,8 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 48,
-      "score": 38,
+      "ageHours": 51,
+      "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
     },
@@ -1144,7 +1139,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 50,
+      "ageHours": 53,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1166,7 +1161,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 51,
+      "ageHours": 53,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1188,7 +1183,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 53,
+      "ageHours": 55,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1210,30 +1205,8 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 57,
+      "ageHours": 59,
       "score": 32,
-      "bucket": "read",
-      "readingClass": "lesen"
-    },
-    {
-      "id": "ab988021e1d6",
-      "title": "Getränkehändler unterstützen Gesetzentwurf gegen organisierte Diebstähle - Vinetur",
-      "summary": "Getränkehändler unterstützen Gesetzentwurf gegen organisierte Diebstähle Vinetur",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOLVlSZ3NNaFNWUWRvdS1Pc1RGUFl3alBhT1dXM3lUR2pUXzFMZk5fQ0g5S1BuVW52THB3NmtqWVMzeTUxelpSeElLdzA3UjlzUEliNjNFVmE4OWNxdHdqaDlFWVVpTXRDbF9VU1B3eUZVWUQxelJJQmNQNlY1amdJWXFiOFBVcjZocG1rLUgtT05oM3I4VkVJVUswdUh4aEpkWF9F0gGoAUFVX3lxTE5PNW5wMDdOaENTamFpZk1DS3IyMUt3a1B2Sl90Rkc3LUxrdUhlbVpHMzhndzRDc3hDekRUcXB6ODhVWW9HWGJ1TkVwOVA1ci1ZVF94VDZHNzlva2g0c1JadG1OSTlyTWJpMl9YVXBfUXpNd3FyVDRFckxRMTRCZncweWJhSlIta2NGdnpJYndzMFhlN2xoV2hiLTlneFhweW9WR2J0SG0yTg?oc=5",
-      "domain": "news.google.com",
-      "publishedAt": "2026-05-15T07:00:00.000Z",
-      "topic": "regulation",
-      "feedId": "bev-launches",
-      "feedName": "Launches / Neuheiten",
-      "feedKind": "search",
-      "basePriority": 0.95,
-      "dachSignal": false,
-      "operatorSignal": false,
-      "regulationSignal": false,
-      "launchSignal": false,
-      "financeLike": false,
-      "ageHours": 129,
-      "score": 29,
       "bucket": "read",
       "readingClass": "lesen"
     },
@@ -1254,7 +1227,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 102,
+      "ageHours": 104,
       "score": 27,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1276,7 +1249,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 121,
+      "ageHours": 123,
       "score": 27,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1298,7 +1271,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 151,
+      "ageHours": 153,
       "score": 27,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1320,7 +1293,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 75,
+      "ageHours": 77,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1342,7 +1315,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 85,
+      "ageHours": 87,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1364,7 +1337,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 99,
+      "ageHours": 101,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1386,7 +1359,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 114,
+      "ageHours": 116,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1408,7 +1381,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 117,
+      "ageHours": 119,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1430,7 +1403,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 121,
+      "ageHours": 124,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1452,7 +1425,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 138,
+      "ageHours": 140,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1474,7 +1447,29 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 146,
+      "ageHours": 148,
+      "score": 26,
+      "bucket": "read",
+      "readingClass": "lesen"
+    },
+    {
+      "id": "05b249a8a228",
+      "title": "Tiefster Stand seit 1957 - Weltweiter Weinkonsum sinkt auf 208 Millionen Hektoliter - leadersnet.de",
+      "summary": "Tiefster Stand seit 1957 - Weltweiter Weinkonsum sinkt auf 208 Millionen Hektoliter leadersnet.de",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYkpTZkx6NXIzMHNGTXRWOER4a1JZZlZhLU5fdkRZR2pOTV9RSGMxa0Q4bXBmaU1XZjZrQ2xlWlhzSFp2NkxpYXVTcWhFcjZvN21WcVhVM1g2Skt0WU9LRVRoRmdFaW1jRmh1MGZpMFhyeFNQeXlRYThmZ1ZaaDdxdzRRTnBNNnNwVEdacTdMcFl2cjFXeFVCTlR1aWhhdjNV?oc=5",
+      "domain": "news.google.com",
+      "publishedAt": "2026-05-14T06:11:00.000Z",
+      "topic": "alcohol",
+      "feedId": "bev-alcohol",
+      "feedName": "Bier / Wein / Spirituosen",
+      "feedKind": "search",
+      "basePriority": 1,
+      "dachSignal": false,
+      "operatorSignal": false,
+      "regulationSignal": false,
+      "launchSignal": false,
+      "financeLike": false,
+      "ageHours": 156,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1496,7 +1491,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 161,
+      "ageHours": 164,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
