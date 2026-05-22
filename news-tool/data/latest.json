@@ -1,17 +1,62 @@
 {
-  "generatedAt": "2026-05-22T18:01:51.959Z",
+  "generatedAt": "2026-05-22T21:21:52.434Z",
   "totals": {
-    "items": 36,
+    "items": 37,
     "sources": 8,
     "failures": 0,
-    "todayImportant": 0,
-    "watch": 9,
-    "read": 27
+    "todayImportant": 1,
+    "watch": 10,
+    "read": 26
   },
   "failures": [],
   "sections": {
-    "todayImportant": [],
+    "todayImportant": [
+      {
+        "id": "f738367c1610",
+        "title": "Anonyme Gruppe ficht Produktionskürzungen für Cognac vor Frankreichs höchstem Gericht an - Vinetur",
+        "summary": "Anonyme Gruppe ficht Produktionskürzungen für Cognac vor Frankreichs höchstem Gericht an Vinetur",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQUo4N0ZLV0ZCbUJLNWxfSU1RclctT3lpc2ZRbmFBVS13U09PWlR3b0FOVnZneEFPUmgyZXl5STdRbUVvdlFDRDhYSFJObGUwS1BVc3owWHhlVGRMVTVTWEFONzJxWUtoTnlaM3A2RG05S0VPbm1DRzc5RU9Tcy01bXhFYzI5OE5VaGRBNm5pUllZOFVKTW5uM0duQUlMZWNvVk9uRTdzTmlnUUFNejdBdFU4RXdGSlo5ZzVCdFR30gG-AUFVX3lxTE1BSjg3RktXRkJtQks1bF9JTVFyVy1PeWlzZlFuYUFVLXdTT09aVHdvQU5Wdmd4QU9SaDJleXlJN1FtRW92UUNEOFhIUk5sZTBLUFVzejBYeGVUZExVNVNYQU43MnFZS2hOeVozcDZEbTlLRU9ubUNHNzlFT1NzLTVteEVjMjk4TlVoZEE2bmlSWVk4VUpNbm4zR25BSUxlY29WT25FN3NOaWdRQU16N0F0VThFd0ZKWjlnNUJ0VHc?oc=5",
+        "domain": "news.google.com",
+        "publishedAt": "2026-05-22T18:37:46.000Z",
+        "topic": "alcohol",
+        "feedId": "bev-alcohol",
+        "feedName": "Bier / Wein / Spirituosen",
+        "feedKind": "search",
+        "basePriority": 1,
+        "dachSignal": false,
+        "operatorSignal": false,
+        "regulationSignal": true,
+        "launchSignal": false,
+        "financeLike": false,
+        "ageHours": 3,
+        "score": 68,
+        "bucket": "today-important",
+        "readingClass": "heute wichtig"
+      }
+    ],
     "watch": [
+      {
+        "id": "fc1a26cf3aea",
+        "title": "Brauerei-Aus in Herford: Der schärfste Mitbewerber redet Klartext – und will Azubis übernehmen - Neue Westfälische",
+        "summary": "Brauerei-Aus in Herford: Der schärfste Mitbewerber redet Klartext – und will Azubis übernehmen Neue Westfälische",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPUDJLV0RvckZvQURYcG5rWlVvb2Z2VHRZR3lpWUdvZGt6d3E5bEdKZFNtY2RqRUxCc0xQdkR4QWhnVzVjWENhRjMxQVZUSHpzcTRqcjg4MzRRY1Ryd3M3N01OV1hoQkFReUI0VVNLdUMySVF5cHpfQllYcUFRdTBQdUFNekdmUHZoLWdseV80TTc1YW1RY1NKT3lNeURWZjVUVjRvZndScUREM3EtWnhCMG8tMEZjZi1Dc0lYYnRXeDEyRzRKQm5TOUlHVEQ0NnRlTGxEcE1pTk01OTE0bW52ZTlBOHNXMVR2?oc=5",
+        "domain": "news.google.com",
+        "publishedAt": "2026-05-22T14:06:00.000Z",
+        "topic": "alcohol",
+        "feedId": "bev-alcohol",
+        "feedName": "Bier / Wein / Spirituosen",
+        "feedKind": "search",
+        "basePriority": 1,
+        "dachSignal": false,
+        "operatorSignal": false,
+        "regulationSignal": false,
+        "launchSignal": false,
+        "financeLike": false,
+        "ageHours": 7,
+        "score": 50,
+        "bucket": "watch",
+        "readingClass": "beobachten"
+      },
       {
         "id": "f559a9dc381c",
         "title": "Zuckersteuer auf Softdrinks rückt näher – Lebensmittelindustrie läuft Sturm - Lebensmittelpraxis.de",
@@ -29,8 +74,8 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 12,
-        "score": 53,
+        "ageHours": 16,
+        "score": 47,
         "bucket": "watch",
         "readingClass": "beobachten"
       },
@@ -51,7 +96,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 53,
+        "ageHours": 57,
         "score": 46,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -73,7 +118,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 67,
+        "ageHours": 70,
         "score": 46,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -95,7 +140,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 16,
+        "ageHours": 20,
         "score": 44,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -117,7 +162,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 20,
+        "ageHours": 23,
         "score": 44,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -139,7 +184,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 20,
+        "ageHours": 23,
         "score": 44,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -161,7 +206,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 20,
+        "ageHours": 24,
         "score": 44,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -183,7 +228,7 @@
         "regulationSignal": false,
         "launchSignal": true,
         "financeLike": false,
-        "ageHours": 27,
+        "ageHours": 30,
         "score": 44,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -205,7 +250,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 20,
+        "ageHours": 23,
         "score": 43,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -229,7 +274,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 26,
+        "ageHours": 30,
         "score": 38,
         "bucket": "read",
         "readingClass": "lesen"
@@ -251,7 +296,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 30,
+        "ageHours": 34,
         "score": 38,
         "bucket": "read",
         "readingClass": "lesen"
@@ -273,7 +318,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 33,
+        "ageHours": 36,
         "score": 38,
         "bucket": "read",
         "readingClass": "lesen"
@@ -295,7 +340,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 43,
+        "ageHours": 46,
         "score": 38,
         "bucket": "read",
         "readingClass": "lesen"
@@ -317,7 +362,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 44,
+        "ageHours": 47,
         "score": 38,
         "bucket": "read",
         "readingClass": "lesen"
@@ -339,7 +384,7 @@
         "regulationSignal": false,
         "launchSignal": true,
         "financeLike": false,
-        "ageHours": 53,
+        "ageHours": 57,
         "score": 38,
         "bucket": "read",
         "readingClass": "lesen"
@@ -361,7 +406,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 52,
+        "ageHours": 56,
         "score": 34,
         "bucket": "read",
         "readingClass": "lesen"
@@ -383,7 +428,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 51,
+        "ageHours": 54,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -405,7 +450,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 52,
+        "ageHours": 56,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -427,7 +472,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 53,
+        "ageHours": 56,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -449,7 +494,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 54,
+        "ageHours": 57,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -471,7 +516,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 64,
+        "ageHours": 67,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -493,7 +538,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 67,
+        "ageHours": 71,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -515,7 +560,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 67,
+        "ageHours": 71,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -537,15 +582,15 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 67,
+        "ageHours": 71,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
       },
       {
-        "id": "d22d03fe677a",
-        "title": "Krombacher-Tochter Drinks & More launcht mit Jamal Musiala ein Functional Water namens Baze - Meedia.de",
-        "summary": "Krombacher-Tochter Drinks & More launcht mit Jamal Musiala ein Functional Water namens Baze Meedia.de",
+        "id": "a931130c67e7",
+        "title": "Krombacher-Tochter Drinks & More launcht mit Jamal Musiala ein Functional Water namens Baze - Meedia",
+        "summary": "Krombacher-Tochter Drinks & More launcht mit Jamal Musiala ein Functional Water namens Baze Meedia",
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcjR3ZUxFem1ZUllVRGRFWVpaWVI0VlFSbUg0TTM2XzNVZy1zRlJKbjBWaG9nZnhxdjVUcWxva1dEb2ZMUDd5ZzZWNGlLWWVBbDFKZzNlZGVUUjd4YW9TQTFtQUw4TjB3cm5tYmlFWUFLaE1zUXFjVGxmbGJSSU9DNXFwMVRTN3JEdzdocDJydTJkWVpHMVU1R2pxZ3pGeGxrVnhtdVRac2hwOERwbFRSbW5hZnIwczdMVnlBS2dsekRfNHlxVjR2ZENJSnY0c3AwQ3Q3Rg?oc=5",
         "domain": "news.google.com",
         "publishedAt": "2026-05-19T10:59:01.000Z",
@@ -559,7 +604,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 79,
+        "ageHours": 82,
         "score": 28,
         "bucket": "read",
         "readingClass": "lesen"
@@ -581,7 +626,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 83,
+        "ageHours": 86,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -603,7 +648,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 88,
+        "ageHours": 91,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -625,7 +670,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 92,
+        "ageHours": 95,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -647,7 +692,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 100,
+        "ageHours": 104,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -669,7 +714,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 101,
+        "ageHours": 104,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -691,7 +736,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 103,
+        "ageHours": 106,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -713,7 +758,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 107,
+        "ageHours": 110,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -735,7 +780,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 149,
+        "ageHours": 152,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -745,17 +790,17 @@
   "radar": {
     "dominantTopic": {
       "id": "alcohol",
-      "count": 23
+      "count": 24
     },
     "dachSignals": 2,
-    "regulationSignals": 0,
+    "regulationSignals": 1,
     "operatorSignals": 0
   },
   "sourceStats": [
     {
       "feedName": "Bier / Wein / Spirituosen",
-      "count": 28,
-      "avgScore": 35
+      "count": 29,
+      "avgScore": 37
     },
     {
       "feedName": "Getränkeindustrie",
@@ -769,6 +814,50 @@
     }
   ],
   "items": [
+    {
+      "id": "f738367c1610",
+      "title": "Anonyme Gruppe ficht Produktionskürzungen für Cognac vor Frankreichs höchstem Gericht an - Vinetur",
+      "summary": "Anonyme Gruppe ficht Produktionskürzungen für Cognac vor Frankreichs höchstem Gericht an Vinetur",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQUo4N0ZLV0ZCbUJLNWxfSU1RclctT3lpc2ZRbmFBVS13U09PWlR3b0FOVnZneEFPUmgyZXl5STdRbUVvdlFDRDhYSFJObGUwS1BVc3owWHhlVGRMVTVTWEFONzJxWUtoTnlaM3A2RG05S0VPbm1DRzc5RU9Tcy01bXhFYzI5OE5VaGRBNm5pUllZOFVKTW5uM0duQUlMZWNvVk9uRTdzTmlnUUFNejdBdFU4RXdGSlo5ZzVCdFR30gG-AUFVX3lxTE1BSjg3RktXRkJtQks1bF9JTVFyVy1PeWlzZlFuYUFVLXdTT09aVHdvQU5Wdmd4QU9SaDJleXlJN1FtRW92UUNEOFhIUk5sZTBLUFVzejBYeGVUZExVNVNYQU43MnFZS2hOeVozcDZEbTlLRU9ubUNHNzlFT1NzLTVteEVjMjk4TlVoZEE2bmlSWVk4VUpNbm4zR25BSUxlY29WT25FN3NOaWdRQU16N0F0VThFd0ZKWjlnNUJ0VHc?oc=5",
+      "domain": "news.google.com",
+      "publishedAt": "2026-05-22T18:37:46.000Z",
+      "topic": "alcohol",
+      "feedId": "bev-alcohol",
+      "feedName": "Bier / Wein / Spirituosen",
+      "feedKind": "search",
+      "basePriority": 1,
+      "dachSignal": false,
+      "operatorSignal": false,
+      "regulationSignal": true,
+      "launchSignal": false,
+      "financeLike": false,
+      "ageHours": 3,
+      "score": 68,
+      "bucket": "today-important",
+      "readingClass": "heute wichtig"
+    },
+    {
+      "id": "fc1a26cf3aea",
+      "title": "Brauerei-Aus in Herford: Der schärfste Mitbewerber redet Klartext – und will Azubis übernehmen - Neue Westfälische",
+      "summary": "Brauerei-Aus in Herford: Der schärfste Mitbewerber redet Klartext – und will Azubis übernehmen Neue Westfälische",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPUDJLV0RvckZvQURYcG5rWlVvb2Z2VHRZR3lpWUdvZGt6d3E5bEdKZFNtY2RqRUxCc0xQdkR4QWhnVzVjWENhRjMxQVZUSHpzcTRqcjg4MzRRY1Ryd3M3N01OV1hoQkFReUI0VVNLdUMySVF5cHpfQllYcUFRdTBQdUFNekdmUHZoLWdseV80TTc1YW1RY1NKT3lNeURWZjVUVjRvZndScUREM3EtWnhCMG8tMEZjZi1Dc0lYYnRXeDEyRzRKQm5TOUlHVEQ0NnRlTGxEcE1pTk01OTE0bW52ZTlBOHNXMVR2?oc=5",
+      "domain": "news.google.com",
+      "publishedAt": "2026-05-22T14:06:00.000Z",
+      "topic": "alcohol",
+      "feedId": "bev-alcohol",
+      "feedName": "Bier / Wein / Spirituosen",
+      "feedKind": "search",
+      "basePriority": 1,
+      "dachSignal": false,
+      "operatorSignal": false,
+      "regulationSignal": false,
+      "launchSignal": false,
+      "financeLike": false,
+      "ageHours": 7,
+      "score": 50,
+      "bucket": "watch",
+      "readingClass": "beobachten"
+    },
     {
       "id": "f559a9dc381c",
       "title": "Zuckersteuer auf Softdrinks rückt näher – Lebensmittelindustrie läuft Sturm - Lebensmittelpraxis.de",
@@ -786,8 +875,8 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 12,
-      "score": 53,
+      "ageHours": 16,
+      "score": 47,
       "bucket": "watch",
       "readingClass": "beobachten"
     },
@@ -808,7 +897,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 53,
+      "ageHours": 57,
       "score": 46,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -830,7 +919,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 67,
+      "ageHours": 70,
       "score": 46,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -852,7 +941,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 16,
+      "ageHours": 20,
       "score": 44,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -874,7 +963,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 20,
+      "ageHours": 23,
       "score": 44,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -896,7 +985,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 20,
+      "ageHours": 23,
       "score": 44,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -918,7 +1007,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 20,
+      "ageHours": 24,
       "score": 44,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -940,7 +1029,7 @@
       "regulationSignal": false,
       "launchSignal": true,
       "financeLike": false,
-      "ageHours": 27,
+      "ageHours": 30,
       "score": 44,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -962,7 +1051,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 20,
+      "ageHours": 23,
       "score": 43,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -984,7 +1073,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 26,
+      "ageHours": 30,
       "score": 38,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1006,7 +1095,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 30,
+      "ageHours": 34,
       "score": 38,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1028,7 +1117,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 33,
+      "ageHours": 36,
       "score": 38,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1050,7 +1139,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 43,
+      "ageHours": 46,
       "score": 38,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1072,7 +1161,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 44,
+      "ageHours": 47,
       "score": 38,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1094,7 +1183,7 @@
       "regulationSignal": false,
       "launchSignal": true,
       "financeLike": false,
-      "ageHours": 53,
+      "ageHours": 57,
       "score": 38,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1116,7 +1205,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 52,
+      "ageHours": 56,
       "score": 34,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1138,7 +1227,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 51,
+      "ageHours": 54,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1160,7 +1249,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 52,
+      "ageHours": 56,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1182,7 +1271,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 53,
+      "ageHours": 56,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1204,7 +1293,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 54,
+      "ageHours": 57,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1226,7 +1315,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 64,
+      "ageHours": 67,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1248,7 +1337,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 67,
+      "ageHours": 71,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1270,7 +1359,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 67,
+      "ageHours": 71,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1292,15 +1381,15 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 67,
+      "ageHours": 71,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
     },
     {
-      "id": "d22d03fe677a",
-      "title": "Krombacher-Tochter Drinks & More launcht mit Jamal Musiala ein Functional Water namens Baze - Meedia.de",
-      "summary": "Krombacher-Tochter Drinks & More launcht mit Jamal Musiala ein Functional Water namens Baze Meedia.de",
+      "id": "a931130c67e7",
+      "title": "Krombacher-Tochter Drinks & More launcht mit Jamal Musiala ein Functional Water namens Baze - Meedia",
+      "summary": "Krombacher-Tochter Drinks & More launcht mit Jamal Musiala ein Functional Water namens Baze Meedia",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcjR3ZUxFem1ZUllVRGRFWVpaWVI0VlFSbUg0TTM2XzNVZy1zRlJKbjBWaG9nZnhxdjVUcWxva1dEb2ZMUDd5ZzZWNGlLWWVBbDFKZzNlZGVUUjd4YW9TQTFtQUw4TjB3cm5tYmlFWUFLaE1zUXFjVGxmbGJSSU9DNXFwMVRTN3JEdzdocDJydTJkWVpHMVU1R2pxZ3pGeGxrVnhtdVRac2hwOERwbFRSbW5hZnIwczdMVnlBS2dsekRfNHlxVjR2ZENJSnY0c3AwQ3Q3Rg?oc=5",
       "domain": "news.google.com",
       "publishedAt": "2026-05-19T10:59:01.000Z",
@@ -1314,7 +1403,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 79,
+      "ageHours": 82,
       "score": 28,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1336,7 +1425,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 83,
+      "ageHours": 86,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1358,7 +1447,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 88,
+      "ageHours": 91,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1380,7 +1469,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 92,
+      "ageHours": 95,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1402,7 +1491,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 100,
+      "ageHours": 104,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1424,7 +1513,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 101,
+      "ageHours": 104,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1446,7 +1535,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 103,
+      "ageHours": 106,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1468,7 +1557,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 107,
+      "ageHours": 110,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1490,7 +1579,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 149,
+      "ageHours": 152,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1512,7 +1601,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 164,
+      "ageHours": 167,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1524,28 +1613,6 @@
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaDRaVXdDQnpaOUF6U3drU2M2SC1KVzBkVjdkTlh5VE91UzhRczJNZHZhNEV6Nl9UV0ZKT3JBYVJIMERMNmR1Sk9IX0g2U0kzZG9ZcmdjeWdXZVFNWHZzYXNkY0RTMV9IYTNMZ2VuTkxiVHVPWGx6aGZyaFVaZHlkREVnNlFvSG81cXZKLWFvbk_SAZYBQVVfeXFMT0VKeTFsd1dVWEw0bF9yTUphMWVBWXZSMUtlcWtuSFZGUnR4R1dFQTY1QzZDamtDaXZMbERQeG9iWU5zdW1Wb3NNWFNNbEl1OWhXTUZQWTgxTm5HMllOQTNhdTJrTGQ1U2YzbmFoZ2p6T0VnMWlmeEdtQllxNmV6NUhSSkxtajhLQmpsRVZMYUZ6TEIzdXl3?oc=5",
       "domain": "news.google.com",
       "publishedAt": "2026-05-15T22:01:56.000Z",
-      "topic": "alcohol",
-      "feedId": "bev-alcohol",
-      "feedName": "Bier / Wein / Spirituosen",
-      "feedKind": "search",
-      "basePriority": 1,
-      "dachSignal": false,
-      "operatorSignal": false,
-      "regulationSignal": false,
-      "launchSignal": false,
-      "financeLike": false,
-      "ageHours": 164,
-      "score": 26,
-      "bucket": "read",
-      "readingClass": "lesen"
-    },
-    {
-      "id": "94ffbea3c3ca",
-      "title": "Cleveres Bier-Konzept: Wie diese kleine Brauerei der Branchenkrise trotzt - MSN",
-      "summary": "Cleveres Bier-Konzept: Wie diese kleine Brauerei der Branchenkrise trotzt MSN",
-      "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxQaEc0LXljZTZpNS00RlNxS2ZmemtLSTdSQm9Ga1MtVG44SXM4MXhJSkJtQlF3UmNyYkpCMVVLbllDTTRRN2hlUWJZR1gzN182UGNzRG96MUU3ZmVIb3l4Zm5OTVhiVE0zdVJKT3gxSFh3d1FNN2RlWnZaTVhCeFdhVDRUZGcwZENNTU5nZnR2aFZIZUNfTldaQlhCZ2wzbWNqZE1QbTFZOGpxdkNoVGxzT0lVUnVVSFVEWDZHNnoxZ0FzTldGSGIyZFhydXFud1p4MFY3dkNIaGxWRkViMjRUNU9WdVRidW5uRm9taVJaYS02VlRNaU82aFI2VUd5S01rbklVLVNaTkRmdXpwTTFrNEhoY3VhOTk0dGVIWWhQOTRCRjFSQjdsTUJZWmx3NWx4OHM4b0V0SFd4V0dqZUxKZjZCSkNDaFhJYjlxUGphMDdSVWVLX3JVQWVZVWVQQ0dG?oc=5",
-      "domain": "news.google.com",
-      "publishedAt": "2026-05-15T19:00:44.000Z",
       "topic": "alcohol",
       "feedId": "bev-alcohol",
       "feedName": "Bier / Wein / Spirituosen",
