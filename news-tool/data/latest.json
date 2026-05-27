@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-05-27T18:32:05.266Z",
+  "generatedAt": "2026-05-27T22:06:14.122Z",
   "totals": {
-    "items": 35,
+    "items": 36,
     "sources": 8,
     "failures": 0,
     "todayImportant": 1,
     "watch": 12,
-    "read": 22
+    "read": 23
   },
   "failures": [],
   "sections": {
@@ -28,7 +28,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 4,
+        "ageHours": 8,
         "score": 64,
         "bucket": "today-important",
         "readingClass": "heute wichtig"
@@ -52,7 +52,7 @@
         "regulationSignal": false,
         "launchSignal": true,
         "financeLike": false,
-        "ageHours": 4,
+        "ageHours": 7,
         "score": 56,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -74,7 +74,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 35,
+        "ageHours": 38,
         "score": 52,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -96,7 +96,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 3,
+        "ageHours": 7,
         "score": 50,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -107,7 +107,7 @@
         "summary": "Brachflächen im Raum Heilbronn: Warum immer mehr Weinberge verschwinden Stimme",
         "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOU18zTUNKWGhiVDhrUm1lUV9WRmZJWlhzbkpPUUNod05rQ3duSzhhSXFiRU1xRWdQVkJiM1ctcmlYZ3dBdjhZcklRWnllWlVSX2FEYWxxTVd5djMtR3IxZkFaSFlQb2FKQWlieG1tQkM3dEtZVllwWndFZTg5QjFZdlpYY0pDUlJvWXVxTHhpODR6NmFtUVpvaVlCamVnYUFTb1NYVjEzTkt2Z1lyM2g4SVRaWUNuRXJuNTJScEtsc0xnZm1TZG44blBrY0NoYVd6S0FRUTlCZ2k1SjlLaTFpSFVGb19IbGMzcm0tSUdR?oc=5",
         "domain": "news.google.com",
-        "publishedAt": "2026-05-27T14:06:00.000Z",
+        "publishedAt": "2026-05-27T15:06:00.000Z",
         "topic": "alcohol",
         "feedId": "bev-alcohol",
         "feedName": "Bier / Wein / Spirituosen",
@@ -118,29 +118,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 4,
-        "score": 50,
-        "bucket": "watch",
-        "readingClass": "beobachten"
-      },
-      {
-        "id": "ff75d8d3b481",
-        "title": "Spirituosenindustrie - Nachfrage nach Spirituosen sinkt deutlich - Lebensmittelpraxis.de",
-        "summary": "Spirituosenindustrie - Nachfrage nach Spirituosen sinkt deutlich Lebensmittelpraxis.de",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObUpEQ3RpOHhOdVBzZmVTWWFKSGp5ZW1pU2c3c0l6V0xieGJTb3BPRm55a0tkR2o5UDIwMzVSdjZKemF5bFNHMXhOQWxDNFdJS0NkaDZEYjRzUXlZelRIbkd4N3VfRUZmTTQ4NE9aSTlfejk1dFhHMGJUWU5YREtIQjJ0TlFick5DZUxOOFpkRVJJd1phd3BrMllrYmtMcUpESnRrYWdyMUJNWEpYWEJMVFRBQmFZLUg2LUpxTE1n?oc=5",
-        "domain": "news.google.com",
-        "publishedAt": "2026-05-27T08:37:00.000Z",
-        "topic": "alcohol",
-        "feedId": "bev-alcohol",
-        "feedName": "Bier / Wein / Spirituosen",
-        "feedKind": "search",
-        "basePriority": 1,
-        "dachSignal": false,
-        "operatorSignal": false,
-        "regulationSignal": false,
-        "launchSignal": false,
-        "financeLike": false,
-        "ageHours": 10,
+        "ageHours": 7,
         "score": 50,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -162,8 +140,30 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 20,
+        "ageHours": 24,
         "score": 46,
+        "bucket": "watch",
+        "readingClass": "beobachten"
+      },
+      {
+        "id": "ff75d8d3b481",
+        "title": "Spirituosenindustrie - Nachfrage nach Spirituosen sinkt deutlich - Lebensmittelpraxis.de",
+        "summary": "Spirituosenindustrie - Nachfrage nach Spirituosen sinkt deutlich Lebensmittelpraxis.de",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObUpEQ3RpOHhOdVBzZmVTWWFKSGp5ZW1pU2c3c0l6V0xieGJTb3BPRm55a0tkR2o5UDIwMzVSdjZKemF5bFNHMXhOQWxDNFdJS0NkaDZEYjRzUXlZelRIbkd4N3VfRUZmTTQ4NE9aSTlfejk1dFhHMGJUWU5YREtIQjJ0TlFick5DZUxOOFpkRVJJd1phd3BrMllrYmtMcUpESnRrYWdyMUJNWEpYWEJMVFRBQmFZLUg2LUpxTE1n?oc=5",
+        "domain": "news.google.com",
+        "publishedAt": "2026-05-27T08:37:00.000Z",
+        "topic": "alcohol",
+        "feedId": "bev-alcohol",
+        "feedName": "Bier / Wein / Spirituosen",
+        "feedKind": "search",
+        "basePriority": 1,
+        "dachSignal": false,
+        "operatorSignal": false,
+        "regulationSignal": false,
+        "launchSignal": false,
+        "financeLike": false,
+        "ageHours": 13,
+        "score": 44,
         "bucket": "watch",
         "readingClass": "beobachten"
       },
@@ -184,7 +184,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 14,
+        "ageHours": 18,
         "score": 44,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -206,7 +206,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 20,
+        "ageHours": 24,
         "score": 44,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -228,7 +228,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 20,
+        "ageHours": 24,
         "score": 44,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -250,7 +250,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 20,
+        "ageHours": 24,
         "score": 44,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -272,11 +272,35 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 21,
+        "ageHours": 24,
         "score": 44,
         "bucket": "watch",
         "readingClass": "beobachten"
       },
+      {
+        "id": "20ec94fff4a7",
+        "title": "Anonyme Gruppe ficht Produktionskürzungen für Cognac vor Frankreichs höchstem Gericht an - Vinetur",
+        "summary": "Anonyme Gruppe ficht Produktionskürzungen für Cognac vor Frankreichs höchstem Gericht an Vinetur",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRTRaenk2alJFQV9NWnVsNGxXdEZOd0ZfTGhSUUl1UlVqd2VNQkI0dXZjUnZqS0JVSmdCc1AxUjNsQ2Nha2RRXzNQOG01WnFrVFpIRDM2eVdXblBUZGc1YXdhQ0FVVGsxUUhuWnJfYV9YTjZBVFY2Sndhb1JoOWtELXR5S1prR2RleHI5QzJZWk80dWVHS01SalF3ekJIa185V1JPMjVXb2JlaTAtVjVjU2ZpNVBDT2dN0gG-AUFVX3lxTE1BSjg3RktXRkJtQks1bF9JTVFyVy1PeWlzZlFuYUFVLXdTT09aVHdvQU5Wdmd4QU9SaDJleXlJN1FtRW92UUNEOFhIUk5sZTBLUFVzejBYeGVUZExVNVNYQU43MnFZS2hOeVozcDZEbTlLRU9ubUNHNzlFT1NzLTVteEVjMjk4TlVoZEE2bmlSWVk4VUpNbm4zR25BSUxlY29WT25FN3NOaWdRQU16N0F0VThFd0ZKWjlnNUJ0VHc?oc=5",
+        "domain": "news.google.com",
+        "publishedAt": "2026-05-22T18:37:43.000Z",
+        "topic": "alcohol",
+        "feedId": "bev-alcohol",
+        "feedName": "Bier / Wein / Spirituosen",
+        "feedKind": "search",
+        "basePriority": 1,
+        "dachSignal": false,
+        "operatorSignal": false,
+        "regulationSignal": true,
+        "launchSignal": false,
+        "financeLike": false,
+        "ageHours": 123,
+        "score": 44,
+        "bucket": "watch",
+        "readingClass": "beobachten"
+      }
+    ],
+    "read": [
       {
         "id": "f1bd955dcf86",
         "title": "WM 2026: Kommt der Bier-Boom mit dem Fußball-Fieber? - RP Online",
@@ -294,13 +318,11 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 23,
-        "score": 44,
-        "bucket": "watch",
-        "readingClass": "beobachten"
-      }
-    ],
-    "read": [
+        "ageHours": 27,
+        "score": 38,
+        "bucket": "read",
+        "readingClass": "lesen"
+      },
       {
         "id": "9d27dd690876",
         "title": "Jetzt gewinnen: 3×2 Tickets für die STK-Jahrgangspräsentation - Falstaff",
@@ -318,7 +340,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 32,
+        "ageHours": 35,
         "score": 38,
         "bucket": "read",
         "readingClass": "lesen"
@@ -340,7 +362,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 35,
+        "ageHours": 38,
         "score": 38,
         "bucket": "read",
         "readingClass": "lesen"
@@ -362,7 +384,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 44,
+        "ageHours": 48,
         "score": 38,
         "bucket": "read",
         "readingClass": "lesen"
@@ -384,29 +406,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 44,
-        "score": 38,
-        "bucket": "read",
-        "readingClass": "lesen"
-      },
-      {
-        "id": "7922ed104af5",
-        "title": "Italienischer Weintourismus übersteigt 3 Milliarden Euro, während die Exporte einbrechen - Vinetur",
-        "summary": "Italienischer Weintourismus übersteigt 3 Milliarden Euro, während die Exporte einbrechen Vinetur",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWjRMMjI4Sm1IRHJqQU9DOVg3NUd4UUFHTFF3SFc2N2JUU0FHRTl3b3M2WFJSSzJ0ME8xUlhMWEdUTnA2emFWUkxFdFE4cGFZcXZDOGdKbmVJTGdLWGNZWWJmb0doY21IZFQxQ3lSS1c0RGxYXzkwMGJqNVJ6M2JMcE1JMzMyVzFKTEtZRzFjSWg5TVJMeENuTzhqS0J5aGlWbk5Jd0530gGrAUFVX3lxTE9XUm92OUVkTHlPZWg3Q3dkMjhqamtTQkFwNVM5Q3Z5Uk1qWl9IVUtUQ0hPXzBVeEJRekFqQk16QVdyeVJ3MHdVNHZVM05wRVdJRTRSMkJjRC1mYjh5RHdUM0I1c1VqZktfZFpqRHNmQ2NfQkJndkstcGJGTllBR1dCMzZRc3UzNE8wTFg3RXFTV09YUzhweFFpSGYzaDE3OFpxYzJaQjFaSVFjQQ?oc=5",
-        "domain": "news.google.com",
-        "publishedAt": "2026-05-25T21:13:15.000Z",
-        "topic": "alcohol",
-        "feedId": "bev-alcohol",
-        "feedName": "Bier / Wein / Spirituosen",
-        "feedKind": "search",
-        "basePriority": 1,
-        "dachSignal": false,
-        "operatorSignal": false,
-        "regulationSignal": false,
-        "launchSignal": false,
-        "financeLike": false,
-        "ageHours": 45,
+        "ageHours": 48,
         "score": 38,
         "bucket": "read",
         "readingClass": "lesen"
@@ -428,8 +428,30 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 58,
+        "ageHours": 62,
         "score": 34,
+        "bucket": "read",
+        "readingClass": "lesen"
+      },
+      {
+        "id": "7922ed104af5",
+        "title": "Italienischer Weintourismus übersteigt 3 Milliarden Euro, während die Exporte einbrechen - Vinetur",
+        "summary": "Italienischer Weintourismus übersteigt 3 Milliarden Euro, während die Exporte einbrechen Vinetur",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWjRMMjI4Sm1IRHJqQU9DOVg3NUd4UUFHTFF3SFc2N2JUU0FHRTl3b3M2WFJSSzJ0ME8xUlhMWEdUTnA2emFWUkxFdFE4cGFZcXZDOGdKbmVJTGdLWGNZWWJmb0doY21IZFQxQ3lSS1c0RGxYXzkwMGJqNVJ6M2JMcE1JMzMyVzFKTEtZRzFjSWg5TVJMeENuTzhqS0J5aGlWbk5Jd0530gGrAUFVX3lxTE9XUm92OUVkTHlPZWg3Q3dkMjhqamtTQkFwNVM5Q3Z5Uk1qWl9IVUtUQ0hPXzBVeEJRekFqQk16QVdyeVJ3MHdVNHZVM05wRVdJRTRSMkJjRC1mYjh5RHdUM0I1c1VqZktfZFpqRHNmQ2NfQkJndkstcGJGTllBR1dCMzZRc3UzNE8wTFg3RXFTV09YUzhweFFpSGYzaDE3OFpxYzJaQjFaSVFjQQ?oc=5",
+        "domain": "news.google.com",
+        "publishedAt": "2026-05-25T21:13:15.000Z",
+        "topic": "alcohol",
+        "feedId": "bev-alcohol",
+        "feedName": "Bier / Wein / Spirituosen",
+        "feedKind": "search",
+        "basePriority": 1,
+        "dachSignal": false,
+        "operatorSignal": false,
+        "regulationSignal": false,
+        "launchSignal": false,
+        "financeLike": false,
+        "ageHours": 49,
+        "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
       },
@@ -450,7 +472,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 57,
+        "ageHours": 61,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -472,7 +494,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 60,
+        "ageHours": 64,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -494,7 +516,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 133,
+        "ageHours": 136,
         "score": 29,
         "bucket": "read",
         "readingClass": "lesen"
@@ -516,7 +538,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 90,
+        "ageHours": 94,
         "score": 27,
         "bucket": "read",
         "readingClass": "lesen"
@@ -538,7 +560,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 105,
+        "ageHours": 109,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -560,7 +582,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 112,
+        "ageHours": 115,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -582,7 +604,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 117,
+        "ageHours": 120,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -604,7 +626,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 124,
+        "ageHours": 128,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -626,7 +648,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 128,
+        "ageHours": 132,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -648,7 +670,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 129,
+        "ageHours": 133,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -670,7 +692,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 147,
+        "ageHours": 150,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -692,7 +714,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 147,
+        "ageHours": 150,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -714,7 +736,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 151,
+        "ageHours": 154,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -736,7 +758,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 153,
+        "ageHours": 157,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -758,7 +780,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 164,
+        "ageHours": 168,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -780,7 +802,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 140,
+        "ageHours": 144,
         "score": 25,
         "bucket": "read",
         "readingClass": "lesen"
@@ -790,10 +812,10 @@
   "radar": {
     "dominantTopic": {
       "id": "alcohol",
-      "count": 26
+      "count": 27
     },
     "dachSignals": 2,
-    "regulationSignals": 0,
+    "regulationSignals": 1,
     "operatorSignals": 0
   },
   "sourceStats": [
@@ -809,8 +831,8 @@
     },
     {
       "feedName": "Bier / Wein / Spirituosen",
-      "count": 28,
-      "avgScore": 37
+      "count": 29,
+      "avgScore": 36
     },
     {
       "feedName": "Distribution / Logistik",
@@ -841,7 +863,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 4,
+      "ageHours": 8,
       "score": 64,
       "bucket": "today-important",
       "readingClass": "heute wichtig"
@@ -863,7 +885,7 @@
       "regulationSignal": false,
       "launchSignal": true,
       "financeLike": false,
-      "ageHours": 4,
+      "ageHours": 7,
       "score": 56,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -885,7 +907,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 35,
+      "ageHours": 38,
       "score": 52,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -907,7 +929,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 3,
+      "ageHours": 7,
       "score": 50,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -918,7 +940,7 @@
       "summary": "Brachflächen im Raum Heilbronn: Warum immer mehr Weinberge verschwinden Stimme",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOU18zTUNKWGhiVDhrUm1lUV9WRmZJWlhzbkpPUUNod05rQ3duSzhhSXFiRU1xRWdQVkJiM1ctcmlYZ3dBdjhZcklRWnllWlVSX2FEYWxxTVd5djMtR3IxZkFaSFlQb2FKQWlieG1tQkM3dEtZVllwWndFZTg5QjFZdlpYY0pDUlJvWXVxTHhpODR6NmFtUVpvaVlCamVnYUFTb1NYVjEzTkt2Z1lyM2g4SVRaWUNuRXJuNTJScEtsc0xnZm1TZG44blBrY0NoYVd6S0FRUTlCZ2k1SjlLaTFpSFVGb19IbGMzcm0tSUdR?oc=5",
       "domain": "news.google.com",
-      "publishedAt": "2026-05-27T14:06:00.000Z",
+      "publishedAt": "2026-05-27T15:06:00.000Z",
       "topic": "alcohol",
       "feedId": "bev-alcohol",
       "feedName": "Bier / Wein / Spirituosen",
@@ -929,29 +951,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 4,
-      "score": 50,
-      "bucket": "watch",
-      "readingClass": "beobachten"
-    },
-    {
-      "id": "ff75d8d3b481",
-      "title": "Spirituosenindustrie - Nachfrage nach Spirituosen sinkt deutlich - Lebensmittelpraxis.de",
-      "summary": "Spirituosenindustrie - Nachfrage nach Spirituosen sinkt deutlich Lebensmittelpraxis.de",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObUpEQ3RpOHhOdVBzZmVTWWFKSGp5ZW1pU2c3c0l6V0xieGJTb3BPRm55a0tkR2o5UDIwMzVSdjZKemF5bFNHMXhOQWxDNFdJS0NkaDZEYjRzUXlZelRIbkd4N3VfRUZmTTQ4NE9aSTlfejk1dFhHMGJUWU5YREtIQjJ0TlFick5DZUxOOFpkRVJJd1phd3BrMllrYmtMcUpESnRrYWdyMUJNWEpYWEJMVFRBQmFZLUg2LUpxTE1n?oc=5",
-      "domain": "news.google.com",
-      "publishedAt": "2026-05-27T08:37:00.000Z",
-      "topic": "alcohol",
-      "feedId": "bev-alcohol",
-      "feedName": "Bier / Wein / Spirituosen",
-      "feedKind": "search",
-      "basePriority": 1,
-      "dachSignal": false,
-      "operatorSignal": false,
-      "regulationSignal": false,
-      "launchSignal": false,
-      "financeLike": false,
-      "ageHours": 10,
+      "ageHours": 7,
       "score": 50,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -973,8 +973,30 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 20,
+      "ageHours": 24,
       "score": 46,
+      "bucket": "watch",
+      "readingClass": "beobachten"
+    },
+    {
+      "id": "ff75d8d3b481",
+      "title": "Spirituosenindustrie - Nachfrage nach Spirituosen sinkt deutlich - Lebensmittelpraxis.de",
+      "summary": "Spirituosenindustrie - Nachfrage nach Spirituosen sinkt deutlich Lebensmittelpraxis.de",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObUpEQ3RpOHhOdVBzZmVTWWFKSGp5ZW1pU2c3c0l6V0xieGJTb3BPRm55a0tkR2o5UDIwMzVSdjZKemF5bFNHMXhOQWxDNFdJS0NkaDZEYjRzUXlZelRIbkd4N3VfRUZmTTQ4NE9aSTlfejk1dFhHMGJUWU5YREtIQjJ0TlFick5DZUxOOFpkRVJJd1phd3BrMllrYmtMcUpESnRrYWdyMUJNWEpYWEJMVFRBQmFZLUg2LUpxTE1n?oc=5",
+      "domain": "news.google.com",
+      "publishedAt": "2026-05-27T08:37:00.000Z",
+      "topic": "alcohol",
+      "feedId": "bev-alcohol",
+      "feedName": "Bier / Wein / Spirituosen",
+      "feedKind": "search",
+      "basePriority": 1,
+      "dachSignal": false,
+      "operatorSignal": false,
+      "regulationSignal": false,
+      "launchSignal": false,
+      "financeLike": false,
+      "ageHours": 13,
+      "score": 44,
       "bucket": "watch",
       "readingClass": "beobachten"
     },
@@ -995,7 +1017,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 14,
+      "ageHours": 18,
       "score": 44,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -1017,7 +1039,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 20,
+      "ageHours": 24,
       "score": 44,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -1039,7 +1061,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 20,
+      "ageHours": 24,
       "score": 44,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -1061,7 +1083,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 20,
+      "ageHours": 24,
       "score": 44,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -1083,7 +1105,29 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 21,
+      "ageHours": 24,
+      "score": 44,
+      "bucket": "watch",
+      "readingClass": "beobachten"
+    },
+    {
+      "id": "20ec94fff4a7",
+      "title": "Anonyme Gruppe ficht Produktionskürzungen für Cognac vor Frankreichs höchstem Gericht an - Vinetur",
+      "summary": "Anonyme Gruppe ficht Produktionskürzungen für Cognac vor Frankreichs höchstem Gericht an Vinetur",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRTRaenk2alJFQV9NWnVsNGxXdEZOd0ZfTGhSUUl1UlVqd2VNQkI0dXZjUnZqS0JVSmdCc1AxUjNsQ2Nha2RRXzNQOG01WnFrVFpIRDM2eVdXblBUZGc1YXdhQ0FVVGsxUUhuWnJfYV9YTjZBVFY2Sndhb1JoOWtELXR5S1prR2RleHI5QzJZWk80dWVHS01SalF3ekJIa185V1JPMjVXb2JlaTAtVjVjU2ZpNVBDT2dN0gG-AUFVX3lxTE1BSjg3RktXRkJtQks1bF9JTVFyVy1PeWlzZlFuYUFVLXdTT09aVHdvQU5Wdmd4QU9SaDJleXlJN1FtRW92UUNEOFhIUk5sZTBLUFVzejBYeGVUZExVNVNYQU43MnFZS2hOeVozcDZEbTlLRU9ubUNHNzlFT1NzLTVteEVjMjk4TlVoZEE2bmlSWVk4VUpNbm4zR25BSUxlY29WT25FN3NOaWdRQU16N0F0VThFd0ZKWjlnNUJ0VHc?oc=5",
+      "domain": "news.google.com",
+      "publishedAt": "2026-05-22T18:37:43.000Z",
+      "topic": "alcohol",
+      "feedId": "bev-alcohol",
+      "feedName": "Bier / Wein / Spirituosen",
+      "feedKind": "search",
+      "basePriority": 1,
+      "dachSignal": false,
+      "operatorSignal": false,
+      "regulationSignal": true,
+      "launchSignal": false,
+      "financeLike": false,
+      "ageHours": 123,
       "score": 44,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -1105,10 +1149,10 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 23,
-      "score": 44,
-      "bucket": "watch",
-      "readingClass": "beobachten"
+      "ageHours": 27,
+      "score": 38,
+      "bucket": "read",
+      "readingClass": "lesen"
     },
     {
       "id": "9d27dd690876",
@@ -1127,7 +1171,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 32,
+      "ageHours": 35,
       "score": 38,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1149,7 +1193,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 35,
+      "ageHours": 38,
       "score": 38,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1171,7 +1215,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 44,
+      "ageHours": 48,
       "score": 38,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1193,29 +1237,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 44,
-      "score": 38,
-      "bucket": "read",
-      "readingClass": "lesen"
-    },
-    {
-      "id": "7922ed104af5",
-      "title": "Italienischer Weintourismus übersteigt 3 Milliarden Euro, während die Exporte einbrechen - Vinetur",
-      "summary": "Italienischer Weintourismus übersteigt 3 Milliarden Euro, während die Exporte einbrechen Vinetur",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWjRMMjI4Sm1IRHJqQU9DOVg3NUd4UUFHTFF3SFc2N2JUU0FHRTl3b3M2WFJSSzJ0ME8xUlhMWEdUTnA2emFWUkxFdFE4cGFZcXZDOGdKbmVJTGdLWGNZWWJmb0doY21IZFQxQ3lSS1c0RGxYXzkwMGJqNVJ6M2JMcE1JMzMyVzFKTEtZRzFjSWg5TVJMeENuTzhqS0J5aGlWbk5Jd0530gGrAUFVX3lxTE9XUm92OUVkTHlPZWg3Q3dkMjhqamtTQkFwNVM5Q3Z5Uk1qWl9IVUtUQ0hPXzBVeEJRekFqQk16QVdyeVJ3MHdVNHZVM05wRVdJRTRSMkJjRC1mYjh5RHdUM0I1c1VqZktfZFpqRHNmQ2NfQkJndkstcGJGTllBR1dCMzZRc3UzNE8wTFg3RXFTV09YUzhweFFpSGYzaDE3OFpxYzJaQjFaSVFjQQ?oc=5",
-      "domain": "news.google.com",
-      "publishedAt": "2026-05-25T21:13:15.000Z",
-      "topic": "alcohol",
-      "feedId": "bev-alcohol",
-      "feedName": "Bier / Wein / Spirituosen",
-      "feedKind": "search",
-      "basePriority": 1,
-      "dachSignal": false,
-      "operatorSignal": false,
-      "regulationSignal": false,
-      "launchSignal": false,
-      "financeLike": false,
-      "ageHours": 45,
+      "ageHours": 48,
       "score": 38,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1237,8 +1259,30 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 58,
+      "ageHours": 62,
       "score": 34,
+      "bucket": "read",
+      "readingClass": "lesen"
+    },
+    {
+      "id": "7922ed104af5",
+      "title": "Italienischer Weintourismus übersteigt 3 Milliarden Euro, während die Exporte einbrechen - Vinetur",
+      "summary": "Italienischer Weintourismus übersteigt 3 Milliarden Euro, während die Exporte einbrechen Vinetur",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWjRMMjI4Sm1IRHJqQU9DOVg3NUd4UUFHTFF3SFc2N2JUU0FHRTl3b3M2WFJSSzJ0ME8xUlhMWEdUTnA2emFWUkxFdFE4cGFZcXZDOGdKbmVJTGdLWGNZWWJmb0doY21IZFQxQ3lSS1c0RGxYXzkwMGJqNVJ6M2JMcE1JMzMyVzFKTEtZRzFjSWg5TVJMeENuTzhqS0J5aGlWbk5Jd0530gGrAUFVX3lxTE9XUm92OUVkTHlPZWg3Q3dkMjhqamtTQkFwNVM5Q3Z5Uk1qWl9IVUtUQ0hPXzBVeEJRekFqQk16QVdyeVJ3MHdVNHZVM05wRVdJRTRSMkJjRC1mYjh5RHdUM0I1c1VqZktfZFpqRHNmQ2NfQkJndkstcGJGTllBR1dCMzZRc3UzNE8wTFg3RXFTV09YUzhweFFpSGYzaDE3OFpxYzJaQjFaSVFjQQ?oc=5",
+      "domain": "news.google.com",
+      "publishedAt": "2026-05-25T21:13:15.000Z",
+      "topic": "alcohol",
+      "feedId": "bev-alcohol",
+      "feedName": "Bier / Wein / Spirituosen",
+      "feedKind": "search",
+      "basePriority": 1,
+      "dachSignal": false,
+      "operatorSignal": false,
+      "regulationSignal": false,
+      "launchSignal": false,
+      "financeLike": false,
+      "ageHours": 49,
+      "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
     },
@@ -1259,7 +1303,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 57,
+      "ageHours": 61,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1281,7 +1325,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 60,
+      "ageHours": 64,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1303,7 +1347,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 133,
+      "ageHours": 136,
       "score": 29,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1325,7 +1369,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 90,
+      "ageHours": 94,
       "score": 27,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1347,7 +1391,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 105,
+      "ageHours": 109,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1369,7 +1413,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 112,
+      "ageHours": 115,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1391,7 +1435,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 117,
+      "ageHours": 120,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1413,7 +1457,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 124,
+      "ageHours": 128,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1435,7 +1479,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 128,
+      "ageHours": 132,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1457,7 +1501,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 129,
+      "ageHours": 133,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1479,7 +1523,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 147,
+      "ageHours": 150,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1501,7 +1545,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 147,
+      "ageHours": 150,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1523,7 +1567,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 151,
+      "ageHours": 154,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1545,7 +1589,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 153,
+      "ageHours": 157,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1567,7 +1611,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 164,
+      "ageHours": 168,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1589,7 +1633,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 140,
+      "ageHours": 144,
       "score": 25,
       "bucket": "read",
       "readingClass": "lesen"
