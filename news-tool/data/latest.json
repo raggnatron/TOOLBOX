@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-06-16T19:48:58.332Z",
+  "generatedAt": "2026-06-16T22:21:30.849Z",
   "totals": {
     "items": 41,
     "sources": 8,
     "failures": 0,
-    "todayImportant": 1,
+    "todayImportant": 2,
     "watch": 13,
-    "read": 27
+    "read": 26
   },
   "failures": [],
   "sections": {
@@ -28,8 +28,30 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 10,
+        "ageHours": 12,
         "score": 65,
+        "bucket": "today-important",
+        "readingClass": "heute wichtig"
+      },
+      {
+        "id": "4947ed7a3777",
+        "title": "Bierwerkstatt Weitra erweitert Sortiment um alkoholfreies Bio-Bier – mnews - medianet.at",
+        "summary": "Bierwerkstatt Weitra erweitert Sortiment um alkoholfreies Bio-Bier – mnews medianet.at",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOb3Rmc2UzU0NHQlk2V2J3Y1B1b0hTc3hydDVqbUZYWV9tUnNQVS1STERva18xNDRYdTl5TWM1eGRlWEgxVTlQVy1nVExiSHRqYzBHYW40OVhkRS05SGtPQTdUdFVCVXZROG5sdm9yNGpmNXlyZGthOF9LNG41Z1lPVGhPVDBYS3dQZDNrQjVySkEzWnhLa245WjZkTTN6RUc1QjlOUS1vV2pXTGlTVGc?oc=5",
+        "domain": "news.google.com",
+        "publishedAt": "2026-06-16T22:00:00.000Z",
+        "topic": "alcohol",
+        "feedId": "bev-alcohol",
+        "feedName": "Bier / Wein / Spirituosen",
+        "feedKind": "search",
+        "basePriority": 1,
+        "dachSignal": false,
+        "operatorSignal": true,
+        "regulationSignal": false,
+        "launchSignal": false,
+        "financeLike": false,
+        "ageHours": 0,
+        "score": 64,
         "bucket": "today-important",
         "readingClass": "heute wichtig"
       }
@@ -52,7 +74,7 @@
         "regulationSignal": true,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 32,
+        "ageHours": 35,
         "score": 56,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -74,7 +96,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 33,
+        "ageHours": 36,
         "score": 52,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -96,7 +118,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 6,
+        "ageHours": 8,
         "score": 50,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -118,7 +140,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 8,
+        "ageHours": 11,
         "score": 50,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -140,7 +162,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 9,
+        "ageHours": 12,
         "score": 50,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -162,7 +184,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 9,
+        "ageHours": 12,
         "score": 50,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -184,7 +206,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 9,
+        "ageHours": 12,
         "score": 50,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -206,18 +228,18 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 6,
+        "ageHours": 9,
         "score": 49,
         "bucket": "watch",
         "readingClass": "beobachten"
       },
       {
-        "id": "e24775938250",
-        "title": "Globale Getränkeunternehmen verklagen Telangana wegen unbezahlter Alkoholschulden in Höhe von 400 Millionen US-Dollar - Vinetur",
-        "summary": "Globale Getränkeunternehmen verklagen Telangana wegen unbezahlter Alkoholschulden in Höhe von 400 Millionen US-Dollar Vinetur",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWFBtblVTSmtaRF9pWWswSVhibVFwcHB6ZkN1eVcwX1VmWW1RdnVBRHN4ZXBINEVNakY5OVVoX0FvWWxINjdGVlJSeXlLVUNyZ1lvbTJTMGppSDR4WlRENE1ibWZ3V2k5Vi15ay1aVjU2bFpGd2xhSUsteEhDV0NPN3BqVEVhakJEdmJTM1pGQXBuVjBtT2RBb3FocnZWbjhlNERnczktZnh0dXJYMzU0VnlvVHBIMms1dDNDLXJkZy1ZMHY2am5SYdIByAFBVV95cUxNWFBtblVTSmtaRF9pWWswSVhibVFwcHB6ZkN1eVcwX1VmWW1RdnVBRHN4ZXBINEVNakY5OVVoX0FvWWxINjdGVlJSeXlLVUNyZ1lvbTJTMGppSDR4WlRENE1ibWZ3V2k5Vi15ay1aVjU2bFpGd2xhSUsteEhDV0NPN3BqVEVhakJEdmJTM1pGQXBuVjBtT2RBb3FocnZWbjhlNERnczktZnh0dXJYMzU0VnlvVHBIMms1dDNDLXJkZy1ZMHY2am5SYQ?oc=5",
+        "id": "50712435657a",
+        "title": "Trumps Zoll-Drohung gegen Frankreich: Bluff oder ernsthafte Gefahr für die Weinbranche? - nachrichten.fr",
+        "summary": "Trumps Zoll-Drohung gegen Frankreich: Bluff oder ernsthafte Gefahr für die Weinbranche? nachrichten.fr",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQalpweDcySnhfYmpwbU0xLXhwQnJCY3Flc29wcUktMlNnXzF3MjRMQkJORXNYTnIwZEFVUW9QajNkd3lCUHFiZncyMTBqQnZuUGFGZHlQN3RzaGpaUnhqX3V4WWVCY3Zodi1lZEZibnZ2eW84eEhZbEg0Ui1VNjZBaFd1b25mX2I3R2otUFNMYzhzUXJWd0tXLVFtbXgzZHZPWTVXWlhWYzI5QW8xUDFN?oc=5",
         "domain": "news.google.com",
-        "publishedAt": "2026-06-15T21:26:05.000Z",
+        "publishedAt": "2026-06-16T07:48:14.000Z",
         "topic": "alcohol",
         "feedId": "bev-alcohol",
         "feedName": "Bier / Wein / Spirituosen",
@@ -228,7 +250,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 22,
+        "ageHours": 15,
         "score": 44,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -250,7 +272,7 @@
         "regulationSignal": false,
         "launchSignal": true,
         "financeLike": false,
-        "ageHours": 33,
+        "ageHours": 35,
         "score": 43,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -272,7 +294,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 87,
+        "ageHours": 89,
         "score": 41,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -294,7 +316,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 128,
+        "ageHours": 131,
         "score": 40,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -318,8 +340,30 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 34,
+        "ageHours": 37,
         "score": 40,
+        "bucket": "read",
+        "readingClass": "lesen"
+      },
+      {
+        "id": "e24775938250",
+        "title": "Globale Getränkeunternehmen verklagen Telangana wegen unbezahlter Alkoholschulden in Höhe von 400 Millionen US-Dollar - Vinetur",
+        "summary": "Globale Getränkeunternehmen verklagen Telangana wegen unbezahlter Alkoholschulden in Höhe von 400 Millionen US-Dollar Vinetur",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWFBtblVTSmtaRF9pWWswSVhibVFwcHB6ZkN1eVcwX1VmWW1RdnVBRHN4ZXBINEVNakY5OVVoX0FvWWxINjdGVlJSeXlLVUNyZ1lvbTJTMGppSDR4WlRENE1ibWZ3V2k5Vi15ay1aVjU2bFpGd2xhSUsteEhDV0NPN3BqVEVhakJEdmJTM1pGQXBuVjBtT2RBb3FocnZWbjhlNERnczktZnh0dXJYMzU0VnlvVHBIMms1dDNDLXJkZy1ZMHY2am5SYdIByAFBVV95cUxNWFBtblVTSmtaRF9pWWswSVhibVFwcHB6ZkN1eVcwX1VmWW1RdnVBRHN4ZXBINEVNakY5OVVoX0FvWWxINjdGVlJSeXlLVUNyZ1lvbTJTMGppSDR4WlRENE1ibWZ3V2k5Vi15ay1aVjU2bFpGd2xhSUsteEhDV0NPN3BqVEVhakJEdmJTM1pGQXBuVjBtT2RBb3FocnZWbjhlNERnczktZnh0dXJYMzU0VnlvVHBIMms1dDNDLXJkZy1ZMHY2am5SYQ?oc=5",
+        "domain": "news.google.com",
+        "publishedAt": "2026-06-15T21:26:05.000Z",
+        "topic": "alcohol",
+        "feedId": "bev-alcohol",
+        "feedName": "Bier / Wein / Spirituosen",
+        "feedKind": "search",
+        "basePriority": 1,
+        "dachSignal": false,
+        "operatorSignal": false,
+        "regulationSignal": false,
+        "launchSignal": false,
+        "financeLike": false,
+        "ageHours": 25,
+        "score": 38,
         "bucket": "read",
         "readingClass": "lesen"
       },
@@ -340,7 +384,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 28,
+        "ageHours": 31,
         "score": 38,
         "bucket": "read",
         "readingClass": "lesen"
@@ -362,7 +406,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 29,
+        "ageHours": 32,
         "score": 38,
         "bucket": "read",
         "readingClass": "lesen"
@@ -384,7 +428,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 31,
+        "ageHours": 33,
         "score": 38,
         "bucket": "read",
         "readingClass": "lesen"
@@ -406,7 +450,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 31,
+        "ageHours": 34,
         "score": 38,
         "bucket": "read",
         "readingClass": "lesen"
@@ -428,7 +472,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 32,
+        "ageHours": 34,
         "score": 38,
         "bucket": "read",
         "readingClass": "lesen"
@@ -450,7 +494,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 36,
+        "ageHours": 38,
         "score": 38,
         "bucket": "read",
         "readingClass": "lesen"
@@ -472,7 +516,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 56,
+        "ageHours": 59,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -494,30 +538,8 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 64,
+        "ageHours": 67,
         "score": 32,
-        "bucket": "read",
-        "readingClass": "lesen"
-      },
-      {
-        "id": "ecc218033d0d",
-        "title": "Brasilien plant eine doppelte Alkoholsteuer, bevor das endgültige Modell feststeht - Vinetur",
-        "summary": "Brasilien plant eine doppelte Alkoholsteuer, bevor das endgültige Modell feststeht Vinetur",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSm1vWG9LWE1kTVhPTEo1MTVRWVVVYUx6XzFCbnhSb2ozN1l6OVpHd0lUWEM0ekdLSXlBTEt4VjNjaHBFMGt3a2RUV05LdmRNU2xPU2cyVkt5STgwR05MM3B2bklSYk5kazhCOEdLSkxDNmxvU2VpVWdUbDJXb0h3blBTSW41MnZHME5ZaUlzS0ltdm1aYzJWV01tWHRlRW9kTnpldVA2NzcyNkFwOXJVSdIBtgFBVV95cUxNX1dRUlFqZV84MGlMSEVQUTVhYWMtc3NNNWpHQV9wVmoyNVZ6eFdFOU9LMEVsMGNJeldRVVJlTno5QjFUTkRRQmczQXItRGtRbVlTaDhxbTBCNVh0YkNLYU9hZ0c5WFVkbVpSdllRaE9xOENxRHNVQU4yVkx4T0tZQWRDODQ1TDFPMFRtbm5LQ1c3Wk9leWpHdldPNWx5cmpBeFBnWkVsZktKenEwNGIwV0JVcTg3Zw?oc=5",
-        "domain": "news.google.com",
-        "publishedAt": "2026-06-10T21:37:47.000Z",
-        "topic": "regulation",
-        "feedId": "bev-alcohol",
-        "feedName": "Bier / Wein / Spirituosen",
-        "feedKind": "search",
-        "basePriority": 1,
-        "dachSignal": false,
-        "operatorSignal": false,
-        "regulationSignal": false,
-        "launchSignal": false,
-        "financeLike": false,
-        "ageHours": 142,
-        "score": 29,
         "bucket": "read",
         "readingClass": "lesen"
       },
@@ -538,7 +560,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 104,
+        "ageHours": 107,
         "score": 28,
         "bucket": "read",
         "readingClass": "lesen"
@@ -560,7 +582,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 132,
+        "ageHours": 134,
         "score": 28,
         "bucket": "read",
         "readingClass": "lesen"
@@ -582,7 +604,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 123,
+        "ageHours": 126,
         "score": 27,
         "bucket": "read",
         "readingClass": "lesen"
@@ -604,7 +626,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 82,
+        "ageHours": 84,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -626,7 +648,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 101,
+        "ageHours": 103,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -648,7 +670,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 104,
+        "ageHours": 106,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -670,7 +692,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 107,
+        "ageHours": 110,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -692,7 +714,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 108,
+        "ageHours": 111,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -714,7 +736,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 109,
+        "ageHours": 111,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -736,7 +758,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 126,
+        "ageHours": 128,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -758,7 +780,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 126,
+        "ageHours": 128,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -780,7 +802,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 141,
+        "ageHours": 144,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -802,7 +824,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 146,
+        "ageHours": 148,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -824,7 +846,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 149,
+        "ageHours": 152,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -834,11 +856,11 @@
   "radar": {
     "dominantTopic": {
       "id": "alcohol",
-      "count": 29
+      "count": 30
     },
     "dachSignals": 3,
     "regulationSignals": 1,
-    "operatorSignals": 2
+    "operatorSignals": 3
   },
   "sourceStats": [
     {
@@ -854,7 +876,7 @@
     {
       "feedName": "Bier / Wein / Spirituosen",
       "count": 32,
-      "avgScore": 36
+      "avgScore": 37
     },
     {
       "feedName": "Distribution / Logistik",
@@ -880,8 +902,30 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 10,
+      "ageHours": 12,
       "score": 65,
+      "bucket": "today-important",
+      "readingClass": "heute wichtig"
+    },
+    {
+      "id": "4947ed7a3777",
+      "title": "Bierwerkstatt Weitra erweitert Sortiment um alkoholfreies Bio-Bier – mnews - medianet.at",
+      "summary": "Bierwerkstatt Weitra erweitert Sortiment um alkoholfreies Bio-Bier – mnews medianet.at",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOb3Rmc2UzU0NHQlk2V2J3Y1B1b0hTc3hydDVqbUZYWV9tUnNQVS1STERva18xNDRYdTl5TWM1eGRlWEgxVTlQVy1nVExiSHRqYzBHYW40OVhkRS05SGtPQTdUdFVCVXZROG5sdm9yNGpmNXlyZGthOF9LNG41Z1lPVGhPVDBYS3dQZDNrQjVySkEzWnhLa245WjZkTTN6RUc1QjlOUS1vV2pXTGlTVGc?oc=5",
+      "domain": "news.google.com",
+      "publishedAt": "2026-06-16T22:00:00.000Z",
+      "topic": "alcohol",
+      "feedId": "bev-alcohol",
+      "feedName": "Bier / Wein / Spirituosen",
+      "feedKind": "search",
+      "basePriority": 1,
+      "dachSignal": false,
+      "operatorSignal": true,
+      "regulationSignal": false,
+      "launchSignal": false,
+      "financeLike": false,
+      "ageHours": 0,
+      "score": 64,
       "bucket": "today-important",
       "readingClass": "heute wichtig"
     },
@@ -902,7 +946,7 @@
       "regulationSignal": true,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 32,
+      "ageHours": 35,
       "score": 56,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -924,7 +968,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 33,
+      "ageHours": 36,
       "score": 52,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -946,7 +990,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 6,
+      "ageHours": 8,
       "score": 50,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -968,7 +1012,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 8,
+      "ageHours": 11,
       "score": 50,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -990,7 +1034,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 9,
+      "ageHours": 12,
       "score": 50,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -1012,7 +1056,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 9,
+      "ageHours": 12,
       "score": 50,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -1034,7 +1078,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 9,
+      "ageHours": 12,
       "score": 50,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -1056,18 +1100,18 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 6,
+      "ageHours": 9,
       "score": 49,
       "bucket": "watch",
       "readingClass": "beobachten"
     },
     {
-      "id": "e24775938250",
-      "title": "Globale Getränkeunternehmen verklagen Telangana wegen unbezahlter Alkoholschulden in Höhe von 400 Millionen US-Dollar - Vinetur",
-      "summary": "Globale Getränkeunternehmen verklagen Telangana wegen unbezahlter Alkoholschulden in Höhe von 400 Millionen US-Dollar Vinetur",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWFBtblVTSmtaRF9pWWswSVhibVFwcHB6ZkN1eVcwX1VmWW1RdnVBRHN4ZXBINEVNakY5OVVoX0FvWWxINjdGVlJSeXlLVUNyZ1lvbTJTMGppSDR4WlRENE1ibWZ3V2k5Vi15ay1aVjU2bFpGd2xhSUsteEhDV0NPN3BqVEVhakJEdmJTM1pGQXBuVjBtT2RBb3FocnZWbjhlNERnczktZnh0dXJYMzU0VnlvVHBIMms1dDNDLXJkZy1ZMHY2am5SYdIByAFBVV95cUxNWFBtblVTSmtaRF9pWWswSVhibVFwcHB6ZkN1eVcwX1VmWW1RdnVBRHN4ZXBINEVNakY5OVVoX0FvWWxINjdGVlJSeXlLVUNyZ1lvbTJTMGppSDR4WlRENE1ibWZ3V2k5Vi15ay1aVjU2bFpGd2xhSUsteEhDV0NPN3BqVEVhakJEdmJTM1pGQXBuVjBtT2RBb3FocnZWbjhlNERnczktZnh0dXJYMzU0VnlvVHBIMms1dDNDLXJkZy1ZMHY2am5SYQ?oc=5",
+      "id": "50712435657a",
+      "title": "Trumps Zoll-Drohung gegen Frankreich: Bluff oder ernsthafte Gefahr für die Weinbranche? - nachrichten.fr",
+      "summary": "Trumps Zoll-Drohung gegen Frankreich: Bluff oder ernsthafte Gefahr für die Weinbranche? nachrichten.fr",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQalpweDcySnhfYmpwbU0xLXhwQnJCY3Flc29wcUktMlNnXzF3MjRMQkJORXNYTnIwZEFVUW9QajNkd3lCUHFiZncyMTBqQnZuUGFGZHlQN3RzaGpaUnhqX3V4WWVCY3Zodi1lZEZibnZ2eW84eEhZbEg0Ui1VNjZBaFd1b25mX2I3R2otUFNMYzhzUXJWd0tXLVFtbXgzZHZPWTVXWlhWYzI5QW8xUDFN?oc=5",
       "domain": "news.google.com",
-      "publishedAt": "2026-06-15T21:26:05.000Z",
+      "publishedAt": "2026-06-16T07:48:14.000Z",
       "topic": "alcohol",
       "feedId": "bev-alcohol",
       "feedName": "Bier / Wein / Spirituosen",
@@ -1078,7 +1122,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 22,
+      "ageHours": 15,
       "score": 44,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -1100,7 +1144,7 @@
       "regulationSignal": false,
       "launchSignal": true,
       "financeLike": false,
-      "ageHours": 33,
+      "ageHours": 35,
       "score": 43,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -1122,7 +1166,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 87,
+      "ageHours": 89,
       "score": 41,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -1144,7 +1188,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 34,
+      "ageHours": 37,
       "score": 40,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1166,7 +1210,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 128,
+      "ageHours": 131,
       "score": 40,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -1188,10 +1232,32 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 133,
+      "ageHours": 136,
       "score": 40,
       "bucket": "watch",
       "readingClass": "beobachten"
+    },
+    {
+      "id": "e24775938250",
+      "title": "Globale Getränkeunternehmen verklagen Telangana wegen unbezahlter Alkoholschulden in Höhe von 400 Millionen US-Dollar - Vinetur",
+      "summary": "Globale Getränkeunternehmen verklagen Telangana wegen unbezahlter Alkoholschulden in Höhe von 400 Millionen US-Dollar Vinetur",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWFBtblVTSmtaRF9pWWswSVhibVFwcHB6ZkN1eVcwX1VmWW1RdnVBRHN4ZXBINEVNakY5OVVoX0FvWWxINjdGVlJSeXlLVUNyZ1lvbTJTMGppSDR4WlRENE1ibWZ3V2k5Vi15ay1aVjU2bFpGd2xhSUsteEhDV0NPN3BqVEVhakJEdmJTM1pGQXBuVjBtT2RBb3FocnZWbjhlNERnczktZnh0dXJYMzU0VnlvVHBIMms1dDNDLXJkZy1ZMHY2am5SYdIByAFBVV95cUxNWFBtblVTSmtaRF9pWWswSVhibVFwcHB6ZkN1eVcwX1VmWW1RdnVBRHN4ZXBINEVNakY5OVVoX0FvWWxINjdGVlJSeXlLVUNyZ1lvbTJTMGppSDR4WlRENE1ibWZ3V2k5Vi15ay1aVjU2bFpGd2xhSUsteEhDV0NPN3BqVEVhakJEdmJTM1pGQXBuVjBtT2RBb3FocnZWbjhlNERnczktZnh0dXJYMzU0VnlvVHBIMms1dDNDLXJkZy1ZMHY2am5SYQ?oc=5",
+      "domain": "news.google.com",
+      "publishedAt": "2026-06-15T21:26:05.000Z",
+      "topic": "alcohol",
+      "feedId": "bev-alcohol",
+      "feedName": "Bier / Wein / Spirituosen",
+      "feedKind": "search",
+      "basePriority": 1,
+      "dachSignal": false,
+      "operatorSignal": false,
+      "regulationSignal": false,
+      "launchSignal": false,
+      "financeLike": false,
+      "ageHours": 25,
+      "score": 38,
+      "bucket": "read",
+      "readingClass": "lesen"
     },
     {
       "id": "27511ffe743a",
@@ -1210,7 +1276,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 28,
+      "ageHours": 31,
       "score": 38,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1232,7 +1298,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 29,
+      "ageHours": 32,
       "score": 38,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1254,7 +1320,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 31,
+      "ageHours": 33,
       "score": 38,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1276,7 +1342,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 31,
+      "ageHours": 34,
       "score": 38,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1298,7 +1364,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 32,
+      "ageHours": 34,
       "score": 38,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1320,7 +1386,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 36,
+      "ageHours": 38,
       "score": 38,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1342,7 +1408,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 56,
+      "ageHours": 59,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1364,30 +1430,8 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 64,
+      "ageHours": 67,
       "score": 32,
-      "bucket": "read",
-      "readingClass": "lesen"
-    },
-    {
-      "id": "ecc218033d0d",
-      "title": "Brasilien plant eine doppelte Alkoholsteuer, bevor das endgültige Modell feststeht - Vinetur",
-      "summary": "Brasilien plant eine doppelte Alkoholsteuer, bevor das endgültige Modell feststeht Vinetur",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSm1vWG9LWE1kTVhPTEo1MTVRWVVVYUx6XzFCbnhSb2ozN1l6OVpHd0lUWEM0ekdLSXlBTEt4VjNjaHBFMGt3a2RUV05LdmRNU2xPU2cyVkt5STgwR05MM3B2bklSYk5kazhCOEdLSkxDNmxvU2VpVWdUbDJXb0h3blBTSW41MnZHME5ZaUlzS0ltdm1aYzJWV01tWHRlRW9kTnpldVA2NzcyNkFwOXJVSdIBtgFBVV95cUxNX1dRUlFqZV84MGlMSEVQUTVhYWMtc3NNNWpHQV9wVmoyNVZ6eFdFOU9LMEVsMGNJeldRVVJlTno5QjFUTkRRQmczQXItRGtRbVlTaDhxbTBCNVh0YkNLYU9hZ0c5WFVkbVpSdllRaE9xOENxRHNVQU4yVkx4T0tZQWRDODQ1TDFPMFRtbm5LQ1c3Wk9leWpHdldPNWx5cmpBeFBnWkVsZktKenEwNGIwV0JVcTg3Zw?oc=5",
-      "domain": "news.google.com",
-      "publishedAt": "2026-06-10T21:37:47.000Z",
-      "topic": "regulation",
-      "feedId": "bev-alcohol",
-      "feedName": "Bier / Wein / Spirituosen",
-      "feedKind": "search",
-      "basePriority": 1,
-      "dachSignal": false,
-      "operatorSignal": false,
-      "regulationSignal": false,
-      "launchSignal": false,
-      "financeLike": false,
-      "ageHours": 142,
-      "score": 29,
       "bucket": "read",
       "readingClass": "lesen"
     },
@@ -1408,7 +1452,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 104,
+      "ageHours": 107,
       "score": 28,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1430,7 +1474,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 132,
+      "ageHours": 134,
       "score": 28,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1452,7 +1496,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 123,
+      "ageHours": 126,
       "score": 27,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1474,7 +1518,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 82,
+      "ageHours": 84,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1496,7 +1540,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 101,
+      "ageHours": 103,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1518,7 +1562,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 104,
+      "ageHours": 106,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1540,7 +1584,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 107,
+      "ageHours": 110,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1562,7 +1606,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 108,
+      "ageHours": 111,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1584,7 +1628,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 109,
+      "ageHours": 111,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1606,7 +1650,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 126,
+      "ageHours": 128,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1628,7 +1672,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 126,
+      "ageHours": 128,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1650,7 +1694,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 141,
+      "ageHours": 144,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1672,7 +1716,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 146,
+      "ageHours": 148,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1694,7 +1738,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 149,
+      "ageHours": 152,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1716,7 +1760,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 158,
+      "ageHours": 160,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1738,29 +1782,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 158,
-      "score": 26,
-      "bucket": "read",
-      "readingClass": "lesen"
-    },
-    {
-      "id": "4923bbe2311f",
-      "title": "Singapur startet sechstägiges Cocktailfestival, um die Kultur über die Bars hinaus zu erweitern - Vinetur",
-      "summary": "Singapur startet sechstägiges Cocktailfestival, um die Kultur über die Bars hinaus zu erweitern Vinetur",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQ19nRkc5X2NMVFBEbzVhVXdPYUo2NGlYU0ExZWhzUU1lVDlCTnJvMS1sOUVFWENtb0JZSFRHT1hUb1VCaFZQcEp0OXBIS19GR1RGUUVraGdtZG1MWkNQc0lYNVlaRnN5ODR1SG9CUWZEalo0cTZkVkwzbF9Yb2dHZVc4ZzNmRGJqV3lwSVktM29SNTVMTVRZSGZGc255Q1dMVEEyOFIxOXdhczg3X2xEWtIBtgFBVV95cUxPTEoxSUFERkw4UGVEd3FiWERGblhqRVBic3RoMkp1OFVsUmxlU1ZfamJxMkliVWpJbWJ6cHZuY0ctcURSRzNMQXhXQWpQdjQ0elRoYUR2TG1uMVJZcUFFMmZtbVcwd2UxbGdxcUlEUmFBYlc2ZmZST213U085UmVQejJfb25MblRsWU9JckFmLUhFUnVXbXh4a2RvY180eEs3M1dsaHIzanhQenBJMExWQUpvbnlIdw?oc=5",
-      "domain": "news.google.com",
-      "publishedAt": "2026-06-09T21:40:58.000Z",
-      "topic": "alcohol",
-      "feedId": "bev-alcohol",
-      "feedName": "Bier / Wein / Spirituosen",
-      "feedKind": "search",
-      "basePriority": 1,
-      "dachSignal": false,
-      "operatorSignal": false,
-      "regulationSignal": false,
-      "launchSignal": false,
-      "financeLike": false,
-      "ageHours": 166,
+      "ageHours": 160,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
