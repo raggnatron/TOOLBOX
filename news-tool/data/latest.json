@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-06-23T15:22:30.618Z",
+  "generatedAt": "2026-06-23T18:11:10.109Z",
   "totals": {
-    "items": 43,
+    "items": 44,
     "sources": 8,
     "failures": 0,
     "todayImportant": 0,
     "watch": 9,
-    "read": 34
+    "read": 35
   },
   "failures": [],
   "sections": {
@@ -29,7 +29,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 33,
+        "ageHours": 36,
         "score": 52,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -51,7 +51,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 2,
+        "ageHours": 5,
         "score": 50,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -73,7 +73,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 5,
+        "ageHours": 8,
         "score": 50,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -95,7 +95,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 18,
+        "ageHours": 21,
         "score": 44,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -117,7 +117,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 18,
+        "ageHours": 21,
         "score": 44,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -139,7 +139,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 80,
+        "ageHours": 83,
         "score": 40,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -161,7 +161,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 90,
+        "ageHours": 93,
         "score": 40,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -183,7 +183,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 97,
+        "ageHours": 100,
         "score": 40,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -205,7 +205,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 127,
+        "ageHours": 130,
         "score": 40,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -229,7 +229,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 103,
+        "ageHours": 105,
         "score": 39,
         "bucket": "read",
         "readingClass": "lesen"
@@ -251,7 +251,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 28,
+        "ageHours": 30,
         "score": 38,
         "bucket": "read",
         "readingClass": "lesen"
@@ -273,7 +273,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 32,
+        "ageHours": 35,
         "score": 38,
         "bucket": "read",
         "readingClass": "lesen"
@@ -295,7 +295,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 33,
+        "ageHours": 35,
         "score": 38,
         "bucket": "read",
         "readingClass": "lesen"
@@ -317,7 +317,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 34,
+        "ageHours": 36,
         "score": 38,
         "bucket": "read",
         "readingClass": "lesen"
@@ -339,8 +339,30 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 36,
+        "ageHours": 38,
         "score": 38,
+        "bucket": "read",
+        "readingClass": "lesen"
+      },
+      {
+        "id": "680359e16ed0",
+        "title": "Mit eigenem Fan-Club: Diese Allgäuer Traditions-Brauerei trotzt der Bierkrise - Allgäuer Zeitung",
+        "summary": "Mit eigenem Fan-Club: Diese Allgäuer Traditions-Brauerei trotzt der Bierkrise Allgäuer Zeitung",
+        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQbE92UzBZdkc4cm9UWEJEUTNpNzJVMzZzMFNSdU1Pajg3WUt0VW8yT1lRRFJjWV81TWZXcElHZUhad0pSOEVjbnZValhJRHAtTTUwUTRSVEc1c2pXTDBwNllnUlVvZi1GQkdNMXFaNFBYdlRjcFE5bUhocExua2lSRlZ1TXJQbllIQVhGYW5qak55OFFLUGtqdWRZcnA2U1pOcE92SG16bUhMRG9NcUg4b0tQTEJpRVhDZHN5eXg2dlVwbERpVnBHLXlZcjk4RVRPbkxLVGh3Tlc2YlhERXZoSkloMFk2eG9pUHpoS0pidGJadVU5aF81YmE2Z19DUQ?oc=5",
+        "domain": "news.google.com",
+        "publishedAt": "2026-06-21T14:47:25.000Z",
+        "topic": "alcohol",
+        "feedId": "bev-alcohol",
+        "feedName": "Bier / Wein / Spirituosen",
+        "feedKind": "search",
+        "basePriority": 1,
+        "dachSignal": false,
+        "operatorSignal": false,
+        "regulationSignal": false,
+        "launchSignal": false,
+        "financeLike": false,
+        "ageHours": 51,
+        "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
       },
@@ -361,7 +383,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 58,
+        "ageHours": 61,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -383,7 +405,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 69,
+        "ageHours": 71,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -395,28 +417,6 @@
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMmhfeWJPdFJvQXo4THdBbHJ3YlJBQVhmdnFQUVhDUkxOdVFCTHdzQi13MmtYdTRMbFNMcFFQN1BUZHlIR19laGhIWnhBY1ZPc0xHcnF4OFpLTllqUENpV0tkd0lmQ0YxQ2tMQlYzODRLaEJDZ040M0t1Y1U3UFBOSjVSUmZqVVdkdWItcEJGam12d0xNeXRjcQ?oc=5",
         "domain": "news.google.com",
         "publishedAt": "2026-06-20T18:46:51.000Z",
-        "topic": "alcohol",
-        "feedId": "bev-alcohol",
-        "feedName": "Bier / Wein / Spirituosen",
-        "feedKind": "search",
-        "basePriority": 1,
-        "dachSignal": false,
-        "operatorSignal": false,
-        "regulationSignal": false,
-        "launchSignal": false,
-        "financeLike": false,
-        "ageHours": 69,
-        "score": 32,
-        "bucket": "read",
-        "readingClass": "lesen"
-      },
-      {
-        "id": "a110e6ac4ec0",
-        "title": "Vorarlberger kaufen weniger Getränke: So reagiert die Branche auf den Wandel - VOL.AT",
-        "summary": "Vorarlberger kaufen weniger Getränke: So reagiert die Branche auf den Wandel VOL.AT",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQS01WXJ4SzBad0pxRm92b2h2dHFsUTNERVJvNzJON3ZhR0dNXzNhelkxMGVuLUVIN0tFNExqN0NQTFZ3akNBM3lFMVFwcjBaTEhQU09rOGVUSVFpUlR2NEZMRW5SMU5pcjJWMUNkY1MxRDBOSFM1eWV1VkhRWU96bFVUaXVvTHExQm9BTnR5aXhTZjI1d2xjZjlqVkxWbEpVLUdUMWJLYw?oc=5",
-        "domain": "news.google.com",
-        "publishedAt": "2026-06-20T16:13:42.000Z",
         "topic": "alcohol",
         "feedId": "bev-alcohol",
         "feedName": "Bier / Wein / Spirituosen",
@@ -449,7 +449,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 151,
+        "ageHours": 154,
         "score": 28,
         "bucket": "read",
         "readingClass": "lesen"
@@ -471,8 +471,30 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 128,
+        "ageHours": 131,
         "score": 27,
+        "bucket": "read",
+        "readingClass": "lesen"
+      },
+      {
+        "id": "a110e6ac4ec0",
+        "title": "Vorarlberger kaufen weniger Getränke: So reagiert die Branche auf den Wandel - VOL.AT",
+        "summary": "Vorarlberger kaufen weniger Getränke: So reagiert die Branche auf den Wandel VOL.AT",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQS01WXJ4SzBad0pxRm92b2h2dHFsUTNERVJvNzJON3ZhR0dNXzNhelkxMGVuLUVIN0tFNExqN0NQTFZ3akNBM3lFMVFwcjBaTEhQU09rOGVUSVFpUlR2NEZMRW5SMU5pcjJWMUNkY1MxRDBOSFM1eWV1VkhRWU96bFVUaXVvTHExQm9BTnR5aXhTZjI1d2xjZjlqVkxWbEpVLUdUMWJLYw?oc=5",
+        "domain": "news.google.com",
+        "publishedAt": "2026-06-20T16:13:42.000Z",
+        "topic": "alcohol",
+        "feedId": "bev-alcohol",
+        "feedName": "Bier / Wein / Spirituosen",
+        "feedKind": "search",
+        "basePriority": 1,
+        "dachSignal": false,
+        "operatorSignal": false,
+        "regulationSignal": false,
+        "launchSignal": false,
+        "financeLike": false,
+        "ageHours": 74,
+        "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
       },
@@ -493,7 +515,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 77,
+        "ageHours": 79,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -515,7 +537,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 79,
+        "ageHours": 82,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -537,7 +559,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 85,
+        "ageHours": 87,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -559,7 +581,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 90,
+        "ageHours": 93,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -581,7 +603,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 99,
+        "ageHours": 102,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -603,7 +625,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 102,
+        "ageHours": 105,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -625,7 +647,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 103,
+        "ageHours": 106,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -647,7 +669,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 111,
+        "ageHours": 114,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -669,7 +691,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 113,
+        "ageHours": 116,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -691,7 +713,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 127,
+        "ageHours": 130,
         "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
@@ -713,28 +735,6 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 128,
-        "score": 26,
-        "bucket": "read",
-        "readingClass": "lesen"
-      },
-      {
-        "id": "66163c97373b",
-        "title": "Weinbranche in der Krise: Nun soll der \"Deutschlanddeckel\" helfen - top agrar",
-        "summary": "Weinbranche in der Krise: Nun soll der \"Deutschlanddeckel\" helfen top agrar",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNV2JNLU9JSUNHaDJTRmxmbXdfWGdvV0FzOU1PSDJCQm1RVUltZV8tSXhqM3ZmaUwwWUp4N2NPdlZ6Sko1ZWJoRjZfa2k0ODhCZVBHclNZd0FMTVdRdnhIR3V4WEhCdVhtdXdrSTZXTjc3X2oxTDBicGhFNFM4UUtOeHl2SHhPZ016Mi1aTzhSRlE3MkNSMGdYblQ2TGRFd0RLaURFcEJXN1cxYTI2NXBFcF9qWHVYQQ?oc=5",
-        "domain": "news.google.com",
-        "publishedAt": "2026-06-18T03:59:00.000Z",
-        "topic": "alcohol",
-        "feedId": "bev-alcohol",
-        "feedName": "Bier / Wein / Spirituosen",
-        "feedKind": "search",
-        "basePriority": 1,
-        "dachSignal": false,
-        "operatorSignal": false,
-        "regulationSignal": false,
-        "launchSignal": false,
-        "financeLike": false,
         "ageHours": 131,
         "score": 26,
         "bucket": "read",
@@ -745,7 +745,7 @@
   "radar": {
     "dominantTopic": {
       "id": "alcohol",
-      "count": 29
+      "count": 31
     },
     "dachSignals": 3,
     "regulationSignals": 0,
@@ -759,13 +759,13 @@
     },
     {
       "feedName": "Bier / Wein / Spirituosen",
-      "count": 35,
+      "count": 37,
       "avgScore": 32
     },
     {
       "feedName": "Launches / Neuheiten",
-      "count": 4,
-      "avgScore": 29
+      "count": 3,
+      "avgScore": 30
     },
     {
       "feedName": "Distribution / Logistik",
@@ -796,7 +796,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 33,
+      "ageHours": 36,
       "score": 52,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -818,7 +818,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 2,
+      "ageHours": 5,
       "score": 50,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -840,7 +840,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 5,
+      "ageHours": 8,
       "score": 50,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -862,7 +862,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 18,
+      "ageHours": 21,
       "score": 44,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -884,7 +884,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 18,
+      "ageHours": 21,
       "score": 44,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -906,7 +906,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 80,
+      "ageHours": 83,
       "score": 40,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -928,7 +928,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 90,
+      "ageHours": 93,
       "score": 40,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -950,7 +950,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 97,
+      "ageHours": 100,
       "score": 40,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -972,7 +972,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 127,
+      "ageHours": 130,
       "score": 40,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -994,7 +994,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 103,
+      "ageHours": 105,
       "score": 39,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1016,7 +1016,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 28,
+      "ageHours": 30,
       "score": 38,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1038,7 +1038,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 32,
+      "ageHours": 35,
       "score": 38,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1060,7 +1060,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 33,
+      "ageHours": 35,
       "score": 38,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1082,7 +1082,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 34,
+      "ageHours": 36,
       "score": 38,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1104,8 +1104,30 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 36,
+      "ageHours": 38,
       "score": 38,
+      "bucket": "read",
+      "readingClass": "lesen"
+    },
+    {
+      "id": "680359e16ed0",
+      "title": "Mit eigenem Fan-Club: Diese Allgäuer Traditions-Brauerei trotzt der Bierkrise - Allgäuer Zeitung",
+      "summary": "Mit eigenem Fan-Club: Diese Allgäuer Traditions-Brauerei trotzt der Bierkrise Allgäuer Zeitung",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQbE92UzBZdkc4cm9UWEJEUTNpNzJVMzZzMFNSdU1Pajg3WUt0VW8yT1lRRFJjWV81TWZXcElHZUhad0pSOEVjbnZValhJRHAtTTUwUTRSVEc1c2pXTDBwNllnUlVvZi1GQkdNMXFaNFBYdlRjcFE5bUhocExua2lSRlZ1TXJQbllIQVhGYW5qak55OFFLUGtqdWRZcnA2U1pOcE92SG16bUhMRG9NcUg4b0tQTEJpRVhDZHN5eXg2dlVwbERpVnBHLXlZcjk4RVRPbkxLVGh3Tlc2YlhERXZoSkloMFk2eG9pUHpoS0pidGJadVU5aF81YmE2Z19DUQ?oc=5",
+      "domain": "news.google.com",
+      "publishedAt": "2026-06-21T14:47:25.000Z",
+      "topic": "alcohol",
+      "feedId": "bev-alcohol",
+      "feedName": "Bier / Wein / Spirituosen",
+      "feedKind": "search",
+      "basePriority": 1,
+      "dachSignal": false,
+      "operatorSignal": false,
+      "regulationSignal": false,
+      "launchSignal": false,
+      "financeLike": false,
+      "ageHours": 51,
+      "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
     },
@@ -1126,7 +1148,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 58,
+      "ageHours": 61,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1148,7 +1170,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 69,
+      "ageHours": 71,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1160,28 +1182,6 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMmhfeWJPdFJvQXo4THdBbHJ3YlJBQVhmdnFQUVhDUkxOdVFCTHdzQi13MmtYdTRMbFNMcFFQN1BUZHlIR19laGhIWnhBY1ZPc0xHcnF4OFpLTllqUENpV0tkd0lmQ0YxQ2tMQlYzODRLaEJDZ040M0t1Y1U3UFBOSjVSUmZqVVdkdWItcEJGam12d0xNeXRjcQ?oc=5",
       "domain": "news.google.com",
       "publishedAt": "2026-06-20T18:46:51.000Z",
-      "topic": "alcohol",
-      "feedId": "bev-alcohol",
-      "feedName": "Bier / Wein / Spirituosen",
-      "feedKind": "search",
-      "basePriority": 1,
-      "dachSignal": false,
-      "operatorSignal": false,
-      "regulationSignal": false,
-      "launchSignal": false,
-      "financeLike": false,
-      "ageHours": 69,
-      "score": 32,
-      "bucket": "read",
-      "readingClass": "lesen"
-    },
-    {
-      "id": "a110e6ac4ec0",
-      "title": "Vorarlberger kaufen weniger Getränke: So reagiert die Branche auf den Wandel - VOL.AT",
-      "summary": "Vorarlberger kaufen weniger Getränke: So reagiert die Branche auf den Wandel VOL.AT",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQS01WXJ4SzBad0pxRm92b2h2dHFsUTNERVJvNzJON3ZhR0dNXzNhelkxMGVuLUVIN0tFNExqN0NQTFZ3akNBM3lFMVFwcjBaTEhQU09rOGVUSVFpUlR2NEZMRW5SMU5pcjJWMUNkY1MxRDBOSFM1eWV1VkhRWU96bFVUaXVvTHExQm9BTnR5aXhTZjI1d2xjZjlqVkxWbEpVLUdUMWJLYw?oc=5",
-      "domain": "news.google.com",
-      "publishedAt": "2026-06-20T16:13:42.000Z",
       "topic": "alcohol",
       "feedId": "bev-alcohol",
       "feedName": "Bier / Wein / Spirituosen",
@@ -1214,7 +1214,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 151,
+      "ageHours": 154,
       "score": 28,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1236,8 +1236,30 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 128,
+      "ageHours": 131,
       "score": 27,
+      "bucket": "read",
+      "readingClass": "lesen"
+    },
+    {
+      "id": "a110e6ac4ec0",
+      "title": "Vorarlberger kaufen weniger Getränke: So reagiert die Branche auf den Wandel - VOL.AT",
+      "summary": "Vorarlberger kaufen weniger Getränke: So reagiert die Branche auf den Wandel VOL.AT",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQS01WXJ4SzBad0pxRm92b2h2dHFsUTNERVJvNzJON3ZhR0dNXzNhelkxMGVuLUVIN0tFNExqN0NQTFZ3akNBM3lFMVFwcjBaTEhQU09rOGVUSVFpUlR2NEZMRW5SMU5pcjJWMUNkY1MxRDBOSFM1eWV1VkhRWU96bFVUaXVvTHExQm9BTnR5aXhTZjI1d2xjZjlqVkxWbEpVLUdUMWJLYw?oc=5",
+      "domain": "news.google.com",
+      "publishedAt": "2026-06-20T16:13:42.000Z",
+      "topic": "alcohol",
+      "feedId": "bev-alcohol",
+      "feedName": "Bier / Wein / Spirituosen",
+      "feedKind": "search",
+      "basePriority": 1,
+      "dachSignal": false,
+      "operatorSignal": false,
+      "regulationSignal": false,
+      "launchSignal": false,
+      "financeLike": false,
+      "ageHours": 74,
+      "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
     },
@@ -1258,7 +1280,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 77,
+      "ageHours": 79,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1280,7 +1302,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 79,
+      "ageHours": 82,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1302,7 +1324,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 85,
+      "ageHours": 87,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1324,7 +1346,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 90,
+      "ageHours": 93,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1346,7 +1368,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 99,
+      "ageHours": 102,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1368,7 +1390,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 102,
+      "ageHours": 105,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1390,7 +1412,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 103,
+      "ageHours": 106,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1412,7 +1434,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 111,
+      "ageHours": 114,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1434,7 +1456,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 113,
+      "ageHours": 116,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1456,7 +1478,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 127,
+      "ageHours": 130,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1478,7 +1500,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 128,
+      "ageHours": 131,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1500,7 +1522,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 131,
+      "ageHours": 134,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1522,7 +1544,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 132,
+      "ageHours": 135,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1544,7 +1566,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 143,
+      "ageHours": 146,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1566,7 +1588,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 144,
+      "ageHours": 147,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1588,7 +1610,29 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 145,
+      "ageHours": 148,
+      "score": 26,
+      "bucket": "read",
+      "readingClass": "lesen"
+    },
+    {
+      "id": "0bcdad10d198",
+      "title": "Bier - Brauerei Ott kämpft nach Insolvenzantrag ums Überleben - Wirtschaft - SZ.de",
+      "summary": "Bier - Brauerei Ott kämpft nach Insolvenzantrag ums Überleben - Wirtschaft SZ.de",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOakNhcTdHVGRkeWVHZDVLS3pkaUQ3TW9CWUNEV2NXVk04MHEtT2V1REJ1cWpRckU3LVRYc19oXzhpRmdETWhIZUpsVFp5R21WT1IyTVB4TWJXRXIyQnBsckdPZ0hXTEJaN05XdFJnWmpZd2RoXzE3dmNCOXBNckoxbTVrMFJveElleE1oVjZzYnQwNmRGNTdTTDZ3NFdYT3Rfc0g4OFZTSzBhX2ptbXN3eVo2ZW1kN2VET2JJRW1HSUZpLWJKTk1WdnlrU0prWUJaUXlyYUMydzhzQmJEN3o4UTEwRDA?oc=5",
+      "domain": "news.google.com",
+      "publishedAt": "2026-06-17T13:10:16.000Z",
+      "topic": "alcohol",
+      "feedId": "bev-alcohol",
+      "feedName": "Bier / Wein / Spirituosen",
+      "feedKind": "search",
+      "basePriority": 1,
+      "dachSignal": false,
+      "operatorSignal": false,
+      "regulationSignal": false,
+      "launchSignal": false,
+      "financeLike": false,
+      "ageHours": 149,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1610,7 +1654,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 146,
+      "ageHours": 149,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1632,7 +1676,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 147,
+      "ageHours": 150,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1654,7 +1698,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 149,
+      "ageHours": 152,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1676,7 +1720,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 155,
+      "ageHours": 158,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1698,29 +1742,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 104,
-      "score": 25,
-      "bucket": "read",
-      "readingClass": "lesen"
-    },
-    {
-      "id": "e945577ad1ef",
-      "title": "Erfrischend anders – wie Chang Classic Beer von Thai Beverage zur Marke wird - AD HOC NEWS",
-      "summary": "Erfrischend anders – wie Chang Classic Beer von Thai Beverage zur Marke wird AD HOC NEWS",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQlBGYTVjWVhXTmZyZjZIaWt1S3JzQkpiWnRHdlZkNEtVWEZMcDZfemh1aGh2UWdMajRKNW0xZ0VOWXZCeGJWZnRpbm1iY2pRSXY3ekRaZmtpMFo3azZ5UnRuY3VHTWtRekhsU1NZYS12TXV6Sm04Q2YyVk5XVy1CT21VU2pwaUwxQ2pQSXVzdVhsTjQxTFFXMlFWcThDeF85RmNQVU1WUGlzMzlCTVE0OG5iMW1Ec3ZncDloSDZHQ2trdk1wX2I4?oc=5",
-      "domain": "news.google.com",
-      "publishedAt": "2026-06-16T15:49:06.000Z",
-      "topic": "launches",
-      "feedId": "bev-launches",
-      "feedName": "Launches / Neuheiten",
-      "feedKind": "search",
-      "basePriority": 0.95,
-      "dachSignal": false,
-      "operatorSignal": false,
-      "regulationSignal": false,
-      "launchSignal": false,
-      "financeLike": false,
-      "ageHours": 168,
+      "ageHours": 107,
       "score": 25,
       "bucket": "read",
       "readingClass": "lesen"
