@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-07-18T13:44:29.742Z",
+  "generatedAt": "2026-07-18T17:10:56.203Z",
   "totals": {
-    "items": 60,
+    "items": 57,
     "sources": 8,
     "failures": 0,
     "todayImportant": 0,
-    "watch": 10,
-    "read": 50
+    "watch": 8,
+    "read": 49
   },
   "failures": [],
   "sections": {
@@ -29,7 +29,7 @@
         "regulationSignal": true,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 60,
+        "ageHours": 63,
         "score": 50,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -51,7 +51,7 @@
         "regulationSignal": true,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 127,
+        "ageHours": 130,
         "score": 46,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -73,7 +73,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 13,
+        "ageHours": 16,
         "score": 44,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -95,7 +95,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 13,
+        "ageHours": 17,
         "score": 44,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -117,29 +117,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 16,
-        "score": 44,
-        "bucket": "watch",
-        "readingClass": "beobachten"
-      },
-      {
-        "id": "e42449c12252",
-        "title": "Neue Zollkontingente - Geplante Wein-Importregeln spalten die Branche - Plattform J",
-        "summary": "Neue Zollkontingente - Geplante Wein-Importregeln spalten die Branche Plattform J",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9lU2F5NXBualZpU3ZRZzdpRHRHWGdsV0ZnWURsNVlhY2RhdTBIdG1IVkZoWGhfNS1udjZNOGNjXzYyTkZqXzdCa0llR3ZNeG91QVFB?oc=5",
-        "domain": "news.google.com",
-        "publishedAt": "2026-07-17T14:02:00.000Z",
-        "topic": "alcohol",
-        "feedId": "bev-alcohol",
-        "feedName": "Bier / Wein / Spirituosen",
-        "feedKind": "search",
-        "basePriority": 1,
-        "dachSignal": false,
-        "operatorSignal": false,
-        "regulationSignal": false,
-        "launchSignal": false,
-        "financeLike": false,
-        "ageHours": 24,
+        "ageHours": 20,
         "score": 44,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -161,7 +139,7 @@
         "regulationSignal": true,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 76,
+        "ageHours": 80,
         "score": 44,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -183,7 +161,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 97,
+        "ageHours": 100,
         "score": 42,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -205,35 +183,35 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 29,
+        "ageHours": 32,
         "score": 41,
-        "bucket": "watch",
-        "readingClass": "beobachten"
-      },
-      {
-        "id": "e037911f0175",
-        "title": "Teguts Erben - Was die Branche mit Tegut verliert – und wie sich jetzt die Macht im Handel sortiert - Lebensmittelpraxis.de",
-        "summary": "Teguts Erben - Was die Branche mit Tegut verliert – und wie sich jetzt die Macht im Handel sortiert Lebensmittelpraxis.de",
-        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxONTJYR1JUdDFkNE51ekRRZ2Q4emNxeGVpWUM4aHdrdEtEQldDV21EUVFZM3loWllwTEJRSjJjcEd2aUlVN3ZVMTEyS2xCRHl1NURMQUhrTzFqb1o0N2lzMFFBWVlRMVI1QTRfN09qQlhiQXRtQXZhS0RGa05sMGxfMGhWa1hqR0d0ZkRGTzhZbEdFOUFQOEItaVRCOVVlY0c2Qm5CWVRQY2J4bkpIZTU5X0s4bW9kSnJXdmg1MGFhNjdOSDZoUGtKeDJZamJuSkFKMDY1VkZaN0dfMjhmZDQ5eV9TcHVsT05aVVZFZw?oc=5",
-        "domain": "news.google.com",
-        "publishedAt": "2026-07-13T05:40:00.000Z",
-        "topic": "market",
-        "feedId": "bev-alcohol",
-        "feedName": "Bier / Wein / Spirituosen",
-        "feedKind": "search",
-        "basePriority": 1,
-        "dachSignal": false,
-        "operatorSignal": true,
-        "regulationSignal": false,
-        "launchSignal": false,
-        "financeLike": false,
-        "ageHours": 128,
-        "score": 40,
         "bucket": "watch",
         "readingClass": "beobachten"
       }
     ],
     "read": [
+      {
+        "id": "e42449c12252",
+        "title": "Neue Zollkontingente - Geplante Wein-Importregeln spalten die Branche - Plattform J",
+        "summary": "Neue Zollkontingente - Geplante Wein-Importregeln spalten die Branche Plattform J",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9lU2F5NXBualZpU3ZRZzdpRHRHWGdsV0ZnWURsNVlhY2RhdTBIdG1IVkZoWGhfNS1udjZNOGNjXzYyTkZqXzdCa0llR3ZNeG91QVFB?oc=5",
+        "domain": "news.google.com",
+        "publishedAt": "2026-07-17T14:02:00.000Z",
+        "topic": "alcohol",
+        "feedId": "bev-alcohol",
+        "feedName": "Bier / Wein / Spirituosen",
+        "feedKind": "search",
+        "basePriority": 1,
+        "dachSignal": false,
+        "operatorSignal": false,
+        "regulationSignal": false,
+        "launchSignal": false,
+        "financeLike": false,
+        "ageHours": 27,
+        "score": 38,
+        "bucket": "read",
+        "readingClass": "lesen"
+      },
       {
         "id": "cf78d65b38bb",
         "title": "Wanderer zwischen Ostküste und Oregon - Jüdische Allgemeine",
@@ -251,7 +229,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 27,
+        "ageHours": 30,
         "score": 38,
         "bucket": "read",
         "readingClass": "lesen"
@@ -273,7 +251,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 32,
+        "ageHours": 35,
         "score": 38,
         "bucket": "read",
         "readingClass": "lesen"
@@ -295,7 +273,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 32,
+        "ageHours": 36,
         "score": 38,
         "bucket": "read",
         "readingClass": "lesen"
@@ -317,7 +295,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 33,
+        "ageHours": 37,
         "score": 38,
         "bucket": "read",
         "readingClass": "lesen"
@@ -339,7 +317,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 35,
+        "ageHours": 38,
         "score": 38,
         "bucket": "read",
         "readingClass": "lesen"
@@ -361,7 +339,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 35,
+        "ageHours": 38,
         "score": 38,
         "bucket": "read",
         "readingClass": "lesen"
@@ -383,7 +361,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 35,
+        "ageHours": 39,
         "score": 38,
         "bucket": "read",
         "readingClass": "lesen"
@@ -405,29 +383,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 39,
-        "score": 38,
-        "bucket": "read",
-        "readingClass": "lesen"
-      },
-      {
-        "id": "d26eaa4217cf",
-        "title": "»Uber« übernimmt »Delivery Hero« – was passiert mit »foodora«? - Falstaff",
-        "summary": "»Uber« übernimmt »Delivery Hero« – was passiert mit »foodora«? Falstaff",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYTNyWC1WQUh1bWVpUURBY2VxVDJUNkc0LThwZ083YUNWTzc1cmVLbDF0UkhRNDFEM0tXMnJNaGdSU2F0MU4xbUU4LXNLbVdXSFh1UDk3UFlqOFh3dWFvMmQ1a1hSYVZraWI2V1dUamhOUjg5TzQ2STZpR1RKLWR5UDExQlJnZ29VOURMNW5HUlYzMGI5cFVTTzU4UEVwMG1RV3ROZjhaZlF1WXNjRkZueXQxMWFVdWRna1E?oc=5",
-        "domain": "news.google.com",
-        "publishedAt": "2026-07-16T13:15:35.000Z",
-        "topic": "alcohol",
-        "feedId": "bev-alcohol",
-        "feedName": "Bier / Wein / Spirituosen",
-        "feedKind": "search",
-        "basePriority": 1,
-        "dachSignal": false,
-        "operatorSignal": false,
-        "regulationSignal": false,
-        "launchSignal": false,
-        "financeLike": false,
-        "ageHours": 48,
+        "ageHours": 42,
         "score": 38,
         "bucket": "read",
         "readingClass": "lesen"
@@ -449,8 +405,30 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 55,
+        "ageHours": 59,
         "score": 35,
+        "bucket": "read",
+        "readingClass": "lesen"
+      },
+      {
+        "id": "d26eaa4217cf",
+        "title": "»Uber« übernimmt »Delivery Hero« – was passiert mit »foodora«? - Falstaff",
+        "summary": "»Uber« übernimmt »Delivery Hero« – was passiert mit »foodora«? Falstaff",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYTNyWC1WQUh1bWVpUURBY2VxVDJUNkc0LThwZ083YUNWTzc1cmVLbDF0UkhRNDFEM0tXMnJNaGdSU2F0MU4xbUU4LXNLbVdXSFh1UDk3UFlqOFh3dWFvMmQ1a1hSYVZraWI2V1dUamhOUjg5TzQ2STZpR1RKLWR5UDExQlJnZ29VOURMNW5HUlYzMGI5cFVTTzU4UEVwMG1RV3ROZjhaZlF1WXNjRkZueXQxMWFVdWRna1E?oc=5",
+        "domain": "news.google.com",
+        "publishedAt": "2026-07-16T13:15:35.000Z",
+        "topic": "alcohol",
+        "feedId": "bev-alcohol",
+        "feedName": "Bier / Wein / Spirituosen",
+        "feedKind": "search",
+        "basePriority": 1,
+        "dachSignal": false,
+        "operatorSignal": false,
+        "regulationSignal": false,
+        "launchSignal": false,
+        "financeLike": false,
+        "ageHours": 52,
+        "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
       },
@@ -471,7 +449,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 49,
+        "ageHours": 53,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -493,7 +471,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 55,
+        "ageHours": 58,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -515,7 +493,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 55,
+        "ageHours": 59,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -537,7 +515,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 56,
+        "ageHours": 60,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -559,7 +537,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 57,
+        "ageHours": 60,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -581,7 +559,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 57,
+        "ageHours": 61,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -603,7 +581,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 58,
+        "ageHours": 61,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -625,7 +603,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 61,
+        "ageHours": 65,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -647,7 +625,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 66,
+        "ageHours": 69,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -669,7 +647,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 68,
+        "ageHours": 71,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -691,7 +669,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 69,
+        "ageHours": 72,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -713,7 +691,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 54,
+        "ageHours": 58,
         "score": 31,
         "bucket": "read",
         "readingClass": "lesen"
@@ -735,29 +713,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 98,
-        "score": 28,
-        "bucket": "read",
-        "readingClass": "lesen"
-      },
-      {
-        "id": "90ed9d52357d",
-        "title": "CCK im Fokus: Crown Holdings bleibt vom Verpackungsgeschäft getragen - it boltwise",
-        "summary": "CCK im Fokus: Crown Holdings bleibt vom Verpackungsgeschäft getragen it boltwise",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZGxyVkstVjE2djNiOUNfbkFndGFMZEw5UW40aHZkc3RKLW9hNl9TS1dEblpmcnhndVJjR1M4bjhEUUxPYVcwcFNYUnRJY0hGOEc0X1hYRkhWNzRieUNpS1NiZG9CX21OVnNIVFhZaWxaRmFCRmxDLTEyM2UwVFp3WGJaazNsQWlfX2x0T0dJTzlpWG9JaUNnamtWdW1KQ3BkYWc?oc=5",
-        "domain": "news.google.com",
-        "publishedAt": "2026-07-13T19:10:44.000Z",
-        "topic": "packaging",
-        "feedId": "bev-packaging",
-        "feedName": "Verpackung",
-        "feedKind": "search",
-        "basePriority": 1.1,
-        "dachSignal": false,
-        "operatorSignal": false,
-        "regulationSignal": false,
-        "launchSignal": false,
-        "financeLike": false,
-        "ageHours": 115,
+        "ageHours": 102,
         "score": 28,
         "bucket": "read",
         "readingClass": "lesen"
@@ -767,11 +723,11 @@
   "radar": {
     "dominantTopic": {
       "id": "alcohol",
-      "count": 28
+      "count": 26
     },
     "dachSignals": 0,
     "regulationSignals": 3,
-    "operatorSignals": 2
+    "operatorSignals": 1
   },
   "sourceStats": [
     {
@@ -781,22 +737,22 @@
     },
     {
       "feedName": "Bier / Wein / Spirituosen",
-      "count": 30,
-      "avgScore": 35
+      "count": 28,
+      "avgScore": 34
     },
     {
       "feedName": "Verpackung",
-      "count": 2,
-      "avgScore": 35
-    },
-    {
-      "feedName": "Getränkeindustrie",
-      "count": 21,
-      "avgScore": 29
+      "count": 3,
+      "avgScore": 33
     },
     {
       "feedName": "Launches / Neuheiten",
-      "count": 2,
+      "count": 1,
+      "avgScore": 31
+    },
+    {
+      "feedName": "Getränkeindustrie",
+      "count": 20,
       "avgScore": 29
     },
     {
@@ -823,7 +779,7 @@
       "regulationSignal": true,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 60,
+      "ageHours": 63,
       "score": 50,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -845,7 +801,7 @@
       "regulationSignal": true,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 127,
+      "ageHours": 130,
       "score": 46,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -867,7 +823,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 13,
+      "ageHours": 16,
       "score": 44,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -889,7 +845,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 13,
+      "ageHours": 17,
       "score": 44,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -911,29 +867,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 16,
-      "score": 44,
-      "bucket": "watch",
-      "readingClass": "beobachten"
-    },
-    {
-      "id": "e42449c12252",
-      "title": "Neue Zollkontingente - Geplante Wein-Importregeln spalten die Branche - Plattform J",
-      "summary": "Neue Zollkontingente - Geplante Wein-Importregeln spalten die Branche Plattform J",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9lU2F5NXBualZpU3ZRZzdpRHRHWGdsV0ZnWURsNVlhY2RhdTBIdG1IVkZoWGhfNS1udjZNOGNjXzYyTkZqXzdCa0llR3ZNeG91QVFB?oc=5",
-      "domain": "news.google.com",
-      "publishedAt": "2026-07-17T14:02:00.000Z",
-      "topic": "alcohol",
-      "feedId": "bev-alcohol",
-      "feedName": "Bier / Wein / Spirituosen",
-      "feedKind": "search",
-      "basePriority": 1,
-      "dachSignal": false,
-      "operatorSignal": false,
-      "regulationSignal": false,
-      "launchSignal": false,
-      "financeLike": false,
-      "ageHours": 24,
+      "ageHours": 20,
       "score": 44,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -955,7 +889,7 @@
       "regulationSignal": true,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 76,
+      "ageHours": 80,
       "score": 44,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -977,7 +911,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 97,
+      "ageHours": 100,
       "score": 42,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -999,32 +933,32 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 29,
+      "ageHours": 32,
       "score": 41,
       "bucket": "watch",
       "readingClass": "beobachten"
     },
     {
-      "id": "e037911f0175",
-      "title": "Teguts Erben - Was die Branche mit Tegut verliert – und wie sich jetzt die Macht im Handel sortiert - Lebensmittelpraxis.de",
-      "summary": "Teguts Erben - Was die Branche mit Tegut verliert – und wie sich jetzt die Macht im Handel sortiert Lebensmittelpraxis.de",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxONTJYR1JUdDFkNE51ekRRZ2Q4emNxeGVpWUM4aHdrdEtEQldDV21EUVFZM3loWllwTEJRSjJjcEd2aUlVN3ZVMTEyS2xCRHl1NURMQUhrTzFqb1o0N2lzMFFBWVlRMVI1QTRfN09qQlhiQXRtQXZhS0RGa05sMGxfMGhWa1hqR0d0ZkRGTzhZbEdFOUFQOEItaVRCOVVlY0c2Qm5CWVRQY2J4bkpIZTU5X0s4bW9kSnJXdmg1MGFhNjdOSDZoUGtKeDJZamJuSkFKMDY1VkZaN0dfMjhmZDQ5eV9TcHVsT05aVVZFZw?oc=5",
+      "id": "e42449c12252",
+      "title": "Neue Zollkontingente - Geplante Wein-Importregeln spalten die Branche - Plattform J",
+      "summary": "Neue Zollkontingente - Geplante Wein-Importregeln spalten die Branche Plattform J",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9lU2F5NXBualZpU3ZRZzdpRHRHWGdsV0ZnWURsNVlhY2RhdTBIdG1IVkZoWGhfNS1udjZNOGNjXzYyTkZqXzdCa0llR3ZNeG91QVFB?oc=5",
       "domain": "news.google.com",
-      "publishedAt": "2026-07-13T05:40:00.000Z",
-      "topic": "market",
+      "publishedAt": "2026-07-17T14:02:00.000Z",
+      "topic": "alcohol",
       "feedId": "bev-alcohol",
       "feedName": "Bier / Wein / Spirituosen",
       "feedKind": "search",
       "basePriority": 1,
       "dachSignal": false,
-      "operatorSignal": true,
+      "operatorSignal": false,
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 128,
-      "score": 40,
-      "bucket": "watch",
-      "readingClass": "beobachten"
+      "ageHours": 27,
+      "score": 38,
+      "bucket": "read",
+      "readingClass": "lesen"
     },
     {
       "id": "cf78d65b38bb",
@@ -1043,7 +977,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 27,
+      "ageHours": 30,
       "score": 38,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1065,7 +999,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 32,
+      "ageHours": 35,
       "score": 38,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1087,7 +1021,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 32,
+      "ageHours": 36,
       "score": 38,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1109,7 +1043,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 33,
+      "ageHours": 37,
       "score": 38,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1131,7 +1065,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 35,
+      "ageHours": 38,
       "score": 38,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1153,7 +1087,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 35,
+      "ageHours": 38,
       "score": 38,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1175,7 +1109,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 35,
+      "ageHours": 39,
       "score": 38,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1197,29 +1131,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 39,
-      "score": 38,
-      "bucket": "read",
-      "readingClass": "lesen"
-    },
-    {
-      "id": "d26eaa4217cf",
-      "title": "»Uber« übernimmt »Delivery Hero« – was passiert mit »foodora«? - Falstaff",
-      "summary": "»Uber« übernimmt »Delivery Hero« – was passiert mit »foodora«? Falstaff",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYTNyWC1WQUh1bWVpUURBY2VxVDJUNkc0LThwZ083YUNWTzc1cmVLbDF0UkhRNDFEM0tXMnJNaGdSU2F0MU4xbUU4LXNLbVdXSFh1UDk3UFlqOFh3dWFvMmQ1a1hSYVZraWI2V1dUamhOUjg5TzQ2STZpR1RKLWR5UDExQlJnZ29VOURMNW5HUlYzMGI5cFVTTzU4UEVwMG1RV3ROZjhaZlF1WXNjRkZueXQxMWFVdWRna1E?oc=5",
-      "domain": "news.google.com",
-      "publishedAt": "2026-07-16T13:15:35.000Z",
-      "topic": "alcohol",
-      "feedId": "bev-alcohol",
-      "feedName": "Bier / Wein / Spirituosen",
-      "feedKind": "search",
-      "basePriority": 1,
-      "dachSignal": false,
-      "operatorSignal": false,
-      "regulationSignal": false,
-      "launchSignal": false,
-      "financeLike": false,
-      "ageHours": 48,
+      "ageHours": 42,
       "score": 38,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1241,8 +1153,30 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 55,
+      "ageHours": 59,
       "score": 35,
+      "bucket": "read",
+      "readingClass": "lesen"
+    },
+    {
+      "id": "d26eaa4217cf",
+      "title": "»Uber« übernimmt »Delivery Hero« – was passiert mit »foodora«? - Falstaff",
+      "summary": "»Uber« übernimmt »Delivery Hero« – was passiert mit »foodora«? Falstaff",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYTNyWC1WQUh1bWVpUURBY2VxVDJUNkc0LThwZ083YUNWTzc1cmVLbDF0UkhRNDFEM0tXMnJNaGdSU2F0MU4xbUU4LXNLbVdXSFh1UDk3UFlqOFh3dWFvMmQ1a1hSYVZraWI2V1dUamhOUjg5TzQ2STZpR1RKLWR5UDExQlJnZ29VOURMNW5HUlYzMGI5cFVTTzU4UEVwMG1RV3ROZjhaZlF1WXNjRkZueXQxMWFVdWRna1E?oc=5",
+      "domain": "news.google.com",
+      "publishedAt": "2026-07-16T13:15:35.000Z",
+      "topic": "alcohol",
+      "feedId": "bev-alcohol",
+      "feedName": "Bier / Wein / Spirituosen",
+      "feedKind": "search",
+      "basePriority": 1,
+      "dachSignal": false,
+      "operatorSignal": false,
+      "regulationSignal": false,
+      "launchSignal": false,
+      "financeLike": false,
+      "ageHours": 52,
+      "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
     },
@@ -1263,7 +1197,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 49,
+      "ageHours": 53,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1285,7 +1219,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 55,
+      "ageHours": 58,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1307,7 +1241,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 55,
+      "ageHours": 59,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1329,7 +1263,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 56,
+      "ageHours": 60,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1351,7 +1285,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 57,
+      "ageHours": 60,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1373,7 +1307,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 57,
+      "ageHours": 61,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1395,7 +1329,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 58,
+      "ageHours": 61,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1417,7 +1351,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 61,
+      "ageHours": 65,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1439,7 +1373,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 66,
+      "ageHours": 69,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1461,7 +1395,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 68,
+      "ageHours": 71,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1483,7 +1417,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 69,
+      "ageHours": 72,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1505,7 +1439,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 54,
+      "ageHours": 58,
       "score": 31,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1527,7 +1461,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 98,
+      "ageHours": 102,
       "score": 28,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1549,7 +1483,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 115,
+      "ageHours": 118,
       "score": 28,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1571,7 +1505,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 148,
+      "ageHours": 151,
       "score": 28,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1593,7 +1527,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 154,
+      "ageHours": 158,
       "score": 28,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1615,7 +1549,29 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 157,
+      "ageHours": 161,
+      "score": 28,
+      "bucket": "read",
+      "readingClass": "lesen"
+    },
+    {
+      "id": "c670fa3a1b69",
+      "title": "Aptar stock holds steady as business context stays central - ad-hoc-news.de",
+      "summary": "Aptar stock holds steady as business context stays central ad-hoc-news.de",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbTN1T3VJS0pKZHJBaXNDVnhuS29iTmJaRmdyNFNEMzVyMXBEemlZQzU0d1JSOHNlQ1dXSEVnT1I0UktRbmxOZzM5NkFobUVlWkQybmtSZDgxVkZLc3dpNDk0SlY4OG42M2swRzJSa3lwR0Q2dWVPRHQ2bjZUem1oUWREeDNpam1ZZXg5RUtJRlJzQXBhd2g0c0ZZd0xGdTlTQ2w0eHg4N2ZZQ19SRTRybWxXSUczWWpY?oc=5",
+      "domain": "news.google.com",
+      "publishedAt": "2026-07-11T21:08:09.000Z",
+      "topic": "packaging",
+      "feedId": "bev-packaging",
+      "feedName": "Verpackung",
+      "feedKind": "search",
+      "basePriority": 1.1,
+      "dachSignal": false,
+      "operatorSignal": false,
+      "regulationSignal": false,
+      "launchSignal": false,
+      "financeLike": false,
+      "ageHours": 164,
       "score": 28,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1637,7 +1593,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 103,
+      "ageHours": 106,
       "score": 27,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1659,7 +1615,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 149,
+      "ageHours": 153,
       "score": 27,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1681,7 +1637,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 76,
+      "ageHours": 80,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1703,7 +1659,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 81,
+      "ageHours": 85,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1725,7 +1681,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 82,
+      "ageHours": 85,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1747,7 +1703,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 86,
+      "ageHours": 90,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1769,7 +1725,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 90,
+      "ageHours": 93,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1791,51 +1747,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 91,
-      "score": 26,
-      "bucket": "read",
-      "readingClass": "lesen"
-    },
-    {
-      "id": "a0b7ff57f09a",
-      "title": "Miller Lite von Molson Coors - US-Lightbier mit ikonischem Retro-Design - ad-hoc-news.de",
-      "summary": "Miller Lite von Molson Coors - US-Lightbier mit ikonischem Retro-Design ad-hoc-news.de",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPejl1THhlQzRHaVE2WUhNMnJGSUhHMkdFLUd0LWpSd2M4NUZZNUtBRC12dkZkaE4tYmQ5cFpQUllUbGpIdDhQbHJBaHY1QnNoUHRuOUxicnJ2bWVFOS1LdGxLTkdXd2dZUy1hLTVRZ3d4Und5Q3JBLXRzV1FBRnFRM2FoX2xqZl94cDZ1SUxYYnRYVnc3TmhDejU2aWdZWVRXYUQzME8ydWpmV05GN04zdkpVZHhzMDh0UlgwUFVkaDBXWi1lbUpr?oc=5",
-      "domain": "news.google.com",
-      "publishedAt": "2026-07-14T14:58:01.000Z",
-      "topic": "alcohol",
-      "feedId": "bev-launches",
-      "feedName": "Launches / Neuheiten",
-      "feedKind": "search",
-      "basePriority": 0.95,
-      "dachSignal": false,
-      "operatorSignal": false,
-      "regulationSignal": false,
-      "launchSignal": false,
-      "financeLike": false,
-      "ageHours": 95,
-      "score": 26,
-      "bucket": "read",
-      "readingClass": "lesen"
-    },
-    {
-      "id": "51632f14670a",
-      "title": "Breaky Bottom: Eines der ältesten Weingüter Englands steht zum Verkauf - Falstaff",
-      "summary": "Breaky Bottom: Eines der ältesten Weingüter Englands steht zum Verkauf Falstaff",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORFVNbzlkeDRXSlJKaXY0SjJLZDdQbG1NZ1hKMDA1aWNpam52SjBuYy1kcGlETDRuZGtBbFdCemZkRjkxeXJlQ25zdnFadzdMYTZHa1NCVjBYVzJGTWtzYlRsb3RMVnAwaFh1eUR4Qi1rcVhNN05WNjByeE12bHF1NkhYaXJ2cjM3dTNXWlVhclQ4eUZwel9yN29WQ2g4QU9oVFlMT1NkYw?oc=5",
-      "domain": "news.google.com",
-      "publishedAt": "2026-07-14T14:17:32.000Z",
-      "topic": "alcohol",
-      "feedId": "bev-alcohol",
-      "feedName": "Bier / Wein / Spirituosen",
-      "feedKind": "search",
-      "basePriority": 1,
-      "dachSignal": false,
-      "operatorSignal": false,
-      "regulationSignal": false,
-      "launchSignal": false,
-      "financeLike": false,
-      "ageHours": 95,
+      "ageHours": 94,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1857,7 +1769,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 98,
+      "ageHours": 101,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1879,7 +1791,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 105,
+      "ageHours": 109,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1901,7 +1813,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 106,
+      "ageHours": 109,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1923,7 +1835,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 111,
+      "ageHours": 114,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1945,7 +1857,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 122,
+      "ageHours": 125,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1967,7 +1879,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 123,
+      "ageHours": 126,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1989,7 +1901,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 124,
+      "ageHours": 128,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -2011,7 +1923,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 126,
+      "ageHours": 130,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -2033,7 +1945,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 128,
+      "ageHours": 131,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -2055,7 +1967,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 145,
+      "ageHours": 149,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -2077,7 +1989,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 154,
+      "ageHours": 158,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -2099,29 +2011,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 158,
-      "score": 26,
-      "bucket": "read",
-      "readingClass": "lesen"
-    },
-    {
-      "id": "c670fa3a1b69",
-      "title": "Aptar stock holds steady as business context stays central - ad-hoc-news.de",
-      "summary": "Aptar stock holds steady as business context stays central ad-hoc-news.de",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbTN1T3VJS0pKZHJBaXNDVnhuS29iTmJaRmdyNFNEMzVyMXBEemlZQzU0d1JSOHNlQ1dXSEVnT1I0UktRbmxOZzM5NkFobUVlWkQybmtSZDgxVkZLc3dpNDk0SlY4OG42M2swRzJSa3lwR0Q2dWVPRHQ2bjZUem1oUWREeDNpam1ZZXg5RUtJRlJzQXBhd2g0c0ZZd0xGdTlTQ2w0eHg4N2ZZQ19SRTRybWxXSUczWWpY?oc=5",
-      "domain": "news.google.com",
-      "publishedAt": "2026-07-11T21:08:09.000Z",
-      "topic": "market",
-      "feedId": "bev-general",
-      "feedName": "Getränkeindustrie",
-      "feedKind": "search",
-      "basePriority": 1,
-      "dachSignal": false,
-      "operatorSignal": false,
-      "regulationSignal": false,
-      "launchSignal": false,
-      "financeLike": false,
-      "ageHours": 161,
+      "ageHours": 162,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
