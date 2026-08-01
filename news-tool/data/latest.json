@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T17:11:18.843Z",
+  "generatedAt": "2026-08-01T21:07:11.752Z",
   "totals": {
     "items": 49,
     "sources": 8,
@@ -29,7 +29,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 33,
+        "ageHours": 37,
         "score": 52,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -51,7 +51,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 6,
+        "ageHours": 10,
         "score": 50,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -73,7 +73,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 20,
+        "ageHours": 24,
         "score": 45,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -95,7 +95,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 14,
+        "ageHours": 18,
         "score": 44,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -117,7 +117,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 134,
+        "ageHours": 138,
         "score": 40,
         "bucket": "watch",
         "readingClass": "beobachten"
@@ -141,15 +141,15 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 42,
+        "ageHours": 46,
         "score": 39,
         "bucket": "read",
         "readingClass": "lesen"
       },
       {
-        "id": "f3cbb92c0403",
-        "title": "Alkoholfreies Bier allein kann Brauereien nicht retten - schwaebische.de",
-        "summary": "Alkoholfreies Bier allein kann Brauereien nicht retten schwaebische.de",
+        "id": "07168eab06b6",
+        "title": "Alkoholfreies Bier allein kann Brauereien nicht retten - Schwäbische.de",
+        "summary": "Alkoholfreies Bier allein kann Brauereien nicht retten Schwäbische.de",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNM3BxczByN2FjNXZaYTYwa0IyZHg1QU04SDN4M3FabW43YTZkRXcxRWo2czRzZ3hIdW16aXpqUU5FX1FWT1Z2QlJ4eEhDN2xvdUVoMGRYMDBfNXRpV2FzZkZ3SWlNTVIzc253Snc0S1hya1k2QmNHQllUODRLdmg2cGRyQ3dvMnJsUEtTdWJmWlhnOTJqTEZwVWE2WWlGUUdpNW84?oc=5",
         "domain": "news.google.com",
         "publishedAt": "2026-07-31T10:08:00.000Z",
@@ -163,7 +163,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 31,
+        "ageHours": 35,
         "score": 38,
         "bucket": "read",
         "readingClass": "lesen"
@@ -185,7 +185,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 34,
+        "ageHours": 38,
         "score": 38,
         "bucket": "read",
         "readingClass": "lesen"
@@ -207,7 +207,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 34,
+        "ageHours": 38,
         "score": 38,
         "bucket": "read",
         "readingClass": "lesen"
@@ -229,7 +229,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 35,
+        "ageHours": 39,
         "score": 38,
         "bucket": "read",
         "readingClass": "lesen"
@@ -251,7 +251,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 38,
+        "ageHours": 41,
         "score": 38,
         "bucket": "read",
         "readingClass": "lesen"
@@ -273,7 +273,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 38,
+        "ageHours": 42,
         "score": 38,
         "bucket": "read",
         "readingClass": "lesen"
@@ -295,7 +295,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 34,
+        "ageHours": 38,
         "score": 37,
         "bucket": "read",
         "readingClass": "lesen"
@@ -317,7 +317,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 36,
+        "ageHours": 40,
         "score": 37,
         "bucket": "read",
         "readingClass": "lesen"
@@ -339,7 +339,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 53,
+        "ageHours": 57,
         "score": 33,
         "bucket": "read",
         "readingClass": "lesen"
@@ -361,7 +361,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 53,
+        "ageHours": 57,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -383,7 +383,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 62,
+        "ageHours": 66,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -405,7 +405,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 62,
+        "ageHours": 66,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -427,29 +427,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 66,
-        "score": 32,
-        "bucket": "read",
-        "readingClass": "lesen"
-      },
-      {
-        "id": "a3f47423f521",
-        "title": "Bei der Paderborner Brauerei könnte es im November Kündigungen geben - Neue Westfälische",
-        "summary": "Bei der Paderborner Brauerei könnte es im November Kündigungen geben Neue Westfälische",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZEFYS2tPaUhQT2RTdEJtMjZKRjNYTHN6bWlPcGpobW14Q2NxM1lnUjdWb1lHLW1zV3ROd0VIOWxJV3JXVDZUakxrWUtuMmRSa0l2U1QwZ1BxRllydVZTbi14V3NmVzZsYl92QjMtVjE4NnhjMGd3a1VLclFGUUtYVWR3dEtGdU9NVng3Y08wNTJUbkZ1UjRGQ0QwVUVlUENBb0liYkNvS0dwclVFOTVWVUNUZTJpMnpqXzE3Rm9iX1Y0bUllRWpmTWlJMk9tNnc?oc=5",
-        "domain": "news.google.com",
-        "publishedAt": "2026-07-29T17:00:00.000Z",
-        "topic": "alcohol",
-        "feedId": "bev-alcohol",
-        "feedName": "Bier / Wein / Spirituosen",
-        "feedKind": "search",
-        "basePriority": 1,
-        "dachSignal": false,
-        "operatorSignal": false,
-        "regulationSignal": false,
-        "launchSignal": false,
-        "financeLike": false,
-        "ageHours": 72,
+        "ageHours": 70,
         "score": 32,
         "bucket": "read",
         "readingClass": "lesen"
@@ -471,7 +449,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 110,
+        "ageHours": 114,
         "score": 29,
         "bucket": "read",
         "readingClass": "lesen"
@@ -493,7 +471,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 74,
+        "ageHours": 78,
         "score": 28,
         "bucket": "read",
         "readingClass": "lesen"
@@ -515,7 +493,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 108,
+        "ageHours": 112,
         "score": 28,
         "bucket": "read",
         "readingClass": "lesen"
@@ -537,7 +515,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 124,
+        "ageHours": 128,
         "score": 28,
         "bucket": "read",
         "readingClass": "lesen"
@@ -559,7 +537,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 129,
+        "ageHours": 133,
         "score": 28,
         "bucket": "read",
         "readingClass": "lesen"
@@ -581,29 +559,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 131,
-        "score": 28,
-        "bucket": "read",
-        "readingClass": "lesen"
-      },
-      {
-        "id": "843c94abae80",
-        "title": "SON|Sonoco Products Co|Kurs:60.550|Änderung %:+1.870 - TradingKey",
-        "summary": "SON|Sonoco Products Co|Kurs:60.550|Änderung %:+1.870 TradingKey",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE16VTRkbGVKX2VNVHcyV1RiVnFmVExMOWpJSUlnSTEtcFE5LXBiZXlOV0kweHR4Ny1XX0tIdEdZWFRlWThnQ0pBVHQ4by1nQms4LW9PY2FTcUNHTjhIQmUteU8yMU40ZmM?oc=5",
-        "domain": "news.google.com",
-        "publishedAt": "2026-07-26T15:19:17.000Z",
-        "topic": "packaging",
-        "feedId": "bev-packaging",
-        "feedName": "Verpackung",
-        "feedKind": "search",
-        "basePriority": 1.1,
-        "dachSignal": false,
-        "operatorSignal": false,
-        "regulationSignal": false,
-        "launchSignal": false,
-        "financeLike": false,
-        "ageHours": 146,
+        "ageHours": 135,
         "score": 28,
         "bucket": "read",
         "readingClass": "lesen"
@@ -625,7 +581,7 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 126,
+        "ageHours": 129,
         "score": 27,
         "bucket": "read",
         "readingClass": "lesen"
@@ -647,8 +603,52 @@
         "regulationSignal": false,
         "launchSignal": false,
         "financeLike": false,
-        "ageHours": 154,
+        "ageHours": 158,
         "score": 27,
+        "bucket": "read",
+        "readingClass": "lesen"
+      },
+      {
+        "id": "bcd4334b2420",
+        "title": "Top 20 Unternehmen im globalen Markt für starre Kunststoffverpackungen - Spherical Insights",
+        "summary": "Top 20 Unternehmen im globalen Markt für starre Kunststoffverpackungen Spherical Insights",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQTzZRRnYyMW5Mb1RjMklKaWZySnFwM2xpcUNHeEY5cEdoUloyaFJVcXZDd285YjZzTU1GTnA4a2hKU3JCY0JXWEJfNDNKTk9NQkJYNmxwWE10Qm5ra0JYWE05UDFxYlhyQWFBeEZrTThQOGNNM2JHR1BnUDQxeFd4cG1BNTlGMVJUMjdhQXg2clVzX05NdDFzNExDUl9OR3FMeXNPci1JZ2JEbVBqTHBicm56YThPSUFuSzkyREx5bWFxbDd4bE9YMlZOSDRfdGFLZVR5cGl3cFl0YjZvN0xlWkpUeWY?oc=5",
+        "domain": "news.google.com",
+        "publishedAt": "2026-07-26T04:49:51.000Z",
+        "topic": "market",
+        "feedId": "bev-packaging",
+        "feedName": "Verpackung",
+        "feedKind": "search",
+        "basePriority": 1.1,
+        "dachSignal": false,
+        "operatorSignal": false,
+        "regulationSignal": false,
+        "launchSignal": false,
+        "financeLike": false,
+        "ageHours": 160,
+        "score": 27,
+        "bucket": "read",
+        "readingClass": "lesen"
+      },
+      {
+        "id": "a3f47423f521",
+        "title": "Bei der Paderborner Brauerei könnte es im November Kündigungen geben - Neue Westfälische",
+        "summary": "Bei der Paderborner Brauerei könnte es im November Kündigungen geben Neue Westfälische",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZEFYS2tPaUhQT2RTdEJtMjZKRjNYTHN6bWlPcGpobW14Q2NxM1lnUjdWb1lHLW1zV3ROd0VIOWxJV3JXVDZUakxrWUtuMmRSa0l2U1QwZ1BxRllydVZTbi14V3NmVzZsYl92QjMtVjE4NnhjMGd3a1VLclFGUUtYVWR3dEtGdU9NVng3Y08wNTJUbkZ1UjRGQ0QwVUVlUENBb0liYkNvS0dwclVFOTVWVUNUZTJpMnpqXzE3Rm9iX1Y0bUllRWpmTWlJMk9tNnc?oc=5",
+        "domain": "news.google.com",
+        "publishedAt": "2026-07-29T17:00:00.000Z",
+        "topic": "alcohol",
+        "feedId": "bev-alcohol",
+        "feedName": "Bier / Wein / Spirituosen",
+        "feedKind": "search",
+        "basePriority": 1,
+        "dachSignal": false,
+        "operatorSignal": false,
+        "regulationSignal": false,
+        "launchSignal": false,
+        "financeLike": false,
+        "ageHours": 76,
+        "score": 26,
         "bucket": "read",
         "readingClass": "lesen"
       }
@@ -657,7 +657,7 @@
   "radar": {
     "dominantTopic": {
       "id": "alcohol",
-      "count": 20
+      "count": 21
     },
     "dachSignals": 1,
     "regulationSignals": 0,
@@ -677,22 +677,22 @@
     {
       "feedName": "Bier / Wein / Spirituosen",
       "count": 21,
-      "avgScore": 35
-    },
-    {
-      "feedName": "Getränkeindustrie",
-      "count": 16,
-      "avgScore": 28
+      "avgScore": 34
     },
     {
       "feedName": "Verpackung",
-      "count": 6,
+      "count": 5,
       "avgScore": 28
     },
     {
       "feedName": "Alkoholfrei / Functional",
       "count": 2,
       "avgScore": 28
+    },
+    {
+      "feedName": "Getränkeindustrie",
+      "count": 17,
+      "avgScore": 27
     }
   ],
   "items": [
@@ -713,7 +713,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 33,
+      "ageHours": 37,
       "score": 52,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -735,7 +735,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 6,
+      "ageHours": 10,
       "score": 50,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -757,7 +757,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 20,
+      "ageHours": 24,
       "score": 45,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -779,7 +779,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 14,
+      "ageHours": 18,
       "score": 44,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -801,7 +801,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 134,
+      "ageHours": 138,
       "score": 40,
       "bucket": "watch",
       "readingClass": "beobachten"
@@ -823,15 +823,15 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 42,
+      "ageHours": 46,
       "score": 39,
       "bucket": "read",
       "readingClass": "lesen"
     },
     {
-      "id": "f3cbb92c0403",
-      "title": "Alkoholfreies Bier allein kann Brauereien nicht retten - schwaebische.de",
-      "summary": "Alkoholfreies Bier allein kann Brauereien nicht retten schwaebische.de",
+      "id": "07168eab06b6",
+      "title": "Alkoholfreies Bier allein kann Brauereien nicht retten - Schwäbische.de",
+      "summary": "Alkoholfreies Bier allein kann Brauereien nicht retten Schwäbische.de",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNM3BxczByN2FjNXZaYTYwa0IyZHg1QU04SDN4M3FabW43YTZkRXcxRWo2czRzZ3hIdW16aXpqUU5FX1FWT1Z2QlJ4eEhDN2xvdUVoMGRYMDBfNXRpV2FzZkZ3SWlNTVIzc253Snc0S1hya1k2QmNHQllUODRLdmg2cGRyQ3dvMnJsUEtTdWJmWlhnOTJqTEZwVWE2WWlGUUdpNW84?oc=5",
       "domain": "news.google.com",
       "publishedAt": "2026-07-31T10:08:00.000Z",
@@ -845,7 +845,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 31,
+      "ageHours": 35,
       "score": 38,
       "bucket": "read",
       "readingClass": "lesen"
@@ -867,7 +867,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 34,
+      "ageHours": 38,
       "score": 38,
       "bucket": "read",
       "readingClass": "lesen"
@@ -889,7 +889,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 34,
+      "ageHours": 38,
       "score": 38,
       "bucket": "read",
       "readingClass": "lesen"
@@ -911,7 +911,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 35,
+      "ageHours": 39,
       "score": 38,
       "bucket": "read",
       "readingClass": "lesen"
@@ -933,7 +933,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 38,
+      "ageHours": 41,
       "score": 38,
       "bucket": "read",
       "readingClass": "lesen"
@@ -955,7 +955,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 38,
+      "ageHours": 42,
       "score": 38,
       "bucket": "read",
       "readingClass": "lesen"
@@ -977,7 +977,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 34,
+      "ageHours": 38,
       "score": 37,
       "bucket": "read",
       "readingClass": "lesen"
@@ -999,7 +999,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 36,
+      "ageHours": 40,
       "score": 37,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1021,7 +1021,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 53,
+      "ageHours": 57,
       "score": 33,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1043,7 +1043,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 53,
+      "ageHours": 57,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1065,7 +1065,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 62,
+      "ageHours": 66,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1087,7 +1087,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 62,
+      "ageHours": 66,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1109,29 +1109,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 66,
-      "score": 32,
-      "bucket": "read",
-      "readingClass": "lesen"
-    },
-    {
-      "id": "a3f47423f521",
-      "title": "Bei der Paderborner Brauerei könnte es im November Kündigungen geben - Neue Westfälische",
-      "summary": "Bei der Paderborner Brauerei könnte es im November Kündigungen geben Neue Westfälische",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZEFYS2tPaUhQT2RTdEJtMjZKRjNYTHN6bWlPcGpobW14Q2NxM1lnUjdWb1lHLW1zV3ROd0VIOWxJV3JXVDZUakxrWUtuMmRSa0l2U1QwZ1BxRllydVZTbi14V3NmVzZsYl92QjMtVjE4NnhjMGd3a1VLclFGUUtYVWR3dEtGdU9NVng3Y08wNTJUbkZ1UjRGQ0QwVUVlUENBb0liYkNvS0dwclVFOTVWVUNUZTJpMnpqXzE3Rm9iX1Y0bUllRWpmTWlJMk9tNnc?oc=5",
-      "domain": "news.google.com",
-      "publishedAt": "2026-07-29T17:00:00.000Z",
-      "topic": "alcohol",
-      "feedId": "bev-alcohol",
-      "feedName": "Bier / Wein / Spirituosen",
-      "feedKind": "search",
-      "basePriority": 1,
-      "dachSignal": false,
-      "operatorSignal": false,
-      "regulationSignal": false,
-      "launchSignal": false,
-      "financeLike": false,
-      "ageHours": 72,
+      "ageHours": 70,
       "score": 32,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1153,7 +1131,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 110,
+      "ageHours": 114,
       "score": 29,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1175,7 +1153,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 74,
+      "ageHours": 78,
       "score": 28,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1197,7 +1175,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 108,
+      "ageHours": 112,
       "score": 28,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1219,7 +1197,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 124,
+      "ageHours": 128,
       "score": 28,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1241,7 +1219,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 129,
+      "ageHours": 133,
       "score": 28,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1263,29 +1241,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 131,
-      "score": 28,
-      "bucket": "read",
-      "readingClass": "lesen"
-    },
-    {
-      "id": "843c94abae80",
-      "title": "SON|Sonoco Products Co|Kurs:60.550|Änderung %:+1.870 - TradingKey",
-      "summary": "SON|Sonoco Products Co|Kurs:60.550|Änderung %:+1.870 TradingKey",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE16VTRkbGVKX2VNVHcyV1RiVnFmVExMOWpJSUlnSTEtcFE5LXBiZXlOV0kweHR4Ny1XX0tIdEdZWFRlWThnQ0pBVHQ4by1nQms4LW9PY2FTcUNHTjhIQmUteU8yMU40ZmM?oc=5",
-      "domain": "news.google.com",
-      "publishedAt": "2026-07-26T15:19:17.000Z",
-      "topic": "packaging",
-      "feedId": "bev-packaging",
-      "feedName": "Verpackung",
-      "feedKind": "search",
-      "basePriority": 1.1,
-      "dachSignal": false,
-      "operatorSignal": false,
-      "regulationSignal": false,
-      "launchSignal": false,
-      "financeLike": false,
-      "ageHours": 146,
+      "ageHours": 135,
       "score": 28,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1307,7 +1263,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 126,
+      "ageHours": 129,
       "score": 27,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1329,7 +1285,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 154,
+      "ageHours": 158,
       "score": 27,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1351,8 +1307,30 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 156,
+      "ageHours": 160,
       "score": 27,
+      "bucket": "read",
+      "readingClass": "lesen"
+    },
+    {
+      "id": "a3f47423f521",
+      "title": "Bei der Paderborner Brauerei könnte es im November Kündigungen geben - Neue Westfälische",
+      "summary": "Bei der Paderborner Brauerei könnte es im November Kündigungen geben Neue Westfälische",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZEFYS2tPaUhQT2RTdEJtMjZKRjNYTHN6bWlPcGpobW14Q2NxM1lnUjdWb1lHLW1zV3ROd0VIOWxJV3JXVDZUakxrWUtuMmRSa0l2U1QwZ1BxRllydVZTbi14V3NmVzZsYl92QjMtVjE4NnhjMGd3a1VLclFGUUtYVWR3dEtGdU9NVng3Y08wNTJUbkZ1UjRGQ0QwVUVlUENBb0liYkNvS0dwclVFOTVWVUNUZTJpMnpqXzE3Rm9iX1Y0bUllRWpmTWlJMk9tNnc?oc=5",
+      "domain": "news.google.com",
+      "publishedAt": "2026-07-29T17:00:00.000Z",
+      "topic": "alcohol",
+      "feedId": "bev-alcohol",
+      "feedName": "Bier / Wein / Spirituosen",
+      "feedKind": "search",
+      "basePriority": 1,
+      "dachSignal": false,
+      "operatorSignal": false,
+      "regulationSignal": false,
+      "launchSignal": false,
+      "financeLike": false,
+      "ageHours": 76,
+      "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
     },
@@ -1373,7 +1351,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 76,
+      "ageHours": 80,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1395,7 +1373,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 82,
+      "ageHours": 86,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1417,7 +1395,29 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 86,
+      "ageHours": 90,
+      "score": 26,
+      "bucket": "read",
+      "readingClass": "lesen"
+    },
+    {
+      "id": "6d713c6dd919",
+      "title": "Globaler Bierausstoß sank 2025 um 0,7 %, während Brauereien auf höhere Preise setzten - Vinetur",
+      "summary": "Globaler Bierausstoß sank 2025 um 0,7 %, während Brauereien auf höhere Preise setzten Vinetur",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRExlUVdNN24wd0FXUVFQYngyeUdUWlhDQ1ZwTG1Ma2pOS2lESkU3dXJQaGJIQkJNVzY5TDMwTVpYNGphMDN3R3lsNDFNanNNTFhDdV9NQXgtOHJQUVZZWFlFX3UzRWNyVjh3US1wSUIwcmw1TmU2ak5aUG5DVER6bDY3RFhBRFVZLVpETHVfR2l0cnV5aFY1NlNwenBuUzNEeFEw0gGoAUFVX3lxTE9veU1IX085N3RwaXdqTC12ckpyY1BSUkc3RlpJVnpldHRKWC16UVg0T3hFSjV0UUJ3MVFUa0FnMlkteEE1N3RUMC04WXhWUnlCczhVQzRKV1RyVmdUU1JndjNXc0k3VlhrcnM5WllNbEEzYWNQdld6V2RZSlByM2taTkRFaHNzYmNLRDBkTDZreHJ0bmhfSUUtLWFrbm43X01sVGUzNVdkNw?oc=5",
+      "domain": "news.google.com",
+      "publishedAt": "2026-07-28T22:34:00.000Z",
+      "topic": "alcohol",
+      "feedId": "bev-alcohol",
+      "feedName": "Bier / Wein / Spirituosen",
+      "feedKind": "search",
+      "basePriority": 1,
+      "dachSignal": false,
+      "operatorSignal": false,
+      "regulationSignal": false,
+      "launchSignal": false,
+      "financeLike": false,
+      "ageHours": 95,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1439,15 +1439,15 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 99,
+      "ageHours": 103,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
     },
     {
-      "id": "05ec572eeca4",
-      "title": "Bayerns beste Spirits 2026: Lantenhammer räumt ab – und ein Schickeria-Likör sorgt für Staunen - augsburger-allgemeine.de",
-      "summary": "Bayerns beste Spirits 2026: Lantenhammer räumt ab – und ein Schickeria-Likör sorgt für Staunen augsburger-allgemeine.de",
+      "id": "6c77d5c35dc7",
+      "title": "Bayerns beste Spirits 2026: Lantenhammer räumt ab – und ein Schickeria-Likör sorgt für Staunen - Augsburger Allgemeine",
+      "summary": "Bayerns beste Spirits 2026: Lantenhammer räumt ab – und ein Schickeria-Likör sorgt für Staunen Augsburger Allgemeine",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSXo0bUl2cFZDb00zWUVDRy01bmQ5SF9lOC1VRXVGalJwemFPRTYwRklRWGpSSHd6aTdBQVFacEEzN0JTQkV5V2NfVWlCc3dCX0w0WG43SUF3RldOX3hvZkNwWHU5ZUo3c25xRjlaSmFvaFN5eTVmQld2RndyRWt6OHhwak9wc0JWX01UWmN1V000SVRiQnVBS2tpT2hQY0JWR1Y2U2VNMS00SUhMYnl6S1RCQ2dCNERxbmlNakRGUENKWUJMTWExQnNtUG5UYnVjVDNNbUx1WWc?oc=5",
       "domain": "news.google.com",
       "publishedAt": "2026-07-28T05:40:00.000Z",
@@ -1461,7 +1461,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 108,
+      "ageHours": 111,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1483,7 +1483,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 108,
+      "ageHours": 112,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1505,7 +1505,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 109,
+      "ageHours": 113,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1527,7 +1527,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 113,
+      "ageHours": 117,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1549,7 +1549,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 116,
+      "ageHours": 120,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1571,7 +1571,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 116,
+      "ageHours": 120,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1593,7 +1593,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 121,
+      "ageHours": 125,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1615,7 +1615,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 121,
+      "ageHours": 125,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1637,29 +1637,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 130,
-      "score": 26,
-      "bucket": "read",
-      "readingClass": "lesen"
-    },
-    {
-      "id": "0b57c91e8ef4",
-      "title": "Interview: Wie Rye River mit deutscher Hilfe im irischen Biermarkt wächst - Lebensmittel Zeitung",
-      "summary": "Interview: Wie Rye River mit deutscher Hilfe im irischen Biermarkt wächst Lebensmittel Zeitung",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPYUJSR0tkSVBRQ3hYZ0VFU1c4Y1c5R0tMTDVhUzJvVmxqVWVYSHVCdVM3X2VMeDlBbjdWb18ydDUwNWkwREdYUXBKVThGek1zVHdMbXNObWNmZVkxU2xZd2RSVFBBMWFkcG5xZXFKZy1mMGh5cWRIeTlac3c0QW9TRTVmLWpYdHYtanBCcnM2LVdvQnpmcmJMMDBfck0xVGJNdE43bXJia0VBcWZRV0szVG9BUkEtQWNLMFN0VEllS2JzeXkyOXctd0F1a1pEUFZZcW1QNlRkTE5PME9YRE5MTDNHQkQ?oc=5",
-      "domain": "news.google.com",
-      "publishedAt": "2026-07-27T07:00:00.000Z",
-      "topic": "market",
-      "feedId": "bev-alcohol",
-      "feedName": "Bier / Wein / Spirituosen",
-      "feedKind": "search",
-      "basePriority": 1,
-      "dachSignal": false,
-      "operatorSignal": false,
-      "regulationSignal": false,
-      "launchSignal": false,
-      "financeLike": false,
-      "ageHours": 130,
+      "ageHours": 134,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1681,7 +1659,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 137,
+      "ageHours": 141,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1703,7 +1681,29 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 145,
+      "ageHours": 149,
+      "score": 26,
+      "bucket": "read",
+      "readingClass": "lesen"
+    },
+    {
+      "id": "843c94abae80",
+      "title": "SON|Sonoco Products Co|Kurs:60.550|Änderung %:+1.870 - TradingKey",
+      "summary": "SON|Sonoco Products Co|Kurs:60.550|Änderung %:+1.870 TradingKey",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE16VTRkbGVKX2VNVHcyV1RiVnFmVExMOWpJSUlnSTEtcFE5LXBiZXlOV0kweHR4Ny1XX0tIdEdZWFRlWThnQ0pBVHQ4by1nQms4LW9PY2FTcUNHTjhIQmUteU8yMU40ZmM?oc=5",
+      "domain": "news.google.com",
+      "publishedAt": "2026-07-26T15:19:17.000Z",
+      "topic": "market",
+      "feedId": "bev-general",
+      "feedName": "Getränkeindustrie",
+      "feedKind": "search",
+      "basePriority": 1,
+      "dachSignal": false,
+      "operatorSignal": false,
+      "regulationSignal": false,
+      "launchSignal": false,
+      "financeLike": false,
+      "ageHours": 150,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1725,7 +1725,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 154,
+      "ageHours": 158,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1747,7 +1747,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 154,
+      "ageHours": 158,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
@@ -1769,7 +1769,7 @@
       "regulationSignal": false,
       "launchSignal": false,
       "financeLike": false,
-      "ageHours": 162,
+      "ageHours": 166,
       "score": 26,
       "bucket": "read",
       "readingClass": "lesen"
